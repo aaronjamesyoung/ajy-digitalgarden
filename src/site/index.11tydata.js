@@ -107,10 +107,14 @@ module.exports = {
         },
         noteTitle: (data) => {
             const currentnote = data.collections.gardenEntry && data.collections.gardenEntry[0];
+            let ret = '';
             if (currentnote && currentnote.data) {
-                return currentnote.data.page.fileSlug;
+                ret = currentnote.data.page.fileSlug;
             }
-            return "";
+            if(ret === 'notes') {
+                ret = 'JavaScript Development | Trail Running | Fastpacking'
+            }
+            return ret;
         }
     }
 }
