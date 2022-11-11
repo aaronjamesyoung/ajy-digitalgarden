@@ -1,40 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgShowInlineTitle":false}
 ---
 
 
-Coming Soon!
+## Hello!
 
-# First Level Headline
+I'm a trail runner and JavaScript developer located in Bend, Oregon.
 
-## Second Level Headline
+This is my website. It's a sort of digital garden - a spot where I share my thinking and how it grows and evolves over time.
 
-### Third Level Headline
+Here's some stuff you can do:
 
-#### Fourth Level Headline
+* Follow me on [Strava](https://www.strava.com/athletes/aaronjamesyoung) to see my running adventures
+* Get in touch about working on a web development project. I work with Vue, Node, and WordPress. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
+* Find out more [[About Me\|About Me]]
+* Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
 
-##### Fifth Level Headline
+## Posts
 
-###### Sixth Level Headline
+Todo: Add WordPress posts here
 
-For an unordered list use a dash
+## Notes
 
-- like
-- this
-    - nested
-    - list
+### Recently created notes
 
-Or use one asterix
+| File                          | Created            |
+| ----------------------------- | ------------------ |
+| [[Contact Me\|Contact Me]] | 11.11.2022 - 13:53 |
+| [[Résumé\|Résumé]]         | 11.11.2022 - 13:50 |
+| [[About Me\|About Me]]     | 11.11.2022 - 13:49 |
+| [[index\|index]]           | 11.11.2022 - 11:43 |
 
-* like
-* this
 
-For an ordered list use whatever number you want and add a dot:
+### Recently updated notes
 
-1. like
-1. this
-
-This is an ordinary [Link](http://typemill.net). Links can also be [relative](/info). You can also add a [title](http://typemill.net "typemill"). You can even add [ids or classes](http://typemill.net). Or you can use a shortcut like http://typemill.net.
-
-We'll see if this helps.
+| File                          | Last modified      |
+| ----------------------------- | ------------------ |
+| [[index\|index]]           | 11.11.2022 - 13:59 |
+| [[Contact Me\|Contact Me]] | 11.11.2022 - 13:57 |
+| [[Résumé\|Résumé]]         | 11.11.2022 - 13:57 |
+| [[About Me\|About Me]]     | 11.11.2022 - 13:57 |
 
