@@ -19,6 +19,7 @@ body.theme-dark {
   &.markdown-preview-view {
     padding: 0 !important;
     margin: 0 auto;
+    font-size: 16px;
   }
 
   // Sidebar (backlinks) on bottom
@@ -32,6 +33,8 @@ body.theme-dark {
     min-width: none;
     display: block;
     max-width: none;
+
+    margin-bottom: 20px;
   }
   .sidebar-container {
     // Overrides
@@ -46,7 +49,7 @@ body.theme-dark {
     padding: 0;
 
     border-top: 1px solid rgba(255,255,255,0.2);
-    paddig-top: 10px;
+    padding-top: 6px;
   }
 
   // Navbar
@@ -61,5 +64,13 @@ body.theme-dark {
   .search-button {
     background-color: transparent;
     margin: 10px 0;
+  }
+
+  // Content
+  .content {
+    max-width: none;
+    font-size: 16px;
+    line-height: inherit;
+    margin-top: 0;
   }
 }
