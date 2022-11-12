@@ -12,8 +12,8 @@ To do: Add notes about past and upcoming projects. Write more about the "why", b
 
 ### MYOG
 
-* [[queue/MYOG Quilt\|MYOG Quilt]]
-* [[queue/MYOG Fastpack\|MYOG Fastpack]]
+* [[MYOG Quilt\|MYOG Quilt]]
+* [[MYOG Fastpack\|MYOG Fastpack]]
 * Trail running backpack
 * Tarp
 * Net tent
@@ -34,23 +34,18 @@ To do: Add notes about past and upcoming projects. Write more about the "why", b
 * snow gaiters
 * insulated booties
 * insulated hood
-* [[queue/MYOG Wind Pants\|MYOG Wind Pants]]
-* [[queue/MYOG Penta Tarp\|MYOG Penta Tarp]]
+* [[MYOG Wind Pants\|MYOG Wind Pants]]
+* [[MYOG Penta Tarp\|MYOG Penta Tarp]]
 * Wind shell
 * Rain shell
 
 
 
-----
+## Notes
 
-## Footer
+| Incoming Links                                                                                                                                                                                                                                                                                                                           | Outgoing Links                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Buttes.md\\|Buttes]]</li><li>[[MYOG Fastpack.md\\|MYOG Fastpack]]</li><li>[[MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[MYOG Quilt.md\\|MYOG Quilt]]</li><li>[[MYOG Wind Pants.md\\|MYOG Wind Pants]]</li><li>[[Upstairs Work Area.md\\|Upstairs Work Area]]</li><li>[[Website thoughts.md\\|Website thoughts]]</li></ul> | <ul><li>[[MYOG Fastpack.md\\|MYOG Fastpack]]</li><li>[[MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[MYOG Quilt.md\\|MYOG Quilt]]</li><li>[[MYOG Wind Pants.md\\|MYOG Wind Pants]]</li></ul> |
+
 
 #moc 
-
-### Incoming Links
-- [[Buttes\|Buttes]]
-
-
-| Incoming Links                                                                                                                                                                                                                                                                                                                                                                                                                                       | Outgoing Links                                                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[queue/Date ideas.md\\|Date ideas]]</li><li>[[queue/Gravel.md\\|Gravel]]</li><li>[[queue/MYOG Fastpack.md\\|MYOG Fastpack]]</li><li>[[queue/MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[queue/MYOG Quilt.md\\|MYOG Quilt]]</li><li>[[queue/MYOG Wind Pants.md\\|MYOG Wind Pants]]</li><li>[[queue/Upstairs Work Area.md\\|Upstairs Work Area]]</li><li>[[MYOG Documents.md\\|MYOG Documents]]</li><li>[[Buttes.md\\|Buttes]]</li></ul> | <ul><li>[[queue/MYOG Quilt.md\\|MYOG Quilt]]</li><li>[[queue/MYOG Fastpack.md\\|MYOG Fastpack]]</li><li>[[queue/MYOG Wind Pants.md\\|MYOG Wind Pants]]</li><li>[[queue/MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li></ul> |
