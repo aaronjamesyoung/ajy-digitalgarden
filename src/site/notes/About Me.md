@@ -9,6 +9,9 @@ I then attended Willamette University in Salem, continuing to compete in long-di
 
 Over time I’ve built my web skills; first as a hobby, then transitioning to freelance jobs. In 2011 I became Web Designer / Developer at Opt-e-Web, handling all website design and development work, planning and organizing projects, and communicating with clients. In 2014 I left Opt-e-Web and joined Pro Q as a web developer.
 
-Want to work with me? See my [resume](https://ajy.co/resume/) and get in touch.
+See the stuff that Aaron [[Uses\|Uses]]
 
-Want to get to know me better? Go ahead and [Contact Me](https://ajy.co/contact). I’d love to hear from you.
+Want to work with me? See my [[Résumé\|Résumé]] and get in touch.
+
+Want to get to know me better? Go ahead and [[Contact Me\|Contact Me]]. I’d love to hear from you.
+
