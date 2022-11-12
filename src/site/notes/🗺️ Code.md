@@ -7,9 +7,9 @@ Here are my code notes and snippets. I've typically been reliant on the internet
 
 ## 📔 Notes
 
-| Incoming Links                                                                                                                                                                                                                                                                                                          | Outgoing Links |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| <ul><li>[[Git hooks for WordPress grunt sass.md\\|Git hooks for WordPress grunt sass]]</li><li>[[JavaScript elapsed time in function.md\\|JavaScript elapsed time in function]]</li><li>[[JavaScript promisify a callback.md\\|JavaScript promisify a callback]]</li><li>[[Vue App Setup.md\\|Vue App Setup]]</li></ul> | <ul></ul>      |
+| Incoming Links                                                                                                                                                                                                                                                                                                                                     | Outgoing Links |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| <ul><li>[[Git hooks for WordPress grunt sass.md\\|Git hooks for WordPress grunt sass]]</li><li>[[JavaScript elapsed time in function.md\\|JavaScript elapsed time in function]]</li><li>[[JavaScript promisify a callback.md\\|JavaScript promisify a callback]]</li><li>[[Uses.md\\|Uses]]</li><li>[[Vue App Setup.md\\|Vue App Setup]]</li></ul> | <ul></ul>      |
 
 
 ## 🗞 External Articles
