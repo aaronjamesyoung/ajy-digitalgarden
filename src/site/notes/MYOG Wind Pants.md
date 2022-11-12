@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Projects\|🗺️ Projects]]
+[[🗺️ Projects\|🗺️ Projects]] [[🗺️ Running\|🗺️ Running]] [[🗺️ Fastpacking\|🗺️ Fastpacking]]
 
 * Cut up jeans for pattern
 * Add just a little looseness throughout the leg, since I'll be wearing these over potentially multiple layers.
