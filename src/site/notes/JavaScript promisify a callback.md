@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺 Code\|🗺 Code]]
+[[🗺️ Code\|🗺️ Code]]
 
 If we have a callback-style function, we can wrap it like so, so we get a promise instead.
 
