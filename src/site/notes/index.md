@@ -41,6 +41,9 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                  | Last modified      | Content Score |
 | ------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[Fastpacking Gear\|Fastpacking Gear]]                                             | 11/12/2022 - 15:27 | 🥇            |
+| [[Running Gear\|Running Gear]]                                                     | 11/12/2022 - 14:52 | 🥇            |
+| [[Uses\|Uses]]                                                                     | 11/12/2022 - 14:24 | 🥇            |
 | [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] | 11/12/2022 - 11:01 | 🥇            |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]   | 11/12/2022 - 10:16 | 🥇            |
 | [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]]   | 11/12/2022 - 10:03 | 🥇            |
@@ -52,30 +55,30 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                            | Created            | Content Score |
 | ------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[MYOG Net Tent\|MYOG Net Tent]]                                             | 11/12/2022 - 15:46 | 🥉            |
+| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                               | 11/12/2022 - 15:44 | 🥉            |
+| [[MYOG Square Tarp\|MYOG Square Tarp]]                                       | 11/12/2022 - 15:42 | 🥉            |
+| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                         | 11/12/2022 - 15:39 | 🥉            |
+| [[First Aid Kit\|First Aid Kit]]                                             | 11/12/2022 - 15:35 | 🥈            |
+| [[MYOG Rain Shell\|MYOG Rain Shell]]                                         | 11/12/2022 - 15:33 | 🥉            |
+| [[MYOG Wind Shell\|MYOG Wind Shell]]                                         | 11/12/2022 - 15:31 | 🥉            |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] | 11/11/2022 - 13:42 | 🥈            |
 | [[JavaScript promisify a callback\|JavaScript promisify a callback]]         | 11/11/2022 - 13:42 | 🥈            |
 | [[Website thoughts\|Website thoughts]]                                       | 11/10/2022 - 16:47 | 🥉            |
-| [[Vue App Setup\|Vue App Setup]]                                             | 11/09/2022 - 21:19 | 🥈            |
-| [[Wallowas\|Wallowas]]                                                       | 11/09/2022 - 10:46 | 🥉            |
-| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]   | 11/07/2022 - 19:23 | 🥈            |
-| [[MYOG Wind Pants\|MYOG Wind Pants]]                                         | 11/04/2022 - 19:14 | 🥉            |
-| [[MYOG Quilt\|MYOG Quilt]]                                                   | 10/31/2022 - 15:09 | 🥈            |
-| [[Bend smoke days by year\|Bend smoke days by year]]                         | 10/29/2022 - 14:15 | 🥈            |
-| [[Upstairs Work Area\|Upstairs Work Area]]                                   | 10/27/2022 - 10:26 | 🥉            |
 
 
 #### Recently updated notes
 
-| File                                                                                      | Last Modified      | Content Score |
-| ----------------------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[MYOG Quilt\|MYOG Quilt]]                                                             | 11/12/2022 - 12:06 | 🥈            |
-| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]             | 11/12/2022 - 08:42 | 🥈            |
-| [[96 - Articles/Youtube - First Allegiance\|Youtube - First Allegiance]]               | 11/11/2022 - 21:56 | 🥉            |
-| [[Bend smoke days by year\|Bend smoke days by year]]                                   | 11/11/2022 - 21:26 | 🥈            |
-| [[96 - Articles/Confessing Our Sins\|Confessing Our Sins]]                             | 11/11/2022 - 21:25 | 🥉            |
-| [[2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]] | 11/11/2022 - 21:25 | 🥈            |
-| [[Vue App Setup\|Vue App Setup]]                                                       | 11/11/2022 - 21:25 | 🥈            |
-| [[JavaScript promisify a callback\|JavaScript promisify a callback]]                   | 11/11/2022 - 21:25 | 🥈            |
-| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]           | 11/11/2022 - 21:25 | 🥈            |
-| [[Backpacking Routes\|Backpacking Routes]]                                             | 11/11/2022 - 21:20 | 🥈            |
+| File                                                                          | Last Modified      | Content Score |
+| ----------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[MYOG Net Tent\|MYOG Net Tent]]                                           | 11/12/2022 - 15:48 | 🥉            |
+| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                             | 11/12/2022 - 15:46 | 🥉            |
+| [[MYOG Square Tarp\|MYOG Square Tarp]]                                     | 11/12/2022 - 15:44 | 🥉            |
+| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                       | 11/12/2022 - 15:42 | 🥉            |
+| [[First Aid Kit\|First Aid Kit]]                                           | 11/12/2022 - 15:39 | 🥈            |
+| [[MYOG Rain Shell\|MYOG Rain Shell]]                                       | 11/12/2022 - 15:35 | 🥉            |
+| [[MYOG Wind Pants\|MYOG Wind Pants]]                                       | 11/12/2022 - 15:33 | 🥉            |
+| [[MYOG Wind Shell\|MYOG Wind Shell]]                                       | 11/12/2022 - 15:33 | 🥉            |
+| [[MYOG Quilt\|MYOG Quilt]]                                                 | 11/12/2022 - 12:06 | 🥈            |
+| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] | 11/12/2022 - 08:42 | 🥈            |
 
