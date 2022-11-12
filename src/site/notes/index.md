@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgShowBacklinks":false,"dgShowInlineTitle":false}
 ---
 
 
@@ -16,6 +16,11 @@ Here's some stuff you can do:
 * Find out more [[About Me\|About Me]]
 * Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
 
+## Pages
+
+- [[🗺️ Projects\|🗺️ Projects]]
+
+
 ## Posts
 
 Todo: Add WordPress posts here
@@ -24,20 +29,24 @@ Todo: Add WordPress posts here
 
 ### Recently created notes
 
-| File                          | Created            |
-| ----------------------------- | ------------------ |
-| [[Contact Me\|Contact Me]] | 11.11.2022 - 13:53 |
-| [[Résumé\|Résumé]]         | 11.11.2022 - 13:50 |
-| [[About Me\|About Me]]     | 11.11.2022 - 13:49 |
-| [[index\|index]]           | 11.11.2022 - 11:43 |
+| File                              | Created            |
+| --------------------------------- | ------------------ |
+| [[Contact Me\|Contact Me]]     | 11/11/2022 - 13:53 |
+| [[Résumé\|Résumé]]             | 11/11/2022 - 13:50 |
+| [[About Me\|About Me]]         | 11/11/2022 - 13:49 |
+| [[index\|index]]               | 11/11/2022 - 11:43 |
+| [[🗺️ Projects\|🗺️ Projects]] | 10/28/2022 - 18:29 |
+| [[Buttes\|Buttes]]             | 04/28/2022 - 14:08 |
 
 
 ### Recently updated notes
 
-| File                          | Last modified      |
-| ----------------------------- | ------------------ |
-| [[index\|index]]           | 11.11.2022 - 13:59 |
-| [[Contact Me\|Contact Me]] | 11.11.2022 - 13:57 |
-| [[Résumé\|Résumé]]         | 11.11.2022 - 13:57 |
-| [[About Me\|About Me]]     | 11.11.2022 - 13:57 |
+| File                              | Last modified      |
+| --------------------------------- | ------------------ |
+| [[🗺️ Projects\|🗺️ Projects]] | 11/11/2022 - 16:02 |
+| [[Buttes\|Buttes]]             | 11/11/2022 - 15:49 |
+| [[index\|index]]               | 11/11/2022 - 15:43 |
+| [[Contact Me\|Contact Me]]     | 11/11/2022 - 13:57 |
+| [[Résumé\|Résumé]]             | 11/11/2022 - 13:57 |
+| [[About Me\|About Me]]         | 11/11/2022 - 13:57 |
 
