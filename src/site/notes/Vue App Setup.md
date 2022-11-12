@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺 Code\|🗺 Code]]
+[[🗺️ Code\|🗺️ Code]]
 
 ## Vue UI options
 
