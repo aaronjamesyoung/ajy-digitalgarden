@@ -3,7 +3,7 @@
 ---
 
 
-Here are various notes, articles, and resources I use when planning fastpacking trips or gear.
+Fastpacking is essentially overnight backpacking, but running. So I carry a lightweight pack with overnight gear, food, and water, and generally run the flats / downs, and hike the uphills. Here are various notes, articles, and resources I use when planning fastpacking trips or gear.
 
 ## ⛰ Trip Reports
 
