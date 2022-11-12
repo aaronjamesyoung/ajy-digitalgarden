@@ -18,7 +18,12 @@ Here's some stuff you can do:
 
 ## Pages
 
+- [[🗺 Code\|🗺 Code]]
+- [[🗺 Faith\|🗺 Faith]]
+- [[🗺️ Fastpacking\|🗺️ Fastpacking]]
+- [[🗺 News\|🗺 News]]
 - [[🗺️ Projects\|🗺️ Projects]]
+- [[🗺 Reflection\|🗺 Reflection]]
 
 
 ## Posts
@@ -29,24 +34,32 @@ Todo: Add WordPress posts here
 
 ### Recently created notes
 
-| File                              | Created            |
-| --------------------------------- | ------------------ |
-| [[Contact Me\|Contact Me]]     | 11/11/2022 - 13:53 |
-| [[Résumé\|Résumé]]             | 11/11/2022 - 13:50 |
-| [[About Me\|About Me]]         | 11/11/2022 - 13:49 |
-| [[index\|index]]               | 11/11/2022 - 11:43 |
-| [[🗺️ Projects\|🗺️ Projects]] | 10/28/2022 - 18:29 |
-| [[Buttes\|Buttes]]             | 04/28/2022 - 14:08 |
+| File                                                                            | Created            |
+| ------------------------------------------------------------------------------- | ------------------ |
+| [[🗺 Reflection\|🗺 Reflection]]                                             | 11/11/2022 - 20:49 |
+| [[🗺 Faith\|🗺 Faith]]                                                       | 11/11/2022 - 20:18 |
+| [[🗺 News\|🗺 News]]                                                         | 11/11/2022 - 20:04 |
+| [[🗺️ Fastpacking\|🗺️ Fastpacking]]                                         | 11/11/2022 - 19:47 |
+| [[Contact Me\|Contact Me]]                                                   | 11/11/2022 - 13:53 |
+| [[Résumé\|Résumé]]                                                           | 11/11/2022 - 13:50 |
+| [[About Me\|About Me]]                                                       | 11/11/2022 - 13:49 |
+| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] | 11/11/2022 - 13:42 |
+| [[JavaScript promisify a callback\|JavaScript promisify a callback]]         | 11/11/2022 - 13:42 |
+| [[index\|index]]                                                             | 11/11/2022 - 11:43 |
 
 
 ### Recently updated notes
 
-| File                              | Last modified      |
-| --------------------------------- | ------------------ |
-| [[🗺️ Projects\|🗺️ Projects]] | 11/11/2022 - 16:29 |
-| [[Buttes\|Buttes]]             | 11/11/2022 - 15:49 |
-| [[index\|index]]               | 11/11/2022 - 15:43 |
-| [[Contact Me\|Contact Me]]     | 11/11/2022 - 13:57 |
-| [[Résumé\|Résumé]]             | 11/11/2022 - 13:57 |
-| [[About Me\|About Me]]         | 11/11/2022 - 13:57 |
+| File                                                                        | Last modified      |
+| --------------------------------------------------------------------------- | ------------------ |
+| [[Backpacking Routes\|Backpacking Routes]]                               | 11/11/2022 - 21:20 |
+| [[🗺 Faith\|🗺 Faith]]                                                   | 11/11/2022 - 21:19 |
+| [[🗺 News\|🗺 News]]                                                     | 11/11/2022 - 21:19 |
+| [[🗺 Reflection\|🗺 Reflection]]                                         | 11/11/2022 - 21:19 |
+| [[🗺 Code\|🗺 Code]]                                                     | 11/11/2022 - 21:19 |
+| [[96 - Articles/Youtube - First Allegiance\|Youtube - First Allegiance]] | 11/11/2022 - 21:18 |
+| [[96 - Articles/Confessing Our Sins\|Confessing Our Sins]]               | 11/11/2022 - 21:15 |
+| [[Website thoughts\|Website thoughts]]                                   | 11/11/2022 - 21:11 |
+| [[Wallowas\|Wallowas]]                                                   | 11/11/2022 - 21:10 |
+| [[Vue App Setup\|Vue App Setup]]                                         | 11/11/2022 - 21:09 |
 
