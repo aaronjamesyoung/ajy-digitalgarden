@@ -18,7 +18,7 @@ Here's some stuff you can do:
 * Find out more [[About Me\|About Me]]
 * Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
 
-## Subject overview pages
+## Pages
 
 - [[🗺️ Code\|🗺️ Code]]
 - [[🗺️ Faith\|🗺️ Faith]]
@@ -26,7 +26,7 @@ Here's some stuff you can do:
 - [[🗺️ News\|🗺️ News]]
 - [[🗺️ Projects\|🗺️ Projects]]
 - [[🗺️ Reflection\|🗺️ Reflection]]
-- [[🗺 Running\|🗺 Running]]
+- [[🗺️ Running\|🗺️ Running]]
 
 
 ## Posts & Notes
@@ -37,17 +37,18 @@ I try to assign my notes a "content score" which indicates their level of comple
 * 🥈 - It may be a list of bullet points, but it has good information
 * 🥉 - Incomplete thoughts that are probably unintelligible to anyone besides myself
 
-## 🥇 Posts
+### 🥇 Posts
 
-| File                                                                                          | Last modified      | Content Score |
-| --------------------------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[2022-07-03 Heart of Darkness Loop Fastpack\|2022-07-03 Heart of Darkness Loop Fastpack]] | 11/12/2022 - 09:40 | 🥇            |
-| [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]           | 11/12/2022 - 08:47 | 🥇            |
+| File                                                                                  | Last modified      | Content Score |
+| ------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] | 11/12/2022 - 11:01 | 🥇            |
+| [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]   | 11/12/2022 - 10:16 | 🥇            |
+| [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]]   | 11/12/2022 - 10:03 | 🥇            |
 
 
-## 🥈 🥉 Notes
+### 🥈 🥉 Notes
 
-### Recently created notes
+#### Recently created notes
 
 | File                                                                            | Created            | Content Score |
 | ------------------------------------------------------------------------------- | ------------------ | ------------- |
@@ -63,7 +64,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Upstairs Work Area\|Upstairs Work Area]]                                   | 10/27/2022 - 10:26 | 🥉            |
 
 
-### Recently updated notes
+#### Recently updated notes
 
 | File                                                                                      | Last Modified      | Content Score |
 | ----------------------------------------------------------------------------------------- | ------------------ | ------------- |
