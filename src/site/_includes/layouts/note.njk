@@ -23,6 +23,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content cm-s-obsidian">
       {% if settings.dgShowInlineTitle === true %}
+        <a href="/" class="home-link">↰ Home</a>
         <h1>{{ page.fileSlug }}</h1>
       {% endif %}
       {{ content | link | highlight | safe}}

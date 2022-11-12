@@ -58,6 +58,7 @@ body.theme-dark {
     padding-left: 0; padding-right: 0;
     background-color: transparent;
     border-bottom: 1px solid rgba(255,255,255,0.2);
+    margin-bottom: 20px;
     h1 {
       margin: 0 15px !important;
     }
@@ -86,6 +87,7 @@ body.theme-dark {
   .search-button {
     background-color: transparent;
     margin: 10px 0;
+    border: 1px solid rgba(255,255,255,0.2);
   }
 
   // Content
@@ -94,6 +96,15 @@ body.theme-dark {
     font-size: 16px;
     line-height: inherit;
     margin-top: 0;
+  }
+  .home-link {
+    display: block;
+    float: left;
+    margin: 15px 20px 0 0;
+    font-weight: bold;
+    color: rgba(255,255,255,0.4);
+    font-size: 0.875rem;
+    text-transform: uppercase;
   }
 
   // Tables in content
