@@ -18,7 +18,7 @@ Here's some stuff you can do:
 * Find out more [[About Me\|About Me]]
 * Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
 
-## Pages
+## Subject overview pages
 
 - [[🗺️ Code\|🗺️ Code]]
 - [[🗺️ Faith\|🗺️ Faith]]
@@ -26,42 +26,55 @@ Here's some stuff you can do:
 - [[🗺️ News\|🗺️ News]]
 - [[🗺️ Projects\|🗺️ Projects]]
 - [[🗺️ Reflection\|🗺️ Reflection]]
+- [[🗺 Running\|🗺 Running]]
 
 
-## Posts
+## Posts & Notes
 
-Todo: Add WordPress posts here
+I try to assign my notes a "content score" which indicates their level of completeness:
 
-## Notes
+* 🥇 - Well-written, publishable notes or posts
+* 🥈 - It may be a list of bullet points, but it has good information
+* 🥉 - Incomplete thoughts that are probably unintelligible to anyone besides myself
+
+## 🥇 Posts
+
+| File                                                                                          | Last modified      | Content Score |
+| --------------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[2022-07-03 Heart of Darkness Loop Fastpack\|2022-07-03 Heart of Darkness Loop Fastpack]] | 11/12/2022 - 09:40 | 🥇            |
+| [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]           | 11/12/2022 - 08:47 | 🥇            |
+
+
+## 🥈 🥉 Notes
 
 ### Recently created notes
 
-| File                                                                            | Created            |
-| ------------------------------------------------------------------------------- | ------------------ |
-| [[🗺️ Reflection\|🗺️ Reflection]]                                           | 11/11/2022 - 20:49 |
-| [[🗺️ Faith\|🗺️ Faith]]                                                     | 11/11/2022 - 20:18 |
-| [[🗺️ News\|🗺️ News]]                                                       | 11/11/2022 - 20:04 |
-| [[🗺️ Fastpacking\|🗺️ Fastpacking]]                                         | 11/11/2022 - 19:47 |
-| [[Contact Me\|Contact Me]]                                                   | 11/11/2022 - 13:53 |
-| [[Résumé\|Résumé]]                                                           | 11/11/2022 - 13:50 |
-| [[About Me\|About Me]]                                                       | 11/11/2022 - 13:49 |
-| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] | 11/11/2022 - 13:42 |
-| [[JavaScript promisify a callback\|JavaScript promisify a callback]]         | 11/11/2022 - 13:42 |
-| [[index\|index]]                                                             | 11/11/2022 - 11:43 |
+| File                                                                            | Created            | Content Score |
+| ------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] | 11/11/2022 - 13:42 | 🥈            |
+| [[JavaScript promisify a callback\|JavaScript promisify a callback]]         | 11/11/2022 - 13:42 | 🥈            |
+| [[Website thoughts\|Website thoughts]]                                       | 11/10/2022 - 16:47 | 🥉            |
+| [[Vue App Setup\|Vue App Setup]]                                             | 11/09/2022 - 21:19 | 🥈            |
+| [[Wallowas\|Wallowas]]                                                       | 11/09/2022 - 10:46 | 🥉            |
+| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]   | 11/07/2022 - 19:23 | 🥈            |
+| [[MYOG Wind Pants\|MYOG Wind Pants]]                                         | 11/04/2022 - 19:14 | 🥉            |
+| [[MYOG Quilt\|MYOG Quilt]]                                                   | 10/31/2022 - 15:09 | 🥈            |
+| [[Bend smoke days by year\|Bend smoke days by year]]                         | 10/29/2022 - 14:15 | 🥈            |
+| [[Upstairs Work Area\|Upstairs Work Area]]                                   | 10/27/2022 - 10:26 | 🥉            |
 
 
 ### Recently updated notes
 
-| File                                                                                      | Last modified      |
-| ----------------------------------------------------------------------------------------- | ------------------ |
-| [[index\|index]]                                                                       | 11/11/2022 - 22:02 |
-| [[96 - Articles/Youtube - First Allegiance\|Youtube - First Allegiance]]               | 11/11/2022 - 21:56 |
-| [[Bend smoke days by year\|Bend smoke days by year]]                                   | 11/11/2022 - 21:26 |
-| [[96 - Articles/Confessing Our Sins\|Confessing Our Sins]]                             | 11/11/2022 - 21:25 |
-| [[2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]] | 11/11/2022 - 21:25 |
-| [[Vue App Setup\|Vue App Setup]]                                                       | 11/11/2022 - 21:25 |
-| [[JavaScript promisify a callback\|JavaScript promisify a callback]]                   | 11/11/2022 - 21:25 |
-| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]           | 11/11/2022 - 21:25 |
-| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]             | 11/11/2022 - 21:25 |
-| [[Backpacking Routes\|Backpacking Routes]]                                             | 11/11/2022 - 21:20 |
+| File                                                                                      | Last Modified      | Content Score |
+| ----------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]             | 11/12/2022 - 08:42 | 🥈            |
+| [[96 - Articles/Youtube - First Allegiance\|Youtube - First Allegiance]]               | 11/11/2022 - 21:56 | 🥉            |
+| [[Bend smoke days by year\|Bend smoke days by year]]                                   | 11/11/2022 - 21:26 | 🥈            |
+| [[96 - Articles/Confessing Our Sins\|Confessing Our Sins]]                             | 11/11/2022 - 21:25 | 🥉            |
+| [[2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]] | 11/11/2022 - 21:25 | 🥈            |
+| [[Vue App Setup\|Vue App Setup]]                                                       | 11/11/2022 - 21:25 | 🥈            |
+| [[JavaScript promisify a callback\|JavaScript promisify a callback]]                   | 11/11/2022 - 21:25 | 🥈            |
+| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]           | 11/11/2022 - 21:25 | 🥈            |
+| [[Backpacking Routes\|Backpacking Routes]]                                             | 11/11/2022 - 21:20 | 🥈            |
+| [[Website thoughts\|Website thoughts]]                                                 | 11/11/2022 - 21:11 | 🥉            |
 
