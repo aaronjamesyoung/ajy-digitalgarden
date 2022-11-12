@@ -11,9 +11,9 @@ This is the first of a sermon series our church did in the run-up to the 2020 pr
 
 * [First Allegiance - Antioch Church](https://www.antiochchurch.org/first-allegiance/)
 
-## Part 1: Worship
-
 ### First Allegiance commitments
+
+Sermon series corresponds with these, so sermon notes are embedded in the below list
 
 1. **Worship** - I commit my allegiance to King Jesus over all other idols and ideologies - (Ex 20:2-3; Psalm 115:1-8, Phil 2:9-11)
     * Reconciliation of all things. We should be participating in politics. Politics does not fall outside the scope of the gospel.
