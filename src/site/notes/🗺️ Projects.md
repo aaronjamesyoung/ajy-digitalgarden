@@ -20,7 +20,7 @@ To do: Add notes about past and upcoming projects. Write more about the "why", b
 
 ## Ideas
 
-* Piano recital
+* Piano
 * Garden
 * Webcam
 * Disc Golf
