@@ -41,11 +41,15 @@ To do: Add notes about past and upcoming projects. Write more about the "why", b
 
 
 
-## Notes
+## 📔 Notes
 
 | Incoming Links                                                                                                                                                                                                                                                                                                                           | Outgoing Links                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[Buttes.md\\|Buttes]]</li><li>[[MYOG Fastpack.md\\|MYOG Fastpack]]</li><li>[[MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[MYOG Quilt.md\\|MYOG Quilt]]</li><li>[[MYOG Wind Pants.md\\|MYOG Wind Pants]]</li><li>[[Upstairs Work Area.md\\|Upstairs Work Area]]</li><li>[[Website thoughts.md\\|Website thoughts]]</li></ul> | <ul><li>[[MYOG Fastpack.md\\|MYOG Fastpack]]</li><li>[[MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[MYOG Quilt.md\\|MYOG Quilt]]</li><li>[[MYOG Wind Pants.md\\|MYOG Wind Pants]]</li></ul> |
+
+
+## 🗞 External Articles
+
 
 
 #moc 
