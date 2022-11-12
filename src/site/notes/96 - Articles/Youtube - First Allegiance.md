@@ -5,7 +5,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLQajgRH7lhSmUdu4O8VMzbVOTS6fH-05L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[🗺 Faith\|🗺 Faith]]
+[[🗺️ Faith\|🗺️ Faith]]
 
 This is the first of a sermon series our church did in the run-up to the 2020 presidential election. It was very helpful and I had a lot of good takeaways. Series notes below
 
