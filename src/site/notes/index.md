@@ -68,6 +68,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                      | Last Modified      | Content Score |
 | ----------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[MYOG Quilt\|MYOG Quilt]]                                                             | 11/12/2022 - 12:06 | 🥈            |
 | [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]             | 11/12/2022 - 08:42 | 🥈            |
 | [[96 - Articles/Youtube - First Allegiance\|Youtube - First Allegiance]]               | 11/11/2022 - 21:56 | 🥉            |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                   | 11/11/2022 - 21:26 | 🥈            |
@@ -77,5 +78,4 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[JavaScript promisify a callback\|JavaScript promisify a callback]]                   | 11/11/2022 - 21:25 | 🥈            |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]           | 11/11/2022 - 21:25 | 🥈            |
 | [[Backpacking Routes\|Backpacking Routes]]                                             | 11/11/2022 - 21:20 | 🥈            |
-| [[Website thoughts\|Website thoughts]]                                                 | 11/11/2022 - 21:11 | 🥉            |
 
