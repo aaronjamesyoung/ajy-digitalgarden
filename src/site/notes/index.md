@@ -54,32 +54,32 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 #### Recently created notes
 
-| File                                                                            | Created            | Content Score |
-| ------------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[MYOG Net Tent\|MYOG Net Tent]]                                             | 11/12/2022 - 15:46 | 🥉            |
-| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                               | 11/12/2022 - 15:44 | 🥉            |
-| [[MYOG Square Tarp\|MYOG Square Tarp]]                                       | 11/12/2022 - 15:42 | 🥉            |
-| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                         | 11/12/2022 - 15:39 | 🥉            |
-| [[First Aid Kit\|First Aid Kit]]                                             | 11/12/2022 - 15:35 | 🥈            |
-| [[MYOG Rain Shell\|MYOG Rain Shell]]                                         | 11/12/2022 - 15:33 | 🥉            |
-| [[MYOG Wind Shell\|MYOG Wind Shell]]                                         | 11/12/2022 - 15:31 | 🥉            |
-| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] | 11/11/2022 - 13:42 | 🥈            |
-| [[JavaScript promisify a callback\|JavaScript promisify a callback]]         | 11/11/2022 - 13:42 | 🥈            |
-| [[Website thoughts\|Website thoughts]]                                       | 11/10/2022 - 16:47 | 🥉            |
+| File                                                                                | Created            | Content Score |
+| ----------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[Reconciliation\|Reconciliation]]                                               | 11/13/2022 - 12:43 | 🥉            |
+| [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] | 11/13/2022 - 12:14 | 🥉            |
+| [[MYOG Net Tent\|MYOG Net Tent]]                                                 | 11/12/2022 - 15:46 | 🥉            |
+| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                   | 11/12/2022 - 15:44 | 🥉            |
+| [[MYOG Square Tarp\|MYOG Square Tarp]]                                           | 11/12/2022 - 15:42 | 🥉            |
+| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                             | 11/12/2022 - 15:39 | 🥉            |
+| [[First Aid Kit\|First Aid Kit]]                                                 | 11/12/2022 - 15:35 | 🥈            |
+| [[MYOG Rain Shell\|MYOG Rain Shell]]                                             | 11/12/2022 - 15:33 | 🥉            |
+| [[MYOG Wind Shell\|MYOG Wind Shell]]                                             | 11/12/2022 - 15:31 | 🥉            |
+| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]     | 11/11/2022 - 13:42 | 🥈            |
 
 
 #### Recently updated notes
 
-| File                                                                          | Last Modified      | Content Score |
-| ----------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[First Aid Kit\|First Aid Kit]]                                           | 11/12/2022 - 16:10 | 🥈            |
-| [[MYOG Net Tent\|MYOG Net Tent]]                                           | 11/12/2022 - 15:48 | 🥉            |
-| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                             | 11/12/2022 - 15:46 | 🥉            |
-| [[MYOG Square Tarp\|MYOG Square Tarp]]                                     | 11/12/2022 - 15:44 | 🥉            |
-| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                       | 11/12/2022 - 15:42 | 🥉            |
-| [[MYOG Rain Shell\|MYOG Rain Shell]]                                       | 11/12/2022 - 15:35 | 🥉            |
-| [[MYOG Wind Pants\|MYOG Wind Pants]]                                       | 11/12/2022 - 15:33 | 🥉            |
-| [[MYOG Wind Shell\|MYOG Wind Shell]]                                       | 11/12/2022 - 15:33 | 🥉            |
-| [[MYOG Quilt\|MYOG Quilt]]                                                 | 11/12/2022 - 12:06 | 🥈            |
-| [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] | 11/12/2022 - 08:42 | 🥈            |
+| File                                                                                | Last Modified      | Content Score |
+| ----------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[Backpacking Routes\|Backpacking Routes]]                                       | 11/13/2022 - 12:49 | 🥈            |
+| [[Reconciliation\|Reconciliation]]                                               | 11/13/2022 - 12:47 | 🥉            |
+| [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] | 11/13/2022 - 12:42 | 🥉            |
+| [[First Aid Kit\|First Aid Kit]]                                                 | 11/12/2022 - 16:10 | 🥈            |
+| [[MYOG Net Tent\|MYOG Net Tent]]                                                 | 11/12/2022 - 15:48 | 🥉            |
+| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                   | 11/12/2022 - 15:46 | 🥉            |
+| [[MYOG Square Tarp\|MYOG Square Tarp]]                                           | 11/12/2022 - 15:44 | 🥉            |
+| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                             | 11/12/2022 - 15:42 | 🥉            |
+| [[MYOG Rain Shell\|MYOG Rain Shell]]                                             | 11/12/2022 - 15:35 | 🥉            |
+| [[MYOG Wind Pants\|MYOG Wind Pants]]                                             | 11/12/2022 - 15:33 | 🥉            |
 
