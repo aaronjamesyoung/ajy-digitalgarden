@@ -41,6 +41,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                  | Last modified      | Content Score |
 | ------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[How this site is built\|How this site is built]]                                 | 11/12/2022 - 17:21 | 🥇            |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                             | 11/12/2022 - 15:27 | 🥇            |
 | [[Running Gear\|Running Gear]]                                                     | 11/12/2022 - 14:52 | 🥇            |
 | [[Uses\|Uses]]                                                                     | 11/12/2022 - 14:24 | 🥇            |
