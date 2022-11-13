@@ -71,11 +71,11 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                          | Last Modified      | Content Score |
 | ----------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[First Aid Kit\|First Aid Kit]]                                           | 11/12/2022 - 16:10 | 🥈            |
 | [[MYOG Net Tent\|MYOG Net Tent]]                                           | 11/12/2022 - 15:48 | 🥉            |
 | [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                             | 11/12/2022 - 15:46 | 🥉            |
 | [[MYOG Square Tarp\|MYOG Square Tarp]]                                     | 11/12/2022 - 15:44 | 🥉            |
 | [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                       | 11/12/2022 - 15:42 | 🥉            |
-| [[First Aid Kit\|First Aid Kit]]                                           | 11/12/2022 - 15:39 | 🥈            |
 | [[MYOG Rain Shell\|MYOG Rain Shell]]                                       | 11/12/2022 - 15:35 | 🥉            |
 | [[MYOG Wind Pants\|MYOG Wind Pants]]                                       | 11/12/2022 - 15:33 | 🥉            |
 | [[MYOG Wind Shell\|MYOG Wind Shell]]                                       | 11/12/2022 - 15:33 | 🥉            |
