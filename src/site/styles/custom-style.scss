@@ -149,6 +149,7 @@ body.theme-dark {
     text-transform: uppercase;
   }
   .home-link + h1 { clear: none; }
+  a.is-unresolved { opacity: 0.6; pointer-events: none; }
 
   // Tables in content
   th {
