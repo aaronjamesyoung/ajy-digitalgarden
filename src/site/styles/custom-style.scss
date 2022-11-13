@@ -35,10 +35,10 @@ body.theme-dark {
   
   font-size: $base-font-size; line-height: $base-line-height;
   
-  p { margin-top: 0; margin-bottom: $base-line-height; }
+  p, table, iframe { margin-top: 0; margin-bottom: $base-line-height; }
   
   //Headers
-  h1, h2, h3, h4, h5, h6 { margin: 0 0 $base-line-height 0; clear: both;
+  h1, h2, h3, h4, h5, h6 { margin: 0 0 $base-line-height * 0.66 0; clear: both;
       text-rendering: optimizeLegibility; }
   h1 { font-size: $h1-font-size; line-height: $h1-font-size * 1.4; }
   h2 { font-size: $h2-font-size; line-height: $h2-font-size * 1.4; }
@@ -108,7 +108,7 @@ body.theme-dark {
 
   .navbar-inner {
     a {
-      display: block;
+      display: flex;
       padding: 15px 0;
     }
     img {
@@ -148,6 +148,7 @@ body.theme-dark {
     font-size: 0.875rem;
     text-transform: uppercase;
   }
+  .home-link + h1 { clear: none; }
 
   // Tables in content
   th {
@@ -170,6 +171,7 @@ body.theme-dark {
   display: flex;
   list-style-type: none;
   padding-left: 0;
+  margin-left: 0;
   justify-content: space-between;
   flex-wrap: wrap;
 }
