@@ -53,6 +53,8 @@ I am using the default theme, but customized it:
 * I reflowed the sidebar with backlinks to the bottom of the page
 * I also made some markup updates to the template to add my site icon, change the `<title>` tag a little, and tweak a couple hardcoded styles.
 
+You can see my copy of the theme here: [GitHub - aaronjamesyoung/ajy-digitalgarden](https://github.com/aaronjamesyoung/ajy-digitalgarden)
+
 ## Dynamic content
 
 You'll notice that there are some tables and lists of notes scattered throughout the site - for example, the "recently updated notes" section of the homepage.
