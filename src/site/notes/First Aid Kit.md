@@ -17,4 +17,4 @@ I started with the Adventure Medical Kits 0.3 kit (their smallest one). I've rem
 * Ibuprofen - some in small ziploc. Include usage instructions
 * N95 mask - for smoke
 * Large Safety pin
-* Tape
+* athletic tape
