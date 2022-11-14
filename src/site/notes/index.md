@@ -56,6 +56,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                | Created            | Content Score |
 | ----------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                 | 11/13/2022 - 21:09 | 🥉            |
 | [[Reconciliation\|Reconciliation]]                                               | 11/13/2022 - 12:43 | 🥉            |
 | [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] | 11/13/2022 - 12:14 | 🥉            |
 | [[MYOG Net Tent\|MYOG Net Tent]]                                                 | 11/12/2022 - 15:46 | 🥉            |
@@ -65,13 +66,13 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[First Aid Kit\|First Aid Kit]]                                                 | 11/12/2022 - 15:35 | 🥈            |
 | [[MYOG Rain Shell\|MYOG Rain Shell]]                                             | 11/12/2022 - 15:33 | 🥉            |
 | [[MYOG Wind Shell\|MYOG Wind Shell]]                                             | 11/12/2022 - 15:31 | 🥉            |
-| [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]     | 11/11/2022 - 13:42 | 🥈            |
 
 
 #### Recently updated notes
 
 | File                                                                                | Last Modified      | Content Score |
 | ----------------------------------------------------------------------------------- | ------------------ | ------------- |
+| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                 | 11/13/2022 - 21:34 | 🥉            |
 | [[Backpacking Routes\|Backpacking Routes]]                                       | 11/13/2022 - 12:49 | 🥈            |
 | [[Reconciliation\|Reconciliation]]                                               | 11/13/2022 - 12:47 | 🥉            |
 | [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] | 11/13/2022 - 12:42 | 🥉            |
@@ -81,5 +82,4 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[MYOG Square Tarp\|MYOG Square Tarp]]                                           | 11/12/2022 - 15:44 | 🥉            |
 | [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                             | 11/12/2022 - 15:42 | 🥉            |
 | [[MYOG Rain Shell\|MYOG Rain Shell]]                                             | 11/12/2022 - 15:35 | 🥉            |
-| [[MYOG Wind Pants\|MYOG Wind Pants]]                                             | 11/12/2022 - 15:33 | 🥉            |
 
