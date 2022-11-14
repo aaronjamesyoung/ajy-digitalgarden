@@ -1,5 +1,72 @@
 @import url(https://fonts.bunny.net/css?family=inter:100,200,300,400,500,600,700,800,900);
 
+// FG Grid
+$_fg_gutter: 24px; // gutter between columns. Set as desired.
+$_fg_padding: 0; // padding for column boxes. Set as desired, can override for individual columns.
+
+
+// *** Main mixin to create a per-row layout *** //
+@mixin _fg($colList, $gutter: $_fg_gutter, $padding: $_fg_padding) {
+  // If gutter/padding is unitless, give it px units:
+  @if unitless($gutter) {
+    $gutter: $gutter * 1px;
+  }
+  @if unitless($padding) {
+    $padding: $padding * 1px;
+  }
+
+  @if type-of($colList) == number { // call _fg_grid() directly
+    @include _fg_grid($colList, $gutter, $padding);
+  } @else if type-of($colList) == list and length($colList) > 1 {
+    // Count how many columns there are altogether
+    $columnCount: 0;
+    @each $i in $colList {
+      $columnCount: $columnCount + $i;
+    }
+
+    @include _fg_grid($columnCount, $gutter, $padding);
+
+    @for $i from 1 through length($colList) { // set child item widths using nth:child()
+      $c: nth($colList, $i);
+      & > :nth-child(#{length($colList)}n+#{$i}) {
+        @include _fg_width($c/$columnCount, $gutter);
+      }
+    }
+  }
+}
+
+
+// *** Set up grid with equal width columns *** //
+@mixin _fg_grid($cols: 0, $gutter: $_fg_gutter, $padding: $_fg_padding) {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: (-1 * $gutter);
+
+  > * {
+    @if $padding != 0 {
+      padding: $padding;
+    }
+    margin-left: $gutter;
+    box-sizing: border-box;
+  }
+
+  $calc_percent: (1/$cols) * 100%;
+
+  > * { width: calc(#{$calc_percent} - #{$gutter}); }
+}
+
+
+// *** width override for a column *** //
+@mixin _fg_width($ratio, $gutter: $_fg_gutter) {
+  @if unitless($gutter) {
+    $gutter: $gutter * 1px;
+  }
+
+  $calc_percent: $ratio * 100%;
+  width: calc(#{$calc_percent} - #{$gutter});
+};
+
 body.theme-dark {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
@@ -176,3 +243,4 @@ body.theme-dark {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+.col-2 { @include _fg(2); }
