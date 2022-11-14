@@ -37,49 +37,40 @@ I try to assign my notes a "content score" which indicates their level of comple
 * 🥈 - It may be a list of bullet points, but it has good information
 * 🥉 - Incomplete thoughts that are probably unintelligible to anyone besides myself
 
+<div class="col-2">
+<div>
+
 ### 🥇 Posts
 
-| File                                                                                  | Last modified      | Content Score |
-| ------------------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[How this site is built\|How this site is built]]                                 | 11/12/2022 - 17:38 | 🥇            |
-| [[Fastpacking Gear\|Fastpacking Gear]]                                             | 11/12/2022 - 15:27 | 🥇            |
-| [[Running Gear\|Running Gear]]                                                     | 11/12/2022 - 14:52 | 🥇            |
-| [[Uses\|Uses]]                                                                     | 11/12/2022 - 14:24 | 🥇            |
-| [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] | 11/12/2022 - 11:01 | 🥇            |
-| [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]   | 11/12/2022 - 10:16 | 🥇            |
-| [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]]   | 11/12/2022 - 10:03 | 🥇            |
+- 🥇 [[How this site is built\|How this site is built]] *(2022-11-12)*
+- 🥇 [[Fastpacking Gear\|Fastpacking Gear]] *(2022-11-12)*
+- 🥇 [[Running Gear\|Running Gear]] *(2022-11-12)*
+- 🥇 [[Uses\|Uses]] *(2022-11-12)*
+- 🥇 [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] *(2022-11-12)*
+- 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] *(2022-11-12)*
+- 🥇 [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]] *(2022-11-12)*
 
 
-### 🥈 🥉 Notes
+</div><div>
 
-#### Recently created notes
+### 🥈 🥉 Recent Notes
 
-| File                                                                                | Created            | Content Score |
-| ----------------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                 | 11/13/2022 - 21:09 | 🥉            |
-| [[Reconciliation\|Reconciliation]]                                               | 11/13/2022 - 12:43 | 🥉            |
-| [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] | 11/13/2022 - 12:14 | 🥉            |
-| [[MYOG Net Tent\|MYOG Net Tent]]                                                 | 11/12/2022 - 15:46 | 🥉            |
-| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                   | 11/12/2022 - 15:44 | 🥉            |
-| [[MYOG Square Tarp\|MYOG Square Tarp]]                                           | 11/12/2022 - 15:42 | 🥉            |
-| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                             | 11/12/2022 - 15:39 | 🥉            |
-| [[First Aid Kit\|First Aid Kit]]                                                 | 11/12/2022 - 15:35 | 🥈            |
-| [[MYOG Rain Shell\|MYOG Rain Shell]]                                             | 11/12/2022 - 15:33 | 🥉            |
-| [[MYOG Wind Shell\|MYOG Wind Shell]]                                             | 11/12/2022 - 15:31 | 🥉            |
+- 🥉 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-13)*
+- 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-13)*
+- 🥉 [[Reconciliation\|Reconciliation]] *(2022-11-13)*
+- 🥉 [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] *(2022-11-13)*
+- 🥈 [[First Aid Kit\|First Aid Kit]] *(2022-11-12)*
+- 🥉 [[MYOG Net Tent\|MYOG Net Tent]] *(2022-11-12)*
+- 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]] *(2022-11-12)*
+- 🥉 [[MYOG Square Tarp\|MYOG Square Tarp]] *(2022-11-12)*
+- 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]] *(2022-11-12)*
+- 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]] *(2022-11-12)*
+- 🥉 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-12)*
+- 🥉 [[MYOG Wind Shell\|MYOG Wind Shell]] *(2022-11-12)*
+- 🥈 [[MYOG Quilt\|MYOG Quilt]] *(2022-11-12)*
+- 🥈 [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] *(2022-11-12)*
+- 🥉 [[96 - Articles/2020-09-13 First Allegiance\|2020-09-13 First Allegiance]] *(2022-11-11)*
 
 
-#### Recently updated notes
-
-| File                                                                                | Last Modified      | Content Score |
-| ----------------------------------------------------------------------------------- | ------------------ | ------------- |
-| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                 | 11/13/2022 - 21:34 | 🥉            |
-| [[Backpacking Routes\|Backpacking Routes]]                                       | 11/13/2022 - 12:49 | 🥈            |
-| [[Reconciliation\|Reconciliation]]                                               | 11/13/2022 - 12:47 | 🥉            |
-| [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] | 11/13/2022 - 12:42 | 🥉            |
-| [[First Aid Kit\|First Aid Kit]]                                                 | 11/12/2022 - 16:10 | 🥈            |
-| [[MYOG Net Tent\|MYOG Net Tent]]                                                 | 11/12/2022 - 15:48 | 🥉            |
-| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                   | 11/12/2022 - 15:46 | 🥉            |
-| [[MYOG Square Tarp\|MYOG Square Tarp]]                                           | 11/12/2022 - 15:44 | 🥉            |
-| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                             | 11/12/2022 - 15:42 | 🥉            |
-| [[MYOG Rain Shell\|MYOG Rain Shell]]                                             | 11/12/2022 - 15:35 | 🥉            |
-
+</div>
+</div>
