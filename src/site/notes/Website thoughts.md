@@ -5,7 +5,9 @@
 
 [[🗺️ Projects\|🗺️ Projects]]
 
-## Digital Garden
+Brainstorming prior to launching my digital garden-style website in Nov 2022.
+
+## Digital Garden Info & Resources
 
 * [Digital Gardens](https://www.reddit.com/r/DigitalGardens/)
 * [🪴 Quartz 3.](https://quartz.jzhao.xyz/)
@@ -17,7 +19,7 @@
 * [GitHub - MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)
     * A garden is something inbetween a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.
 
-## Things to include
+## Things to include?
 
 * Blog posts: lengthier writing, thoughts, or narrative on a subject
 * Short-form status updates
@@ -37,7 +39,7 @@
     * Set up to auto publish to Github
     * Requires manual publish
 
-## Strategy
+## Writing & Notetaking Strategy
 
 * [BACKLINK oriented NOTE-TAKING - Google Docs](https://docs.google.com/document/d/13CP3zfbNJeTMzMyglqYFZdldzIduUrJ0KrMooQN8yuo/edit#)
     * Pages: MOC's - but remove info, these should just be links
