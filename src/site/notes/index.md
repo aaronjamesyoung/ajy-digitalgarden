@@ -23,9 +23,9 @@ Here's some stuff you can do:
 - [[🗺️ Code\|🗺️ Code]]
 - [[🗺️ Faith\|🗺️ Faith]]
 - [[🗺️ Fastpacking\|🗺️ Fastpacking]]
+- [[🗺️ Life\|🗺️ Life]]
 - [[🗺️ News\|🗺️ News]]
 - [[🗺️ Projects\|🗺️ Projects]]
-- [[🗺️ Reflection\|🗺️ Reflection]]
 - [[🗺️ Running\|🗺️ Running]]
 
 
@@ -55,21 +55,21 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥈 🥉 Recent Notes
 
-- 🥉 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-13)*
+- 🥉 [[MYOG\|MYOG]] *(2022-11-14)*
+- 🥉 [[01 - Personal/Cancer\|Cancer]] *(2022-11-14)*
+- 🥈 [[Buttes\|Buttes]] *(2022-11-14)*
+- 🥈 [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] *(2022-11-14)*
+- 🥈 [[96 - Articles/2020-09-13 First Allegiance\|2020-09-13 First Allegiance]] *(2022-11-14)*
+- 🥈 [[96 - Articles/2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] *(2022-11-14)*
+- 🥉 [[Fostering\|Fostering]] *(2022-11-14)*
+- 🥉 [[Bookmarks\|Bookmarks]] *(2022-11-14)*
+- 🥈 [[Website thoughts\|Website thoughts]] *(2022-11-14)*
+- 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-14)*
+- 🥈 [[Reconciliation\|Reconciliation]] *(2022-11-14)*
+- 🥉 [[Upstairs Work Area\|Upstairs Work Area]] *(2022-11-14)*
 - 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-13)*
-- 🥉 [[Reconciliation\|Reconciliation]] *(2022-11-13)*
-- 🥉 [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] *(2022-11-13)*
 - 🥈 [[First Aid Kit\|First Aid Kit]] *(2022-11-12)*
 - 🥉 [[MYOG Net Tent\|MYOG Net Tent]] *(2022-11-12)*
-- 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]] *(2022-11-12)*
-- 🥉 [[MYOG Square Tarp\|MYOG Square Tarp]] *(2022-11-12)*
-- 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]] *(2022-11-12)*
-- 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]] *(2022-11-12)*
-- 🥉 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-12)*
-- 🥉 [[MYOG Wind Shell\|MYOG Wind Shell]] *(2022-11-12)*
-- 🥈 [[MYOG Quilt\|MYOG Quilt]] *(2022-11-12)*
-- 🥈 [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] *(2022-11-12)*
-- 🥉 [[96 - Articles/2020-09-13 First Allegiance\|2020-09-13 First Allegiance]] *(2022-11-11)*
 
 
 </div>
