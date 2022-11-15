@@ -5,11 +5,18 @@
 
 [[🗺️ Projects\|🗺️ Projects]]
 
-Newberry 50: #23,24,25,26,27/50 - Kide, Swamp Wells, (unnamed), Fuzztail, Lava Top Buttes
+
 
 Newberry 50: 50 peaks on the north side of Newberry Crater, mostly cinder cones. All the named peaks with >100 feet prominence, plus the unnamed peaks with >200 feet prominence. Caltopo link: [Buttes - CalTopo](https://caltopo.com/m/T00L5)
 
-https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkCplM/edit#gid=0
+## Strava Activities
+
+* [Newberry 50: #1/50 - Pilot Butte](https://www.strava.com/activities/6679445034)
+* [Newberry 50: #2,3,4,5/50 - Cabin, Coyote, Horse, Bessie Buttes](https://www.strava.com/activities/6707650219)
+* [Newberry 50: #6,7,8/50 - Huntington Butte, Green Mountain, Lava Butte](https://www.strava.com/activities/6888649146)
+* [Newberry 50: #9,10,11,12,13,14,15/50 - Kelsey, Balbali, (unnamed), Ikt, Klawhop, (unnamed), Luna Buttes](https://www.strava.com/activities/6922866303)
+* [Newberry 50: #16,17,18,19,20,21,22/50 - (unnamed), (unnamed), Nota, (unnamed), Jane*, Sugar Pine, Ada Buttes](https://www.strava.com/activities/7067674375)
+* [Newberry 50: #23,24,25,26,27/50 - Kide, Swamp Wells, (unnamed), Fuzztail, Lava Top Buttes](https://www.strava.com/activities/7181013542)
 
 ## Ratings
 
@@ -52,7 +59,7 @@ https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkC
 * Huntington
 * 5461
 
-## Reviews
+## Log
 
 1. **Pilot** - The only thing wrong with Pilot is that we know it too well. Pilot Butte is surprisingly awesome - 360 degree trail with views every direction as you climb, a great view from the top, accessible to anyone, nice trail.
 2. **Cabin** - View to south 180 degrees. Not much of an experience to climb. Easy approach, but avoid shooters by approaching from the direction of the shooting pit on the south.
