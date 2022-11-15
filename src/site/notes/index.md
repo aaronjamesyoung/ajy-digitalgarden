@@ -55,8 +55,10 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥈 🥉 Recent Notes
 
+- 🥉 [[Couch\|Couch]] *(2022-11-15)*
+- 🥉 [[Loft Bed\|Loft Bed]] *(2022-11-15)*
+- 🥉 [[Quotes\|Quotes]] *(2022-11-15)*
 - 🥉 [[MYOG\|MYOG]] *(2022-11-14)*
-- 🥉 [[01 - Personal/Cancer\|Cancer]] *(2022-11-14)*
 - 🥈 [[Buttes\|Buttes]] *(2022-11-14)*
 - 🥈 [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] *(2022-11-14)*
 - 🥈 [[96 - Articles/2020-09-13 First Allegiance\|2020-09-13 First Allegiance]] *(2022-11-14)*
@@ -68,8 +70,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥈 [[Reconciliation\|Reconciliation]] *(2022-11-14)*
 - 🥉 [[Upstairs Work Area\|Upstairs Work Area]] *(2022-11-14)*
 - 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-13)*
-- 🥈 [[First Aid Kit\|First Aid Kit]] *(2022-11-12)*
-- 🥉 [[MYOG Net Tent\|MYOG Net Tent]] *(2022-11-12)*
 
 
 </div>
