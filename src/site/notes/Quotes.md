@@ -10,6 +10,7 @@ TODO break these apart and put in book notes.
 * Work the work. Plan the plan.
 * What? Huh?
 * Woop wop
+* Put some pepper in your step
 
 ## Books of Babel
 
