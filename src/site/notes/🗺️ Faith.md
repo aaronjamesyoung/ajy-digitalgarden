@@ -14,9 +14,9 @@ These notes are where I reflect and consider how my faith affects my worldview, 
 
 ## 🗞 External Articles
 
-- [Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)
-- [Confessing Our Sins](https://www.youtube.com/watch?v=vQvhynwhYws)
 - [First Allegiance](https://www.youtube.com/playlist?list=PLQajgRH7lhSmUdu4O8VMzbVOTS6fH-05L)
+- [Confessing Our Sins](https://www.youtube.com/watch?v=vQvhynwhYws)
+- [Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)
 
 
 #moc 
