@@ -68,8 +68,8 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥈 [[Website thoughts\|Website thoughts]] *(2022-11-14)*
 - 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-14)*
 - 🥈 [[Reconciliation\|Reconciliation]] *(2022-11-14)*
-- 🥉 [[Upstairs Work Area\|Upstairs Work Area]] *(2022-11-14)*
 - 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-13)*
+- 🥈 [[First Aid Kit\|First Aid Kit]] *(2022-11-12)*
 
 
 </div>
