@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Projects\|📚 Projects]] [[📚 Code & Work\|📚 Code & Work]]
+[[📚 Projects\|📚 Projects]] [[📚 Code and Work\|📚 Code and Work]]
 
 I've gone through several iterations of my website over the years, but this one is unique.
 
