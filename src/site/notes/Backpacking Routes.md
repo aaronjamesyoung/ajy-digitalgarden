@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Fastpacking\|🗺️ Fastpacking]]
+[[📘 Fastpacking\|📘 Fastpacking]]
 
 ## Done
 
