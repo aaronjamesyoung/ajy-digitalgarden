@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Fastpacking\|🗺️ Fastpacking]]
+[[📘 Fastpacking\|📘 Fastpacking]]
 
 Stuff that might go with me on a backpacking or fastpacking trip.
 
