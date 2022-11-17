@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Fastpacking\|🗺️ Fastpacking]]
+[[📘 Fastpacking\|📘 Fastpacking]]
 
 Would like a 100 mile loop in the Wallowas to fastpack.
 
