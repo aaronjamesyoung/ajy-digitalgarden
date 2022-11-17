@@ -38,7 +38,7 @@ Types of notes I'm seeing so far:
 * Reference / Archival
 * Projects
 * Dated notes
-* "collection" notes
+* Topical notesx
 
 How do these map to bujo notes?
 
