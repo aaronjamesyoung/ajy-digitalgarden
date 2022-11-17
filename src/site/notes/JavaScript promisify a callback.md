@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Code & Work\|📚 Code & Work]]
+[[📚 Code and Work\|📚 Code and Work]]
 
 If we have a callback-style function, we can wrap it like so, so we get a promise instead.
 
