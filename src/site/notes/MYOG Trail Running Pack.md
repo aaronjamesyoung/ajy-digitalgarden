@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Projects\|🗺️ Projects]] [[🗺️ Running\|🗺️ Running]]
+[[📚 Projects\|📚 Projects]] [[📘 Running\|📘 Running]]
 
 Todo - include a couple pictures and a short write-up.
 
