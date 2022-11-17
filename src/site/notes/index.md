@@ -23,7 +23,7 @@ Here's some stuff you can do:
 
 ## Overviews
 
-- [[📚 Code & Work\|📚 Code & Work]]
+- [[📚 Code and Work\|📚 Code and Work]]
 - [[📚 Faith\|📚 Faith]]
 - [[📚 Life\|📚 Life]]
 - [[📚 News Articles\|📚 News Articles]]
@@ -58,8 +58,8 @@ I try to assign my notes a "content score" which indicates their level of comple
 ### 🥇 Posts
 
 - 🥇 [[Uses\|Uses]] *(2022-11-17)*
-- 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-17)*
 - 🥇 [[How this site is built\|How this site is built]] *(2022-11-17)*
+- 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-17)*
 - 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] *(2022-11-17)*
 - 🥇 [[Running Gear\|Running Gear]] *(2022-11-17)*
 - 🥇 [[Fastpacking Gear\|Fastpacking Gear]] *(2022-11-17)*
@@ -71,6 +71,10 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥈 🥉 Recent Notes
 
+- 🥈 [[Vue App Setup\|Vue App Setup]] *(2022-11-17)*
+- 🥈 [[JavaScript promisify a callback\|JavaScript promisify a callback]] *(2022-11-17)*
+- 🥈 [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] *(2022-11-17)*
+- 🥈 [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] *(2022-11-17)*
 - 🥈 [[📚 News Articles\|📚 News Articles]] *(2022-11-17)*
 - 🥈 [[Bend smoke days by year\|Bend smoke days by year]] *(2022-11-17)*
 - 🥉 [[📘 MYOG\|📘 MYOG]] *(2022-11-17)*
@@ -82,10 +86,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]] *(2022-11-17)*
 - 🥈 [[MYOG Quilt\|MYOG Quilt]] *(2022-11-17)*
 - 🥈 [[MYOG Penta Tarp\|MYOG Penta Tarp]] *(2022-11-17)*
-- 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]] *(2022-11-17)*
-- 🥈 [[MYOG Fastpack\|MYOG Fastpack]] *(2022-11-17)*
-- 🥉 [[Loft Bed\|Loft Bed]] *(2022-11-17)*
-- 🥉 [[Couch\|Couch]] *(2022-11-17)*
 
 
 </div>
