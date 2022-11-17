@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Running\|🗺️ Running]] [[🗺️ Fastpacking\|🗺️ Fastpacking]]
+[[📘 Running\|📘 Running]] [[📘 Fastpacking\|📘 Fastpacking]]
 
 I started with the Adventure Medical Kits 0.3 kit (their smallest one). I've removed a few things and added others. My kit weighs roughly 3 oz, and I keep it in a red ziploc bag.
 
