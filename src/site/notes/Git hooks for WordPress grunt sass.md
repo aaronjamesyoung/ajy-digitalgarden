@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Code & Work\|📚 Code & Work]]
+[[📚 Code and Work\|📚 Code and Work]]
 
 Note: This is pretty old but served its function for copy/pasting back in the day. Not sure how many folks are starting new projects with Grunt nowadays.
 
