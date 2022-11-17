@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Projects\|🗺️ Projects]]
+[[📚 Projects\|📚 Projects]]
 
 I started from the Stitchback PZ pattern but made some changes.
 
