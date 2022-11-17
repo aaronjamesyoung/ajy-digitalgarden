@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Fastpacking\|🗺️ Fastpacking]]
+[[📘 Fastpacking\|📘 Fastpacking]]
 
 # Heart of Darkness — Friends of the Ochocos
 
