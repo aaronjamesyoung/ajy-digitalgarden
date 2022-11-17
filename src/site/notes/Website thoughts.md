@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Projects\|🗺️ Projects]]
+[[📚 Projects\|📚 Projects]]
 
 Brainstorming prior to launching my digital garden-style website in Nov 2022.
 
