@@ -18,16 +18,31 @@ Here's some stuff you can do:
 * Find out more [[About Me\|About Me]]
 * Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
 
-## Pages
+<div class="col-2">
+<div>
 
-- [[🗺️ Code\|🗺️ Code]]
-- [[🗺️ Faith\|🗺️ Faith]]
-- [[🗺️ Fastpacking\|🗺️ Fastpacking]]
-- [[🗺️ Life\|🗺️ Life]]
-- [[🗺️ News\|🗺️ News]]
-- [[🗺️ Projects\|🗺️ Projects]]
-- [[🗺️ Running\|🗺️ Running]]
+## Overviews
 
+- [[📚 Code & Work\|📚 Code & Work]]
+- [[📚 Faith\|📚 Faith]]
+- [[📚 Life\|📚 Life]]
+- [[📚 News Articles\|📚 News Articles]]
+- [[📚 Projects\|📚 Projects]]
+
+
+</div><div>
+
+## Topics
+
+- [[📘 Fastpacking\|📘 Fastpacking]]
+- [[📘 Fostering\|📘 Fostering]]
+- [[📘 MYOG\|📘 MYOG]]
+- [[📘 Reconciliation\|📘 Reconciliation]]
+- [[📘 Running\|📘 Running]]
+
+
+</div>
+</div>
 
 ## Posts & Notes
 
@@ -42,35 +57,35 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥇 Posts
 
-- 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-16)*
-- 🥇 [[How this site is built\|How this site is built]] *(2022-11-12)*
-- 🥇 [[Fastpacking Gear\|Fastpacking Gear]] *(2022-11-12)*
-- 🥇 [[Running Gear\|Running Gear]] *(2022-11-12)*
-- 🥇 [[Uses\|Uses]] *(2022-11-12)*
-- 🥇 [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] *(2022-11-12)*
-- 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] *(2022-11-12)*
-- 🥇 [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]] *(2022-11-12)*
+- 🥇 [[Uses\|Uses]] *(2022-11-17)*
+- 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-17)*
+- 🥇 [[How this site is built\|How this site is built]] *(2022-11-17)*
+- 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] *(2022-11-17)*
+- 🥇 [[Running Gear\|Running Gear]] *(2022-11-17)*
+- 🥇 [[Fastpacking Gear\|Fastpacking Gear]] *(2022-11-17)*
+- 🥇 [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] *(2022-11-17)*
+- 🥇 [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]] *(2022-11-17)*
 
 
 </div><div>
 
 ### 🥈 🥉 Recent Notes
 
-- 🥉 [[Couch\|Couch]] *(2022-11-15)*
-- 🥉 [[Loft Bed\|Loft Bed]] *(2022-11-15)*
-- 🥉 [[Quotes\|Quotes]] *(2022-11-15)*
-- 🥉 [[MYOG\|MYOG]] *(2022-11-14)*
-- 🥈 [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] *(2022-11-14)*
-- 🥈 [[96 - Articles/2020-09-13 First Allegiance\|2020-09-13 First Allegiance]] *(2022-11-14)*
-- 🥈 [[96 - Articles/2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] *(2022-11-14)*
-- 🥉 [[Fostering\|Fostering]] *(2022-11-14)*
-- 🥉 [[Bookmarks\|Bookmarks]] *(2022-11-14)*
-- 🥈 [[Website thoughts\|Website thoughts]] *(2022-11-14)*
-- 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-14)*
-- 🥈 [[Reconciliation\|Reconciliation]] *(2022-11-14)*
-- 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-13)*
-- 🥈 [[First Aid Kit\|First Aid Kit]] *(2022-11-12)*
-- 🥉 [[MYOG Net Tent\|MYOG Net Tent]] *(2022-11-12)*
+- 🥈 [[📚 News Articles\|📚 News Articles]] *(2022-11-17)*
+- 🥈 [[Bend smoke days by year\|Bend smoke days by year]] *(2022-11-17)*
+- 🥉 [[📘 MYOG\|📘 MYOG]] *(2022-11-17)*
+- 🥈 [[Website thoughts\|Website thoughts]] *(2022-11-17)*
+- 🥉 [[MYOG Wind Shell\|MYOG Wind Shell]] *(2022-11-17)*
+- 🥉 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-17)*
+- 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]] *(2022-11-17)*
+- 🥉 [[MYOG Square Tarp\|MYOG Square Tarp]] *(2022-11-17)*
+- 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]] *(2022-11-17)*
+- 🥈 [[MYOG Quilt\|MYOG Quilt]] *(2022-11-17)*
+- 🥈 [[MYOG Penta Tarp\|MYOG Penta Tarp]] *(2022-11-17)*
+- 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]] *(2022-11-17)*
+- 🥈 [[MYOG Fastpack\|MYOG Fastpack]] *(2022-11-17)*
+- 🥉 [[Loft Bed\|Loft Bed]] *(2022-11-17)*
+- 🥉 [[Couch\|Couch]] *(2022-11-17)*
 
 
 </div>
