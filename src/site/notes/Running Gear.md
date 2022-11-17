@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Running\|🗺️ Running]]
+[[📘 Running\|📘 Running]]
 
 Here's pretty much anything I may take out on a run. Let's start with stuff I wear - from the feet up - and then get to gear and accessories.
 
