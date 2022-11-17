@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Projects\|🗺️ Projects]]
+[[📚 Projects\|📚 Projects]]
 
 Ideas for a diy couch
 
