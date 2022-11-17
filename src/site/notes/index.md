@@ -42,6 +42,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥇 Posts
 
+- 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-16)*
 - 🥇 [[How this site is built\|How this site is built]] *(2022-11-12)*
 - 🥇 [[Fastpacking Gear\|Fastpacking Gear]] *(2022-11-12)*
 - 🥇 [[Running Gear\|Running Gear]] *(2022-11-12)*
@@ -59,7 +60,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥉 [[Loft Bed\|Loft Bed]] *(2022-11-15)*
 - 🥉 [[Quotes\|Quotes]] *(2022-11-15)*
 - 🥉 [[MYOG\|MYOG]] *(2022-11-14)*
-- 🥈 [[Buttes\|Buttes]] *(2022-11-14)*
 - 🥈 [[96 - Articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]] *(2022-11-14)*
 - 🥈 [[96 - Articles/2020-09-13 First Allegiance\|2020-09-13 First Allegiance]] *(2022-11-14)*
 - 🥈 [[96 - Articles/2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] *(2022-11-14)*
@@ -70,6 +70,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥈 [[Reconciliation\|Reconciliation]] *(2022-11-14)*
 - 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-13)*
 - 🥈 [[First Aid Kit\|First Aid Kit]] *(2022-11-12)*
+- 🥉 [[MYOG Net Tent\|MYOG Net Tent]] *(2022-11-12)*
 
 
 </div>
