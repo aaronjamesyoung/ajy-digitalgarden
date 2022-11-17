@@ -3,7 +3,7 @@
 ---
 
 
-[[🗺️ Faith\|🗺️ Faith]] [[00 - Daily/2022-11-13\|2022-11-13]]
+[[📚 Faith\|📚 Faith]] [[00 - Daily/2022-11-13\|2022-11-13]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSl4yYrKfPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -14,7 +14,7 @@
 ## Relationship
 
 * [[01 - Personal/Documents/Bible/Genesis 2\|Genesis 2]] - We are created for relationship. In Gen 3-11, we then see several episodes of alienation - from God, each other, etc.
-* But in [[01 - Personal/Documents/Bible/Genesis 12\|Genesis 12]] God begins the work of [[Reconciliation\|Reconciliation]].
+* But in [[01 - Personal/Documents/Bible/Genesis 12\|Genesis 12]] God begins the work of [[📘 Reconciliation\|📘 Reconciliation]].
 * The reconciliation of all things is not a thing we can do as individuals. Only way we can do this is by being nourished by the flesh & blood of Christ. John 6
 * Right vs wrong way to take communion: [[01 - Personal/Documents/Bible/1 Corinthians 11\|1 Corinthians 11]]
     * It's about relationship primarily. We need to check the status of our relationships: God, self, others, creation
