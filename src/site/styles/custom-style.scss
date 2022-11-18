@@ -206,11 +206,12 @@ body.theme-dark {
     line-height: inherit;
     margin-top: 0;
 
-    @media screen and (min-width: 940px) {
+    @media screen and (min-width: 1024px) {
       img {
-        width: 900px;
+        width: 984px;
         margin-left: 50%;
         transform: translateX(-50%);
+        max-width: none;
       }
     }
   }
