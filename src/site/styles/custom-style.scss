@@ -205,6 +205,14 @@ body.theme-dark {
     font-size: 16px;
     line-height: inherit;
     margin-top: 0;
+
+    @media screen and (min-width: 940px) {
+      img {
+        width: 900px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+      }
+    }
   }
   .home-link {
     display: block;
