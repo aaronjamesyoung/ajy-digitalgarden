@@ -52,9 +52,8 @@ My college cross country coach carried a backpack which he referred to as his "o
 
 * [r/myog - Blue EDC pack w/ workbench pocket](https://www.reddit.com/r/myog/comments/geu2um/blue_edc_pack_w_workbench_pocket/) - I really like this design
 * [r/myog - Full Zip EDC Pack #2 VX21 Blue/Black/Gray](https://www.reddit.com/r/myog/comments/9f1kpt/full_zip_edc_pack_2_vx21_blueblackgray/)
-* [r/myog - Made a LS21/VX21 EDC Pack for university](https://www.reddit.com/r/myog/comments/99znpk/made_a_ls21vx21_edc_pack_for_university/)
-* [backpack BC 18 -](http://andersj.se/backpack-bc-18/) - quite a different design. don't do double buckle closure
 * [Review: Topo Designs Core Pack : onebag](https://www.reddit.com/r/onebag/comments/8yggtp/review_topo_designs_core_pack/)
+* l like this aesthetic [finally sew a proper backpack : myog](https://www.reddit.com/r/myog/comments/yz22iw/finally_sew_a_proper_backpack/)
 
 * [What's In Your Bag?](https://www.reddit.com/r/whatsinthebag/)
 * [OneBag - The Art of Minimalist Travel](https://www.reddit.com/r/onebag/)
