@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fostering/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/fostering/"}
 ---
 
 
