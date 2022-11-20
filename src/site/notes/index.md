@@ -9,7 +9,7 @@
 
 I'm a trail runner and JavaScript developer located in Bend, Oregon.
 
-Welcome to my website. Here's some stuff you can do:
+Welcome to my website. It's more a collection of notes (which I update over time) rather than strictly a blog. Here's some stuff you can do:
 
 * Follow me on [Strava](https://www.strava.com/athletes/aaronjamesyoung) to see my running adventures
 * Get in touch about working on a web development project. I work with Vue, Node, and WordPress. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
@@ -70,6 +70,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥈 🥉 Recent Notes
 
+- 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] *(2022-11-20)*
 - 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-18)*
 - 🥉 [[📘 Fostering\|📘 Fostering]] *(2022-11-17)*
 - 🥉 [[Couch\|Couch]] *(2022-11-17)*
@@ -84,7 +85,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥉 [[MYOG Wind Shell\|MYOG Wind Shell]] *(2022-11-17)*
 - 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]] *(2022-11-17)*
 - 🥉 [[MYOG Square Tarp\|MYOG Square Tarp]] *(2022-11-17)*
-- 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]] *(2022-11-17)*
 
 
 </div>
