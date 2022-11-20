@@ -9,7 +9,12 @@
 
 This is my big running project started in spring of 2022.
 
-Newberry 50: 50 peaks on the north side of Newberry Crater, mostly cinder cones. All the named peaks with >100 feet prominence, plus the unnamed peaks with >200 feet prominence. Caltopo link: [Buttes - CalTopo](https://caltopo.com/m/T00L5)
+Newberry Crater sits south of Bend, Oregon. Dotting the slopes are several small cinder cones. I picked 50 of these to summit.
+
+- All the named peaks with >100 feet prominence
+- plus the unnamed peaks with >200 feet prominence.
+
+Caltopo link: Buttes - CalTopo
 
 I did 27 of these buttes during spring 2022 before breaking for my summer running in other areas. I hope to pick up this project later next spring.
 
