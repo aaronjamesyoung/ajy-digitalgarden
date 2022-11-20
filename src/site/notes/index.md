@@ -55,6 +55,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥇 Posts
 
+- 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-20)*
 - 🥇 [[Running Gear\|Running Gear]] *(2022-11-19)*
 - 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-18)*
 - 🥇 [[Uses\|Uses]] *(2022-11-17)*
@@ -69,7 +70,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### 🥈 🥉 Recent Notes
 
-- 🥈 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-19)*
 - 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-18)*
 - 🥉 [[📘 Fostering\|📘 Fostering]] *(2022-11-17)*
 - 🥉 [[Couch\|Couch]] *(2022-11-17)*
@@ -84,6 +84,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥉 [[MYOG Wind Shell\|MYOG Wind Shell]] *(2022-11-17)*
 - 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]] *(2022-11-17)*
 - 🥉 [[MYOG Square Tarp\|MYOG Square Tarp]] *(2022-11-17)*
+- 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]] *(2022-11-17)*
 
 
 </div>
