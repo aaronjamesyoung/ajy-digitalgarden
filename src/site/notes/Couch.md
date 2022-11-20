@@ -37,4 +37,5 @@ Also, watch Habitat and local thrift shops
 ## Materials
 
 * [Amazon.com: FoamTouch 4x24x120HDF1.8 Upholstery Foam, 4" x 24" x 120", White : Arts, Crafts & Sewing](https://www.amazon.com/gp/product/B0187VDRCQ/)
+* [Amazon.com: GoTo Foam 3" Height x 24" Width x 72" Length 44ILD (Firm) Upholstery Cushion : Arts, Crafts & Sewing](https://www.amazon.com/GoTo-Foam-Height-Upholstery-Cushion/dp/B07S38NBX7/)
 * [Amazon.com: IZO All Supply Bonded Dacron Upholstery Grade Polyester Batting 48 Inch Wide (5 yards) : Arts, Crafts & Sewing](https://www.amazon.com/gp/product/B01GLZGHL8/)
