@@ -20,7 +20,7 @@ Here's pretty much anything I may take out on a run. Let's start with stuff I we
 ## Pants
 
 * Nothing special - typical running pants. Not tights although I have one pair for layering on extra cold days.
-* (coming soon) [[MYOG Wind Pants\|MYOG Wind Pants]]
+* [[MYOG Wind Pants\|MYOG Wind Pants]]
 
 ## Shorts
 
