@@ -59,6 +59,7 @@ In "scripts" section, add:
 * [Water.css](https://watercss.kognise.dev/)
 * [GitHub - kognise/water.css: A drop-in collection of CSS styles to make simple websites just a little nicer](https://github.com/kognise/water.css)
 * Import into style.scss
+* *Todo: Document the overrides*
 
 ## Vue router apache htaccess
 
