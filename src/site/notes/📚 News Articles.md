@@ -7,16 +7,16 @@ Here are some noteworthy news items I've read. In the "Notes" section below you 
 
 I attempt to keep links to articles with lasting relevance and I weed them out from time to time if I feel their time has come and gone.
 
-## 📔 Notes
+## Notes
 
-| Incoming Links                                                             | Outgoing Links |
-| -------------------------------------------------------------------------- | -------------- |
-| <ul><li>[[Bend smoke days by year.md\\|Bend smoke days by year]]</li></ul> | <ul></ul>      |
+| Notes                                                                      |
+| -------------------------------------------------------------------------- |
+| <ul><li>[[Bend smoke days by year.md\\|Bend smoke days by year]]</li></ul> |
 
 
-## 📰 External Articles
+## External Articles
 
-| source                                                                                                                                                                                                                                                                     | date(clipped)     |
+| source                                                                                                                                                                                                                                                                     | read on           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [What Is Contrition Without Reparation?](https://www.theatlantic.com/newsletters/archive/2022/11/monuments-to-the-unthinkable/672127/?utm_source=feed)                                                                                                                     | November 15, 2022 |
 | [The Russian Empire Must Die](https://www.theatlantic.com/magazine/archive/2022/12/putin-russia-must-lose-ukraine-war-imperial-future/671891/?utm_source=feed)                                                                                                             | November 14, 2022 |
