@@ -42,7 +42,7 @@ Welcome to my website. It's more a collection of notes (which I update over time
 </div>
 </div>
 
-## Posts & Notes
+## Notes
 
 I try to assign my notes a "content score" which indicates their level of completeness:
 
@@ -52,8 +52,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 <div class="col-2">
 <div>
-
-### 🥇 Posts
 
 - 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-20)*
 - 🥇 [[Running Gear\|Running Gear]] *(2022-11-19)*
@@ -68,10 +66,9 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 </div><div>
 
-### 🥈 🥉 Recent Notes
-
+- 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-21)*
 - 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] *(2022-11-20)*
-- 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-18)*
+- 🥉 [[Bookmarks\|Bookmarks]] *(2022-11-20)*
 - 🥉 [[📘 Fostering\|📘 Fostering]] *(2022-11-17)*
 - 🥉 [[Couch\|Couch]] *(2022-11-17)*
 - 🥈 [[Vue App Setup\|Vue App Setup]] *(2022-11-17)*
@@ -79,12 +76,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥈 [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] *(2022-11-17)*
 - 🥈 [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] *(2022-11-17)*
 - 🥈 [[📚 News Articles\|📚 News Articles]] *(2022-11-17)*
-- 🥈 [[Bend smoke days by year\|Bend smoke days by year]] *(2022-11-17)*
-- 🥉 [[📘 MYOG\|📘 MYOG]] *(2022-11-17)*
-- 🥈 [[Website thoughts\|Website thoughts]] *(2022-11-17)*
-- 🥉 [[MYOG Wind Shell\|MYOG Wind Shell]] *(2022-11-17)*
-- 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]] *(2022-11-17)*
-- 🥉 [[MYOG Square Tarp\|MYOG Square Tarp]] *(2022-11-17)*
 
 
 </div>
