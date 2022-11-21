@@ -13,6 +13,7 @@ I've been getting into making my own outdoor gear. Here's what I've done:
 * [[MYOG Quilt\|MYOG Quilt]]
 * [[MYOG Square Tarp\|MYOG Square Tarp]]
 * [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]
+* [[MYOG Wind Pants\|MYOG Wind Pants]]
 
 as well as a handful of stuff sacks and miscellaneous items.
 
