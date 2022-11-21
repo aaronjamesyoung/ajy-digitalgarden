@@ -30,7 +30,7 @@ Liturgy is meant to prepare us for mission.
     * We are to show the world what it means to live in the coming kingdom of God. We are ambassadors of  [[📘 Reconciliation\|📘 Reconciliation]] - exemplars to the people around us
 * *"To joyfully serve all of creation"* - [[01 - Personal/Documents/Bible/Colossians 1\|Colossians 1]] v20
     * Service to creation [[01 - Personal/Documents/Bible/Genesis 1\|Genesis 1]] v27-28 (imago dei)
-    * [[01 - Personal/Documents/Bible/Genesis 2\|Genesis 2]] v15 - Keep & cultivate = serve & protect
+    * [[01 - Personal/Documents/Bible/Genesis 2\|Genesis 2]] v15 - The Hebrew words translated "keep and work/cultivate" are translated in other places in the OT as "serve" and "protect" e.g., as the priests should do to the Holy of Holies.
     * [[01 - Personal/Documents/Bible/Romans 8\|Romans 8]] v19
 * *"In the love of the Father, the name of the Son, and the power of the Holy Spirit, Amen."*
     * Trinitarian
