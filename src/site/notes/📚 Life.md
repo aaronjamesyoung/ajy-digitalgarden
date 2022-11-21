@@ -5,14 +5,14 @@
 
 General personal thoughts and reflections about life and wellbeing.
 
-## 📔 Notes
+## Notes
 
-| Incoming Links                                       | Outgoing Links |
-| ---------------------------------------------------- | -------------- |
-| <ul><li>[[📘 Fostering.md\\|📘 Fostering]]</li></ul> | <ul></ul>      |
+| Notes                                                |
+| ---------------------------------------------------- |
+| <ul><li>[[📘 Fostering.md\\|📘 Fostering]]</li></ul> |
 
 
-## 📰 External Articles
+## External Articles
 
 - [Podcast: Preparing for and Managing Visitation](https://www.youtube.com/watch?v=N6x83KQ1Tmo)
 - [Do You Really Want To Read What Your Doctor Writes About You?](https://www.theatlantic.com/health/archive/2022/11/doctor-patient-medical-notes-health-info-awareness/672123/?utm_source=feed)
