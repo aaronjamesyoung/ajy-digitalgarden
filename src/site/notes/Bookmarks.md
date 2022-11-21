@@ -5,6 +5,7 @@
 
 
 
+
 ## Aaron
 
 * [Asana](https://app.asana.com/0/home/17941980459425)
@@ -35,8 +36,6 @@
 * [BLS Canvas](https://bls.instructure.com/)
 * [Every Mountain in the World](http://everymountainintheworld.com/)
 * [FreeSewing](https://freesewing.org/)
-* [GitHub - PaperWM-community/PaperWM: Place to collaborate on adding GNOME 40 support to PaperWM](https://github.com/PaperWM-community/PaperWM)
-* [Heart of Darkness](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)
 * [Library Genesis](http://libgen.rs/)
 * [LibriVox](https://librivox.org/)
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
@@ -44,14 +43,6 @@
 * [Snotel UpdateReport Entry Page](https://wcc.sc.egov.usda.gov/reports/SelectUpdateReport.html)
 * [Standard Ebooks](https://standardebooks.org/)
 * [Syncthing](http://localhost:8384/)
-* [Trombone accompaniments - YouTube](https://www.youtube.com/playlist?list=PLzXp3-myBtjSJ3jgoJq54wZhIfHgMDmUj)
-* [Vladstudio](https://vlad.studio/)
-
-## Pro Q
-
-* [Everhour](https://app.everhour.com/#/time)
-* [Node-Red Flows](https://flows.nodered.org/)
-* [Using &quot;require&quot; inside function nodes · Issue #41 · node-red/node-red · GitHub](https://github.com/node-red/node-red/issues/41)
 
 ## Wildfire
 
@@ -69,10 +60,8 @@
 
 * [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/)
 * [Crater Invoicing software](https://craterapp.com/)
+* [Everhour](https://app.everhour.com/#/time)
 * [GitHub - quatrochan/Equal: 🧬 Equal is a Vue 3 UI library based on TypeScript](https://github.com/quatrochan/Equal)
 * [Matomo (homeserver)](https://hs.ajy.co/matomo/)
+* [Node-Red Flows](https://flows.nodered.org/)
 * [Open Color](https://yeun.github.io/open-color/)
-
-%%
-`pandoc --template=pandocHtmlTemplate.html5 Bookmarks.md -o Bookmarks.html`
-%%
