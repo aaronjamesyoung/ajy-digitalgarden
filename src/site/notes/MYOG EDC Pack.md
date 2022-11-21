@@ -7,6 +7,21 @@ My current everyday backpack is an [REI Co-op Ruckpack 28](https://www.rei.com/p
 
 I'd like to make a new everyday backpack.
 
+## Sizing
+
+* Back/front panel: 10.5 x 17
+* Depth: 6"
+
+## Features
+
+* Clamshell opening
+* Laptop sleeve
+* Foam back panel
+* Power mesh front pocket
+* Internal organization
+* Packable rain cover
+* Consider internal detachable pouches - if convenient & useful
+
 ## Usage
 
 My college cross country coach carried a backpack which he referred to as his "office". The pack should be tough enough to go anywhere with me for a long time.
@@ -32,13 +47,6 @@ My college cross country coach carried a backpack which he referred to as his "o
     * Spork
     * knife
     * packable rain cover
-* Features
-    * Relatively tough. All weather, constant daily use. My REI pack has really been pretty good in this regard.
-    * Make a packable rain cover
-        * Can use waterproof zippers IF rain cover doesn't seem adequate, but don't need to worry too much about waterproofing the pack otherwise
-        * Bend is not wet
-    * Integrated detachable pouches? Make it easy to grab one or two components to take with me
-* Consider plane carryon size limits, not that I intend to travel by plane
 * Drawbacks of REI pack to fix
     * Brain design
     * Doesn't stand
@@ -53,10 +61,7 @@ My college cross country coach carried a backpack which he referred to as his "o
 * [r/myog - Blue EDC pack w/ workbench pocket](https://www.reddit.com/r/myog/comments/geu2um/blue_edc_pack_w_workbench_pocket/) - I really like this design
 * [r/myog - Full Zip EDC Pack #2 VX21 Blue/Black/Gray](https://www.reddit.com/r/myog/comments/9f1kpt/full_zip_edc_pack_2_vx21_blueblackgray/)
 * [Review: Topo Designs Core Pack : onebag](https://www.reddit.com/r/onebag/comments/8yggtp/review_topo_designs_core_pack/)
-* l like this aesthetic [finally sew a proper backpack : myog](https://www.reddit.com/r/myog/comments/yz22iw/finally_sew_a_proper_backpack/)
+* Good features [Too picky on bags, so I went the MYOG route : myog](https://www.reddit.com/r/myog/comments/sohndo/too_picky_on_bags_so_i_went_the_myog_route/)
 
 * [What's In Your Bag?](https://www.reddit.com/r/whatsinthebag/)
 * [OneBag - The Art of Minimalist Travel](https://www.reddit.com/r/onebag/)
-
-* Removeable tech caddy - [The Best 5 Backpacks for College and High School Students of 2022 | Reviews by Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-school-backpack-for-high-school-and-college/#a-sporty-pack-for-all-day-comfort-patagonia-refugio-daypack-26l) (patagonia refugio daypack)
-    * how would it be to open the pack to just try and get in one of the accessory pouches, but not remove the caddy? LIke if I had a bunch of other stuff in main compartment?
