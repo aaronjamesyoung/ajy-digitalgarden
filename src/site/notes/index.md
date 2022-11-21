@@ -66,16 +66,16 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 </div><div>
 
+- 🥈 [[📚 News Articles\|📚 News Articles]] *(2022-11-21)*
+- 🥉 [[📘 MYOG\|📘 MYOG]] *(2022-11-21)*
+- 🥈 [[Vue App Setup\|Vue App Setup]] *(2022-11-21)*
 - 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-21)*
 - 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] *(2022-11-20)*
 - 🥉 [[Bookmarks\|Bookmarks]] *(2022-11-20)*
 - 🥉 [[📘 Fostering\|📘 Fostering]] *(2022-11-17)*
 - 🥉 [[Couch\|Couch]] *(2022-11-17)*
-- 🥈 [[Vue App Setup\|Vue App Setup]] *(2022-11-17)*
 - 🥈 [[JavaScript promisify a callback\|JavaScript promisify a callback]] *(2022-11-17)*
 - 🥈 [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] *(2022-11-17)*
-- 🥈 [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]] *(2022-11-17)*
-- 🥈 [[📚 News Articles\|📚 News Articles]] *(2022-11-17)*
 
 
 </div>
