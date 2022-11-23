@@ -26,8 +26,7 @@ If Trip Report isn't written and linked here, DO IT
 * Badlands
 * Blue Mountains Trail
 * Olympic NP
-* Oregon Coast Trail section
-* Oregon Desert Trail
+* [[Oregon Desert Trail\|Oregon Desert Trail]]
 * Rogue River Trail
 * Timberline Trail
 * Wonderland Trail
