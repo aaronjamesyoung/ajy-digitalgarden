@@ -90,7 +90,10 @@ body.theme-dark {
   
   // Aaron's typography overrides **** //
   $base-font-size: 16px;
-  $base-line-height: 1.5em;
+  @media screen and (min-width: 900px) {
+    $base-font-size: 18px;
+  }
+  $base-line-height: 1.5rem;
 
   // Major Third scale
   $h1-font-size: 2.074rem;
@@ -101,17 +104,18 @@ body.theme-dark {
   $h6-font-size: 1rem;
   
   font-size: $base-font-size; line-height: $base-line-height;
+  max-width: 900px;
   
   p, table, iframe { margin-top: 0; margin-bottom: $base-line-height; }
   
   //Headers
   h1, h2, h3, h4, h5, h6 { margin: 0 0 $base-line-height * 0.66 0; clear: both;
       text-rendering: optimizeLegibility; }
-  h1 { font-size: $h1-font-size; line-height: $h1-font-size * 1.4; }
-  h2 { font-size: $h2-font-size; line-height: $h2-font-size * 1.4; }
-  h3 { font-size: $h3-font-size; line-height: $h3-font-size * 1.4; }
-  h4 { font-size: $h4-font-size; line-height: $h4-font-size * 1.4; }
-  h5, h6 { font-size: $h5-font-size; line-height: $h5-font-size * 1.4; }
+  h1 { font-size: $h1-font-size; line-height: $h1-font-size * 1.5; }
+  h2 { font-size: $h2-font-size; line-height: $h2-font-size * 1.5; }
+  h3 { font-size: $h3-font-size; line-height: $h3-font-size * 1.5; }
+  h4 { font-size: $h4-font-size; line-height: $h4-font-size * 1.5; }
+  h5, h6 { font-size: $h5-font-size; line-height: $h5-font-size * 1.5; }
   h6 { font-style: italic; }
   
   //lists
@@ -127,7 +131,7 @@ body.theme-dark {
   &.markdown-preview-view {
     padding: 0 20px !important;
     margin: 0 auto;
-    font-size: 16px;
+    font-size: $base-font-size;
   }
 
   // Sidebar (backlinks) on bottom
@@ -197,12 +201,13 @@ body.theme-dark {
     background-color: transparent;
     margin: 10px 0;
     border: 1px solid rgba(255,255,255,0.2);
+    min-width: 160px;
   }
 
   // Content
   .content {
     max-width: none;
-    font-size: 16px;
+    font-size: inherit;
     line-height: inherit;
     margin-top: 0;
   }
