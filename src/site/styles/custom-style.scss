@@ -90,9 +90,8 @@ body.theme-dark {
   
   // Aaron's typography overrides **** //
   $base-font-size: 16px;
-  @media screen and (min-width: 900px) {
-    $base-font-size: 18px;
-  }
+  $large-base-font-size: 18px;
+
   $base-line-height: 1.5rem;
 
   // Major Third scale
@@ -105,6 +104,10 @@ body.theme-dark {
   
   font-size: $base-font-size; line-height: $base-line-height;
   max-width: 900px;
+
+  @media screen and (min-width: 900px) {
+    font-size: $large-base-font-size;
+  }
   
   p, table, iframe { margin-top: 0; margin-bottom: $base-line-height; }
   
@@ -132,6 +135,10 @@ body.theme-dark {
     padding: 0 20px !important;
     margin: 0 auto;
     font-size: $base-font-size;
+
+    @media screen and (min-width: 900px) {
+      font-size: $large-base-font-size;
+    }
   }
 
   // Sidebar (backlinks) on bottom
