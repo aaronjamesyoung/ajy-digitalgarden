@@ -231,6 +231,16 @@ body.theme-dark {
     background: transparent;
     padding: 0;
   }
+
+  // blockquotes
+  blockquote {
+    padding: 1rem;
+    font-style: normal;
+    color: #c0c0c0;
+    :before { display: none; }
+    p { display: block; }
+    p:last-child { margin-bottom: 0; }
+  }
 }
 
 // Site-specific styles
