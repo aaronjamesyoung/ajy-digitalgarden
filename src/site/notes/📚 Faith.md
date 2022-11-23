@@ -20,8 +20,8 @@ These notes are where I reflect and consider how my faith affects my worldview, 
 
 ## External Articles
 
-- [What the Bible Says About Social Media](https://www.thegospelcoalition.org/article/what-bible-social-media/)
 - [Trump would act ‘like a little elementary schoolchild,’ former spiritual adviser says](https://www.washingtonpost.com/politics/2022/11/17/trump-spiritual-adviser-criticism-child/)
+- [What the Bible Says About Social Media](https://www.thegospelcoalition.org/article/what-bible-social-media/)
 
 
 #moc 
