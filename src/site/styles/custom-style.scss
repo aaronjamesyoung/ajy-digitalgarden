@@ -249,7 +249,7 @@ body.theme-dark {
     padding: 1rem;
     font-style: normal;
     color: #c0c0c0;
-    :before { display: none; }
+    &:before { display: none; }
     p { display: block; }
     p:last-child { margin-bottom: 0; }
   }
