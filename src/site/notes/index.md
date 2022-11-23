@@ -53,6 +53,8 @@ I try to assign my notes a "content score" which indicates their level of comple
 <div class="col-2">
 <div>
 
+- 🥇 [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]] *(2022-11-21)*
+- 🥇 [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] *(2022-11-21)*
 - 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]] *(2022-11-20)*
 - 🥇 [[Running Gear\|Running Gear]] *(2022-11-19)*
 - 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] *(2022-11-18)*
@@ -60,22 +62,20 @@ I try to assign my notes a "content score" which indicates their level of comple
 - 🥇 [[How this site is built\|How this site is built]] *(2022-11-17)*
 - 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] *(2022-11-17)*
 - 🥇 [[Fastpacking Gear\|Fastpacking Gear]] *(2022-11-17)*
-- 🥇 [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]] *(2022-11-17)*
-- 🥇 [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]] *(2022-11-17)*
 
 
 </div><div>
 
+- 🥈 [[Means and Ends\|Means and Ends]] *(2022-11-22)*
+- 🥈 [[📘 Reconciliation\|📘 Reconciliation]] *(2022-11-22)*
+- 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] *(2022-11-22)*
+- 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]] *(2022-11-22)*
+- 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]] *(2022-11-22)*
+- 🥈 [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] *(2022-11-22)*
+- 🥉 [[Oregon Desert Trail\|Oregon Desert Trail]] *(2022-11-21)*
+- 🥈 [[Backpacking Routes\|Backpacking Routes]] *(2022-11-21)*
 - 🥈 [[📚 News Articles\|📚 News Articles]] *(2022-11-21)*
 - 🥉 [[📘 MYOG\|📘 MYOG]] *(2022-11-21)*
-- 🥈 [[Vue App Setup\|Vue App Setup]] *(2022-11-21)*
-- 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]] *(2022-11-21)*
-- 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] *(2022-11-20)*
-- 🥉 [[Bookmarks\|Bookmarks]] *(2022-11-20)*
-- 🥉 [[📘 Fostering\|📘 Fostering]] *(2022-11-17)*
-- 🥉 [[Couch\|Couch]] *(2022-11-17)*
-- 🥈 [[JavaScript promisify a callback\|JavaScript promisify a callback]] *(2022-11-17)*
-- 🥈 [[JavaScript elapsed time in function\|JavaScript elapsed time in function]] *(2022-11-17)*
 
 
 </div>
