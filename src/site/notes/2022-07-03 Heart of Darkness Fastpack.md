@@ -3,7 +3,7 @@
 ---
 
 
-[[📘 Fastpacking\|📘 Fastpacking]]
+[[📘 Fastpacking\|📘 Fastpacking]] [[📚 Life\|📚 Life]]
 
 The Heart of Darkness loop is a 40-ish mile loop located in the eastern end of the Ochoco Mountains in central Oregon. It’s a remote area that sees relatively little trail use, but that’s a shame – it’s the quintessential Ochoco experience: Big pines, open meadows, exposed peaks, and deep canyons are the theme throughout the Ochoco range.
 
