@@ -9,7 +9,7 @@
 
 Nope!
 
-Good ends do not justify bad means. Instead, bad means corrupt the good ends. Tolkien understood this, in *Lord of the Rings*, Saruman tells Gandalf:
+Good ends do not justify bad means. Instead, bad means corrupt the good ends. Tolkien wrote about this in *Lord of the Rings*, when Saruman tells Gandalf:
 
 > The Younger Days are beginning. The time of the Elves is over, but our time is at hand: the world of Men, which we must rule. But we must have power, power to order all things as we will, for that good which only the Wise can see... A new Power is rising. Against it the old allies and policies will not avail us at all. There is no hope left in Elves or dying Númenor. This then is one choice before you. before us. We may join with that Power. It would be wise, Gandalf. There is hope that way. Its victory is at hand; and there will be rich reward for those that aided it. As the Power grows, its proved friends will also grow; and the Wise, such as you and I, may with patience come at last to direct its courses, to control it. We can bide our time, we can keep our thoughts in our hearts, deploring maybe evils done by the way, but approving the high and ultimate purpose: Knowledge, Rule, Order; all the things that we have so far striven in vain to accomplish, hindered rather than helped by our weak or idle friends. There need not be, there would not be, any real change in our designs, only in our means.
 
@@ -27,4 +27,4 @@ As an aside from my main point, I'm obviously not a Trump supporter but I should
 
 It's not like these Christians were unaware that Trump would say and do awful things that would damage their witness. It's not like we couldn't tell that Trump was going to politicize the pulpit. It was obvious that Trump would do more damage than good. People were blinded by the desire for political power and gain.
 
-I believe it's never OK to do something bad in order to achieve something good. As I stated above, bad means corrupt good ends. We have to be willing to forgo shortcuts to our good ends.
+I believe it's never OK to do something bad in order to achieve something good. As I stated above, bad means corrupt good ends. We have to be willing to maintain our integrity by forgoing shortcuts to our good ends.
