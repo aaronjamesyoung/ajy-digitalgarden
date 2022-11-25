@@ -287,5 +287,8 @@ body.theme-dark {
     ul { list-style-type: none; margin-left: 0;
       li { margin-bottom: 10px; line-height: 1.5rem; }
     }
+    table tr td:nth-of-type(2) {
+      white-space: nowrap;
+    }
   }
 }
