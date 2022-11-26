@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Code and Work\|📚 Code and Work]]
+[[📘 Code and Work\|📘 Code and Work]]
 
 ## Vue UI options
 
