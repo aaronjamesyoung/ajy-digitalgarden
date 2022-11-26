@@ -16,7 +16,7 @@ This is a sermon series our church did in the run-up to the 2020 presidential el
 Sermon series corresponds with these, so sermon notes are embedded in the below list.
 
 1. **Worship** - *I commit my allegiance to King Jesus over all other idols and ideologies* - (Ex 20:2-3; Psalm 115:1-8, Phil 2:9-11)
-    * [[📘 Reconciliation\|📘 Reconciliation]] of all things. We should be participating in politics. Politics does not fall outside the scope of the gospel.
+    * [[Reconciliation\|Reconciliation]] of all things. We should be participating in politics. Politics does not fall outside the scope of the gospel.
     * We all have places in our lives where we fall into the trap of prioritizing our political vision over our love of Christ
     * When Jesus was tempted - he was offered a good end by bad means - to be king of the world by worshipping Satan. Jesus' response: "Worship the Lord your God and serve him only" - Worship was the real issue in this temptation
     * How do we know if our ideology has become an idol?
