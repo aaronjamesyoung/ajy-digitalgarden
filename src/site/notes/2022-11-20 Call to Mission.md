@@ -27,7 +27,7 @@ Liturgy is meant to prepare us for mission.
     * Don't forget our actual physical neighbors!
 * *"To seek the peace and propserity of our city"* - [[94 - Bible/Jeremiah 29\|Jeremiah 29]] v5-7
 * "To bear witness to the coming kingdom of God" - [[94 - Bible/2 Corinthians 5\|2 Corinthians 5]] v17-20
-    * We are to show the world what it means to live in the coming kingdom of God. We are ambassadors of  [[📘 Reconciliation\|📘 Reconciliation]] - exemplars to the people around us
+    * We are to show the world what it means to live in the coming kingdom of God. We are ambassadors of  [[Reconciliation\|Reconciliation]] - exemplars to the people around us
 * *"To joyfully serve all of creation"* - [[94 - Bible/Colossians 1\|Colossians 1]] v20
     * Service to creation [[94 - Bible/Genesis 1\|Genesis 1]] v27-28 (imago dei)
     * [[94 - Bible/Genesis 2\|Genesis 2]] v15 - The Hebrew words translated "keep and work/cultivate" are translated in other places in the OT as "serve" and "protect" e.g., as the priests should do to the Holy of Holies.

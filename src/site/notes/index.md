@@ -21,14 +21,14 @@ Welcome to my website. It's more a collection of notes (which I update over time
 - [[📘 Code and Work\|📘 Code and Work]]
 - [[📘 Faith\|📘 Faith]]
 - [[📘 Fastpacking\|📘 Fastpacking]]
-- [[📘 Fostering\|📘 Fostering]]
 - [[📘 Life\|📘 Life]]
 - [[📘 MYOG\|📘 MYOG]]
 - [[📘 News Articles\|📘 News Articles]]
 - [[📘 Projects\|📘 Projects]]
-- [[📘 Reconciliation\|📘 Reconciliation]]
 - [[📘 Running\|📘 Running]]
 
+
+What are [[Topic Notes\|Topic Notes]]?
 
 ## Notes
 
@@ -38,6 +38,8 @@ I try to assign my notes a "content score" which indicates their level of comple
 * 🥈 - It may be a list of bullet points, but it has good information
 * 🥉 - Incomplete thoughts that are probably unintelligible to anyone besides myself
 
+See below, or view all [[Notes\|Notes]]
+
 <div class="col-2">
 <div>
 
@@ -45,6 +47,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
+| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-11-26 |
 | 🥇 [[Uses\|Uses]]                                                 | 2022-11-25 |
 | 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
 | 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
@@ -53,25 +56,24 @@ I try to assign my notes a "content score" which indicates their level of comple
 | 🥇 [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]  | 2022-11-25 |
 | 🥇 [[Running Gear\|Running Gear]]                                         | 2022-11-19 |
 | 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                | 2022-11-17 |
-| 🥇 [[Fastpacking Gear\|Fastpacking Gear]]                                     | 2022-11-17 |
 
 
 </div><div>
 
 ### Recent Notes
 
-| Note                     | Updated    |
-| ------------------------ | ---------- |
-| 🥉 [[📘 Projects\|📘 Projects]]       | 2022-11-25 |
-| 🥈 [[📘 News Articles\|📘 News Articles]]  | 2022-11-25 |
-| 🥉 [[📘 Life\|📘 Life]]           | 2022-11-25 |
-| 🥈 [[📘 Faith\|📘 Faith]]          | 2022-11-25 |
-| 🥉 [[📘 Code and Work\|📘 Code and Work]]  | 2022-11-25 |
-| 🥈 [[📘 Running\|📘 Running]]        | 2022-11-25 |
-| 🥈 [[📘 Reconciliation\|📘 Reconciliation]] | 2022-11-25 |
-| 🥉 [[📘 Fostering\|📘 Fostering]]      | 2022-11-25 |
-| 🥉 [[📘 MYOG\|📘 MYOG]]           | 2022-11-25 |
-| 🥈 [[Website thoughts\|Website thoughts]]  | 2022-11-25 |
+| Note                                                    | Updated    |
+| ------------------------------------------------------- | ---------- |
+| 🥈 [[Navigation\|Navigation]]                                       | 2022-11-26 |
+| 🥉 [[Mileage\|Mileage]]                                          | 2022-11-26 |
+| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                                 | 2022-11-26 |
+| 🥈 [[Reconciliation\|Reconciliation]]                                   | 2022-11-26 |
+| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                     | 2022-11-26 |
+| 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                       | 2022-11-26 |
+| 🥈 [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                   | 2022-11-26 |
+| 🥉 [[Fostering\|Fostering]]                                        | 2022-11-26 |
+| 🥈 [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] | 2022-11-26 |
+| 🥈 [[Topic Notes\|Topic Notes]]                                      | 2022-11-26 |
 
 
 </div>

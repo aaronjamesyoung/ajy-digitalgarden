@@ -27,5 +27,3 @@ What is God reconciling? All things. We can break down the relationships into th
 * [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]
 
 ## Creation
-
-#topic 
