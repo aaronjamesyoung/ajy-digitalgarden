@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Faith\|📚 Faith]]
+[[📘 Faith\|📘 Faith]]
 
 August 2022, Antioch - Notes from the Gospel and Culture forum on how Christians ought to interact with politics.
 
