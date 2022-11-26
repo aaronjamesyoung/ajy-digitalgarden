@@ -271,6 +271,9 @@ body.theme-dark {
   margin-left: 0;
   justify-content: space-between;
   flex-wrap: wrap;
+  li {
+    width: 20%;
+  }
 }
 .index {
   @media screen and (min-width: 1024px) {
