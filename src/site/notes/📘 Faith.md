@@ -7,15 +7,15 @@ These notes are where I reflect and consider how my faith affects my worldview, 
 
 ## Sermon Series Notes
 
-- [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]
 - [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]
+- [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]
 
 
 ## Notes
 
-| Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[📘 Reconciliation.md\\|📘 Reconciliation]]</li><li>[[2022-08-07 Gospel and Culture - Politics.md\\|2022-08-07 Gospel and Culture - Politics]]</li><li>[[2022-10-16 Confessing Our Sins.md\\|2022-10-16 Confessing Our Sins]]</li><li>[[2022-11-13 Receiving Communion.md\\|2022-11-13 Receiving Communion]]</li><li>[[2022-11-20 Call to Mission.md\\|2022-11-20 Call to Mission]]</li><li>[[First Allegiance - 2020 Fall.md\\|First Allegiance - 2020 Fall]]</li><li>[[Work of the People - 2022 Fall.md\\|Work of the People - 2022 Fall]]</li></ul> |
+| Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[2022-08-07 Gospel and Culture - Politics.md\\|2022-08-07 Gospel and Culture - Politics]]</li><li>[[2022-10-16 Confessing Our Sins.md\\|2022-10-16 Confessing Our Sins]]</li><li>[[2022-11-13 Receiving Communion.md\\|2022-11-13 Receiving Communion]]</li><li>[[2022-11-20 Call to Mission.md\\|2022-11-20 Call to Mission]]</li><li>[[First Allegiance - 2020 Fall.md\\|First Allegiance - 2020 Fall]]</li><li>[[Reconciliation.md\\|Reconciliation]]</li><li>[[Work of the People - 2022 Fall.md\\|Work of the People - 2022 Fall]]</li></ul> |
 
 
 ## External Articles
