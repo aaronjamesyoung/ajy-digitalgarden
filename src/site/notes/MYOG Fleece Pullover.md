@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Projects\|📚 Projects]] [[📘 Fastpacking\|📘 Fastpacking]]
+[[📘 Projects\|📘 Projects]] [[📘 Fastpacking\|📘 Fastpacking]]
 
 Todo - pics and writeup.
 

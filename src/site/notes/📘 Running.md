@@ -3,12 +3,21 @@
 ---
 
 
-## Notes
+I'm a trail runner - nearly all of my running is on trails and gravel/dirt forest roads. I'm lucky to live in a spot where I can hit the forest from my front door.
 
-| Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[First Aid Kit.md\\|First Aid Kit]]</li><li>[[MYOG Rain Shell.md\\|MYOG Rain Shell]]</li><li>[[MYOG Trail Running Pack.md\\|MYOG Trail Running Pack]]</li><li>[[MYOG Wind Pants.md\\|MYOG Wind Pants]]</li><li>[[MYOG Wind Shell.md\\|MYOG Wind Shell]]</li><li>[[Newberry 50 - Running 50 buttes south of Bend.md\\|Newberry 50 - Running 50 buttes south of Bend]]</li><li>[[Running Gear.md\\|Running Gear]]</li><li>[[Wildfire monitering in Central Oregon.md\\|Wildfire monitering in Central Oregon]]</li></ul> |
+I currently don't race much - instead I focus on preparing for solo adventures like [[📘 Fastpacking\|📘 Fastpacking]] or personal challenges like the [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]].
 
+I've run a few ultramarathons and I ran cross country and track all through high school and college.
+
+## Run planning
+
+* [[Running Gear\|Running Gear]]
+* [[First Aid Kit\|First Aid Kit]]
+* [[Navigation\|Navigation]]
+* [[Nutrition\|Nutrition]]
+* [[Training\|Training]]
+* [[Trail running in Bend, Oregon\|Trail running in Bend, Oregon]]
+* [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
 
 ## External Articles
 

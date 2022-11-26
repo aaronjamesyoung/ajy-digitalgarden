@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Projects\|📚 Projects]]
+[[📘 Projects\|📘 Projects]]
 
 Plan to build a high loft bed with standing desk space underneath
 

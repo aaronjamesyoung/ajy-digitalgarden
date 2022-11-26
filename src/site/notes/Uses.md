@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Code and Work\|📚 Code and Work]] [[📚 Projects\|📚 Projects]]
+[[📘 Code and Work\|📘 Code and Work]] [[📘 Projects\|📘 Projects]]
 
 ## Life stuff
 

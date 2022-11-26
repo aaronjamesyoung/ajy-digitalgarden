@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Life\|📚 Life]]
+[[📘 Life\|📘 Life]]
 
 "The ends justify the means"
 

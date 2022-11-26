@@ -16,31 +16,19 @@ Welcome to my website. It's more a collection of notes (which I update over time
 * Find out more [[About Me\|About Me]]
 * Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
 
-<div class="col-2">
-<div>
-
-## Overviews
-
-- [[📚 Code and Work\|📚 Code and Work]]
-- [[📚 Faith\|📚 Faith]]
-- [[📚 Life\|📚 Life]]
-- [[📚 News Articles\|📚 News Articles]]
-- [[📚 Projects\|📚 Projects]]
-
-
-</div><div>
-
 ## Topics
 
+- [[📘 Code and Work\|📘 Code and Work]]
+- [[📘 Faith\|📘 Faith]]
 - [[📘 Fastpacking\|📘 Fastpacking]]
 - [[📘 Fostering\|📘 Fostering]]
+- [[📘 Life\|📘 Life]]
 - [[📘 MYOG\|📘 MYOG]]
+- [[📘 News Articles\|📘 News Articles]]
+- [[📘 Projects\|📘 Projects]]
 - [[📘 Reconciliation\|📘 Reconciliation]]
 - [[📘 Running\|📘 Running]]
 
-
-</div>
-</div>
 
 ## Notes
 
@@ -55,35 +43,35 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 ### Posts
 
-| Post                                                 | Updated    |
-| ---------------------------------------------------- | ---------- |
-| 🥇 [[2022-07-03 Heart of Darkness Fastpack\|2022-07-03 Heart of Darkness Fastpack]]         | 2022-11-21 |
-| 🥇 [[2022-10-08 Three Sisters Loop Fastpack\|2022-10-08 Three Sisters Loop Fastpack]]        | 2022-11-21 |
-| 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                               | 2022-11-20 |
-| 🥇 [[Running Gear\|Running Gear]]                                  | 2022-11-19 |
-| 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] | 2022-11-18 |
-| 🥇 [[Uses\|Uses]]                                          | 2022-11-17 |
-| 🥇 [[How this site is built\|How this site is built]]                        | 2022-11-17 |
-| 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]         | 2022-11-17 |
-| 🥇 [[Fastpacking Gear\|Fastpacking Gear]]                              | 2022-11-17 |
+| Post                                                        | Updated    |
+| ----------------------------------------------------------- | ---------- |
+| 🥇 [[Uses\|Uses]]                                                 | 2022-11-25 |
+| 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
+| 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
+| 🥇 [[How this site is built\|How this site is built]]                               | 2022-11-25 |
+| 🥇 [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
+| 🥇 [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]  | 2022-11-25 |
+| 🥇 [[Running Gear\|Running Gear]]                                         | 2022-11-19 |
+| 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                | 2022-11-17 |
+| 🥇 [[Fastpacking Gear\|Fastpacking Gear]]                                     | 2022-11-17 |
 
 
 </div><div>
 
 ### Recent Notes
 
-| Note                                                    | Updated    |
-| ------------------------------------------------------- | ---------- |
-| 🥈 [[Means and Ends\|Means and Ends]]                                   | 2022-11-23 |
-| 🥈 [[📘 Reconciliation\|📘 Reconciliation]]                                | 2022-11-22 |
-| 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                       | 2022-11-22 |
-| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                     | 2022-11-22 |
-| 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]                   | 2022-11-22 |
-| 🥈 [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] | 2022-11-22 |
-| 🥉 [[Oregon Desert Trail\|Oregon Desert Trail]]                              | 2022-11-21 |
-| 🥈 [[Backpacking Routes\|Backpacking Routes]]                               | 2022-11-21 |
-| 🥈 [[📚 News Articles\|📚 News Articles]]                                 | 2022-11-21 |
-| 🥉 [[📘 MYOG\|📘 MYOG]]                                          | 2022-11-21 |
+| Note                     | Updated    |
+| ------------------------ | ---------- |
+| 🥉 [[📘 Projects\|📘 Projects]]       | 2022-11-25 |
+| 🥈 [[📘 News Articles\|📘 News Articles]]  | 2022-11-25 |
+| 🥉 [[📘 Life\|📘 Life]]           | 2022-11-25 |
+| 🥈 [[📘 Faith\|📘 Faith]]          | 2022-11-25 |
+| 🥉 [[📘 Code and Work\|📘 Code and Work]]  | 2022-11-25 |
+| 🥈 [[📘 Running\|📘 Running]]        | 2022-11-25 |
+| 🥈 [[📘 Reconciliation\|📘 Reconciliation]] | 2022-11-25 |
+| 🥉 [[📘 Fostering\|📘 Fostering]]      | 2022-11-25 |
+| 🥉 [[📘 MYOG\|📘 MYOG]]           | 2022-11-25 |
+| 🥈 [[Website thoughts\|Website thoughts]]  | 2022-11-25 |
 
 
 </div>

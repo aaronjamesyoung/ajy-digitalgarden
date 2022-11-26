@@ -9,7 +9,7 @@
 
 If Trip Report isn't written and linked here, DO IT
 
-* [[96 - Articles/Heart of Darkness\|Heart of Darkness]] - old article from Friends of the Ochocos that's not online anymore
+* [[96 - Articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]] - old article from Friends of the Ochocos that's not online anymore
 * Three Sisters Loop
 
 ## Priority routes

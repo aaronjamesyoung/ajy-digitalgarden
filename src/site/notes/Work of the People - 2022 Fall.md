@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Faith\|📚 Faith]]
+[[📘 Faith\|📘 Faith]]
 
 This is the Fall 2022 sermon series about our church's various practices during the Sunday morning services.
 

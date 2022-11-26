@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Projects\|📚 Projects]]
+[[📘 Projects\|📘 Projects]]
 
 Check on archive.org [Site Unreachable](https://wildgeardesigns.com/)
 
