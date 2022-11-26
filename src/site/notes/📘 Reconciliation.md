@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Faith\|📚 Faith]]
+[[📘 Faith\|📘 Faith]]
 
 "For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross." - Colossians 1:19-20
 
