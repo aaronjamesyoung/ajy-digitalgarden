@@ -269,10 +269,9 @@ body.theme-dark {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
-  justify-content: space-between;
   flex-wrap: wrap;
   li {
-    width: 20%;
+    padding-right: 25px;
   }
 }
 .index {
