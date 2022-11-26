@@ -5,7 +5,7 @@
 
 [[📘 Fastpacking\|📘 Fastpacking]]
 
-Stuff that might go with me on a backpacking or fastpacking trip.
+Stuff that might go with me on a backpacking or fastpacking trip. This is my gear, not a list of recommended gear to purchase. However this list would be a good place to start a checklist of gear needed.
 
 ## Pack
 
