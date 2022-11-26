@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/myog/"}
+{"dg-publish":true,"permalink":"/myog/","dgShowBacklinks":false}
 ---
 
 
-[[📚 Projects\|📚 Projects]]
+[[📘 Projects\|📘 Projects]]
 
 I've been getting into making my own outdoor gear. Here's what I've done:
 
