@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Projects\|📚 Projects]] [[📘 Running\|📘 Running]]
+[[📘 Projects\|📘 Projects]] [[📘 Running\|📘 Running]]
 
 
 
