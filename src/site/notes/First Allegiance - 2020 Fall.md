@@ -3,7 +3,7 @@
 ---
 
 
-[[📚 Faith\|📚 Faith]]
+[[📘 Faith\|📘 Faith]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLQajgRH7lhSmUdu4O8VMzbVOTS6fH-05L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
