@@ -5,7 +5,7 @@
 
 [[📘 Faith\|📘 Faith]]
 
-This is the Fall 2022 sermon series about our church's various practices during the Sunday morning services.
+This is the Fall 2022 sermon series about our church's various practices during our Sunday morning services.
 
 1. [Gathering as the Church - YouTube](https://www.youtube.com/watch?v=BufDGG7SRjo)
 2. [Singing Together - YouTube](https://www.youtube.com/watch?v=WSBLdt6ywKE)
