@@ -62,18 +62,18 @@ See below, or view all [[Notes\|Notes]]
 
 ### Recent Notes
 
-| Note                                                    | Updated    |
-| ------------------------------------------------------- | ---------- |
-| 🥈 [[Navigation\|Navigation]]                                       | 2022-11-26 |
-| 🥉 [[Mileage\|Mileage]]                                          | 2022-11-26 |
-| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                                 | 2022-11-26 |
-| 🥈 [[Reconciliation\|Reconciliation]]                                   | 2022-11-26 |
-| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                     | 2022-11-26 |
-| 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                       | 2022-11-26 |
-| 🥈 [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                   | 2022-11-26 |
-| 🥉 [[Fostering\|Fostering]]                                        | 2022-11-26 |
-| 🥈 [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] | 2022-11-26 |
-| 🥈 [[Topic Notes\|Topic Notes]]                                      | 2022-11-26 |
+| Note                                            | Updated    |
+| ----------------------------------------------- | ---------- |
+| 🥉 [[96 - Articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] | 2022-11-27 |
+| 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-11-27 |
+| 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]           | 2022-11-27 |
+| 🥈 [[📘 Running\|📘 Running]]                               | 2022-11-27 |
+| 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                            | 2022-11-26 |
+| 🥈 [[Navigation\|Navigation]]                               | 2022-11-26 |
+| 🥉 [[Mileage\|Mileage]]                                  | 2022-11-26 |
+| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                         | 2022-11-26 |
+| 🥈 [[Reconciliation\|Reconciliation]]                           | 2022-11-26 |
+| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]             | 2022-11-26 |
 
 
 </div>
