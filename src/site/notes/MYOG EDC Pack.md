@@ -10,7 +10,8 @@ I'd like to make a new everyday backpack.
 ## Sizing
 
 * Back/front panel: 10.5 x 17
-* Depth: 6"
+* Depth: 4.5" expand to 7"
+    * ?
 
 ## Features
 
