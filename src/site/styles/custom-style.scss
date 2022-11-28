@@ -73,6 +73,8 @@ $large-base-font-size: 18px;
 
 $base-line-height: 1.8rem;
 
+$accent-color: #12b886;
+
 // Major Third scale
 $h1-font-size: 2.074rem;
 $h2-font-size: 1.728rem;
@@ -133,8 +135,20 @@ body.theme-dark {
   ul li ul, ul li ol, ol li ul, ol li ol { margin: 0 0 0 $base-line-height; }
   
   //blockquotes
-  blockquote { margin: 0 0 1.5rem 0; padding: 0 1rem 0 1.5rem; }
+  blockquote { margin: 0 0 1.5rem 0;
+    border-left: 4px solid rgba($accent-color, 0.5);
+    border-radius: 0 8px 8px 0;
+    padding: 1rem;
+    font-style: normal;
+    color: #dddddd;
+    &:before { display: none; }
+    p { display: block; }
+    p:last-child { margin-bottom: 0; }
+  }
   blockquote cite { display: block; font-size: 0.75rem; }
+
+  //links
+  a { color: $accent-color; }
   // ****** //
 
   // overrides
@@ -195,6 +209,9 @@ body.theme-dark {
     a {
       display: flex;
       padding: 15px 0;
+      &:hover {
+        text-decoration: underline;
+      }
     }
     img {
       display: block;
@@ -225,7 +242,8 @@ body.theme-dark {
     line-height: inherit;
     margin-top: 0;
   }
-  .home-link {
+  .home-link { display: none; }
+  /* .home-link {
     display: block;
     float: left;
     margin: 15px 20px 0 0;
@@ -234,7 +252,7 @@ body.theme-dark {
     font-size: 0.875rem;
     text-transform: uppercase;
   }
-  .home-link + h1 { clear: none; }
+  .home-link + h1 { clear: none; } */
   a.is-unresolved { opacity: 0.6; pointer-events: none; }
 
   // Tables in content
@@ -249,16 +267,6 @@ body.theme-dark {
   :not(pre)>code[class*=language-], pre[class*=language-] {
     background: transparent;
     padding: 0;
-  }
-
-  // blockquotes
-  blockquote {
-    padding: 1rem;
-    font-style: normal;
-    color: #c0c0c0;
-    &:before { display: none; }
-    p { display: block; }
-    p:last-child { margin-bottom: 0; }
   }
 }
 
