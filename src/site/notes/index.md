@@ -47,7 +47,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
-| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-11-26 |
+| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-11-28 |
 | 🥇 [[Uses\|Uses]]                                                 | 2022-11-25 |
 | 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
 | 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
@@ -64,6 +64,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                            | Updated    |
 | ----------------------------------------------- | ---------- |
+| 🥉 [[How to take a running selfie\|How to take a running selfie]]             | 2022-11-28 |
 | 🥉 [[96 - Articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] | 2022-11-27 |
 | 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-11-27 |
 | 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]           | 2022-11-27 |
@@ -73,7 +74,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥉 [[Mileage\|Mileage]]                                  | 2022-11-26 |
 | 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                         | 2022-11-26 |
 | 🥈 [[Reconciliation\|Reconciliation]]                           | 2022-11-26 |
-| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]             | 2022-11-26 |
 
 
 </div>
