@@ -17,7 +17,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | ----------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
 | [[📘 Code and Work\|📘 Code and Work]]                                                                         | 2022-11-25 | 🥉    |
 | [[📘 Faith\|📘 Faith]]                                                                                         | 2022-11-25 | 🥈    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                             | 2022-11-26 | 🥇    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                             | 2022-11-28 | 🥇    |
 | [[📘 Life\|📘 Life]]                                                                                           | 2022-11-25 | 🥉    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                           | 2022-11-25 | 🥉    |
 | [[📘 News Articles\|📘 News Articles]]                                                                         | 2022-11-25 | 🥈    |
@@ -44,6 +44,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                     | 2022-11-25 | 🥈    |
 | [[96 - Articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]       | 2022-11-17 | \-    |
 | [[How this site is built\|How this site is built]]                                                             | 2022-11-25 | 🥇    |
+| [[How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 🥉    |
 | [[index\|index]]                                                                                               | 2022-11-26 | \-    |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                   | 2022-11-25 | 🥈    |
 | [[JavaScript promisify a callback\|JavaScript promisify a callback]]                                           | 2022-11-25 | 🥈    |
