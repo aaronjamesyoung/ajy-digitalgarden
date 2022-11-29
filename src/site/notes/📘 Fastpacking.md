@@ -5,11 +5,6 @@
 
 ![](https://dgtzuqphqg23d.cloudfront.net/9Jhwubo9THqbObkR2VI02wg_O3eHwHboL_1vh9LY7vM-768x576.jpg)
 
-| Grade |
-| ----- |
-| 3     |
-
-
 ## What is Fastpacking?
 
 Fastpacking is essentially overnight backpacking, but running. So I carry a lightweight pack with overnight gear, food, and water, and generally run the flats / downs, and hike the uphills. Here are various notes, articles, and resources I use when planning fastpacking trips or gear.
