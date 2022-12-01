@@ -28,7 +28,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                             | 2022-11-26 | 🥈    |
 | [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]]         | 2022-11-26 | 🥈    |
 | [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                     | 2022-11-26 | 🥈    |
-| [[96 - Articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]           | 2022-11-27 | 🥉    |
+| [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                         | 2022-11-27 | 🥉    |
 | [[About Me\|About Me]]                                                                                         | 2022-11-12 | \-    |
 | [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-11-27 | 🥉    |
 | [[All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | \-    |
