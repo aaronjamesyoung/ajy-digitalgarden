@@ -3,7 +3,7 @@
 ---
 
 
-[[00 - Daily/2022-11-27\|2022-11-27]] [[📘 Faith\|📘 Faith]]
+[[00 - Daily/2022-11/2022-11-27\|2022-11-27]] [[📘 Faith\|📘 Faith]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_1TC6L26iBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
