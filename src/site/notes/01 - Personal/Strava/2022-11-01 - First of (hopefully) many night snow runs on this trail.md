@@ -3,7 +3,7 @@
 ---
 
 
-[[00 - Daily/2022-11-01\|2022-11-01]]
+[[00 - Daily/2022-11/2022-11-01\|2022-11-01]]
 
 [First of (hopefully) many night snow runs on this trail](https://www.strava.com/activities/8055765821)
 
