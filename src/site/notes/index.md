@@ -64,6 +64,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                            | Updated    |
 | ----------------------------------------------- | ---------- |
+| 🥈 [[Bullet Journaling\|Bullet Journaling]]                        | 2022-12-02 |
 | 🥉 [[How to take a running selfie\|How to take a running selfie]]             | 2022-11-28 |
 | 🥉 [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] | 2022-11-27 |
 | 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-11-27 |
@@ -73,7 +74,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥈 [[Navigation\|Navigation]]                               | 2022-11-26 |
 | 🥉 [[Mileage\|Mileage]]                                  | 2022-11-26 |
 | 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                         | 2022-11-26 |
-| 🥈 [[Reconciliation\|Reconciliation]]                           | 2022-11-26 |
 
 
 </div>
