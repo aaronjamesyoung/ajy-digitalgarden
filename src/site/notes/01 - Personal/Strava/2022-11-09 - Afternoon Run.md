@@ -3,7 +3,7 @@
 ---
 
 
-[[00 - Daily/2022-11-09\|2022-11-09]]
+[[00 - Daily/2022-11/2022-11-09\|2022-11-09]]
 
 [Afternoon Run](https://www.strava.com/activities/8094696886)
 
