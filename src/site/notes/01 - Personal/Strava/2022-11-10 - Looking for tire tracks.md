@@ -3,7 +3,7 @@
 ---
 
 
-[[00 - Daily/2022-11-10\|2022-11-10]]
+[[00 - Daily/2022-11/2022-11-10\|2022-11-10]]
 
 [Looking for tire tracks](https://www.strava.com/activities/8099089518)
 
