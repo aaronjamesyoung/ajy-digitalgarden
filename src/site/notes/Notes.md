@@ -36,7 +36,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-25 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                       | 2022-11-20 | 🥉    |
 | [[Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 🥈    |
-| [[Contact Me\|Contact Me]]                                                                                     | 2022-11-14 | \-    |
+| [[Contact Me\|Contact Me]]                                                                                     | 2022-12-04 | \-    |
 | [[Couch\|Couch]]                                                                                               | 2022-11-25 | 🥉    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-11-26 | 🥈    |
 | [[First Aid Kit\|First Aid Kit]]                                                                               | 2022-11-17 | 🥈    |
@@ -46,7 +46,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[96 - Articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]       | 2022-11-17 | \-    |
 | [[How this site is built\|How this site is built]]                                                             | 2022-11-25 | 🥇    |
 | [[How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 🥉    |
-| [[index\|index]]                                                                                               | 2022-11-26 | \-    |
+| [[index\|index]]                                                                                               | 2022-12-02 | \-    |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                   | 2022-11-25 | 🥈    |
 | [[JavaScript promisify a callback\|JavaScript promisify a callback]]                                           | 2022-11-25 | 🥈    |
 | [[Loft Bed\|Loft Bed]]                                                                                         | 2022-11-25 | 🥉    |
@@ -59,6 +59,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[MYOG Penta Tarp\|MYOG Penta Tarp]]                                                                           | 2022-11-25 | 🥈    |
 | [[MYOG Quilt\|MYOG Quilt]]                                                                                     | 2022-11-25 | 🥈    |
 | [[MYOG Rain Shell\|MYOG Rain Shell]]                                                                           | 2022-11-25 | 🥉    |
+| [[MYOG Snow Gaiters\|MYOG Snow Gaiters]]                                                                       | 2022-12-02 | 🥉    |
 | [[MYOG Square Tarp\|MYOG Square Tarp]]                                                                         | 2022-11-25 | 🥉    |
 | [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                                                           | 2022-11-25 | 🥉    |
 | [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                           | 2022-11-25 | 🥇    |
