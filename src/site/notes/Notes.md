@@ -29,8 +29,9 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]]         | 2022-11-26 | 🥈    |
 | [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                     | 2022-11-26 | 🥈    |
 | [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                         | 2022-11-27 | 🥉    |
+| [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                         | 2022-12-04 | 🥉    |
 | [[About Me\|About Me]]                                                                                         | 2022-11-12 | \-    |
-| [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-11-27 | 🥉    |
+| [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-12-04 | 🥉    |
 | [[All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-11-25 | 🥈    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-25 | 🥈    |
