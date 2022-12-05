@@ -3,6 +3,4 @@
 ---
 
 
-You may contact me via email at aaron@ajy.co.
-
-I'll add a form here sometime.
+You may contact me via email at aaron@ajy.co or follow me on [Strava](https://www.strava.com/athletes/aaronjamesyoung).
