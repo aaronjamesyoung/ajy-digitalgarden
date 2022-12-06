@@ -64,10 +64,10 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                            | Updated    |
 | ----------------------------------------------- | ---------- |
+| 🥈 [[Bullet Journaling\|Bullet Journaling]]                        | 2022-12-06 |
 | 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-12-04 |
 | 🥉 [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]         | 2022-12-04 |
 | 🥉 [[MYOG Snow Gaiters\|MYOG Snow Gaiters]]                        | 2022-12-02 |
-| 🥈 [[Bullet Journaling\|Bullet Journaling]]                        | 2022-12-02 |
 | 🥉 [[How to take a running selfie\|How to take a running selfie]]             | 2022-11-28 |
 | 🥉 [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] | 2022-11-27 |
 | 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]           | 2022-11-27 |
