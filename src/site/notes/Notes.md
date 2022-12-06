@@ -36,7 +36,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-11-25 | 🥈    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-25 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                       | 2022-11-20 | 🥉    |
-| [[Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 🥈    |
+| [[Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                     | 2022-12-04 | \-    |
 | [[Couch\|Couch]]                                                                                               | 2022-11-25 | 🥉    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-11-26 | 🥈    |
