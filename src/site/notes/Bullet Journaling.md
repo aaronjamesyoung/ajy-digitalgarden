@@ -5,6 +5,8 @@
 
 [[📘 Life\|📘 Life]]
 
+(todo, add pictures of notebook)
+
 ## What is Bullet Journaling?
 
 Bullet Journaling is a method of managing a personal calendar, planner, and journal with a focus on rapid logging - using terse bulleted statements to record your thoughts in real time and allow you to expand on them later. Bullet journaling proper is done in a physical notebook but there are many ways to set up a digital bullet journal in an app such as [Obsidian](https://obsidian.md/).
@@ -21,11 +23,21 @@ Bullet Journaling is a method of managing a personal calendar, planner, and jour
 * Don't overcomplicate, but add components like collections and long-form journaling as you go.
     * [5 Simple Tips to Start Bullet Journaling - YouTube](https://www.youtube.com/watch?v=IgqVEKcJEKw)
 
+### A suggested starting place
+
+Start with:
+
+* An index
+* Daily notes in order at the front of the notebook
+* Topical collections starting from the back of the notebook. Number your pages B1, B2, B3 from the back for indexing purposes.
+
 ## What I do
 
-* I use four components:
-    * **Index** - The first index spread is for my dated material that starts at the front of the notebook and the pages are numbered 1, 2, 3 as normal. The second index spread is for collections that start at the end of the notebook and pages are numbered B1, B2, B3 starting from the back.
-    * **Monthly view** - I log my monthly goals and focuses, but not calendar events.
+I use a hybrid of physical and digital notebooks. My daily notes and brainstorming go in my physical notebook, but my topical notes (eventually) go in my digital notebook.
+
+* I use these Bullet Journal components:
+    * **Index** - I use two 2-page spreads. The first index spread is for my dated material that starts at the front of the notebook and the pages are numbered 1, 2, 3 as normal. The second index spread is for collections that start at the end of the notebook and pages are numbered B1, B2, B3 starting from the back.
+    * **Master Task List (Weekly)** - This is the least bullet-journal'y thing I do. Each week I write a master task list for things I need to get done this week. I can refer to it all week long. If I come up with new tasks to be done in future weeks, I put them at the bottom of the page.
     * **Daily view** - Each day I write the tasks & events for the day and I rapid-log notes throughout the day including new events and tasks to schedule for a later date. For example, if I schedule an appointment for two weeks in the future, I'll note it in my rapid log and migrate it to my calendar at the end of the day.
         * All notes for the day are rapid-logged. This includes:
             * Thoughts and feelings
@@ -40,17 +52,10 @@ Bullet Journaling is a method of managing a personal calendar, planner, and jour
             * Incomplete and new daily tasks go into the next day's note.
             * Topical thoughts go into the appropriate collection at the end of the notebook.
             * Some notes allow me to do some long-form journaling. This goes at the end of the daily log before I begin the log for the following day.
-    * **Collections** - These are topical notes, not tied strictly to a date. These can be compilations of journaled thoughts on a subject, project management overviews, shopping lists, reference notes, etc.
+    * **Collections in physical journal** - I occasionally write topical, undated notes in my physical notebook. These can be compilations of journaled thoughts on a subject, project management overviews, shopping lists, reference notes, etc. They start at the back of the journal and are generally sketches or brainstorming when I don't have my computer handy, and are often migrated into my digital notebook.
         * My collections are at the end of my notebook to not break up the daily logs. The first collection goes at the end of the notebook and the page is numbered B1. I try to leave extra pages for collections if I feel they may expand, but this isn't a perfect art. Sometimes I may need to continue a collection on a non-consecutive page.
         * In my daily notes I can refer to collections using a page number.
         * In fact, I try to create two-way links between my dailies and collections when relevant so I can easily refer to one from the other.
-
-## Digital Bullet Journaling
-
-This is more like "What I *really* do", at least at the time of writing this.
-
-I use a paper bullet journal for my daily notes as described above. I find it better and more intentional than using a digital app.
-
-I use Obsidian for collections / topical notes. Obsidian can also do daily notes using templates and I've used this. It has some advantages like making personal trackers and easily interlinking notes.
-
-Some of my notes are published on my website in a [[Digital Garden\|Digital Garden]] format. Others are kept more private.
+    * **Collections in digital notebook** - I use [Obsidian](https://obsidian.md/) for collections / topical notes.
+        * Obsidian can also do daily notes using templates and I've used this. It has some advantages like making personal trackers and easily interlinking notes.
+        * Some of my notes are published on my website in a [[Digital Garden\|Digital Garden]] format. Others are kept more private.
