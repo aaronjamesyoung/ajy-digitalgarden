@@ -15,6 +15,7 @@ I've run a few ultramarathons and I ran cross country and track all through high
 
 | File                                                                                                             | Distance | Time  | Pace | Elevation |
 | ---------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---- | --------- |
+| [[01 - Personal/Strava/2022-12-04 - Afternoon Run\|2022-12-04 - Afternoon Run]]                               | 6        | 48:16 | 8:02 | 513       |
 | [[01 - Personal/Strava/2022-12-03 - Afternoon Run\|2022-12-03 - Afternoon Run]]                               | 6        | 49:06 | 8:10 | 555       |
 | [[01 - Personal/Strava/2022-12-01 - Screwed shoes and a headlamp\|2022-12-01 - Screwed shoes and a headlamp]] | 4.01     | 31:28 | 7:51 | 235       |
 | [[01 - Personal/Strava/2022-11-27 - Lunch Run\|2022-11-27 - Lunch Run]]                                       | 4.01     | 29:42 | 7:24 | 232       |
@@ -24,7 +25,6 @@ I've run a few ultramarathons and I ran cross country and track all through high
 | [[01 - Personal/Strava/2022-11-22 - Lunch Run\|2022-11-22 - Lunch Run]]                                       | 4.19     | 34:42 | 8:16 | 350       |
 | [[01 - Personal/Strava/2022-11-20 - Afternoon Run\|2022-11-20 - Afternoon Run]]                               | 4.24     | 33:38 | 7:56 | 350       |
 | [[01 - Personal/Strava/2022-11-19 - Afternoon Run\|2022-11-19 - Afternoon Run]]                               | 4.21     | 34:56 | 8:18 | 349       |
-| [[01 - Personal/Strava/2022-11-18 - Lunch Run\|2022-11-18 - Lunch Run]]                                       | 4.2      | 34:18 | 8:10 | 350       |
 
 
 ## Run planning
