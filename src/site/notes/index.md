@@ -47,7 +47,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
-| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-11-28 |
+| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-08 |
 | 🥇 [[Uses\|Uses]]                                                 | 2022-11-25 |
 | 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
 | 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
@@ -64,8 +64,9 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                            | Updated    |
 | ----------------------------------------------- | ---------- |
+| 🥉 [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]              | 2022-12-11 |
+| 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-12-11 |
 | 🥈 [[Bullet Journaling\|Bullet Journaling]]                        | 2022-12-06 |
-| 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-12-04 |
 | 🥉 [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]         | 2022-12-04 |
 | 🥉 [[MYOG Snow Gaiters\|MYOG Snow Gaiters]]                        | 2022-12-02 |
 | 🥉 [[How to take a running selfie\|How to take a running selfie]]             | 2022-11-28 |
@@ -73,7 +74,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]           | 2022-11-27 |
 | 🥈 [[📘 Running\|📘 Running]]                               | 2022-11-27 |
 | 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                            | 2022-11-26 |
-| 🥈 [[Navigation\|Navigation]]                               | 2022-11-26 |
 
 
 </div>
