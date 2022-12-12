@@ -17,7 +17,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | ----------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
 | [[📘 Code and Work\|📘 Code and Work]]                                                                         | 2022-11-25 | 🥉    |
 | [[📘 Faith\|📘 Faith]]                                                                                         | 2022-11-25 | 🥈    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                             | 2022-11-28 | 🥇    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                             | 2022-12-08 | 🥇    |
 | [[📘 Life\|📘 Life]]                                                                                           | 2022-11-25 | 🥉    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                           | 2022-11-25 | 🥉    |
 | [[📘 News Articles\|📘 News Articles]]                                                                         | 2022-11-25 | 🥈    |
@@ -30,8 +30,9 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                     | 2022-11-26 | 🥈    |
 | [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                         | 2022-11-27 | 🥉    |
 | [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                         | 2022-12-04 | 🥉    |
+| [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 🥉    |
 | [[About Me\|About Me]]                                                                                         | 2022-11-12 | \-    |
-| [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-12-04 | 🥉    |
+| [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-12-11 | 🥉    |
 | [[All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-11-25 | 🥈    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-25 | 🥈    |
