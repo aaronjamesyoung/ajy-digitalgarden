@@ -9,7 +9,7 @@ I've gone through several iterations of my website over the years, but this one 
 
 Previous versions of my site have been built with WordPress (usually) or a static site generator such as Pelican.
 
-In the past I have used a standard pages/blog site which requires me to keep information updated on my site (which is only useful for other people) and pressures me to write content. So I'm trying a new model which seems more useful for me and more seamless to update: the digital garden.
+In the past I have used a standard pages/blog site which requires me to keep information updated on my site (which is only useful for other people) and pressures me to write content. So I'm trying a new model which seems more useful for me and more seamless to update: the [[Digital Garden\|Digital Garden]].
 
 You can see my brainstorming process here: [[Website thoughts\|Website thoughts]]
 
