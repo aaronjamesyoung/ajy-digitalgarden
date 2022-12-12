@@ -11,6 +11,7 @@ I'm a trail runner and JavaScript developer located in Bend, Oregon.
 
 Welcome to my website. It's more a collection of notes (which I update over time) rather than strictly a blog. Here's some stuff you can do:
 
+* Read about [[How this site is built\|How this site is built]]
 * Follow me on [Strava](https://www.strava.com/athletes/aaronjamesyoung) to see my running adventures
 * Get in touch about working on a web development project. I work with Vue, Node, and WordPress. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 * Find out more [[About Me\|About Me]]
@@ -47,11 +48,11 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
+| 🥇 [[How this site is built\|How this site is built]]                               | 2022-12-12 |
 | 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-08 |
 | 🥇 [[Uses\|Uses]]                                                 | 2022-11-25 |
 | 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
 | 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
-| 🥇 [[How this site is built\|How this site is built]]                               | 2022-11-25 |
 | 🥇 [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
 | 🥇 [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]  | 2022-11-25 |
 | 🥇 [[Running Gear\|Running Gear]]                                         | 2022-11-19 |
@@ -64,6 +65,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                            | Updated    |
 | ----------------------------------------------- | ---------- |
+| 🥈 [[Digital Garden\|Digital Garden]]                           | 2022-12-12 |
 | 🥉 [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]              | 2022-12-11 |
 | 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                       | 2022-12-11 |
 | 🥈 [[Bullet Journaling\|Bullet Journaling]]                        | 2022-12-06 |
@@ -73,7 +75,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥉 [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] | 2022-11-27 |
 | 🥉 [[Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]           | 2022-11-27 |
 | 🥈 [[📘 Running\|📘 Running]]                               | 2022-11-27 |
-| 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                            | 2022-11-26 |
 
 
 </div>
