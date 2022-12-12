@@ -40,15 +40,16 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                     | 2022-12-04 | \-    |
 | [[Couch\|Couch]]                                                                                               | 2022-11-25 | 🥉    |
+| [[Digital Garden\|Digital Garden]]                                                                             | 2022-12-12 | 🥈    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-11-26 | 🥈    |
 | [[First Aid Kit\|First Aid Kit]]                                                                               | 2022-11-17 | 🥈    |
 | [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                                                 | 2022-11-26 | 🥈    |
 | [[Fostering\|Fostering]]                                                                                       | 2022-11-26 | 🥉    |
 | [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                     | 2022-11-25 | 🥈    |
 | [[96 - Articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]       | 2022-11-17 | \-    |
-| [[How this site is built\|How this site is built]]                                                             | 2022-11-25 | 🥇    |
+| [[How this site is built\|How this site is built]]                                                             | 2022-12-12 | 🥇    |
 | [[How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 🥉    |
-| [[index\|index]]                                                                                               | 2022-12-02 | \-    |
+| [[index\|index]]                                                                                               | 2022-12-12 | \-    |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                   | 2022-11-25 | 🥈    |
 | [[JavaScript promisify a callback\|JavaScript promisify a callback]]                                           | 2022-11-25 | 🥈    |
 | [[Loft Bed\|Loft Bed]]                                                                                         | 2022-11-25 | 🥉    |
