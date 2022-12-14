@@ -13,18 +13,18 @@ I've run a few ultramarathons and I ran cross country and track all through high
 
 [[All Strava Activities\|All Strava Activities]] - [Follow me on Strava](https://www.strava.com/athletes/aaronjamesyoung)
 
-| File                                                                                                             | Distance | Time  | Pace | Elevation |
-| ---------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---- | --------- |
-| [[01 - Personal/Strava/2022-12-06 - Moon and monorail\|2022-12-06 - Moon and monorail]]                       | 4.69     | 37:31 | 7:59 | 375       |
-| [[01 - Personal/Strava/2022-12-04 - Afternoon Run\|2022-12-04 - Afternoon Run]]                               | 6        | 48:16 | 8:02 | 513       |
-| [[01 - Personal/Strava/2022-12-03 - Afternoon Run\|2022-12-03 - Afternoon Run]]                               | 6        | 49:06 | 8:10 | 555       |
-| [[01 - Personal/Strava/2022-12-01 - Screwed shoes and a headlamp\|2022-12-01 - Screwed shoes and a headlamp]] | 4.01     | 31:28 | 7:51 | 235       |
-| [[01 - Personal/Strava/2022-11-27 - Lunch Run\|2022-11-27 - Lunch Run]]                                       | 4.01     | 29:42 | 7:24 | 232       |
-| [[01 - Personal/Strava/2022-11-26 - Afternoon Run\|2022-11-26 - Afternoon Run]]                               | 4.01     | 29:50 | 7:26 | 21        |
-| [[01 - Personal/Strava/2022-11-25 - Afternoon Run\|2022-11-25 - Afternoon Run]]                               | 4.01     | 29:49 | 7:26 | 234       |
-| [[01 - Personal/Strava/2022-11-24 - EZ CZ\|2022-11-24 - EZ CZ]]                                               | 4.01     | 29:13 | 7:17 | 106       |
-| [[01 - Personal/Strava/2022-11-22 - Lunch Run\|2022-11-22 - Lunch Run]]                                       | 4.19     | 34:42 | 8:16 | 350       |
-| [[01 - Personal/Strava/2022-11-20 - Afternoon Run\|2022-11-20 - Afternoon Run]]                               | 4.24     | 33:38 | 7:56 | 350       |
+| File                                                                                                             | Distance | Time    | Pace | Elevation |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | ------- | ---- | --------- |
+| [[01 - Personal/Strava/2022-12-12 - Afternoon Run\|2022-12-12 - Afternoon Run]]                               | 7.01     | 1:00:15 | 8:35 | 613       |
+| [[01 - Personal/Strava/2022-12-11 - Afternoon Run\|2022-12-11 - Afternoon Run]]                               | 4        | 32:05   | 8:00 | 231       |
+| [[01 - Personal/Strava/2022-12-06 - Moon and monorail\|2022-12-06 - Moon and monorail]]                       | 4.69     | 37:31   | 7:59 | 375       |
+| [[01 - Personal/Strava/2022-12-04 - Afternoon Run\|2022-12-04 - Afternoon Run]]                               | 6        | 48:16   | 8:02 | 513       |
+| [[01 - Personal/Strava/2022-12-03 - Afternoon Run\|2022-12-03 - Afternoon Run]]                               | 6        | 49:06   | 8:10 | 555       |
+| [[01 - Personal/Strava/2022-12-01 - Screwed shoes and a headlamp\|2022-12-01 - Screwed shoes and a headlamp]] | 4.01     | 31:28   | 7:51 | 235       |
+| [[01 - Personal/Strava/2022-11-27 - Lunch Run\|2022-11-27 - Lunch Run]]                                       | 4.01     | 29:42   | 7:24 | 232       |
+| [[01 - Personal/Strava/2022-11-26 - Afternoon Run\|2022-11-26 - Afternoon Run]]                               | 4.01     | 29:50   | 7:26 | 21        |
+| [[01 - Personal/Strava/2022-11-25 - Afternoon Run\|2022-11-25 - Afternoon Run]]                               | 4.01     | 29:49   | 7:26 | 234       |
+| [[01 - Personal/Strava/2022-11-24 - EZ CZ\|2022-11-24 - EZ CZ]]                                               | 4.01     | 29:13   | 7:17 | 106       |
 
 
 ## Run planning
