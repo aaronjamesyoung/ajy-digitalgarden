@@ -35,5 +35,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% if dgShowBacklinks === true or dgShowLocalGraph === true%}
       {%include "components/sidebar.njk"%}
     {% endif %}
+
+    {%include "components/link-preview.njk" %}
   </body>
 </html>
