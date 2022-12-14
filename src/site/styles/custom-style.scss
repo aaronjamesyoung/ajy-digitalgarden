@@ -305,9 +305,8 @@ body.theme-dark {
 
 // Popups
 #tooltip-wrapper {
-  background: white;
+  background: darken(#202b38, 10);
   padding: 1em;
-  border: 1px solid #ddd;
   border-radius: 4px;
   overflow: hidden;
   position: absolute;

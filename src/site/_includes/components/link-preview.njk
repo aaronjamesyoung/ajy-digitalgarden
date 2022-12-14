@@ -37,7 +37,7 @@
         iframe.onload = function () {
           tooltipContentHtml = ''
           tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
-          tooltipContentHtml += iframe.contentWindow.document.querySelector('content').innerHTML
+          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
           tooltipContent.innerHTML = tooltipContentHtml
           linkHistories[event.target.getAttribute("href")] = tooltipContentHtml
           tooltipWrapper.style.display = 'block';
