@@ -36,7 +36,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-11-25 | 🥈    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-25 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                       | 2022-11-20 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                       | 2022-12-13 | 🥉    |
 | [[Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                     | 2022-12-04 | \-    |
 | [[Couch\|Couch]]                                                                                               | 2022-11-25 | 🥉    |
@@ -48,6 +48,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                     | 2022-11-25 | 🥈    |
 | [[96 - Articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]       | 2022-11-17 | \-    |
 | [[How this site is built\|How this site is built]]                                                             | 2022-12-12 | 🥇    |
+| [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                     | 2022-12-14 | 🥉    |
 | [[How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 🥉    |
 | [[index\|index]]                                                                                               | 2022-12-12 | \-    |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                   | 2022-11-25 | 🥈    |
@@ -55,7 +56,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Loft Bed\|Loft Bed]]                                                                                         | 2022-11-25 | 🥉    |
 | [[Means and Ends\|Means and Ends]]                                                                             | 2022-11-25 | 🥈    |
 | [[Mileage\|Mileage]]                                                                                           | 2022-11-26 | 🥉    |
-| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-11-26 | 🥈    |
+| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-12-14 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-11-25 | 🥈    |
 | [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-11-25 | 🥉    |
 | [[MYOG Net Tent\|MYOG Net Tent]]                                                                               | 2022-11-12 | 🥉    |
@@ -72,7 +73,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Notes\|Notes]]                                                                                               | 2022-11-27 | \-    |
 | [[Obsidian ideas\|Obsidian ideas]]                                                                             | 2022-11-17 | 🥉    |
 | [[Oregon Desert Trail\|Oregon Desert Trail]]                                                                   | 2022-11-21 | 🥉    |
-| [[Quotes\|Quotes]]                                                                                             | 2022-11-15 | 🥉    |
+| [[Quotes\|Quotes]]                                                                                             | 2022-12-15 | 🥉    |
 | [[Reconciliation\|Reconciliation]]                                                                             | 2022-11-26 | 🥈    |
 | [[Résumé\|Résumé]]                                                                                             | 2022-11-11 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                 | 2022-11-19 | 🥇    |
