@@ -3,6 +3,10 @@
 ---
 
 
+Historians have a word for Germans who joined the Nazi party, not because they hated Jews, but out of a hope for restored patriotism, or a sense of economic anxiety, or a hope to preserve their religious values, or dislike of their opponents, or raw political opportunism, or convenience, or ignorance, or greed. That word is "Nazi." Nobody cares about their motives anymore. They joined what they joined. They lent their support and their moral approval. And, in so doing, they bound themselves to everything that came after. Who cares any more what particular knot they used in the binding?
+
+-   A. R. Moxon
+
 TODO break these apart and put in book notes.
 
 ## Self
