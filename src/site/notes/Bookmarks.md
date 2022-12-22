@@ -38,6 +38,7 @@
 * [FreeSewing](https://freesewing.org/)
 * [Library Genesis](http://libgen.rs/)
 * [LibriVox](https://librivox.org/)
+* [OpenAI Chat](https://chat.openai.com/chat)
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Snotel UpdateReport Entry Page](https://wcc.sc.egov.usda.gov/reports/SelectUpdateReport.html)
