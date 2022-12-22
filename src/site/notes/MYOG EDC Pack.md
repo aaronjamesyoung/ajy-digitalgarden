@@ -7,6 +7,13 @@ My current everyday backpack is an [REI Co-op Ruckpack 28](https://www.rei.com/p
 
 I'd like to make a new everyday backpack.
 
+## Purchase
+
+* 55" - 60" separating zipper, big, one pull
+* 5 feet coil zipper, big, 3 pulls
+* Shoulder strap foam
+* Power mesh
+
 ## Sizing
 
 * Back/front panel: 10.5 x 17
