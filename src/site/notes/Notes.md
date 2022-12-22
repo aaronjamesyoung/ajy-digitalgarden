@@ -31,8 +31,9 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                         | 2022-11-27 | 🥉    |
 | [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                         | 2022-12-04 | 🥉    |
 | [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 🥉    |
+| [[2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                     | 2022-12-22 | 🥉    |
 | [[About Me\|About Me]]                                                                                         | 2022-11-12 | \-    |
-| [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-12-11 | 🥉    |
+| [[Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-12-22 | 🥉    |
 | [[All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-11-25 | 🥈    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-25 | 🥈    |
@@ -48,7 +49,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                     | 2022-11-25 | 🥈    |
 | [[96 - Articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]       | 2022-11-17 | \-    |
 | [[How this site is built\|How this site is built]]                                                             | 2022-12-12 | 🥇    |
-| [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                     | 2022-12-14 | 🥉    |
+| [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                     | 2022-12-22 | 🥉    |
 | [[How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 🥉    |
 | [[index\|index]]                                                                                               | 2022-12-12 | \-    |
 | [[JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                   | 2022-11-25 | 🥈    |
@@ -56,7 +57,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Loft Bed\|Loft Bed]]                                                                                         | 2022-11-25 | 🥉    |
 | [[Means and Ends\|Means and Ends]]                                                                             | 2022-11-25 | 🥈    |
 | [[Mileage\|Mileage]]                                                                                           | 2022-11-26 | 🥉    |
-| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-12-14 | 🥈    |
+| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-12-22 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-11-25 | 🥈    |
 | [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-11-25 | 🥉    |
 | [[MYOG Net Tent\|MYOG Net Tent]]                                                                               | 2022-11-12 | 🥉    |
