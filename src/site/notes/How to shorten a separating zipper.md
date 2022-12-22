@@ -3,7 +3,7 @@
 ---
 
 
-[[MYOG\|MYOG]]
+[[📘 MYOG\|📘 MYOG]]
 
 [How to shorten a separating zipper: Youtube](https://www.youtube.com/watch?v=iuugU4r1AVI)
 
