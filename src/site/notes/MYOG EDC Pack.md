@@ -3,6 +3,8 @@
 ---
 
 
+[[📘 MYOG\|📘 MYOG]]
+
 My current everyday backpack is an [REI Co-op Ruckpack 28](https://www.rei.com/product/176900/rei-co-op-ruckpack-28-recycled-daypack-mens?color=BLACK) (although I think mine is an older generation than the one linked). I've had it a few years and it's held up really well. But it's starting to show some wear, and it has a few annoyances that I think I can do better with.
 
 I'd like to make a new everyday backpack.
