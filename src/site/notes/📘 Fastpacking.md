@@ -14,9 +14,7 @@ Fastpacking is essentially overnight backpacking, but running. So I carry a ligh
 * [[Mileage\|Mileage]]
 * [[Nutrition\|Nutrition]]
 * [[Navigation\|Navigation]]
-* [[Training\|Training]]
 * [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
-* [[Wildlife and bugs\|Wildlife and bugs]]
 
 ## Trip Reports
 
@@ -26,7 +24,7 @@ Fastpacking is essentially overnight backpacking, but running. So I carry a ligh
 
 ## Route recommendations in Central Oregon
 
-Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all these routes.
+Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all these routes. Links to be added.
 
 * If you're a beginner, going out for the first time, I'd recommend a low-intensity single night trip. The [[Brokentop Circuit\|Brokentop Circuit]] is a 42-mile loop (with some additional miles from potential out and backs) around Brokentop with moderate hills, so it does require fitness.
 * The [[Three Sisters Loop\|Three Sisters Loop]] is a popular loop that circumnavigates the Three Sisters in the Central Oregon Cascades. The loop itself is 44 miles, but there are no trailheads directly on the loop - you have to access the route from one of several side trails. Depending on your chosen trailhead, you can do this route in anywhere from 50 to 75 or more miles. Recommend 2 nights for most options.
@@ -44,6 +42,5 @@ Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all 
 
 * [[Backpacking Routes\|Backpacking Routes]]
 * [[Oregon Desert Trail\|Oregon Desert Trail]]
-* [[Wallowas\|Wallowas]]
 
 #topic 
