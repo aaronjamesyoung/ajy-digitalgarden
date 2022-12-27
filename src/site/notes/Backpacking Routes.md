@@ -19,7 +19,7 @@ If Trip Report isn't written and linked here, DO IT
 * **ODT mcdermitt loop** [Multi-Day Loop Hikes Along the Oregon Desert Trail - Oregon Natural Desert Association](https://onda.org/2021/08/oregon-desert-trail-loop-hikes/)
 * **Steens / Pueblo** https://www.reddit.com/r/Ultralight/comments/6lxgas/trip_report_oregon_desert_trail_section_hikes/
 * Three Sisters Traverse
-* [[Wallowas\|Wallowas]] Mountains
+* Wallowa Mountains
 
 ## Ideas
 
