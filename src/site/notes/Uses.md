@@ -7,7 +7,7 @@
 
 ## Life stuff
 
-- REI Ruckpack 28 Backpack, Black – it’s a good everyday pack
+- REI Ruckpack 28 Backpack, Black – it’s a good everyday pack but near the end of it's life.
 - Hydro Flask 12oz Coffee Mug – Keeps my coffee hot for hours
 - Hydro Flask 32oz Wide Mouth water bottle
 - Tito titanium spork
@@ -49,6 +49,7 @@
 ## Online Services
 
 - Bitwarden
+- Bookwyrm
 - Digital Ocean
 - Pocket Casts. Podcasts in my playlist include but are not limited to:
     - [Dan Carlin’s Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
