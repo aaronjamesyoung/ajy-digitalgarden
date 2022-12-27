@@ -9,9 +9,9 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 
 ## Notes
 
-| Notes                                                                      |
-| -------------------------------------------------------------------------- |
-| <ul><li>[[Bend smoke days by year.md\\|Bend smoke days by year]]</li></ul> |
+| Notes                                                                                                   |
+| ------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Bend smoke days by year.md\\|Bend smoke days by year]]</li><li>[[index.md\\|index]]</li></ul> |
 
 
 ## External Articles
