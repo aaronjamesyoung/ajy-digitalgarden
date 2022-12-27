@@ -7,29 +7,17 @@
 
 ## Hello!
 
-I'm a trail runner and JavaScript developer located in Bend, Oregon.
+**I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]]. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
-Welcome to my website. It's more a collection of notes (which I update over time) rather than strictly a blog. Here's some stuff you can do:
+**What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
-* Read about [[How this site is built\|How this site is built]]
-* Follow me on [Strava](https://www.strava.com/athletes/aaronjamesyoung) to see my running adventures
-* Get in touch about working on a web development project. I work with Vue, Node, and WordPress. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
-* Find out more [[About Me\|About Me]]
-* Read this site to see what I'm working on and thinking about. I suggest starting at the links below.
+**Outdoors,** I spend a lot of time [[📘 Running\|📘 Running]] on trails and [[📘 Fastpacking\|📘 Fastpacking]] when I can. I also [[📘 MYOG\|📘 MYOG]] ("Make your own gear") a lot of the items I use.
 
-## Topics
+**I work as a web developer**, so I'm working on expanding my notes on [[📘 Code and Work\|📘 Code and Work]].
 
-- [[📘 Code and Work\|📘 Code and Work]]
-- [[📘 Faith\|📘 Faith]]
-- [[📘 Fastpacking\|📘 Fastpacking]]
-- [[📘 Life\|📘 Life]]
-- [[📘 MYOG\|📘 MYOG]]
-- [[📘 News Articles\|📘 News Articles]]
-- [[📘 Projects\|📘 Projects]]
-- [[📘 Running\|📘 Running]]
+**I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important.
 
-
-What are [[Topic Notes\|Topic Notes]]?
+**Finally, you can follow me** on [Strava](https://www.strava.com/athletes/1057219) or [BookWyrm](https://bookwyrm.social/user/aaronjamesyoung)
 
 ## Notes
 
@@ -48,9 +36,9 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
+| 🥇 [[Uses\|Uses]]                                                 | 2022-12-27 |
+| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-27 |
 | 🥇 [[How this site is built\|How this site is built]]                               | 2022-12-12 |
-| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-08 |
-| 🥇 [[Uses\|Uses]]                                                 | 2022-11-25 |
 | 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
 | 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
 | 🥇 [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
@@ -65,16 +53,16 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                      | Updated    |
 | ----------------------------------------- | ---------- |
+| 🥈 [[Music History for 6th Graders\|Music History for 6th Graders]]      | 2022-12-27 |
+| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]       | 2022-12-27 |
+| 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]         | 2022-12-27 |
+| 🥈 [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]     | 2022-12-27 |
+| 🥈 [[📘 Running\|📘 Running]]                         | 2022-12-27 |
+| 🥈 [[Backpacking Routes\|Backpacking Routes]]                 | 2022-12-27 |
+| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                   | 2022-12-27 |
+| 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]]                    | 2022-12-23 |
 | 🥉 [[How to shorten a separating zipper\|How to shorten a separating zipper]] | 2022-12-22 |
 | 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                      | 2022-12-22 |
-| 🥉 [[Advent - 2022 Fall\|Advent - 2022 Fall]]                 | 2022-12-22 |
-| 🥉 [[2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]         | 2022-12-22 |
-| 🥉 [[Quotes\|Quotes]]                             | 2022-12-15 |
-| 🥉 [[Bookmarks\|Bookmarks]]                          | 2022-12-13 |
-| 🥈 [[Digital Garden\|Digital Garden]]                     | 2022-12-12 |
-| 🥉 [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]        | 2022-12-11 |
-| 🥈 [[Bullet Journaling\|Bullet Journaling]]                  | 2022-12-06 |
-| 🥉 [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]   | 2022-12-04 |
 
 
 </div>
