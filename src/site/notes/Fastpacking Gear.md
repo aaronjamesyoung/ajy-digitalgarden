@@ -14,8 +14,7 @@ Stuff that might go with me on a backpacking or fastpacking trip. This is my gea
 
 ## Shelter
 
-* [[MYOG Square Tarp\|MYOG Square Tarp]]
-* [[MYOG Net Tent\|MYOG Net Tent]] - This will come with me during bug season
+* [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]] (the net tent only is packed during bug season)
 
 ## Sleep
 
