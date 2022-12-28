@@ -17,7 +17,7 @@
 
 **I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important.
 
-**Finally, you can follow me** on [Strava](https://www.strava.com/athletes/1057219) or [BookWyrm](https://bookwyrm.social/user/aaronjamesyoung)
+**Finally, you can follow me** on [Strava](https://www.strava.com/athletes/1057219) or [BookWyrm](https://bookwyrm.social/user/aaronjamesyoung/books/read?sort=author)
 
 ## Notes
 
@@ -36,11 +36,11 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
+| 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-12-28 |
 | 🥇 [[Uses\|Uses]]                                                 | 2022-12-27 |
 | 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-27 |
 | 🥇 [[How this site is built\|How this site is built]]                               | 2022-12-12 |
 | 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
-| 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-11-25 |
 | 🥇 [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
 | 🥇 [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]  | 2022-11-25 |
 | 🥇 [[Running Gear\|Running Gear]]                                         | 2022-11-19 |
@@ -51,18 +51,18 @@ See below, or view all [[Notes\|Notes]]
 
 ### Recent Notes
 
-| Note                                      | Updated    |
-| ----------------------------------------- | ---------- |
-| 🥈 [[Music History for 6th Graders\|Music History for 6th Graders]]      | 2022-12-27 |
-| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]       | 2022-12-27 |
-| 🥈 [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]         | 2022-12-27 |
-| 🥈 [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]     | 2022-12-27 |
-| 🥈 [[📘 Running\|📘 Running]]                         | 2022-12-27 |
-| 🥈 [[Backpacking Routes\|Backpacking Routes]]                 | 2022-12-27 |
-| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]                   | 2022-12-27 |
-| 🥉 [[MYOG Rain Shell\|MYOG Rain Shell]]                    | 2022-12-23 |
-| 🥉 [[How to shorten a separating zipper\|How to shorten a separating zipper]] | 2022-12-22 |
-| 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                      | 2022-12-22 |
+| Note                                 | Updated    |
+| ------------------------------------ | ---------- |
+| 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]       | 2022-12-28 |
+| 🥈 [[MYOG Quilt\|MYOG Quilt]]                    | 2022-12-28 |
+| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]              | 2022-12-28 |
+| 🥉 [[📘 MYOG\|📘 MYOG]]                       | 2022-12-28 |
+| 🥈 [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]] | 2022-12-28 |
+| 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]          | 2022-12-28 |
+| 🥈 [[MYOG Fastpack\|MYOG Fastpack]]                 | 2022-12-28 |
+| 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                 | 2022-12-27 |
+| 🥈 [[Music History for 6th Graders\|Music History for 6th Graders]] | 2022-12-27 |
+| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]  | 2022-12-27 |
 
 
 </div>
