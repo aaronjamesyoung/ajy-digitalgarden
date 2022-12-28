@@ -9,6 +9,8 @@ My current everyday backpack is an [REI Co-op Ruckpack 28](https://www.rei.com/p
 
 I'd like to make a new everyday backpack.
 
+[Pro-level zippers for your gear projects the easy way 🤐 - YouTube](https://www.youtube.com/watch?v=Tjf7XQ08I-c) - use technique 2 for both my continuous zippers. Separate bottom panel.
+
 ## Purchase
 
 * 55" - 60" separating zipper, big, one pull
