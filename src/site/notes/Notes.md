@@ -19,7 +19,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Faith\|📘 Faith]]                                                                                         | 2022-11-25 | 🥈    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                             | 2022-12-27 | 🥇    |
 | [[📘 Life\|📘 Life]]                                                                                           | 2022-11-25 | 🥉    |
-| [[📘 MYOG\|📘 MYOG]]                                                                                           | 2022-11-25 | 🥉    |
+| [[📘 MYOG\|📘 MYOG]]                                                                                           | 2022-12-28 | 🥉    |
 | [[📘 News Articles\|📘 News Articles]]                                                                         | 2022-11-25 | 🥈    |
 | [[📘 Projects\|📘 Projects]]                                                                                   | 2022-11-25 | 🥉    |
 | [[📘 Running\|📘 Running]]                                                                                     | 2022-12-27 | 🥈    |
@@ -42,7 +42,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Contact Me\|Contact Me]]                                                                                     | 2022-12-04 | \-    |
 | [[Couch\|Couch]]                                                                                               | 2022-11-25 | 🥉    |
 | [[Digital Garden\|Digital Garden]]                                                                             | 2022-12-12 | 🥈    |
-| [[Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-12-27 | 🥈    |
+| [[Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-12-28 | 🥈    |
 | [[First Aid Kit\|First Aid Kit]]                                                                               | 2022-11-17 | 🥈    |
 | [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                                                 | 2022-12-27 | 🥈    |
 | [[Fostering\|Fostering]]                                                                                       | 2022-11-26 | 🥉    |
@@ -58,17 +58,16 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Means and Ends\|Means and Ends]]                                                                             | 2022-11-25 | 🥈    |
 | [[Mileage\|Mileage]]                                                                                           | 2022-11-26 | 🥉    |
 | [[Music History for 6th Graders\|Music History for 6th Graders]]                                               | 2022-12-27 | 🥈    |
-| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-12-22 | 🥈    |
-| [[MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-11-25 | 🥈    |
-| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-11-25 | 🥉    |
-| [[MYOG Net Tent\|MYOG Net Tent]]                                                                               | 2022-11-12 | 🥉    |
+| [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-12-27 | 🥈    |
+| [[MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-12-28 | 🥈    |
+| [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-12-28 | 🥉    |
 | [[MYOG Penta Tarp\|MYOG Penta Tarp]]                                                                           | 2022-11-25 | 🥈    |
-| [[MYOG Quilt\|MYOG Quilt]]                                                                                     | 2022-11-25 | 🥈    |
+| [[MYOG Quilt\|MYOG Quilt]]                                                                                     | 2022-12-28 | 🥈    |
 | [[MYOG Rain Shell\|MYOG Rain Shell]]                                                                           | 2022-12-23 | 🥉    |
 | [[MYOG Snow Gaiters\|MYOG Snow Gaiters]]                                                                       | 2022-12-02 | 🥉    |
-| [[MYOG Square Tarp\|MYOG Square Tarp]]                                                                         | 2022-11-25 | 🥉    |
-| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                                                           | 2022-11-25 | 🥉    |
-| [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                           | 2022-11-25 | 🥇    |
+| [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]]                                               | 2022-12-28 | 🥈    |
+| [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                                                           | 2022-12-28 | 🥉    |
+| [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                           | 2022-12-28 | 🥇    |
 | [[MYOG Wind Shell\|MYOG Wind Shell]]                                                                           | 2022-11-25 | 🥉    |
 | [[Navigation\|Navigation]]                                                                                     | 2022-11-26 | 🥈    |
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]               | 2022-11-25 | 🥇    |
