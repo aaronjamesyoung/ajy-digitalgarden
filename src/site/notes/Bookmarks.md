@@ -9,16 +9,15 @@
 ## Aaron
 
 * [Asana](https://app.asana.com/0/home/17941980459425)
+* [BookWyrm](https://bookwyrm.social/)
 * [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
 * [FreshRSS (homeserver)](https://hs.ajy.co/reader/i/)
-* [Gitea - Pro Q](https://aaron.proqsolutions.com/git)
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 * [Google Voice](https://voice.google.com/u/0/messages)
 * [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 * [Nextcloud (Homeserver)](https://hs.ajy.co/nextcloud/index.php/apps/dashboard/)
 * [PhotoPrism (Homeserver)](https://photoprism.ajy.co/browse)
 * [Pocket Casts](https://play.pocketcasts.com/new-releases)
-* [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=44.05675188852766&lng=-121.50398254394531&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=58&gain=1.0&gamma=1.0&atmFilter=&showDates=false)
 * [Strava](https://www.strava.com/dashboard)
 
 ## Aarontable
@@ -41,6 +40,7 @@
 * [OpenAI Chat](https://chat.openai.com/chat)
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
 * [Project Gutenberg](https://www.gutenberg.org/)
+* [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=44.05675188852766&lng=-121.50398254394531&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=58&gain=1.0&gamma=1.0&atmFilter=&showDates=false)
 * [Snotel UpdateReport Entry Page](https://wcc.sc.egov.usda.gov/reports/SelectUpdateReport.html)
 * [Standard Ebooks](https://standardebooks.org/)
 * [Syncthing](http://localhost:8384/)
@@ -62,6 +62,7 @@
 * [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/)
 * [Crater Invoicing software](https://craterapp.com/)
 * [Everhour](https://app.everhour.com/#/time)
+* [Gitea - Pro Q](https://aaron.proqsolutions.com/git)
 * [GitHub - quatrochan/Equal: 🧬 Equal is a Vue 3 UI library based on TypeScript](https://github.com/quatrochan/Equal)
 * [Matomo (homeserver)](https://hs.ajy.co/matomo/)
 * [Node-Red Flows](https://flows.nodered.org/)
