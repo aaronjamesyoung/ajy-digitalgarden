@@ -11,13 +11,11 @@
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
-**Outdoors,** I spend a lot of time [[📘 Running\|📘 Running]] on trails and [[📘 Fastpacking\|📘 Fastpacking]] when I can. I also [[📘 MYOG\|📘 MYOG]] ("Make your own gear") a lot of the items I use.
+**Outdoors,** I spend a lot of time [[📘 Running\|📘 Running]] on trails and [[📘 Fastpacking\|📘 Fastpacking]] when I can. I also [[📘 MYOG\|📘 MYOG]] ("Make your own gear") a lot of the items I use. **Want to track my running?** Follow me on [Strava](https://www.strava.com/athletes/1057219).
 
 **I work as a web developer**, so I'm working on expanding my notes on [[📘 Code and Work\|📘 Code and Work]].
 
-**I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important.
-
-**Finally, you can follow me** on [Strava](https://www.strava.com/athletes/1057219) or [BookWyrm](https://bookwyrm.social/user/aaronjamesyoung/books/read?sort=author)
+**I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.social/user/aaronjamesyoung/books/read?sort=author) to track the books I've been reading. (If you're on Mastodon or another Fediverse network, you can follow my BookWyrm account from there.)
 
 ## Notes
 
@@ -53,6 +51,8 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                 | Updated    |
 | ------------------------------------ | ---------- |
+| 🥈 [[My goals for 2023\|My goals for 2023]]             | 2022-12-29 |
+| 🥉 [[Bookmarks\|Bookmarks]]                     | 2022-12-28 |
 | 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]       | 2022-12-28 |
 | 🥈 [[MYOG Quilt\|MYOG Quilt]]                    | 2022-12-28 |
 | 🥈 [[Fastpacking Gear\|Fastpacking Gear]]              | 2022-12-28 |
@@ -61,8 +61,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]          | 2022-12-28 |
 | 🥈 [[MYOG Fastpack\|MYOG Fastpack]]                 | 2022-12-28 |
 | 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                 | 2022-12-27 |
-| 🥈 [[Music History for 6th Graders\|Music History for 6th Graders]] | 2022-12-27 |
-| 🥈 [[First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]  | 2022-12-27 |
 
 
 </div>
