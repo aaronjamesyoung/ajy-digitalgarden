@@ -51,6 +51,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                 | Updated    |
 | ------------------------------------ | ---------- |
+| 🥈 [[Recommended Books\|Recommended Books]]             | 2022-12-30 |
 | 🥈 [[My goals for 2023\|My goals for 2023]]             | 2022-12-29 |
 | 🥉 [[Bookmarks\|Bookmarks]]                     | 2022-12-28 |
 | 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]       | 2022-12-28 |
@@ -60,7 +61,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥈 [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]] | 2022-12-28 |
 | 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]          | 2022-12-28 |
 | 🥈 [[MYOG Fastpack\|MYOG Fastpack]]                 | 2022-12-28 |
-| 🥈 [[MYOG EDC Pack\|MYOG EDC Pack]]                 | 2022-12-27 |
 
 
 </div>
