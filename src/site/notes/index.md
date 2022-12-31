@@ -59,7 +59,7 @@ See below, or view all [[Notes\|Notes]]
 | 🥉 [[📘 Code and Work\|📘 Code and Work]]        | 2022-12-31 |
 | 🥈 [[01-personal/Recommended Books\|Recommended Books]]       | 2022-12-30 |
 | 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]       | 2022-12-29 |
-| 🥉 [[01-personal/Bookmarks\|Bookmarks]]               | 2022-12-28 |
+| 🥉 [[Bookmarks\|Bookmarks]]               | 2022-12-28 |
 | 🥉 [[01-personal/MYOG Trail Running Pack\|MYOG Trail Running Pack]] | 2022-12-28 |
 
 
