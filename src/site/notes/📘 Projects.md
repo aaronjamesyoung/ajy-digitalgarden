@@ -5,8 +5,8 @@
 
 ## Future Ideas
 
-* [[Couch\|Couch]]
-* [[Loft Bed\|Loft Bed]]
+* [[01-personal/Couch\|Couch]]
+* [[01-personal/Loft Bed\|Loft Bed]]
 * Piano
 * Garden
 * Webcam
@@ -21,18 +21,18 @@
 * snow gaiters
 * insulated booties
 * insulated hood
-* [[MYOG Penta Tarp\|MYOG Penta Tarp]]
-* [[MYOG Wind Shell\|MYOG Wind Shell]]
-* [[MYOG Rain Shell\|MYOG Rain Shell]]
-* [[MYOG EDC Pack\|MYOG EDC Pack]]
+* [[01-personal/MYOG Penta Tarp\|MYOG Penta Tarp]]
+* [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]]
+* [[01-personal/MYOG Rain Shell\|MYOG Rain Shell]]
+* [[01-personal/MYOG EDC Pack\|MYOG EDC Pack]]
 
 
 
 ## Notes
 
-| Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[📘 MYOG.md\\|📘 MYOG]]</li><li>[[Couch.md\\|Couch]]</li><li>[[How this site is built.md\\|How this site is built]]</li><li>[[Loft Bed.md\\|Loft Bed]]</li><li>[[MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[MYOG Rain Shell.md\\|MYOG Rain Shell]]</li><li>[[MYOG Snow Gaiters.md\\|MYOG Snow Gaiters]]</li><li>[[MYOG Wind Shell.md\\|MYOG Wind Shell]]</li><li>[[Newberry 50 - Running 50 buttes south of Bend.md\\|Newberry 50 - Running 50 buttes south of Bend]]</li><li>[[Uses.md\\|Uses]]</li><li>[[Website thoughts.md\\|Website thoughts]]</li></ul> |
+| Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[📘 MYOG.md\\|📘 MYOG]]</li><li>[[01-personal/Couch.md\\|Couch]]</li><li>[[01-personal/How this site is built.md\\|How this site is built]]</li><li>[[01-personal/Loft Bed.md\\|Loft Bed]]</li><li>[[01-personal/MYOG Penta Tarp.md\\|MYOG Penta Tarp]]</li><li>[[01-personal/MYOG Rain Shell.md\\|MYOG Rain Shell]]</li><li>[[01-personal/MYOG Snow Gaiters.md\\|MYOG Snow Gaiters]]</li><li>[[01-personal/MYOG Wind Shell.md\\|MYOG Wind Shell]]</li><li>[[01-personal/Newberry 50 - Running 50 buttes south of Bend.md\\|Newberry 50 - Running 50 buttes south of Bend]]</li><li>[[01-personal/Website thoughts.md\\|Website thoughts]]</li><li>[[Uses.md\\|Uses]]</li></ul> |
 
 
 ## External Articles
