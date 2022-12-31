@@ -3,7 +3,7 @@
 ---
 
 
-All my notes, alphabetically.
+All my notes, alphabetically:
 
 The book 📘 indicates [[Topic Notes\|Topic Notes]].
 
@@ -37,7 +37,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | 2022-11-27 | \-    |
 | [[01-personal/Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
-| [[01-personal/Bookmarks\|Bookmarks]]                                                                                       | 2022-11-14 | 2022-12-28 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                                   | 2022-11-14 | 2022-12-28 | 🥉    |
 | [[01-personal/Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[01-personal/Couch\|Couch]]                                                                                               | 2022-11-15 | 2022-11-25 | 🥉    |
@@ -72,7 +72,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]]                                                                           | 2022-11-12 | 2022-11-25 | 🥉    |
 | [[01-personal/Navigation\|Navigation]]                                                                                     | 2022-11-26 | 2022-11-26 | 🥈    |
 | [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]               | 2022-11-18 | 2022-11-25 | 🥇    |
-| [[Notes\|Notes]]                                                                                                           | 2022-11-26 | 2022-12-29 | \-    |
+| [[Notes\|Notes]]                                                                                                           | 2022-11-26 | 2022-12-31 | \-    |
 | [[01-personal/Oregon Desert Trail\|Oregon Desert Trail]]                                                                   | 2022-11-21 | 2022-11-21 | 🥉    |
 | [[01-personal/Recommended Books\|Recommended Books]]                                                                       | 2022-12-30 | 2022-12-30 | 🥈    |
 | [[Résumé\|Résumé]]                                                                                                         | 2022-11-11 | 2022-11-11 | \-    |
