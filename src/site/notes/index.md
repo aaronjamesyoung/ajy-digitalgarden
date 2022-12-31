@@ -9,7 +9,7 @@
 
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]]. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
-**What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
+**What is this site?** It's my [[01-personal/Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding set of notes I try to keep about everything I do. Find out [[01-personal/How this site is built\|How this site is built]].
 
 **Outdoors,** I spend a lot of time [[📘 Running\|📘 Running]] on trails and [[📘 Fastpacking\|📘 Fastpacking]] when I can. I also [[📘 MYOG\|📘 MYOG]] ("Make your own gear") a lot of the items I use. **Want to track my running?** Follow me on [Strava](https://www.strava.com/athletes/1057219).
 
@@ -34,33 +34,33 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
-| 🥇 [[MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-12-28 |
+| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-31 |
+| 🥇 [[01-personal/MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-12-28 |
 | 🥇 [[Uses\|Uses]]                                                 | 2022-12-27 |
-| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-27 |
-| 🥇 [[How this site is built\|How this site is built]]                               | 2022-12-12 |
-| 🥇 [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
-| 🥇 [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
-| 🥇 [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]  | 2022-11-25 |
-| 🥇 [[Running Gear\|Running Gear]]                                         | 2022-11-19 |
-| 🥇 [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                | 2022-11-17 |
+| 🥇 [[01-personal/How this site is built\|How this site is built]]                               | 2022-12-12 |
+| 🥇 [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
+| 🥇 [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
+| 🥇 [[01-personal/Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]  | 2022-11-25 |
+| 🥇 [[01-personal/Running Gear\|Running Gear]]                                         | 2022-11-19 |
+| 🥇 [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                | 2022-11-17 |
 
 
 </div><div>
 
 ### Recent Notes
 
-| Note                                 | Updated    |
-| ------------------------------------ | ---------- |
-| 🥈 [[Recommended Books\|Recommended Books]]             | 2022-12-30 |
-| 🥈 [[My goals for 2023\|My goals for 2023]]             | 2022-12-29 |
-| 🥉 [[Bookmarks\|Bookmarks]]                     | 2022-12-28 |
-| 🥉 [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]       | 2022-12-28 |
-| 🥈 [[MYOG Quilt\|MYOG Quilt]]                    | 2022-12-28 |
-| 🥈 [[Fastpacking Gear\|Fastpacking Gear]]              | 2022-12-28 |
-| 🥉 [[📘 MYOG\|📘 MYOG]]                       | 2022-12-28 |
-| 🥈 [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]] | 2022-12-28 |
-| 🥉 [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]          | 2022-12-28 |
-| 🥈 [[MYOG Fastpack\|MYOG Fastpack]]                 | 2022-12-28 |
+| Note                           | Updated    |
+| ------------------------------ | ---------- |
+| 🥈 [[📘 Running\|📘 Running]]              | 2022-12-31 |
+| 🥉 [[📘 Projects\|📘 Projects]]             | 2022-12-31 |
+| 🥈 [[📘 News Articles\|📘 News Articles]]        | 2022-12-31 |
+| 🥉 [[📘 Life\|📘 Life]]                 | 2022-12-31 |
+| 🥈 [[📘 Faith\|📘 Faith]]                | 2022-12-31 |
+| 🥉 [[📘 Code and Work\|📘 Code and Work]]        | 2022-12-31 |
+| 🥈 [[01-personal/Recommended Books\|Recommended Books]]       | 2022-12-30 |
+| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]       | 2022-12-29 |
+| 🥉 [[01-personal/Bookmarks\|Bookmarks]]               | 2022-12-28 |
+| 🥉 [[01-personal/MYOG Trail Running Pack\|MYOG Trail Running Pack]] | 2022-12-28 |
 
 
 </div>
