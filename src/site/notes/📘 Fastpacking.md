@@ -9,17 +9,17 @@ Fastpacking is essentially overnight backpacking, but running. So I carry a ligh
 
 ## Planning a trip
 
-* [[Fastpacking Gear\|Fastpacking Gear]]
-* [[First Aid Kit\|First Aid Kit]]
-* [[Mileage\|Mileage]]
-* [[Nutrition\|Nutrition]]
-* [[Navigation\|Navigation]]
-* [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
+* [[01-personal/Fastpacking Gear\|Fastpacking Gear]]
+* [[01-personal/First Aid Kit\|First Aid Kit]]
+* [[01-personal/Mileage\|Mileage]]
+* [[01-personal/Nutrition\|Nutrition]]
+* [[01-personal/Navigation\|Navigation]]
+* [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
 
 ## Trip Reports
 
-- [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]
-- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]
+- [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]
+- [[01-personal/Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]
 
 
 ## Route recommendations in Central Oregon
@@ -40,7 +40,7 @@ Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all 
 
 ## My future planning & other notes
 
-* [[Backpacking Routes\|Backpacking Routes]]
-* [[Oregon Desert Trail\|Oregon Desert Trail]]
+* [[01-personal/Backpacking Routes\|Backpacking Routes]]
+* [[01-personal/Oregon Desert Trail\|Oregon Desert Trail]]
 
 #topic 
