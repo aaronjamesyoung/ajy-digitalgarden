@@ -51,6 +51,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                           | Updated    |
 | ------------------------------ | ---------- |
+| 🥈 [[01-personal/Recommended Books\|Recommended Books]]       | 2023-01-01 |
 | 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]       | 2023-01-01 |
 | 🥉 [[Bookmarks\|Bookmarks]]               | 2023-01-01 |
 | 🥈 [[📘 Running\|📘 Running]]              | 2022-12-31 |
@@ -59,7 +60,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥉 [[📘 Life\|📘 Life]]                 | 2022-12-31 |
 | 🥈 [[📘 Faith\|📘 Faith]]                | 2022-12-31 |
 | 🥉 [[📘 Code and Work\|📘 Code and Work]]        | 2022-12-31 |
-| 🥈 [[01-personal/Recommended Books\|Recommended Books]]       | 2022-12-30 |
 | 🥉 [[01-personal/MYOG Trail Running Pack\|MYOG Trail Running Pack]] | 2022-12-28 |
 
 
