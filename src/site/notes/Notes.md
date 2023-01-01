@@ -37,7 +37,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | 2022-11-27 | \-    |
 | [[01-personal/Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                   | 2022-11-14 | 2022-12-28 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                                   | 2022-11-14 | 2023-01-01 | 🥉    |
 | [[01-personal/Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[01-personal/Couch\|Couch]]                                                                                               | 2022-11-15 | 2022-11-25 | 🥉    |
@@ -51,14 +51,14 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/How this site is built\|How this site is built]]                                                             | 2022-12-12 | 2022-12-12 | 🥇    |
 | [[01-personal/How to shorten a separating zipper\|How to shorten a separating zipper]]                                     | 2022-12-14 | 2022-12-22 | 🥉    |
 | [[01-personal/How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 2022-11-28 | 🥉    |
-| [[index\|index]]                                                                                                           | 2022-12-27 | 2022-12-30 | \-    |
+| [[index\|index]]                                                                                                           | 2022-12-27 | 2023-01-01 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-11 | 2022-11-25 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-11 | 2022-11-25 | 🥈    |
 | [[01-personal/Loft Bed\|Loft Bed]]                                                                                         | 2022-11-15 | 2022-11-25 | 🥉    |
 | [[01-personal/Means and Ends\|Means and Ends]]                                                                             | 2022-11-22 | 2022-11-25 | 🥈    |
 | [[01-personal/Mileage\|Mileage]]                                                                                           | 2022-11-26 | 2022-11-26 | 🥉    |
 | [[01-personal/Music History for 6th Graders\|Music History for 6th Graders]]                                               | 2022-12-27 | 2022-12-27 | 🥈    |
-| [[01-personal/My goals for 2023\|My goals for 2023]]                                                                       | 2022-12-29 | 2022-12-29 | 🥈    |
+| [[01-personal/My goals for 2023\|My goals for 2023]]                                                                       | 2022-12-29 | 2023-01-01 | 🥈    |
 | [[01-personal/MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-11-13 | 2022-12-27 | 🥈    |
 | [[01-personal/MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-04-12 | 2022-12-28 | 🥈    |
 | [[01-personal/MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-11-12 | 2022-12-28 | 🥉    |
@@ -80,7 +80,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Topic Notes\|Topic Notes]]                                                                                               | 2022-11-26 | 2022-11-26 | 🥈    |
 | [[01-personal/Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]   | 2022-11-21 | 2022-11-25 | 🥇    |
 | [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-21 | 2022-11-25 | 🥇    |
-| [[Uses\|Uses]]                                                                                                             | 2022-12-27 | 2022-12-27 | 🥇    |
+| [[Uses\|Uses]]                                                                                                             | 2022-12-27 | 2023-01-01 | 🥇    |
 | [[01-personal/Vue App Setup\|Vue App Setup]]                                                                               | 2022-11-21 | 2022-11-25 | 🥈    |
 | [[01-personal/Website thoughts\|Website thoughts]]                                                                         | 2022-11-14 | 2022-11-25 | 🥈    |
 | [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                               | 2022-11-12 | 2022-11-17 | 🥇    |
