@@ -40,6 +40,7 @@
 
 ## Selfhosted Services
 
+- [BookWyrm](https://joinbookwyrm.com/) - Goodreads alternative
 - [FreshRSS](https://www.freshrss.org/) – RSS reader
 - [Gitea](https://gitea.io/en-us/) – Git repositories
 - [Matomo](https://matomo.org/) – Analytics
@@ -49,7 +50,6 @@
 ## Online Services
 
 - Bitwarden
-- Bookwyrm
 - Digital Ocean
 - Pocket Casts. Podcasts in my playlist include but are not limited to:
     - [Dan Carlin’s Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
