@@ -9,7 +9,7 @@
 ## Aaron
 
 * [Asana](https://app.asana.com/0/home/17941980459425)
-* [BookWyrm](https://bookwyrm.social/)
+* [BookWyrm](https://bookwyrm.ajy.co)
 * [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
 * [FreshRSS (homeserver)](https://hs.ajy.co/reader/i/)
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
