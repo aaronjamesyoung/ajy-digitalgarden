@@ -74,7 +74,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]               | 2022-11-18 | 2022-11-25 | 🥇    |
 | [[Notes\|Notes]]                                                                                                           | 2022-11-26 | 2022-12-31 | \-    |
 | [[01-personal/Oregon Desert Trail\|Oregon Desert Trail]]                                                                   | 2022-11-21 | 2022-11-21 | 🥉    |
-| [[01-personal/Recommended Books\|Recommended Books]]                                                                       | 2022-12-30 | 2022-12-30 | 🥈    |
+| [[01-personal/Recommended Books\|Recommended Books]]                                                                       | 2022-12-30 | 2023-01-01 | 🥈    |
 | [[Résumé\|Résumé]]                                                                                                         | 2022-11-11 | 2022-11-11 | \-    |
 | [[01-personal/Running Gear\|Running Gear]]                                                                                 | 2022-11-12 | 2022-11-19 | 🥇    |
 | [[Topic Notes\|Topic Notes]]                                                                                               | 2022-11-26 | 2022-11-26 | 🥈    |
