@@ -15,7 +15,7 @@
 
 **I work as a web developer**, so I'm working on expanding my notes on [[📘 Code and Work\|📘 Code and Work]].
 
-**I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.social/user/aaronjamesyoung/books/read?sort=author) to track the books I've been reading. (If you're on Mastodon or another Fediverse network, you can follow my BookWyrm account from there.)
+**I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) to track the books I've been reading. (If you're on Mastodon or another Fediverse network, you can follow my BookWyrm account from there.)
 
 ## Notes
 
@@ -34,9 +34,9 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
+| 🥇 [[Uses\|Uses]]                                                 | 2023-01-01 |
 | 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-31 |
 | 🥇 [[01-personal/MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-12-28 |
-| 🥇 [[Uses\|Uses]]                                                 | 2022-12-27 |
 | 🥇 [[01-personal/How this site is built\|How this site is built]]                               | 2022-12-12 |
 | 🥇 [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]        | 2022-11-25 |
 | 🥇 [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] | 2022-11-25 |
@@ -51,6 +51,8 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                           | Updated    |
 | ------------------------------ | ---------- |
+| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]       | 2023-01-01 |
+| 🥉 [[Bookmarks\|Bookmarks]]               | 2023-01-01 |
 | 🥈 [[📘 Running\|📘 Running]]              | 2022-12-31 |
 | 🥉 [[📘 Projects\|📘 Projects]]             | 2022-12-31 |
 | 🥈 [[📘 News Articles\|📘 News Articles]]        | 2022-12-31 |
@@ -58,8 +60,6 @@ See below, or view all [[Notes\|Notes]]
 | 🥈 [[📘 Faith\|📘 Faith]]                | 2022-12-31 |
 | 🥉 [[📘 Code and Work\|📘 Code and Work]]        | 2022-12-31 |
 | 🥈 [[01-personal/Recommended Books\|Recommended Books]]       | 2022-12-30 |
-| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]       | 2022-12-29 |
-| 🥉 [[Bookmarks\|Bookmarks]]               | 2022-12-28 |
 | 🥉 [[01-personal/MYOG Trail Running Pack\|MYOG Trail Running Pack]] | 2022-12-28 |
 
 
