@@ -49,18 +49,18 @@ See below, or view all [[Notes\|Notes]]
 
 ### Recent Notes
 
-| Note                           | Updated    |
-| ------------------------------ | ---------- |
-| 🥈 [[01-personal/Recommended Books\|Recommended Books]]       | 2023-01-01 |
-| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]       | 2023-01-01 |
-| 🥉 [[Bookmarks\|Bookmarks]]               | 2023-01-01 |
-| 🥈 [[📘 Running\|📘 Running]]              | 2022-12-31 |
-| 🥉 [[📘 Projects\|📘 Projects]]             | 2022-12-31 |
-| 🥈 [[📘 News Articles\|📘 News Articles]]        | 2022-12-31 |
-| 🥉 [[📘 Life\|📘 Life]]                 | 2022-12-31 |
-| 🥈 [[📘 Faith\|📘 Faith]]                | 2022-12-31 |
-| 🥉 [[📘 Code and Work\|📘 Code and Work]]        | 2022-12-31 |
-| 🥉 [[01-personal/MYOG Trail Running Pack\|MYOG Trail Running Pack]] | 2022-12-28 |
+| Note                                    | Updated    |
+| --------------------------------------- | ---------- |
+| 🥉 [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]] | 2023-01-01 |
+| 🥉 [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]               | 2023-01-01 |
+| 🥈 [[01-personal/Recommended Books\|Recommended Books]]                | 2023-01-01 |
+| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]                | 2023-01-01 |
+| 🥉 [[Bookmarks\|Bookmarks]]                        | 2023-01-01 |
+| 🥈 [[📘 Running\|📘 Running]]                       | 2022-12-31 |
+| 🥉 [[📘 Projects\|📘 Projects]]                      | 2022-12-31 |
+| 🥈 [[📘 News Articles\|📘 News Articles]]                 | 2022-12-31 |
+| 🥉 [[📘 Life\|📘 Life]]                          | 2022-12-31 |
+| 🥈 [[📘 Faith\|📘 Faith]]                         | 2022-12-31 |
 
 
 </div>
