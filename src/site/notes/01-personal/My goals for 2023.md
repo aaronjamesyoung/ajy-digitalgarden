@@ -31,9 +31,9 @@ I'm not going to stress about them being high-quality notes. In fact probably 40
 
 This can be tracked by checking this table:
 
-| File                                                                                            | Created    | Updated    | Grade |
-| ----------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]           | 2023-01-01 | 2023-01-01 | 🥉    |
-| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 | 2023-01-15 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                     | 2023-01-13 | 2023-01-13 | 🥉    |
+| File                                                                                                        | Created    | Updated    | Grade |
+| ----------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
+| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                       | 2023-01-01 | 2023-01-01 | 🥉    |
+| [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[Bookmarks\|Bookmarks]]                                                                                 | 2023-01-13 | 2023-01-13 | 🥉    |
 
