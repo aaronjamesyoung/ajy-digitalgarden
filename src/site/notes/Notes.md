@@ -33,12 +33,13 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 2022-12-11 | 🥉    |
 | [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                     | 2022-12-22 | 2022-12-22 | 🥉    |
 | [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                         | 2023-01-01 | 2023-01-01 | 🥉    |
+| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-14 | 2023-01-14 | 🥈    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-11-27 | 2023-01-01 | 🥉    |
 | [[01-personal/All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | 2022-11-27 | \-    |
 | [[01-personal/Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                   | 2022-11-14 | 2023-01-01 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-01-13 | 2023-01-13 | 🥉    |
 | [[01-personal/Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[01-personal/Couch\|Couch]]                                                                                               | 2022-11-15 | 2022-11-25 | 🥉    |
@@ -59,7 +60,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/Means and Ends\|Means and Ends]]                                                                             | 2022-11-22 | 2022-11-25 | 🥈    |
 | [[01-personal/Mileage\|Mileage]]                                                                                           | 2022-11-26 | 2022-11-26 | 🥉    |
 | [[01-personal/Music History for 6th Graders\|Music History for 6th Graders]]                                               | 2022-12-27 | 2022-12-27 | 🥈    |
-| [[01-personal/My goals for 2023\|My goals for 2023]]                                                                       | 2022-12-29 | 2023-01-01 | 🥈    |
+| [[01-personal/My goals for 2023\|My goals for 2023]]                                                                       | 2022-12-29 | 2023-01-04 | 🥈    |
 | [[01-personal/MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-11-13 | 2022-12-27 | 🥈    |
 | [[01-personal/MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-04-12 | 2022-12-28 | 🥈    |
 | [[01-personal/MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-11-12 | 2022-12-28 | 🥉    |
