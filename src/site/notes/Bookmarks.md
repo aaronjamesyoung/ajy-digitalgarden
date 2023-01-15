@@ -14,6 +14,7 @@
 * [FreshRSS (homeserver)](https://hs.ajy.co/reader/i/)
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 * [Google Voice](https://voice.google.com/u/0/messages)
+* [Libby](https://libbyapp.com/shelf)
 * [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 * [Nextcloud (Homeserver)](https://hs.ajy.co/nextcloud/index.php/apps/dashboard/)
 * [PhotoPrism (Homeserver)](https://photoprism.ajy.co/browse)
@@ -23,7 +24,6 @@
 ## Aarontable
 
 * [Backpacking Gear list](https://docs.google.com/spreadsheets/d/1c3U37VE4f4RL_oW_v5u3jLVuHz5jevo25naRfY7kpP0/edit#gid=0)
-* [Books](https://docs.google.com/spreadsheets/d/1SEkEyqc5fgOS6ltSJF8VSsBJ31A8xPp-A4BERmFmM7w/edit#gid=0)
 * [Buttes](https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkCplM/edit#gid=0)
 * [Pace Calculator](https://docs.google.com/spreadsheets/d/1UqTg4FQEOUkAqtetSEt-zcskdmXjwcFmItngiJRIUm0/edit#gid=0)
 * [Sewing Calculator](https://docs.google.com/spreadsheets/d/1GMI_w_bTGRCVBmLmUaO316l-YjUyKxto72saeMuHm0k/edit#gid=0)
