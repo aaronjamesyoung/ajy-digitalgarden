@@ -19,7 +19,7 @@ You can track my running on [Strava](https://www.strava.com/athletes/aaronjamesy
 
 * Read 24 books this year (2 per month)
 
-You can track my reading on [BookWyrm](https://bookwyrm.ajy.col/user/aaronjamesyoung)
+You can track my reading on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung/goal/2023)
 
 ## Writing
 
@@ -31,7 +31,9 @@ I'm not going to stress about them being high-quality notes. In fact probably 40
 
 This can be tracked by checking this table:
 
-| File                                                                                  | Created    | Updated    | Grade |
-| ------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]] | 2023-01-01 | 2023-01-01 | 🥉    |
+| File                                                                                            | Created    | Updated    | Grade |
+| ----------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
+| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]           | 2023-01-01 | 2023-01-01 | 🥉    |
+| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-14 | 2023-01-14 | 🥈    |
+| [[Bookmarks\|Bookmarks]]                                                                     | 2023-01-13 | 2023-01-13 | 🥉    |
 
