@@ -33,7 +33,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 2022-12-11 | 🥉    |
 | [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                     | 2022-12-22 | 2022-12-22 | 🥉    |
 | [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                         | 2023-01-01 | 2023-01-01 | 🥉    |
-| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-14 | 2023-01-14 | 🥈    |
+| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-15 | 2023-01-15 | 🥈    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-11-27 | 2023-01-01 | 🥉    |
 | [[01-personal/All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | 2022-11-27 | \-    |
