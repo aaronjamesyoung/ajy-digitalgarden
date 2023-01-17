@@ -51,9 +51,9 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                               | Updated    |
 | -------------------------------------------------- | ---------- |
+| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]                           | 2023-01-15 |
 | 🥈 [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 |
 | 🥉 [[Bookmarks\|Bookmarks]]                                   | 2023-01-13 |
-| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]                           | 2023-01-04 |
 | 🥉 [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]            | 2023-01-01 |
 | 🥉 [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                          | 2023-01-01 |
 | 🥈 [[01-personal/Recommended Books\|Recommended Books]]                           | 2023-01-01 |
