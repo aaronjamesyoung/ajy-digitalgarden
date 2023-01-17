@@ -19,7 +19,7 @@ You can track my running on [Strava](https://www.strava.com/athletes/aaronjamesy
 
 * Read 24 books this year (2 per month)
 
-You can track my reading on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung/goal/2023)
+You can track my reading on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung)
 
 ## Writing
 
