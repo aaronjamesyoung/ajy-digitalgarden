@@ -60,7 +60,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/Means and Ends\|Means and Ends]]                                                                             | 2022-11-22 | 2022-11-25 | 🥈    |
 | [[01-personal/Mileage\|Mileage]]                                                                                           | 2022-11-26 | 2022-11-26 | 🥉    |
 | [[01-personal/Music History for 6th Graders\|Music History for 6th Graders]]                                               | 2022-12-27 | 2022-12-27 | 🥈    |
-| [[01-personal/My goals for 2023\|My goals for 2023]]                                                                       | 2022-12-29 | 2023-01-04 | 🥈    |
+| [[01-personal/My goals for 2023\|My goals for 2023]]                                                                       | 2022-12-29 | 2023-01-15 | 🥈    |
 | [[01-personal/MYOG EDC Pack\|MYOG EDC Pack]]                                                                               | 2022-11-13 | 2022-12-27 | 🥈    |
 | [[01-personal/MYOG Fastpack\|MYOG Fastpack]]                                                                               | 2022-04-12 | 2022-12-28 | 🥈    |
 | [[01-personal/MYOG Fleece Pullover\|MYOG Fleece Pullover]]                                                                 | 2022-11-12 | 2022-12-28 | 🥉    |
