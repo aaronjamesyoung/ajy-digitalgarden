@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-10-pacing-daughter-on-some-track-stuff/"}
+{"dg-publish":true,"date":"2021-08-10","distance":2.19,"moving_time":"30:18","elapsed_time":"30:21","pace":"13:48","total_elevation_gain":0,"url":"https://www.strava.com/activities/5777375690","permalink":"/01-personal/strava/2021-08-10-pacing-daughter-on-some-track-stuff/","dgPassFrontmatter":true}
 ---
 
 
