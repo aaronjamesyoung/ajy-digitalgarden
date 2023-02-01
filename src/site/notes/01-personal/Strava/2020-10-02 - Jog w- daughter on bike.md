@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-02-jog-w-daughter-on-bike/"}
+{"dg-publish":true,"date":"2020-10-02","distance":2.79,"moving_time":"28:05","elapsed_time":"28:09","pace":"10:03","total_elevation_gain":181,"url":"https://www.strava.com/activities/4166408763","permalink":"/01-personal/strava/2020-10-02-jog-w-daughter-on-bike/","dgPassFrontmatter":true}
 ---
 
 
