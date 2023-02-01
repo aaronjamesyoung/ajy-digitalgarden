@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-03-16-lunch-exploration/"}
+{"dg-publish":true,"date":"2020-03-16","distance":4.39,"moving_time":"46:00","elapsed_time":"1:12:32","pace":"10:28","total_elevation_gain":685,"url":"https://www.strava.com/activities/3189507538","permalink":"/01-personal/strava/2020-03-16-lunch-exploration/","dgPassFrontmatter":true}
 ---
 
 
