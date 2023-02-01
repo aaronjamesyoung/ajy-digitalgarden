@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-12-27-twilight-snow-run/"}
+{"dg-publish":true,"date":"2021-12-27","distance":6.65,"moving_time":"57:19","elapsed_time":"1:00:56","pace":"8:37","total_elevation_gain":502,"url":"https://www.strava.com/activities/6435878942","permalink":"/01-personal/strava/2021-12-27-twilight-snow-run/","dgPassFrontmatter":true}
 ---
 
 
