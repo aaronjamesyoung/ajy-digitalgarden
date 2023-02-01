@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-15-n-fork-met-win-bridge-creek/"}
+{"dg-publish":true,"date":"2021-07-15","distance":13.15,"moving_time":"1:49:12","elapsed_time":"1:53:49","pace":"8:18","total_elevation_gain":2012,"url":"https://www.strava.com/activities/5633624814","permalink":"/01-personal/strava/2021-07-15-n-fork-met-win-bridge-creek/","dgPassFrontmatter":true}
 ---
 
 
