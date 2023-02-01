@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-05-aqi-dipping-below-100-so-got-in-a-low-intensity-run/"}
+{"dg-publish":true,"date":"2021-08-05","distance":5.81,"moving_time":"45:58","elapsed_time":"48:19","pace":"7:54","total_elevation_gain":475,"url":"https://www.strava.com/activities/5744554307","permalink":"/01-personal/strava/2021-08-05-aqi-dipping-below-100-so-got-in-a-low-intensity-run/","dgPassFrontmatter":true}
 ---
 
 
