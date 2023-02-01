@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-04-13-it-snowed-a-foot-ok-let-s-check-out-the-creek-trail/"}
+{"dg-publish":true,"date":"2022-04-13","distance":6.34,"moving_time":"59:23","elapsed_time":"1:00:46","pace":"9:21","total_elevation_gain":475,"url":"https://www.strava.com/activities/6978456330","permalink":"/01-personal/strava/2022-04-13-it-snowed-a-foot-ok-let-s-check-out-the-creek-trail/","dgPassFrontmatter":true}
 ---
 
 
