@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/how-to-take-a-running-selfie/"}
+{"dg-publish":true,"grade":1,"permalink":"/01-personal/how-to-take-a-running-selfie/","dgPassFrontmatter":true}
 ---
 
 
