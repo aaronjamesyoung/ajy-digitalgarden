@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-11-morning-run/"}
+{"dg-publish":true,"date":"2021-09-11","distance":7.98,"moving_time":"1:05:07","elapsed_time":"1:10:54","pace":"8:09","total_elevation_gain":1238,"url":"https://www.strava.com/activities/5944214830","permalink":"/01-personal/strava/2021-09-11-morning-run/","dgPassFrontmatter":true}
 ---
 
 
