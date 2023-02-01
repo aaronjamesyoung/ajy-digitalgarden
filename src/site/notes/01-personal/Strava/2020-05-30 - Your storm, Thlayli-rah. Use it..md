@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-05-30-your-storm-thlayli-rah-use-it/"}
+{"dg-publish":true,"date":"2020-05-30","distance":24,"moving_time":"3:23:51","elapsed_time":"3:37:07","pace":"8:29","total_elevation_gain":2563,"url":"https://www.strava.com/activities/3538672302","permalink":"/01-personal/strava/2020-05-30-your-storm-thlayli-rah-use-it/","dgPassFrontmatter":true}
 ---
 
 
