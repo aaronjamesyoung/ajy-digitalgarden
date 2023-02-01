@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/wildfire-monitering-in-central-oregon/"}
+{"dg-publish":true,"grade":3,"permalink":"/01-personal/wildfire-monitering-in-central-oregon/","dgPassFrontmatter":true}
 ---
 
 
