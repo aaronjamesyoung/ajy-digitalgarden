@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-06-18-screwdriver/"}
+{"dg-publish":true,"date":"2015-06-18","distance":17.96,"moving_time":"59:40","elapsed_time":"1:10:56","pace":"3:19","total_elevation_gain":781,"url":"https://www.strava.com/activities/328392985","permalink":"/01-personal/strava/2015-06-18-screwdriver/","dgPassFrontmatter":true}
 ---
 
 
