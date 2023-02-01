@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-05-02-true-local-doesn-t-bother-going-1-4-mile-out-of-the-way-to-the-viewpoint-at-tumalo-falls/"}
+{"dg-publish":true,"date":"2020-05-02","distance":8.01,"moving_time":"1:04:20","elapsed_time":"1:05:37","pace":"8:01","total_elevation_gain":807,"url":"https://www.strava.com/activities/3387182934","permalink":"/01-personal/strava/2020-05-02-true-local-doesn-t-bother-going-1-4-mile-out-of-the-way-to-the-viewpoint-at-tumalo-falls/","dgPassFrontmatter":true}
 ---
 
 
