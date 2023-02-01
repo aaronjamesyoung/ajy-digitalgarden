@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-10-21-this-was-a-run/"}
+{"dg-publish":true,"date":"2021-10-21","distance":10,"moving_time":"1:22:11","elapsed_time":"1:27:18","pace":"8:12","total_elevation_gain":1395,"url":"https://www.strava.com/activities/6147167626","permalink":"/01-personal/strava/2021-10-21-this-was-a-run/","dgPassFrontmatter":true}
 ---
 
 
