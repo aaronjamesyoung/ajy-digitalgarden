@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-12-04-the-peaceable-kingdom/"}
+{"source":"[The Peaceable Kingdom](https://www.youtube.com/watch?v=cBQxgi4ZGeM)","clipped":"2022-12-04","dg-publish":true,"grade":1,"permalink":"/96-articles/2022-12-04-the-peaceable-kingdom/","dgPassFrontmatter":true}
 ---
 
 
