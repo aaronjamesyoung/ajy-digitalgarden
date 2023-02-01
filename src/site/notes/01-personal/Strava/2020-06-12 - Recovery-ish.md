@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-06-12-recovery-ish/"}
+{"dg-publish":true,"date":"2020-06-12","distance":6.01,"moving_time":"51:31","elapsed_time":"55:01","pace":"8:34","total_elevation_gain":966,"url":"https://www.strava.com/activities/3605260146","permalink":"/01-personal/strava/2020-06-12-recovery-ish/","dgPassFrontmatter":true}
 ---
 
 
