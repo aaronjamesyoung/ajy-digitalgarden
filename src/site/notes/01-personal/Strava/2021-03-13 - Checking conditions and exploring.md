@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-03-13-checking-conditions-and-exploring/"}
+{"dg-publish":true,"date":"2021-03-13","distance":6.63,"moving_time":"58:22","elapsed_time":"1:10:51","pace":"8:47","total_elevation_gain":836,"url":"https://www.strava.com/activities/4941345958","permalink":"/01-personal/strava/2021-03-13-checking-conditions-and-exploring/","dgPassFrontmatter":true}
 ---
 
 
