@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2014-05-17-ghan-buri-ghan/"}
+{"dg-publish":true,"date":"2014-05-17","distance":27.62,"moving_time":"1:27:35","elapsed_time":"1:27:35","pace":"3:10","total_elevation_gain":1854,"url":"https://www.strava.com/activities/142363627","permalink":"/01-personal/strava/2014-05-17-ghan-buri-ghan/","dgPassFrontmatter":true}
 ---
 
 
