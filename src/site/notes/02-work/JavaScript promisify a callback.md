@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-work/java-script-promisify-a-callback/"}
+{"dg-publish":true,"grade":2,"permalink":"/02-work/java-script-promisify-a-callback/","dgPassFrontmatter":true}
 ---
 
 
