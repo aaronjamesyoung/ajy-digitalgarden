@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-11-25-ski-into-the-dark/"}
+{"dg-publish":true,"date":"2020-11-25","distance":3.46,"moving_time":"1:00:06","elapsed_time":"1:03:23","pace":"17:20","total_elevation_gain":534,"url":"https://www.strava.com/activities/4399615452","permalink":"/01-personal/strava/2020-11-25-ski-into-the-dark/","dgPassFrontmatter":true}
 ---
 
 
