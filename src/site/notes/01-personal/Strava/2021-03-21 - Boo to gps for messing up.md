@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-03-21-boo-to-gps-for-messing-up/"}
+{"dg-publish":true,"date":"2021-03-21","distance":6.76,"moving_time":"51:36","elapsed_time":"54:24","pace":"7:38","total_elevation_gain":362,"url":"https://www.strava.com/activities/4988348926","permalink":"/01-personal/strava/2021-03-21-boo-to-gps-for-messing-up/","dgPassFrontmatter":true}
 ---
 
 
