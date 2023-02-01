@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-07-26-brokentop-fastpack-day-2/"}
+{"dg-publish":true,"date":"2022-07-26","distance":19,"moving_time":"3:48:26","elapsed_time":"4:34:28","pace":"12:01","total_elevation_gain":1194,"url":"https://www.strava.com/activities/7533651288","permalink":"/01-personal/strava/2022-07-26-brokentop-fastpack-day-2/","dgPassFrontmatter":true}
 ---
 
 
