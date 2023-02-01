@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-07-04-heart-of-darkness-loop-fastpack-day-2-2/"}
+{"dg-publish":true,"date":"2022-07-04","distance":17.68,"moving_time":"4:17:27","elapsed_time":"5:39:58","pace":"14:33","total_elevation_gain":3719,"url":"https://www.strava.com/activities/7416614755","permalink":"/01-personal/strava/2022-07-04-heart-of-darkness-loop-fastpack-day-2-2/","dgPassFrontmatter":true}
 ---
 
 
