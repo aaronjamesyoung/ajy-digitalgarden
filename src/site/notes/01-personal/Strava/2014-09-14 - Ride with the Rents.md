@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2014-09-14-ride-with-the-rents/"}
+{"dg-publish":true,"date":"2014-09-14","distance":31.76,"moving_time":"2:08:41","elapsed_time":"2:23:06","pace":"4:03","total_elevation_gain":1602,"url":"https://www.strava.com/activities/194689789","permalink":"/01-personal/strava/2014-09-14-ride-with-the-rents/","dgPassFrontmatter":true}
 ---
 
 
