@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-05-run-with-daughter/"}
+{"dg-publish":true,"date":"2022-09-05","distance":2.01,"moving_time":"28:20","elapsed_time":"33:53","pace":"14:07","total_elevation_gain":322,"url":"https://www.strava.com/activities/7760390537","permalink":"/01-personal/strava/2022-09-05-run-with-daughter/","dgPassFrontmatter":true}
 ---
 
 
