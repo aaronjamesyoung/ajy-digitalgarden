@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2019-11-15-morning-run/"}
+{"dg-publish":true,"date":"2019-11-15","distance":2.37,"moving_time":"21:12","elapsed_time":"21:16","pace":"8:57","total_elevation_gain":218,"url":"https://www.strava.com/activities/2867557099","permalink":"/01-personal/strava/2019-11-15-morning-run/","dgPassFrontmatter":true}
 ---
 
 
