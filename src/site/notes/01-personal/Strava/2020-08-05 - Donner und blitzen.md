@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-08-05-donner-und-blitzen/"}
+{"dg-publish":true,"date":"2020-08-05","distance":5.24,"moving_time":"42:00","elapsed_time":"42:43","pace":"8:00","total_elevation_gain":848,"url":"https://www.strava.com/activities/3873578630","permalink":"/01-personal/strava/2020-08-05-donner-und-blitzen/","dgPassFrontmatter":true}
 ---
 
 
