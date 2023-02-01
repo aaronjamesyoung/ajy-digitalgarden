@@ -39,7 +39,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-01-31 | 2023-01-31 | 🥉    |
-| [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                                       | 2023-01-27 | 2023-01-31 | 🥇    |
+| [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                                       | 2023-01-27 | 2023-02-01 | 🥇    |
 | [[01-personal/Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[01-personal/Couch\|Couch]]                                                                                               | 2022-11-15 | 2022-11-25 | 🥉    |
