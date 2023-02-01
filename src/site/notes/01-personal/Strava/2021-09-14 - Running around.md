@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-14-running-around/"}
+{"dg-publish":true,"date":"2021-09-14","distance":9.26,"moving_time":"1:19:45","elapsed_time":"1:25:41","pace":"8:36","total_elevation_gain":1419,"url":"https://www.strava.com/activities/5961685016","permalink":"/01-personal/strava/2021-09-14-running-around/","dgPassFrontmatter":true}
 ---
 
 
