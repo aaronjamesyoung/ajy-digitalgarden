@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-28-snowy-swampy/"}
+{"dg-publish":true,"date":"2021-09-28","distance":5.22,"moving_time":"54:33","elapsed_time":"56:35","pace":"10:27","total_elevation_gain":583,"url":"https://www.strava.com/activities/6034555456","permalink":"/01-personal/strava/2021-09-28-snowy-swampy/","dgPassFrontmatter":true}
 ---
 
 
