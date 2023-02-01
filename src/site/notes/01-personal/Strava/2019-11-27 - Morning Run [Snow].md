@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2019-11-27-morning-run-snow/"}
+{"dg-publish":true,"date":"2019-11-27","distance":2.41,"moving_time":"21:25","elapsed_time":"21:25","pace":"8:52","total_elevation_gain":220,"url":"https://www.strava.com/activities/2900057377","permalink":"/01-personal/strava/2019-11-27-morning-run-snow/","dgPassFrontmatter":true}
 ---
 
 
