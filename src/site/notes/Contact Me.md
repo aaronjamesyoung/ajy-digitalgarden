@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact-me/"}
+{"dg-publish":true,"permalink":"/contact-me/","dgPassFrontmatter":true}
 ---
 
 
