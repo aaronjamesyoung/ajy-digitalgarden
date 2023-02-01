@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/trip-report-2022-07-03-heart-of-darkness-fastpack/"}
+{"dg-publish":true,"grade":3,"permalink":"/01-personal/trip-report-2022-07-03-heart-of-darkness-fastpack/","dgPassFrontmatter":true}
 ---
 
 
