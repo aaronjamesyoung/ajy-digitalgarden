@@ -51,6 +51,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[02-work/Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                         | 2022-11-07 | 2022-11-25 | 🥈    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                     | 2022-05-26 | 2022-11-17 | \-    |
 | [[01-personal/How this site is built\|How this site is built]]                                                             | 2022-12-12 | 2022-12-12 | 🥇    |
+| [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[01-personal/How to shorten a separating zipper\|How to shorten a separating zipper]]                                     | 2022-12-14 | 2022-12-22 | 🥉    |
 | [[01-personal/How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 2022-11-28 | 🥉    |
 | [[index\|index]]                                                                                                           | 2022-12-27 | 2023-01-01 | \-    |
