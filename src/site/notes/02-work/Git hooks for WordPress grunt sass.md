@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-work/git-hooks-for-word-press-grunt-sass/"}
+{"dg-publish":true,"grade":2,"permalink":"/02-work/git-hooks-for-word-press-grunt-sass/","dgPassFrontmatter":true}
 ---
 
 
