@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-01-01-tumalo-ridge-sunset/"}
+{"dg-publish":true,"date":"2022-01-01","distance":5.95,"moving_time":"1:26:32","elapsed_time":"1:40:34","pace":"14:32","total_elevation_gain":818,"url":"https://www.strava.com/activities/6458498206","permalink":"/01-personal/strava/2022-01-01-tumalo-ridge-sunset/","dgPassFrontmatter":true}
 ---
 
 
