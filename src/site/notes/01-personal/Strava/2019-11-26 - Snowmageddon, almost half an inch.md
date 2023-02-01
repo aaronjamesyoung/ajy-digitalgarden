@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2019-11-26-snowmageddon-almost-half-an-inch/"}
+{"dg-publish":true,"date":"2019-11-26","distance":2.76,"moving_time":"22:49","elapsed_time":"22:56","pace":"8:16","total_elevation_gain":142,"url":"https://www.strava.com/activities/2894038470","permalink":"/01-personal/strava/2019-11-26-snowmageddon-almost-half-an-inch/","dgPassFrontmatter":true}
 ---
 
 
