@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-articles/","dgShowBacklinks":false}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/news-articles/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -18,6 +18,7 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 
 | source                                                                                                                                                                                                                                                                     | read on           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Republicans Need to Stop Being Jerks](https://www.theatlantic.com/magazine/archive/2023/03/republican-midterm-election-performance-trump-dr-oz/672771/)                                                                                                                   | February 01, 2023 |
 | [Florida's AP African American studies ban should raise alarm elsewhere, lawmaker says](https://www.npr.org/2023/01/23/1150716064/florida-ap-african-american-studies)                                                                                                     | January 23, 2023  |
 | [Evangelical leaders are ‘disloyal,’ Trump says. His real worry is broader.](https://www.washingtonpost.com/politics/2023/01/17/trump-republicans-evangelicals/)                                                                                                           | January 17, 2023  |
 | [A record high number of dead trees are found as Oregon copes with an extreme drought](https://www.npr.org/2022/12/20/1143532629/oregon-megadrought-dead-fir-trees-forest-service-aerial-survey)                                                                           | January 11, 2023  |
