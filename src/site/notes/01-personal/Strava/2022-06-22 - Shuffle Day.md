@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-06-22-shuffle-day/"}
+{"dg-publish":true,"date":"2022-06-22","distance":8.12,"moving_time":"1:15:11","elapsed_time":"1:26:22","pace":"9:15","total_elevation_gain":1277,"url":"https://www.strava.com/activities/7353016162","permalink":"/01-personal/strava/2022-06-22-shuffle-day/","dgPassFrontmatter":true}
 ---
 
 
