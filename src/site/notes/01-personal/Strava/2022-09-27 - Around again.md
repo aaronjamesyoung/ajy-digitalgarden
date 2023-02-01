@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-27-around-again/"}
+{"dg-publish":true,"date":"2022-09-27","distance":7.97,"moving_time":"1:05:32","elapsed_time":"1:07:45","pace":"8:13","total_elevation_gain":1267,"url":"https://www.strava.com/activities/7877171906","permalink":"/01-personal/strava/2022-09-27-around-again/","dgPassFrontmatter":true}
 ---
 
 
