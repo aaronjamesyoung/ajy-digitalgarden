@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-27-water-scouting/"}
+{"dg-publish":true,"date":"2021-08-27","distance":16,"moving_time":"2:06:53","elapsed_time":"2:14:11","pace":"7:55","total_elevation_gain":1130,"url":"https://www.strava.com/activities/5863419000","permalink":"/01-personal/strava/2021-08-27-water-scouting/","dgPassFrontmatter":true}
 ---
 
 
