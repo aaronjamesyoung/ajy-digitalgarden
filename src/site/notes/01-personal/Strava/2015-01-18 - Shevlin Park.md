@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-01-18-shevlin-park/"}
+{"dg-publish":true,"date":"2015-01-18","distance":4.01,"moving_time":"40:37","elapsed_time":"40:37","pace":"10:07","total_elevation_gain":255,"url":"https://www.strava.com/activities/255526529","permalink":"/01-personal/strava/2015-01-18-shevlin-park/","dgPassFrontmatter":true}
 ---
 
 
