@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-03-todd-lake-tumalo-mtn-backpacking-day-1/"}
+{"dg-publish":true,"date":"2021-07-03","distance":26.53,"moving_time":"7:52:45","elapsed_time":"9:10:48","pace":"17:49","total_elevation_gain":4638,"url":"https://www.strava.com/activities/5575409019","permalink":"/01-personal/strava/2021-07-03-todd-lake-tumalo-mtn-backpacking-day-1/","dgPassFrontmatter":true}
 ---
 
 
