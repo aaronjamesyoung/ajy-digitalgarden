@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-15-out-of-shape-and-a-bunch-of-downed-trees/"}
+{"dg-publish":true,"date":"2020-10-15","distance":8.07,"moving_time":"1:07:27","elapsed_time":"1:09:46","pace":"8:21","total_elevation_gain":1406,"url":"https://www.strava.com/activities/4199933403","permalink":"/01-personal/strava/2020-10-15-out-of-shape-and-a-bunch-of-downed-trees/","dgPassFrontmatter":true}
 ---
 
 
