@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-08-09-dibble-dibble-dopp/"}
+{"dg-publish":true,"date":"2022-08-09","distance":3.67,"moving_time":"29:24","elapsed_time":"29:27","pace":"8:00","total_elevation_gain":228,"url":"https://www.strava.com/activities/7611983684","permalink":"/01-personal/strava/2022-08-09-dibble-dibble-dopp/","dgPassFrontmatter":true}
 ---
 
 
