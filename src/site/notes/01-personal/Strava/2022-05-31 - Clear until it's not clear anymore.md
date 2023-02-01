@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-31-clear-until-it-s-not-clear-anymore/"}
+{"dg-publish":true,"date":"2022-05-31","distance":9.65,"moving_time":"1:15:26","elapsed_time":"1:17:27","pace":"7:48","total_elevation_gain":1369,"url":"https://www.strava.com/activities/7234759677","permalink":"/01-personal/strava/2022-05-31-clear-until-it-s-not-clear-anymore/","dgPassFrontmatter":true}
 ---
 
 
