@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-03-26-newberry-50-6-7-8-50-huntington-butte-green-mountain-lava-butte/"}
+{"dg-publish":true,"date":"2022-03-26","distance":13.07,"moving_time":"1:56:07","elapsed_time":"2:16:15","pace":"8:53","total_elevation_gain":1568,"url":"https://www.strava.com/activities/6888649146","permalink":"/01-personal/strava/2022-03-26-newberry-50-6-7-8-50-huntington-butte-green-mountain-lava-butte/","dgPassFrontmatter":true}
 ---
 
 
