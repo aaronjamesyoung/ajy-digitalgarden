@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-06-27-fair-to-middlin/"}
+{"dg-publish":true,"date":"2015-06-27","distance":35.98,"moving_time":"1:53:15","elapsed_time":"1:57:30","pace":"3:08","total_elevation_gain":1659,"url":"https://www.strava.com/activities/334087963","permalink":"/01-personal/strava/2015-06-27-fair-to-middlin/","dgPassFrontmatter":true}
 ---
 
 
