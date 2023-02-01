@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/work-of-the-people-2022-fall/","dgShowBacklinks":false}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":1,"permalink":"/01-personal/work-of-the-people-2022-fall/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
