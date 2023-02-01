@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-04-02-newberry-50-9-10-11-12-13-14-15-50-kelsey-balbali-unnamed-ikt-klawhop-unnamed-luna-buttes/"}
+{"dg-publish":true,"date":"2022-04-02","distance":17.18,"moving_time":"3:11:03","elapsed_time":"4:14:44","pace":"11:07","total_elevation_gain":3381,"url":"https://www.strava.com/activities/6922866303","permalink":"/01-personal/strava/2022-04-02-newberry-50-9-10-11-12-13-14-15-50-kelsey-balbali-unnamed-ikt-klawhop-unnamed-luna-buttes/","dgPassFrontmatter":true}
 ---
 
 
