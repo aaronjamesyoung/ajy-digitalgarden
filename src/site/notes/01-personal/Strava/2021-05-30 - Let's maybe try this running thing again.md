@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-05-30-let-s-maybe-try-this-running-thing-again/"}
+{"dg-publish":true,"date":"2021-05-30","distance":4,"moving_time":"33:40","elapsed_time":"34:11","pace":"8:24","total_elevation_gain":191,"url":"https://www.strava.com/activities/5386007952","permalink":"/01-personal/strava/2021-05-30-let-s-maybe-try-this-running-thing-again/","dgPassFrontmatter":true}
 ---
 
 
