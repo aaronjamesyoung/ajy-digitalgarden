@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-12-13-exploring-ski/"}
+{"dg-publish":true,"date":"2020-12-13","distance":6.91,"moving_time":"1:52:08","elapsed_time":"2:04:32","pace":"16:13","total_elevation_gain":510,"url":"https://www.strava.com/activities/4469534786","permalink":"/01-personal/strava/2020-12-13-exploring-ski/","dgPassFrontmatter":true}
 ---
 
 
