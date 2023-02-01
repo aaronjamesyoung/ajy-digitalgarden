@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-01-29-mileage-adjustment/"}
+{"dg-publish":true,"date":"2022-01-29","distance":1.5,"moving_time":"30:00","elapsed_time":"30:00","pace":"20:00","total_elevation_gain":0,"url":"https://www.strava.com/activities/6601638713","permalink":"/01-personal/strava/2022-01-29-mileage-adjustment/","dgPassFrontmatter":true}
 ---
 
 
