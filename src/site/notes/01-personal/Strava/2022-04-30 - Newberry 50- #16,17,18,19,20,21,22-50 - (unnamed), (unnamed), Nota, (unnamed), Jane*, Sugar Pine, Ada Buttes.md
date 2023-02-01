@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-04-30-newberry-50-16-17-18-19-20-21-22-50-unnamed-unnamed-nota-unnamed-jane-sugar-pine-ada-buttes/"}
+{"dg-publish":true,"date":"2022-04-30","distance":17.06,"moving_time":"3:13:25","elapsed_time":"4:19:17","pace":"11:20","total_elevation_gain":3808,"url":"https://www.strava.com/activities/7067674375","permalink":"/01-personal/strava/2022-04-30-newberry-50-16-17-18-19-20-21-22-50-unnamed-unnamed-nota-unnamed-jane-sugar-pine-ada-buttes/","dgPassFrontmatter":true}
 ---
 
 
