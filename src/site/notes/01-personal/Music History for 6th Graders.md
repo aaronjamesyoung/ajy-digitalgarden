@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/music-history-for-6th-graders/"}
+{"dg-publish":true,"grade":2,"permalink":"/01-personal/music-history-for-6th-graders/","dgPassFrontmatter":true}
 ---
 
 
