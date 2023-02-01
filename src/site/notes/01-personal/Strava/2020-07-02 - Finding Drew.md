@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-07-02-finding-drew/"}
+{"dg-publish":true,"date":"2020-07-02","distance":4,"moving_time":"30:50","elapsed_time":"32:45","pace":"7:42","total_elevation_gain":195,"url":"https://www.strava.com/activities/3704144571","permalink":"/01-personal/strava/2020-07-02-finding-drew/","dgPassFrontmatter":true}
 ---
 
 
