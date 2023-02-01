@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-16-flagline-offtrail-wammajamma/"}
+{"dg-publish":true,"date":"2021-08-16","distance":10.21,"moving_time":"1:30:05","elapsed_time":"1:36:34","pace":"8:49","total_elevation_gain":1701,"url":"https://www.strava.com/activities/5803852792","permalink":"/01-personal/strava/2021-08-16-flagline-offtrail-wammajamma/","dgPassFrontmatter":true}
 ---
 
 
