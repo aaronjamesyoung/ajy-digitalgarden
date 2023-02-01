@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-06-27-night-wolfslug/"}
+{"dg-publish":true,"date":"2021-06-27","distance":6.96,"moving_time":"1:00:00","elapsed_time":"1:03:52","pace":"8:36","total_elevation_gain":1362,"url":"https://www.strava.com/activities/5541192618","permalink":"/01-personal/strava/2021-06-27-night-wolfslug/","dgPassFrontmatter":true}
 ---
 
 
