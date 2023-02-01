@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-05-08-the-return-trip/"}
+{"dg-publish":true,"date":"2020-05-08","distance":2.13,"moving_time":"20:00","elapsed_time":"20:00","pace":"9:23","total_elevation_gain":0,"url":"https://www.strava.com/activities/3426447170","permalink":"/01-personal/strava/2020-05-08-the-return-trip/","dgPassFrontmatter":true}
 ---
 
 
