@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-12-11-joy-to-the-earth/"}
+{"source":"[Joy to the Earth](https://www.youtube.com/watch?v=MOypm2pHpoY)","clipped":"2022-12-11","dg-publish":true,"grade":1,"permalink":"/96-articles/2022-12-11-joy-to-the-earth/","dgPassFrontmatter":true}
 ---
 
 
