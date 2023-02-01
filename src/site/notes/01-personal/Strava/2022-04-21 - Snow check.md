@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-04-21-snow-check/"}
+{"dg-publish":true,"date":"2022-04-21","distance":8.16,"moving_time":"1:17:33","elapsed_time":"1:17:56","pace":"9:30","total_elevation_gain":1158,"url":"https://www.strava.com/activities/7020502776","permalink":"/01-personal/strava/2022-04-21-snow-check/","dgPassFrontmatter":true}
 ---
 
 
