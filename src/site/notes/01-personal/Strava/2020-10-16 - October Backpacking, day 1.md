@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-16-october-backpacking-day-1/"}
+{"dg-publish":true,"date":"2020-10-16","distance":6.92,"moving_time":"2:10:24","elapsed_time":"2:19:37","pace":"18:50","total_elevation_gain":1992,"url":"https://www.strava.com/activities/4208063959","permalink":"/01-personal/strava/2020-10-16-october-backpacking-day-1/","dgPassFrontmatter":true}
 ---
 
 
