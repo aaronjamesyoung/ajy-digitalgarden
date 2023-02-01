@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/first-allegiance-2020-fall/"}
+{"dg-publish":true,"grade":2,"permalink":"/01-personal/first-allegiance-2020-fall/","dgPassFrontmatter":true}
 ---
 
 
