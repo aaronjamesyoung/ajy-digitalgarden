@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-10-16-confessing-our-sins/"}
+{"dg-publish":true,"grade":1,"map":"Faith","source":"[Confessing Our Sins](https://www.youtube.com/watch?v=vQvhynwhYws)","clipped":"2022-10-17","permalink":"/96-articles/2022-10-16-confessing-our-sins/","dgPassFrontmatter":true}
 ---
 
 
