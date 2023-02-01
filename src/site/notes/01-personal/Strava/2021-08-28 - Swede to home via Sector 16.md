@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-28-swede-to-home-via-sector-16/"}
+{"dg-publish":true,"date":"2021-08-28","distance":5.5,"moving_time":"48:32","elapsed_time":"59:23","pace":"8:49","total_elevation_gain":100,"url":"https://www.strava.com/activities/5869724105","permalink":"/01-personal/strava/2021-08-28-swede-to-home-via-sector-16/","dgPassFrontmatter":true}
 ---
 
 
