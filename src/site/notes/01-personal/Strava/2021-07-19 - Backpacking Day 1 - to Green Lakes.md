@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-19-backpacking-day-1-to-green-lakes/"}
+{"dg-publish":true,"date":"2021-07-19","distance":18.07,"moving_time":"5:35:04","elapsed_time":"6:35:04","pace":"18:32","total_elevation_gain":2675,"url":"https://www.strava.com/activities/5665845122","permalink":"/01-personal/strava/2021-07-19-backpacking-day-1-to-green-lakes/","dgPassFrontmatter":true}
 ---
 
 
