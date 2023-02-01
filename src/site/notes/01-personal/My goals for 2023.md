@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/my-goals-for-2023/"}
+{"dg-publish":true,"grade":2,"permalink":"/01-personal/my-goals-for-2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -31,31 +31,12 @@ I'm not going to stress about them being high-quality notes. In fact probably 40
 
 This can be tracked by checking this table:
 
-| File                                                                                                                  | Created    | Updated    | Grade |
-| --------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Code and Work\|📘 Code and Work]]                                                                             | 2023-01-02 | 2022-12-31 | 🥉    |
-| [[📘 Faith\|📘 Faith]]                                                                                             | 2023-01-02 | 2022-12-31 | 🥈    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                 | 2023-01-02 | 2022-12-31 | 🥇    |
-| [[📘 Life\|📘 Life]]                                                                                               | 2023-01-02 | 2022-12-31 | 🥉    |
-| [[📘 News Articles\|📘 News Articles]]                                                                             | 2023-01-02 | 2022-12-31 | 🥈    |
-| [[📘 Projects\|📘 Projects]]                                                                                       | 2023-01-02 | 2022-12-31 | 🥉    |
-| [[📘 Running\|📘 Running]]                                                                                         | 2023-01-02 | 2022-12-31 | 🥈    |
-| [[96-articles/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                 | 2023-01-02 | 2022-11-25 | 🥈    |
-| [[96-articles/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                     | 2023-01-02 | 2022-11-25 | 🥉    |
-| [[96-articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                     | 2023-01-02 | 2022-12-27 | 🥈    |
-| [[96-articles/2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]] | 2023-01-02 | 2022-11-26 | 🥈    |
-| [[96-articles/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                             | 2023-01-02 | 2022-12-27 | 🥈    |
-| [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                 | 2023-01-02 | 2022-11-27 | 🥉    |
-| [[96-articles/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                 | 2023-01-02 | 2022-12-04 | 🥉    |
-| [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                           | 2023-01-02 | 2022-12-11 | 🥉    |
-| [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                             | 2023-01-02 | 2022-12-22 | 🥉    |
-| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                 | 2023-01-02 | 2023-01-01 | 🥉    |
-| [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]           | 2023-01-15 | 2023-01-15 | 🥈    |
-| [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                                                             | 2023-01-02 | 2023-01-01 | 🥉    |
-| [[Bookmarks\|Bookmarks]]                                                                                           | 2023-01-09 | 2023-01-13 | 🥉    |
-| [[index\|index]]                                                                                                   | 2023-01-02 | 2023-01-01 | \-    |
-| [[01-personal/My goals for 2023\|My goals for 2023]]                                                               | 2023-01-15 | 2023-01-15 | 🥈    |
-| [[Notes\|Notes]]                                                                                                   | 2023-01-02 | 2022-12-31 | \-    |
-| [[01-personal/Recommended Books\|Recommended Books]]                                                               | 2023-01-02 | 2023-01-01 | 🥈    |
-| [[Uses\|Uses]]                                                                                                     | 2023-01-02 | 2023-01-01 | 🥇    |
+| File                                                                                                        | Created    | Updated    | Grade |
+| ----------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
+| [[📘 MYOG\|📘 MYOG]]                                                                                     | 2023-01-27 | 2023-01-31 | 🥈    |
+| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                       | 2023-01-01 | 2023-01-01 | 🥉    |
+| [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[Bookmarks\|Bookmarks]]                                                                                 | 2023-01-31 | 2023-01-31 | 🥉    |
+| [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                     | 2023-01-27 | 2023-01-31 | 🥇    |
+| [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]]                                                         | 2023-01-27 | 2023-01-26 | 🥈    |
 
