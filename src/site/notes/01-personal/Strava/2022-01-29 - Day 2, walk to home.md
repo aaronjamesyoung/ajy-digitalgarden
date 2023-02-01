@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-01-29-day-2-walk-to-home/"}
+{"dg-publish":true,"date":"2022-01-29","distance":6.34,"moving_time":"2:16:33","elapsed_time":"3:23:13","pace":"21:31","total_elevation_gain":74,"url":"https://www.strava.com/activities/6601610067","permalink":"/01-personal/strava/2022-01-29-day-2-walk-to-home/","dgPassFrontmatter":true}
 ---
 
 
