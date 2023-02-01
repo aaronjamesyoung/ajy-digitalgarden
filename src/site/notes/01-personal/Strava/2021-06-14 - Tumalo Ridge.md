@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-06-14-tumalo-ridge/"}
+{"dg-publish":true,"date":"2021-06-14","distance":10.48,"moving_time":"1:26:20","elapsed_time":"1:30:55","pace":"8:14","total_elevation_gain":1247,"url":"https://www.strava.com/activities/5470906172","permalink":"/01-personal/strava/2021-06-14-tumalo-ridge/","dgPassFrontmatter":true}
 ---
 
 
