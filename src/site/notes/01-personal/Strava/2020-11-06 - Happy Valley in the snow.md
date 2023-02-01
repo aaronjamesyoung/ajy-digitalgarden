@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-11-06-happy-valley-in-the-snow/"}
+{"dg-publish":true,"date":"2020-11-06","distance":8.01,"moving_time":"1:08:04","elapsed_time":"1:14:57","pace":"8:30","total_elevation_gain":1196,"url":"https://www.strava.com/activities/4298818150","permalink":"/01-personal/strava/2020-11-06-happy-valley-in-the-snow/","dgPassFrontmatter":true}
 ---
 
 
