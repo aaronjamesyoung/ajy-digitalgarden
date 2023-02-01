@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-02-19-newberry-50-2-3-4-5-50-cabin-coyote-horse-bessie-buttes/"}
+{"dg-publish":true,"date":"2022-02-19","distance":10.05,"moving_time":"1:27:39","elapsed_time":"1:44:30","pace":"8:43","total_elevation_gain":1458,"url":"https://www.strava.com/activities/6707650219","permalink":"/01-personal/strava/2022-02-19-newberry-50-2-3-4-5-50-cabin-coyote-horse-bessie-buttes/","dgPassFrontmatter":true}
 ---
 
 
