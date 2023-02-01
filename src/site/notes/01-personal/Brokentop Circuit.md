@@ -31,7 +31,7 @@ I like this as a 2-day route, appropriate for a laid back fastpack trip. For the
 
 The first day begins with a long, consistent uphill to mile 13 at Tam McArthur Rim. It's worth taking the out & back as mapped on my Caltopo link above, to get the really good view at the top of the rim. After this, descend to Three Creek Lake. I find this to be a great lunch spot.
 
-> Fun fact - Three Creek Lake is not "Three Creeks Lake", but you'll often see people mistakenly calling it this. Instead it's named for it's outflow creek, which is "Three Creek".
+> Fun fact - Three Creek Lake is not "Three Creeks Lake", but you'll often see people mistakenly calling it this (understandably). Instead it's named for Three Creek. Just downstream of the lake is Three Creek Meadow, where three creeks join to form Three Creek. This is the source of the name.
 
 Find the Little Three Creek Lake trailhead. I like to cross the dam, continue between two campsites, and turn right on the road to find the trailhead. Head toward Park Meadow, passing through a burn area and crossing a few creeks along the way. From Park Meadow, it's about a mile uphill to the unmarked Golden Lake turnoff, then another half mile to the lake.
 
