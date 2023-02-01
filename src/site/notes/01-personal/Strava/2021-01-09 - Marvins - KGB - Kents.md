@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-01-09-marvins-kgb-kents/"}
+{"dg-publish":true,"date":"2021-01-09","distance":7.24,"moving_time":"56:10","elapsed_time":"56:10","pace":"7:45","total_elevation_gain":546,"url":"https://www.strava.com/activities/4595403269","permalink":"/01-personal/strava/2021-01-09-marvins-kgb-kents/","dgPassFrontmatter":true}
 ---
 
 
