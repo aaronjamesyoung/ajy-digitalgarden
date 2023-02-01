@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-06-29-mosquito-town/"}
+{"dg-publish":true,"date":"2021-06-29","distance":8.1,"moving_time":"1:09:53","elapsed_time":"1:09:53","pace":"8:37","total_elevation_gain":1214,"url":"https://www.strava.com/activities/5551103629","permalink":"/01-personal/strava/2021-06-29-mosquito-town/","dgPassFrontmatter":true}
 ---
 
 
