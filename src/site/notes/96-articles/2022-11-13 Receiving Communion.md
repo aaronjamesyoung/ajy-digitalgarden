@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-11-13-receiving-communion/"}
+{"source":"[Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)","clipped":"2022-11-13","map":"Faith","dg-publish":true,"grade":2,"permalink":"/96-articles/2022-11-13-receiving-communion/","dgPassFrontmatter":true}
 ---
 
 
