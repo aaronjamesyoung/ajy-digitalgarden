@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2014-09-27-century-cut-short/"}
+{"dg-publish":true,"date":"2014-09-27","distance":41.21,"moving_time":"2:28:23","elapsed_time":"4:00:33","pace":"3:36","total_elevation_gain":3058,"url":"https://www.strava.com/activities/200263968","permalink":"/01-personal/strava/2014-09-27-century-cut-short/","dgPassFrontmatter":true}
 ---
 
 
