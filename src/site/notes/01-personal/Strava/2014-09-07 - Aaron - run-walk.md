@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2014-09-07-aaron-run-walk/"}
+{"dg-publish":true,"date":"2014-09-07","distance":2.96,"moving_time":"30:01","elapsed_time":"30:01","pace":"10:07","total_elevation_gain":81,"url":"https://www.strava.com/activities/191503098","permalink":"/01-personal/strava/2014-09-07-aaron-run-walk/","dgPassFrontmatter":true}
 ---
 
 
