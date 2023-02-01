@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-06-21-evelyn-touch-the-tower/"}
+{"dg-publish":true,"date":"2015-06-21","distance":11.46,"moving_time":"1:41:56","elapsed_time":"1:47:35","pace":"8:53","total_elevation_gain":1568,"url":"https://www.strava.com/activities/330270495","permalink":"/01-personal/strava/2015-06-21-evelyn-touch-the-tower/","dgPassFrontmatter":true}
 ---
 
 
