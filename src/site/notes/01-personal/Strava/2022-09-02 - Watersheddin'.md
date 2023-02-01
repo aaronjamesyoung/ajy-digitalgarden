@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-02-watersheddin/"}
+{"dg-publish":true,"date":"2022-09-02","distance":7.76,"moving_time":"1:07:07","elapsed_time":"1:13:01","pace":"8:38","total_elevation_gain":1250,"url":"https://www.strava.com/activities/7744681607","permalink":"/01-personal/strava/2022-09-02-watersheddin/","dgPassFrontmatter":true}
 ---
 
 
