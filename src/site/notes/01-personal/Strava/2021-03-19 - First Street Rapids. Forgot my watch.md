@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-03-19-first-street-rapids-forgot-my-watch/"}
+{"dg-publish":true,"date":"2021-03-19","distance":7.64,"moving_time":"57:18","elapsed_time":"57:18","pace":"7:30","total_elevation_gain":433,"url":"https://www.strava.com/activities/4974942657","permalink":"/01-personal/strava/2021-03-19-first-street-rapids-forgot-my-watch/","dgPassFrontmatter":true}
 ---
 
 
