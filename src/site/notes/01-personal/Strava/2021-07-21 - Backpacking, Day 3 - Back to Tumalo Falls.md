@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-21-backpacking-day-3-back-to-tumalo-falls/"}
+{"dg-publish":true,"date":"2021-07-21","distance":12.61,"moving_time":"4:07:18","elapsed_time":"5:34:30","pace":"19:36","total_elevation_gain":510,"url":"https://www.strava.com/activities/5665878714","permalink":"/01-personal/strava/2021-07-21-backpacking-day-3-back-to-tumalo-falls/","dgPassFrontmatter":true}
 ---
 
 
