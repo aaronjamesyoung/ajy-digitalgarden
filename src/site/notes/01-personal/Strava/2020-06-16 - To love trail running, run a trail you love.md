@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-06-16-to-love-trail-running-run-a-trail-you-love/"}
+{"dg-publish":true,"date":"2020-06-16","distance":8.23,"moving_time":"1:03:36","elapsed_time":"1:03:51","pace":"7:43","total_elevation_gain":640,"url":"https://www.strava.com/activities/3626950428","permalink":"/01-personal/strava/2020-06-16-to-love-trail-running-run-a-trail-you-love/","dgPassFrontmatter":true}
 ---
 
 
