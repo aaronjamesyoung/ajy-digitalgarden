@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-11-27-afternoon-exploring-snowventure/"}
+{"dg-publish":true,"date":"2020-11-27","distance":4.11,"moving_time":"57:49","elapsed_time":"1:37:44","pace":"14:03","total_elevation_gain":853,"url":"https://www.strava.com/activities/4399619151","permalink":"/01-personal/strava/2020-11-27-afternoon-exploring-snowventure/","dgPassFrontmatter":true}
 ---
 
 
