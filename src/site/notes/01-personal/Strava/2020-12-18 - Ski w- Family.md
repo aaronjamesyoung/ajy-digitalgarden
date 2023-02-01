@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-12-18-ski-w-family/"}
+{"dg-publish":true,"date":"2020-12-18","distance":4.12,"moving_time":"1:15:29","elapsed_time":"1:41:25","pace":"18:18","total_elevation_gain":317,"url":"https://www.strava.com/activities/4497843362","permalink":"/01-personal/strava/2020-12-18-ski-w-family/","dgPassFrontmatter":true}
 ---
 
 
