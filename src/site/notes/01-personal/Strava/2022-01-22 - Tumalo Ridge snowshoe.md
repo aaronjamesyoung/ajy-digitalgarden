@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-01-22-tumalo-ridge-snowshoe/"}
+{"dg-publish":true,"date":"2022-01-22","distance":10.52,"moving_time":"2:58:30","elapsed_time":"3:09:57","pace":"16:57","total_elevation_gain":1255,"url":"https://www.strava.com/activities/6566279160","permalink":"/01-personal/strava/2022-01-22-tumalo-ridge-snowshoe/","dgPassFrontmatter":true}
 ---
 
 
