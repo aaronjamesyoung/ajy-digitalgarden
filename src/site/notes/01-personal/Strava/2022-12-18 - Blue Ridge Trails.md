@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-12-18-blue-ridge-trails/"}
+{"dg-publish":true,"date":"2022-12-18","distance":10.58,"moving_time":"1:34:44","elapsed_time":"1:41:54","pace":"8:57","total_elevation_gain":902,"url":"https://www.strava.com/activities/8264703946","permalink":"/01-personal/strava/2022-12-18-blue-ridge-trails/","dgPassFrontmatter":true}
 ---
 
 
