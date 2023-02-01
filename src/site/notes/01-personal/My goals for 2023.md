@@ -37,6 +37,6 @@ This can be tracked by checking this table:
 | [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                       | 2023-01-01 | 2023-01-01 | 🥉    |
 | [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 | 2023-01-15 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                 | 2023-01-31 | 2023-01-31 | 🥉    |
-| [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                     | 2023-01-27 | 2023-01-31 | 🥇    |
+| [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                     | 2023-01-27 | 2023-02-01 | 🥇    |
 | [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]]                                                         | 2023-01-27 | 2023-01-26 | 🥈    |
 
