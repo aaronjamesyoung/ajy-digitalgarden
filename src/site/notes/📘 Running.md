@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/running/","dgShowBacklinks":false}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/running/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
