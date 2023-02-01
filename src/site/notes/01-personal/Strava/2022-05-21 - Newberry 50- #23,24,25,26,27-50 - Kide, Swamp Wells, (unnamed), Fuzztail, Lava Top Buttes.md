@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-21-newberry-50-23-24-25-26-27-50-kide-swamp-wells-unnamed-fuzztail-lava-top-buttes/"}
+{"dg-publish":true,"date":"2022-05-21","distance":9.51,"moving_time":"1:44:37","elapsed_time":"2:26:15","pace":"11:00","total_elevation_gain":2083,"url":"https://www.strava.com/activities/7181013542","permalink":"/01-personal/strava/2022-05-21-newberry-50-23-24-25-26-27-50-kide-swamp-wells-unnamed-fuzztail-lava-top-buttes/","dgPassFrontmatter":true}
 ---
 
 
