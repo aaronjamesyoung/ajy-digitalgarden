@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-06-16-awesome-but-slow-trail/"}
+{"dg-publish":true,"date":"2022-06-16","distance":9.51,"moving_time":"1:20:41","elapsed_time":"1:22:31","pace":"8:28","total_elevation_gain":371,"url":"https://www.strava.com/activities/7321746213","permalink":"/01-personal/strava/2022-06-16-awesome-but-slow-trail/","dgPassFrontmatter":true}
 ---
 
 
