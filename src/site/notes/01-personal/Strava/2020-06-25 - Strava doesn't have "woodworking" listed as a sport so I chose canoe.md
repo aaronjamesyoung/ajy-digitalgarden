@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-06-25-strava-doesn-t-have-woodworking-listed-as-a-sport-so-i-chose-canoe/"}
+{"dg-publish":true,"date":"2020-06-25","distance":0.01,"moving_time":"0:00","elapsed_time":"0:00","pace":"0:00","total_elevation_gain":1,"url":"https://www.strava.com/activities/3672052461","permalink":"/01-personal/strava/2020-06-25-strava-doesn-t-have-woodworking-listed-as-a-sport-so-i-chose-canoe/","dgPassFrontmatter":true}
 ---
 
 
