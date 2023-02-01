@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-13-pacing-daughter-on-a-couple-1k-s/"}
+{"dg-publish":true,"date":"2021-07-13","distance":1.38,"moving_time":"17:07","elapsed_time":"21:44","pace":"12:21","total_elevation_gain":60,"url":"https://www.strava.com/activities/5624212453","permalink":"/01-personal/strava/2021-07-13-pacing-daughter-on-a-couple-1k-s/","dgPassFrontmatter":true}
 ---
 
 
