@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-04-20-dead-whales-and-blowdowns/"}
+{"dg-publish":true,"date":"2021-04-20","distance":8.25,"moving_time":"1:07:52","elapsed_time":"1:09:16","pace":"8:13","total_elevation_gain":667,"url":"https://www.strava.com/activities/5163597799","permalink":"/01-personal/strava/2021-04-20-dead-whales-and-blowdowns/","dgPassFrontmatter":true}
 ---
 
 
