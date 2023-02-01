@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-02-21-afternoon-run/"}
+{"dg-publish":true,"date":"2020-02-21","distance":9.2,"moving_time":"1:03:04","elapsed_time":"1:03:24","pace":"6:51","total_elevation_gain":1070,"url":"https://www.strava.com/activities/3120510574","permalink":"/01-personal/strava/2020-02-21-afternoon-run/","dgPassFrontmatter":true}
 ---
 
 
