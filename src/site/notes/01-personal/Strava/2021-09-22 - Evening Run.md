@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-22-evening-run/"}
+{"dg-publish":true,"date":"2021-09-22","distance":2.07,"moving_time":"16:40","elapsed_time":"16:54","pace":"8:01","total_elevation_gain":130,"url":"https://www.strava.com/activities/6006569762","permalink":"/01-personal/strava/2021-09-22-evening-run/","dgPassFrontmatter":true}
 ---
 
 
