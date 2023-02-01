@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-03-24-is-there-dirt/"}
+{"dg-publish":true,"date":"2021-03-24","distance":6.01,"moving_time":"51:24","elapsed_time":"58:42","pace":"8:33","total_elevation_gain":301,"url":"https://www.strava.com/activities/5005366638","permalink":"/01-personal/strava/2021-03-24-is-there-dirt/","dgPassFrontmatter":true}
 ---
 
 
