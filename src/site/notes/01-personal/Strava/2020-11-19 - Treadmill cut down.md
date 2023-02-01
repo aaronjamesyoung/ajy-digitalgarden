@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-11-19-treadmill-cut-down/"}
+{"dg-publish":true,"date":"2020-11-19","distance":5,"moving_time":"37:21","elapsed_time":"37:21","pace":"7:28","total_elevation_gain":1,"url":"https://www.strava.com/activities/4362424372","permalink":"/01-personal/strava/2020-11-19-treadmill-cut-down/","dgPassFrontmatter":true}
 ---
 
 
