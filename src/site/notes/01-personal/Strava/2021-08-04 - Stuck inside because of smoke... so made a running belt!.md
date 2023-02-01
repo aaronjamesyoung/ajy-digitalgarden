@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-04-stuck-inside-because-of-smoke-so-made-a-running-belt/"}
+{"dg-publish":true,"date":"2021-08-04","distance":0.01,"moving_time":"0:00","elapsed_time":"0:00","pace":"0:00","total_elevation_gain":0,"url":"https://www.strava.com/activities/5739808151","permalink":"/01-personal/strava/2021-08-04-stuck-inside-because-of-smoke-so-made-a-running-belt/","dgPassFrontmatter":true}
 ---
 
 
