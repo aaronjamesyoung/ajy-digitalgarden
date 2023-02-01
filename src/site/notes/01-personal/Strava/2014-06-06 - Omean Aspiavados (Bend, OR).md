@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2014-06-06-omean-aspiavados-bend-or/"}
+{"dg-publish":true,"date":"2014-06-06","distance":27.51,"moving_time":"1:27:06","elapsed_time":"1:27:25","pace":"3:10","total_elevation_gain":1507,"url":"https://www.strava.com/activities/150350735","permalink":"/01-personal/strava/2014-06-06-omean-aspiavados-bend-or/","dgPassFrontmatter":true}
 ---
 
 
