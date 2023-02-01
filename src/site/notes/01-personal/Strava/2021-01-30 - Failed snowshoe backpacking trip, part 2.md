@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-01-30-failed-snowshoe-backpacking-trip-part-2/"}
+{"dg-publish":true,"date":"2021-01-30","distance":9.08,"moving_time":"3:42:31","elapsed_time":"4:46:33","pace":"24:31","total_elevation_gain":795,"url":"https://www.strava.com/activities/4708492411","permalink":"/01-personal/strava/2021-01-30-failed-snowshoe-backpacking-trip-part-2/","dgPassFrontmatter":true}
 ---
 
 
