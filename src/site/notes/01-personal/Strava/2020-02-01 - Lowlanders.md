@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-02-01-lowlanders/"}
+{"dg-publish":true,"date":"2020-02-01","distance":14.01,"moving_time":"1:51:26","elapsed_time":"1:53:06","pace":"7:57","total_elevation_gain":1364,"url":"https://www.strava.com/activities/3063311419","permalink":"/01-personal/strava/2020-02-01-lowlanders/","dgPassFrontmatter":true}
 ---
 
 
