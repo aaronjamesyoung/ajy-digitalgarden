@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-01-17-cruising-trails-with-mat/"}
+{"dg-publish":true,"date":"2021-01-17","distance":8.9,"moving_time":"1:14:44","elapsed_time":"1:15:22","pace":"8:24","total_elevation_gain":699,"url":"https://www.strava.com/activities/4639115583","permalink":"/01-personal/strava/2021-01-17-cruising-trails-with-mat/","dgPassFrontmatter":true}
 ---
 
 
