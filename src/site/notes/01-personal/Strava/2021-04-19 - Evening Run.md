@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-04-19-evening-run/"}
+{"dg-publish":true,"date":"2021-04-19","distance":9.7,"moving_time":"1:24:24","elapsed_time":"1:26:19","pace":"8:42","total_elevation_gain":1475,"url":"https://www.strava.com/activities/5157982813","permalink":"/01-personal/strava/2021-04-19-evening-run/","dgPassFrontmatter":true}
 ---
 
 
