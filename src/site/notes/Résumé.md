@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resume/"}
+{"dg-publish":true,"permalink":"/resume/","dgPassFrontmatter":true}
 ---
 
 
