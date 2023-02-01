@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-05-06-morning-run/"}
+{"dg-publish":true,"date":"2020-05-06","distance":10.51,"moving_time":"1:25:34","elapsed_time":"1:27:28","pace":"8:08","total_elevation_gain":1472,"url":"https://www.strava.com/activities/3409573493","permalink":"/01-personal/strava/2020-05-06-morning-run/","dgPassFrontmatter":true}
 ---
 
 
