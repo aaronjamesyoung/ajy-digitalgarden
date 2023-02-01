@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-06-14-a-three-hour-tour/"}
+{"dg-publish":true,"date":"2020-06-14","distance":22,"moving_time":"3:00:29","elapsed_time":"3:08:42","pace":"8:12","total_elevation_gain":3003,"url":"https://www.strava.com/activities/3616179544","permalink":"/01-personal/strava/2020-06-14-a-three-hour-tour/","dgPassFrontmatter":true}
 ---
 
 
