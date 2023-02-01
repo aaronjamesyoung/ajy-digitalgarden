@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-07-08-jacuzzi-of-beef/"}
+{"dg-publish":true,"date":"2015-07-08","distance":24.24,"moving_time":"1:14:58","elapsed_time":"1:14:58","pace":"3:05","total_elevation_gain":1319,"url":"https://www.strava.com/activities/342076244","permalink":"/01-personal/strava/2015-07-08-jacuzzi-of-beef/","dgPassFrontmatter":true}
 ---
 
 
