@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-10-27-snowy-happy-valley/"}
+{"dg-publish":true,"date":"2022-10-27","distance":8.02,"moving_time":"1:10:20","elapsed_time":"1:14:21","pace":"8:46","total_elevation_gain":1241,"url":"https://www.strava.com/activities/8029096644","permalink":"/01-personal/strava/2022-10-27-snowy-happy-valley/","dgPassFrontmatter":true}
 ---
 
 
