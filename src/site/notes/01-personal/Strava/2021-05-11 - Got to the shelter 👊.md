@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-05-11-got-to-the-shelter/"}
+{"dg-publish":true,"date":"2021-05-11","distance":10.34,"moving_time":"1:24:43","elapsed_time":"1:32:04","pace":"8:11","total_elevation_gain":1230,"url":"https://www.strava.com/activities/5281601321","permalink":"/01-personal/strava/2021-05-11-got-to-the-shelter/","dgPassFrontmatter":true}
 ---
 
 
