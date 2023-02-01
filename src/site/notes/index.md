@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgShowBacklinks":false,"dgShowInlineTitle":false}
+{"dg-home":true,"dg-publish":true,"dg-show-inline-title":false,"dg-show-backlinks":false,"permalink":"/index/","tags":"gardenEntry","dgShowBacklinks":false,"dgShowInlineTitle":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -34,6 +34,7 @@ See below, or view all [[Notes\|Notes]]
 
 | Post                                                        | Updated    |
 | ----------------------------------------------------------- | ---------- |
+| 🥇 [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                    | 2023-01-31 |
 | 🥇 [[Uses\|Uses]]                                                 | 2023-01-01 |
 | 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                       | 2022-12-31 |
 | 🥇 [[01-personal/MYOG Wind Pants\|MYOG Wind Pants]]                                      | 2022-12-28 |
@@ -51,16 +52,16 @@ See below, or view all [[Notes\|Notes]]
 
 | Note                                               | Updated    |
 | -------------------------------------------------- | ---------- |
-| 🥉 [[📘 MYOG\|📘 MYOG]]                                     | 2023-01-26 |
+| 🥈 [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]    | 2023-01-31 |
+| 🥈 [[📘 MYOG\|📘 MYOG]]                                     | 2023-01-31 |
+| 🥈 [[📘 Life\|📘 Life]]                                     | 2023-01-31 |
+| 🥈 [[📘 Code and Work\|📘 Code and Work]]                            | 2023-01-31 |
+| 🥉 [[Bookmarks\|Bookmarks]]                                   | 2023-01-31 |
 | 🥈 [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]]                             | 2023-01-26 |
 | 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]                           | 2023-01-15 |
 | 🥈 [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 |
-| 🥉 [[Bookmarks\|Bookmarks]]                                   | 2023-01-13 |
 | 🥉 [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]            | 2023-01-01 |
 | 🥉 [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                          | 2023-01-01 |
-| 🥈 [[01-personal/Recommended Books\|Recommended Books]]                           | 2023-01-01 |
-| 🥈 [[📘 Running\|📘 Running]]                                  | 2022-12-31 |
-| 🥉 [[📘 Projects\|📘 Projects]]                                 | 2022-12-31 |
 
 
 </div>
