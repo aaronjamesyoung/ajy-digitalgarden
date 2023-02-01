@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-06-06-trail-report/"}
+{"dg-publish":true,"date":"2022-06-06","distance":9.98,"moving_time":"1:31:32","elapsed_time":"1:37:34","pace":"9:10","total_elevation_gain":1542,"url":"https://www.strava.com/activities/7267417884","permalink":"/01-personal/strava/2022-06-06-trail-report/","dgPassFrontmatter":true}
 ---
 
 
