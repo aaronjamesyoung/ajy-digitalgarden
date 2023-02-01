@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-01-22-celebratory-snowshoe-after-getting-dose-1/"}
+{"dg-publish":true,"date":"2021-01-22","distance":3.2,"moving_time":"1:21:10","elapsed_time":"1:31:33","pace":"25:19","total_elevation_gain":1200,"url":"https://www.strava.com/activities/4664849376","permalink":"/01-personal/strava/2021-01-22-celebratory-snowshoe-after-getting-dose-1/","dgPassFrontmatter":true}
 ---
 
 
