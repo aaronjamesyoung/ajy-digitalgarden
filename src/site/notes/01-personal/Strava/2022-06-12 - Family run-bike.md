@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-06-12-family-run-bike/"}
+{"dg-publish":true,"date":"2022-06-12","distance":6.91,"moving_time":"1:02:41","elapsed_time":"1:12:56","pace":"9:04","total_elevation_gain":374,"url":"https://www.strava.com/activities/7299539680","permalink":"/01-personal/strava/2022-06-12-family-run-bike/","dgPassFrontmatter":true}
 ---
 
 
