@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-04-27-wednesday-tempo-and-strides/"}
+{"dg-publish":true,"date":"2022-04-27","distance":9.45,"moving_time":"1:12:16","elapsed_time":"1:12:48","pace":"7:38","total_elevation_gain":391,"url":"https://www.strava.com/activities/7052346846","permalink":"/01-personal/strava/2022-04-27-wednesday-tempo-and-strides/","dgPassFrontmatter":true}
 ---
 
 
