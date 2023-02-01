@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-02-13-newberry-50-1-50-pilot-butte/"}
+{"dg-publish":true,"date":"2022-02-13","distance":15.35,"moving_time":"2:02:43","elapsed_time":"2:06:17","pace":"7:59","total_elevation_gain":1802,"url":"https://www.strava.com/activities/6679445034","permalink":"/01-personal/strava/2022-02-13-newberry-50-1-50-pilot-butte/","dgPassFrontmatter":true}
 ---
 
 
