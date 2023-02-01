@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/bend-smoke-days-by-year/"}
+{"dg-publish":true,"grade":2,"permalink":"/96-articles/bend-smoke-days-by-year/","dgPassFrontmatter":true}
 ---
 
 
