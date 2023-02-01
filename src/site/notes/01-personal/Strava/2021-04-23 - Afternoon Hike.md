@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-04-23-afternoon-hike/"}
+{"dg-publish":true,"date":"2021-04-23","distance":10.69,"moving_time":"2:56:47","elapsed_time":"3:06:44","pace":"16:32","total_elevation_gain":162,"url":"https://www.strava.com/activities/5186835673","permalink":"/01-personal/strava/2021-04-23-afternoon-hike/","dgPassFrontmatter":true}
 ---
 
 
