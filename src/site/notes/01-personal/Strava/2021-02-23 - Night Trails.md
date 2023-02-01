@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-02-23-night-trails/"}
+{"dg-publish":true,"date":"2021-02-23","distance":10.01,"moving_time":"1:23:48","elapsed_time":"1:29:53","pace":"8:22","total_elevation_gain":1055,"url":"https://www.strava.com/activities/4839543453","permalink":"/01-personal/strava/2021-02-23-night-trails/","dgPassFrontmatter":true}
 ---
 
 
