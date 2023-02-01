@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2019-10-15-afternoon-run/"}
+{"dg-publish":true,"date":"2019-10-15","distance":5,"moving_time":"42:00","elapsed_time":"42:00","pace":"8:24","total_elevation_gain":0,"url":"https://www.strava.com/activities/2794846939","permalink":"/01-personal/strava/2019-10-15-afternoon-run/","dgPassFrontmatter":true}
 ---
 
 
