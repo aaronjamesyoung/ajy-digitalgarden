@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-12-22-do-you-trust-me/"}
+{"source":"[Do You Trust Me?](https://www.youtube.com/watch?v=jzwzJ0mwtKU)","clipped":"2022-12-22","dg-publish":true,"grade":1,"permalink":"/96-articles/2022-12-22-do-you-trust-me/","dgPassFrontmatter":true}
 ---
 
 
