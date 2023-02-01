@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-05-17-the-trail-is-a-stream-the-other-trail-is-a-stream-too/"}
+{"dg-publish":true,"date":"2020-05-17","distance":14.92,"moving_time":"2:22:10","elapsed_time":"2:24:47","pace":"9:31","total_elevation_gain":2035,"url":"https://www.strava.com/activities/3469011818","permalink":"/01-personal/strava/2020-05-17-the-trail-is-a-stream-the-other-trail-is-a-stream-too/","dgPassFrontmatter":true}
 ---
 
 
