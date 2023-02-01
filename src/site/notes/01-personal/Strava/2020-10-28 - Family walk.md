@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-28-family-walk/"}
+{"dg-publish":true,"date":"2020-10-28","distance":1.67,"moving_time":"38:27","elapsed_time":"1:00:22","pace":"23:02","total_elevation_gain":392,"url":"https://www.strava.com/activities/4278559048","permalink":"/01-personal/strava/2020-10-28-family-walk/","dgPassFrontmatter":true}
 ---
 
 
