@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-work/java-script-elapsed-time-in-function/"}
+{"dg-publish":true,"grade":2,"permalink":"/02-work/java-script-elapsed-time-in-function/","dgPassFrontmatter":true}
 ---
 
 
