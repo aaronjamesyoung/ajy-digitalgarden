@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-11-anyone-up-for-a-lunar-eclipse-moonrise-wolfslug-on-sunday-evening/"}
+{"dg-publish":true,"date":"2022-05-11","distance":2,"moving_time":"17:49","elapsed_time":"18:04","pace":"8:53","total_elevation_gain":240,"url":"https://www.strava.com/activities/7126195148","permalink":"/01-personal/strava/2022-05-11-anyone-up-for-a-lunar-eclipse-moonrise-wolfslug-on-sunday-evening/","dgPassFrontmatter":true}
 ---
 
 
