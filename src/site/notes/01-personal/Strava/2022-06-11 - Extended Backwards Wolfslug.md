@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-06-11-extended-backwards-wolfslug/"}
+{"dg-publish":true,"date":"2022-06-11","distance":16.25,"moving_time":"2:14:15","elapsed_time":"2:20:14","pace":"8:15","total_elevation_gain":1827,"url":"https://www.strava.com/activities/7292801561","permalink":"/01-personal/strava/2022-06-11-extended-backwards-wolfslug/","dgPassFrontmatter":true}
 ---
 
 
