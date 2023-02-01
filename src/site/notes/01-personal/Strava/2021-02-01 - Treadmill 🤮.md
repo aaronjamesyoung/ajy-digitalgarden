@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-02-01-treadmill/"}
+{"dg-publish":true,"date":"2021-02-01","distance":5,"moving_time":"38:40","elapsed_time":"38:40","pace":"7:44","total_elevation_gain":0,"url":"https://www.strava.com/activities/4719824540","permalink":"/01-personal/strava/2021-02-01-treadmill/","dgPassFrontmatter":true}
 ---
 
 
