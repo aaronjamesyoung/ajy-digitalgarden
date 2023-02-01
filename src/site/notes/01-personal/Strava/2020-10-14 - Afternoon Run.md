@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-14-afternoon-run/"}
+{"dg-publish":true,"date":"2020-10-14","distance":6.01,"moving_time":"44:31","elapsed_time":"44:47","pace":"7:24","total_elevation_gain":505,"url":"https://www.strava.com/activities/4196052204","permalink":"/01-personal/strava/2020-10-14-afternoon-run/","dgPassFrontmatter":true}
 ---
 
 
