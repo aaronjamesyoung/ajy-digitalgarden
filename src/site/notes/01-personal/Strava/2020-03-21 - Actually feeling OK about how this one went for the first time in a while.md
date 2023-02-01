@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-03-21-actually-feeling-ok-about-how-this-one-went-for-the-first-time-in-a-while/"}
+{"dg-publish":true,"date":"2020-03-21","distance":6.01,"moving_time":"45:54","elapsed_time":"46:07","pace":"7:38","total_elevation_gain":319,"url":"https://www.strava.com/activities/3205389702","permalink":"/01-personal/strava/2020-03-21-actually-feeling-ok-about-how-this-one-went-for-the-first-time-in-a-while/","dgPassFrontmatter":true}
 ---
 
 
