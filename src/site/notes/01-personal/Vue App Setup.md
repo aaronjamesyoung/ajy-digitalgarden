@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/vue-app-setup/"}
+{"dg-publish":true,"grade":2,"permalink":"/01-personal/vue-app-setup/","dgPassFrontmatter":true}
 ---
 
 
