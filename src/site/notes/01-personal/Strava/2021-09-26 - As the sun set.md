@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-26-as-the-sun-set/"}
+{"dg-publish":true,"date":"2021-09-26","distance":13.42,"moving_time":"1:45:28","elapsed_time":"1:52:35","pace":"7:51","total_elevation_gain":1567,"url":"https://www.strava.com/activities/6025578914","permalink":"/01-personal/strava/2021-09-26-as-the-sun-set/","dgPassFrontmatter":true}
 ---
 
 
