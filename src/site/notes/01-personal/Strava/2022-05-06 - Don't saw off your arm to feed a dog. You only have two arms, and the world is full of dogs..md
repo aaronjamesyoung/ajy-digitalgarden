@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-06-don-t-saw-off-your-arm-to-feed-a-dog-you-only-have-two-arms-and-the-world-is-full-of-dogs/"}
+{"dg-publish":true,"date":"2022-05-06","distance":2.39,"moving_time":"43:40","elapsed_time":"43:55","pace":"18:15","total_elevation_gain":155,"url":"https://www.strava.com/activities/7099888537","permalink":"/01-personal/strava/2022-05-06-don-t-saw-off-your-arm-to-feed-a-dog-you-only-have-two-arms-and-the-world-is-full-of-dogs/","dgPassFrontmatter":true}
 ---
 
 
