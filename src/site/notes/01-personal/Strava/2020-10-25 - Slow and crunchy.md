@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-25-slow-and-crunchy/"}
+{"dg-publish":true,"date":"2020-10-25","distance":4.14,"moving_time":"32:51","elapsed_time":"33:04","pace":"7:56","total_elevation_gain":212,"url":"https://www.strava.com/activities/4243061388","permalink":"/01-personal/strava/2020-10-25-slow-and-crunchy/","dgPassFrontmatter":true}
 ---
 
 
