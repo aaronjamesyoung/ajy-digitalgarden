@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-08-14-three-fingered-jack-loop/"}
+{"dg-publish":true,"date":"2022-08-14","distance":27.31,"moving_time":"4:28:26","elapsed_time":"5:16:14","pace":"9:49","total_elevation_gain":3970,"url":"https://www.strava.com/activities/7639463086","permalink":"/01-personal/strava/2022-08-14-three-fingered-jack-loop/","dgPassFrontmatter":true}
 ---
 
 
