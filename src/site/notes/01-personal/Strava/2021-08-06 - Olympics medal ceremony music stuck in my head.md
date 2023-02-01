@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-06-olympics-medal-ceremony-music-stuck-in-my-head/"}
+{"dg-publish":true,"date":"2021-08-06","distance":8.13,"moving_time":"1:07:35","elapsed_time":"1:17:37","pace":"8:18","total_elevation_gain":1372,"url":"https://www.strava.com/activities/5749945354","permalink":"/01-personal/strava/2021-08-06-olympics-medal-ceremony-music-stuck-in-my-head/","dgPassFrontmatter":true}
 ---
 
 
