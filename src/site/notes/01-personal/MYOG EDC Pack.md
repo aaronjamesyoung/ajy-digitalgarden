@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/myog-edc-pack/"}
+{"dg-publish":true,"grade":2,"permalink":"/01-personal/myog-edc-pack/","dgPassFrontmatter":true}
 ---
 
 
