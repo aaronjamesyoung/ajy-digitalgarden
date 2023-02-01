@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-20-backpacking-day-2-run-south-sister-circumnav/"}
+{"dg-publish":true,"date":"2021-07-20","distance":31.07,"moving_time":"5:59:37","elapsed_time":"7:27:18","pace":"11:34","total_elevation_gain":4732,"url":"https://www.strava.com/activities/5665864970","permalink":"/01-personal/strava/2021-07-20-backpacking-day-2-run-south-sister-circumnav/","dgPassFrontmatter":true}
 ---
 
 
