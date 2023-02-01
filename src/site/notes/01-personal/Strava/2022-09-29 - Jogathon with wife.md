@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-29-jogathon-with-wife/"}
+{"dg-publish":true,"date":"2022-09-29","distance":5.11,"moving_time":"43:12","elapsed_time":"43:12","pace":"8:27","total_elevation_gain":509,"url":"https://www.strava.com/activities/7886681550","permalink":"/01-personal/strava/2022-09-29-jogathon-with-wife/","dgPassFrontmatter":true}
 ---
 
 
