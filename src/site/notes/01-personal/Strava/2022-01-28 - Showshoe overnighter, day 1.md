@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-01-28-showshoe-overnighter-day-1/"}
+{"dg-publish":true,"date":"2022-01-28","distance":7.3,"moving_time":"2:26:52","elapsed_time":"2:52:25","pace":"20:06","total_elevation_gain":1928,"url":"https://www.strava.com/activities/6601599661","permalink":"/01-personal/strava/2022-01-28-showshoe-overnighter-day-1/","dgPassFrontmatter":true}
 ---
 
 
