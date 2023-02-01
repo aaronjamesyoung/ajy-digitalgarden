@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-04-wolfslugndsday-tempo-and-nothing/"}
+{"dg-publish":true,"date":"2022-05-04","distance":6.99,"moving_time":"1:02:36","elapsed_time":"1:04:03","pace":"8:57","total_elevation_gain":1357,"url":"https://www.strava.com/activities/7089887776","permalink":"/01-personal/strava/2022-05-04-wolfslugndsday-tempo-and-nothing/","dgPassFrontmatter":true}
 ---
 
 
