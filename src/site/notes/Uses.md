@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uses/"}
+{"dg-publish":true,"grade":3,"permalink":"/uses/","dgPassFrontmatter":true}
 ---
 
 
