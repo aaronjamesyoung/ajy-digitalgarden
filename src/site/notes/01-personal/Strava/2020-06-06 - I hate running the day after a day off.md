@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-06-06-i-hate-running-the-day-after-a-day-off/"}
+{"dg-publish":true,"date":"2020-06-06","distance":10.5,"moving_time":"1:24:37","elapsed_time":"1:29:37","pace":"8:03","total_elevation_gain":1241,"url":"https://www.strava.com/activities/3574372226","permalink":"/01-personal/strava/2020-06-06-i-hate-running-the-day-after-a-day-off/","dgPassFrontmatter":true}
 ---
 
 
