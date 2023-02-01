@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-07-19-hot-muffin/"}
+{"dg-publish":true,"date":"2015-07-19","distance":19.04,"moving_time":"1:02:29","elapsed_time":"1:02:29","pace":"3:16","total_elevation_gain":1176,"url":"https://www.strava.com/activities/349839640","permalink":"/01-personal/strava/2015-07-19-hot-muffin/","dgPassFrontmatter":true}
 ---
 
 
