@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/code-and-work/","dgShowBacklinks":false}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/code-and-work/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
