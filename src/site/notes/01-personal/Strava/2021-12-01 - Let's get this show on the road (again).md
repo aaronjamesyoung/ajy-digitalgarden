@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-12-01-let-s-get-this-show-on-the-road-again/"}
+{"dg-publish":true,"date":"2021-12-01","distance":2,"moving_time":"20:26","elapsed_time":"20:26","pace":"10:11","total_elevation_gain":93,"url":"https://www.strava.com/activities/6332504582","permalink":"/01-personal/strava/2021-12-01-let-s-get-this-show-on-the-road-again/","dgPassFrontmatter":true}
 ---
 
 
