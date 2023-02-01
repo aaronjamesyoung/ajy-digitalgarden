@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-06-30-showing-my-wife-the-spring-creek-trail/"}
+{"dg-publish":true,"date":"2022-06-30","distance":8.16,"moving_time":"1:39:34","elapsed_time":"1:48:04","pace":"12:12","total_elevation_gain":1277,"url":"https://www.strava.com/activities/7394958155","permalink":"/01-personal/strava/2022-06-30-showing-my-wife-the-spring-creek-trail/","dgPassFrontmatter":true}
 ---
 
 
