@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-07-02-newberry-crater-rim-with-scott/"}
+{"dg-publish":true,"date":"2022-07-02","distance":20.95,"moving_time":"3:28:29","elapsed_time":"4:13:50","pace":"9:56","total_elevation_gain":3073,"url":"https://www.strava.com/activities/7404914689","permalink":"/01-personal/strava/2022-07-02-newberry-crater-rim-with-scott/","dgPassFrontmatter":true}
 ---
 
 
