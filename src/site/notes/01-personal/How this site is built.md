@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/how-this-site-is-built/"}
+{"dg-publish":true,"grade":3,"permalink":"/01-personal/how-this-site-is-built/","dgPassFrontmatter":true}
 ---
 
 
