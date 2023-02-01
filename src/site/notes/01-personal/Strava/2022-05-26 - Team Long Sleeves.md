@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-26-team-long-sleeves/"}
+{"dg-publish":true,"date":"2022-05-26","distance":8.2,"moving_time":"1:10:55","elapsed_time":"1:13:18","pace":"8:39","total_elevation_gain":1390,"url":"https://www.strava.com/activities/7208644315","permalink":"/01-personal/strava/2022-05-26-team-long-sleeves/","dgPassFrontmatter":true}
 ---
 
 
