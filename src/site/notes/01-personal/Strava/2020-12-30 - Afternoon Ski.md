@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-12-30-afternoon-ski/"}
+{"dg-publish":true,"date":"2020-12-30","distance":6.87,"moving_time":"1:47:04","elapsed_time":"1:48:45","pace":"15:35","total_elevation_gain":511,"url":"https://www.strava.com/activities/4542066042","permalink":"/01-personal/strava/2020-12-30-afternoon-ski/","dgPassFrontmatter":true}
 ---
 
 
