@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/trip-report-2022-10-08-three-sisters-loop-fastpack/"}
+{"dg-publish":true,"grade":3,"permalink":"/01-personal/trip-report-2022-10-08-three-sisters-loop-fastpack/","dgPassFrontmatter":true}
 ---
 
 
