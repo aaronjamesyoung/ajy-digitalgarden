@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/how-to-shorten-a-separating-zipper/"}
+{"dg-publish":true,"grade":1,"permalink":"/01-personal/how-to-shorten-a-separating-zipper/","dgPassFrontmatter":true}
 ---
 
 
