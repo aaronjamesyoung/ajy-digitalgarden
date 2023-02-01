@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-07-25-return-of-the-breeze/"}
+{"dg-publish":true,"date":"2015-07-25","distance":30.82,"moving_time":"1:44:28","elapsed_time":"1:47:02","pace":"3:23","total_elevation_gain":1722,"url":"https://www.strava.com/activities/354003286","permalink":"/01-personal/strava/2015-07-25-return-of-the-breeze/","dgPassFrontmatter":true}
 ---
 
 
