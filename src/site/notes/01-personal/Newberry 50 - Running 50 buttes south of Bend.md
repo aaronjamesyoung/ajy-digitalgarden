@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/newberry-50-running-50-buttes-south-of-bend/"}
+{"dg-publish":true,"grade":3,"permalink":"/01-personal/newberry-50-running-50-buttes-south-of-bend/","dgPassFrontmatter":true}
 ---
 
 
