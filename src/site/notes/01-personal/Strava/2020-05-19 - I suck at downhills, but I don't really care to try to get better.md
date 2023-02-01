@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-05-19-i-suck-at-downhills-but-i-don-t-really-care-to-try-to-get-better/"}
+{"dg-publish":true,"date":"2020-05-19","distance":16.01,"moving_time":"2:10:06","elapsed_time":"2:12:22","pace":"8:07","total_elevation_gain":1751,"url":"https://www.strava.com/activities/3479520892","permalink":"/01-personal/strava/2020-05-19-i-suck-at-downhills-but-i-don-t-really-care-to-try-to-get-better/","dgPassFrontmatter":true}
 ---
 
 
