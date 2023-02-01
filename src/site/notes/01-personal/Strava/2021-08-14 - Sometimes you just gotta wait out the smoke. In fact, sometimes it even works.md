@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-14-sometimes-you-just-gotta-wait-out-the-smoke-in-fact-sometimes-it-even-works/"}
+{"dg-publish":true,"date":"2021-08-14","distance":4.17,"moving_time":"34:37","elapsed_time":"35:21","pace":"8:17","total_elevation_gain":363,"url":"https://www.strava.com/activities/5794314597","permalink":"/01-personal/strava/2021-08-14-sometimes-you-just-gotta-wait-out-the-smoke-in-fact-sometimes-it-even-works/","dgPassFrontmatter":true}
 ---
 
 
