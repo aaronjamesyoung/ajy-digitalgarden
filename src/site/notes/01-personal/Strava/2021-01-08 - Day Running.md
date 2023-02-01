@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-01-08-day-running/"}
+{"dg-publish":true,"date":"2021-01-08","distance":4.01,"moving_time":"31:05","elapsed_time":"31:05","pace":"7:45","total_elevation_gain":234,"url":"https://www.strava.com/activities/4589154586","permalink":"/01-personal/strava/2021-01-08-day-running/","dgPassFrontmatter":true}
 ---
 
 
