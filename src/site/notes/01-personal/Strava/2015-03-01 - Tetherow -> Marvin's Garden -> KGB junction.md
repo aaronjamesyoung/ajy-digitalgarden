@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-03-01-tetherow-marvin-s-garden-kgb-junction/"}
+{"dg-publish":true,"date":"2015-03-01","distance":5,"moving_time":"58:21","elapsed_time":"1:02:29","pace":"11:40","total_elevation_gain":266,"url":"https://www.strava.com/activities/261796412","permalink":"/01-personal/strava/2015-03-01-tetherow-marvin-s-garden-kgb-junction/","dgPassFrontmatter":true}
 ---
 
 
