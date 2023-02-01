@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-10-14-rockslide/"}
+{"dg-publish":true,"date":"2021-10-14","distance":10.34,"moving_time":"1:37:36","elapsed_time":"1:51:56","pace":"9:26","total_elevation_gain":1720,"url":"https://www.strava.com/activities/6113524616","permalink":"/01-personal/strava/2021-10-14-rockslide/","dgPassFrontmatter":true}
 ---
 
 
