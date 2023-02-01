@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-03-fastpacking-attempt-day-1/"}
+{"dg-publish":true,"date":"2021-09-03","distance":17.32,"moving_time":"3:31:55","elapsed_time":"4:26:42","pace":"12:14","total_elevation_gain":2820,"url":"https://www.strava.com/activities/5903706653","permalink":"/01-personal/strava/2021-09-03-fastpacking-attempt-day-1/","dgPassFrontmatter":true}
 ---
 
 
