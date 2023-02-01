@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-21-sumner-mountain-crusher/"}
+{"dg-publish":true,"date":"2021-08-21","distance":10.67,"moving_time":"1:15:23","elapsed_time":"1:16:06","pace":"7:04","total_elevation_gain":1178,"url":"https://www.strava.com/activities/5831558164","permalink":"/01-personal/strava/2021-08-21-sumner-mountain-crusher/","dgPassFrontmatter":true}
 ---
 
 
