@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-10-09-three-sisters-loop-fastpack-day-2-2-the-surprising-power-of-math/"}
+{"dg-publish":true,"date":"2022-10-09","distance":37.97,"moving_time":"8:18:03","elapsed_time":"9:44:20","pace":"13:06","total_elevation_gain":4338,"url":"https://www.strava.com/activities/7942845916","permalink":"/01-personal/strava/2022-10-09-three-sisters-loop-fastpack-day-2-2-the-surprising-power-of-math/","dgPassFrontmatter":true}
 ---
 
 
