@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-04-23-tumalo-reservoir/"}
+{"dg-publish":true,"date":"2022-04-23","distance":21.79,"moving_time":"2:51:35","elapsed_time":"3:11:39","pace":"7:52","total_elevation_gain":1501,"url":"https://www.strava.com/activities/7030362556","permalink":"/01-personal/strava/2022-04-23-tumalo-reservoir/","dgPassFrontmatter":true}
 ---
 
 
