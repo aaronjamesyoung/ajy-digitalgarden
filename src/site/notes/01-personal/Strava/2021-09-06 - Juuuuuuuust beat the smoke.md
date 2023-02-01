@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-06-juuuuuuuust-beat-the-smoke/"}
+{"dg-publish":true,"date":"2021-09-06","distance":6.01,"moving_time":"48:53","elapsed_time":"53:27","pace":"8:08","total_elevation_gain":746,"url":"https://www.strava.com/activities/5915972687","permalink":"/01-personal/strava/2021-09-06-juuuuuuuust-beat-the-smoke/","dgPassFrontmatter":true}
 ---
 
 
