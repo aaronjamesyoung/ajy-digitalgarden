@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-17-i-think-the-shelter-may-be-get-to-able/"}
+{"dg-publish":true,"date":"2022-05-17","distance":8,"moving_time":"1:04:34","elapsed_time":"1:05:54","pace":"8:04","total_elevation_gain":927,"url":"https://www.strava.com/activities/7160411119","permalink":"/01-personal/strava/2022-05-17-i-think-the-shelter-may-be-get-to-able/","dgPassFrontmatter":true}
 ---
 
 
