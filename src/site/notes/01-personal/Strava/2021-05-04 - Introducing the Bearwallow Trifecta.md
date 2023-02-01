@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-05-04-introducing-the-bearwallow-trifecta/"}
+{"dg-publish":true,"date":"2021-05-04","distance":10.82,"moving_time":"1:45:11","elapsed_time":"1:47:56","pace":"9:43","total_elevation_gain":2822,"url":"https://www.strava.com/activities/5243518939","permalink":"/01-personal/strava/2021-05-04-introducing-the-bearwallow-trifecta/","dgPassFrontmatter":true}
 ---
 
 
