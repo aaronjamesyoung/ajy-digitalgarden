@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-06-25-the-breeze/"}
+{"dg-publish":true,"date":"2015-06-25","distance":23.02,"moving_time":"1:15:16","elapsed_time":"1:16:55","pace":"3:16","total_elevation_gain":1402,"url":"https://www.strava.com/activities/333099107","permalink":"/01-personal/strava/2015-06-25-the-breeze/","dgPassFrontmatter":true}
 ---
 
 
