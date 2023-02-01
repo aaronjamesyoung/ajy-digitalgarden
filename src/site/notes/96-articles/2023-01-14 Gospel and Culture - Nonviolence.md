@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2023-01-14-gospel-and-culture-nonviolence/"}
+{"dg-publish":true,"grade":2,"permalink":"/96-articles/2023-01-14-gospel-and-culture-nonviolence/","dgPassFrontmatter":true}
 ---
 
 
