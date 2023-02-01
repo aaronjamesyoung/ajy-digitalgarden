@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-01-one-of-my-favorite-routes-up-here/"}
+{"dg-publish":true,"date":"2020-10-01","distance":10,"moving_time":"1:24:38","elapsed_time":"1:25:01","pace":"8:27","total_elevation_gain":1302,"url":"https://www.strava.com/activities/4139026227","permalink":"/01-personal/strava/2020-10-01-one-of-my-favorite-routes-up-here/","dgPassFrontmatter":true}
 ---
 
 
