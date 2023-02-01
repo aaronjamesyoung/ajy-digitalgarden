@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-08-30-the-mob-does-two-things-well-nothing-and-revolution/"}
+{"dg-publish":true,"date":"2022-08-30","distance":6.5,"moving_time":"51:27","elapsed_time":"51:59","pace":"7:54","total_elevation_gain":521,"url":"https://www.strava.com/activities/7728790667","permalink":"/01-personal/strava/2022-08-30-the-mob-does-two-things-well-nothing-and-revolution/","dgPassFrontmatter":true}
 ---
 
 
