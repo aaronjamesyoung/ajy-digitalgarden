@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-11-08-afternoon-run/"}
+{"dg-publish":true,"date":"2022-11-08","distance":4,"moving_time":"32:57","elapsed_time":"34:07","pace":"8:13","total_elevation_gain":189,"url":"https://www.strava.com/activities/8089948219","permalink":"/01-personal/strava/2022-11-08-afternoon-run/","dgPassFrontmatter":true}
 ---
 
 
