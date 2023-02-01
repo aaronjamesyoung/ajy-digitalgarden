@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-07-31-freelancing-redux/"}
+{"dg-publish":true,"date":"2015-07-31","distance":29.08,"moving_time":"1:35:06","elapsed_time":"1:36:12","pace":"3:16","total_elevation_gain":1776,"url":"https://www.strava.com/activities/360006007","permalink":"/01-personal/strava/2015-07-31-freelancing-redux/","dgPassFrontmatter":true}
 ---
 
 
