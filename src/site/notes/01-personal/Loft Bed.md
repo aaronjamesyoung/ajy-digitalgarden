@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/loft-bed/"}
+{"dg-publish":true,"grade":1,"permalink":"/01-personal/loft-bed/","dgPassFrontmatter":true}
 ---
 
 
