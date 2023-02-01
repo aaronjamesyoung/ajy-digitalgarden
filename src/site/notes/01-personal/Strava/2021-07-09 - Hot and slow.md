@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-07-09-hot-and-slow/"}
+{"dg-publish":true,"date":"2021-07-09","distance":5.32,"moving_time":"49:06","elapsed_time":"49:34","pace":"9:14","total_elevation_gain":700,"url":"https://www.strava.com/activities/5601544515","permalink":"/01-personal/strava/2021-07-09-hot-and-slow/","dgPassFrontmatter":true}
 ---
 
 
