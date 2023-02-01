@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-05-15-badlands-backpack-with-daughter-day-2/"}
+{"dg-publish":true,"date":"2022-05-15","distance":4.3,"moving_time":"1:54:31","elapsed_time":"2:30:20","pace":"26:36","total_elevation_gain":275,"url":"https://www.strava.com/activities/7149159631","permalink":"/01-personal/strava/2022-05-15-badlands-backpack-with-daughter-day-2/","dgPassFrontmatter":true}
 ---
 
 
