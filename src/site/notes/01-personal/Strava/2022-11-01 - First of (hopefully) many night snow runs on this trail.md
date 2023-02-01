@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-11-01-first-of-hopefully-many-night-snow-runs-on-this-trail/"}
+{"dg-publish":true,"date":"2022-11-01","distance":6.23,"moving_time":"49:17","elapsed_time":"52:25","pace":"7:54","total_elevation_gain":474,"url":"https://www.strava.com/activities/8055765821","permalink":"/01-personal/strava/2022-11-01-first-of-hopefully-many-night-snow-runs-on-this-trail/","dgPassFrontmatter":true}
 ---
 
 
