@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-12-17-twilight-moonlight-snowshoe/"}
+{"dg-publish":true,"date":"2021-12-17","distance":4.05,"moving_time":"1:11:17","elapsed_time":"1:22:53","pace":"17:35","total_elevation_gain":513,"url":"https://www.strava.com/activities/6396601636","permalink":"/01-personal/strava/2021-12-17-twilight-moonlight-snowshoe/","dgPassFrontmatter":true}
 ---
 
 
