@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-21-who-are-you-yourself-alone-and-nameless/"}
+{"dg-publish":true,"date":"2022-09-21","distance":9.84,"moving_time":"1:19:25","elapsed_time":"1:21:48","pace":"8:04","total_elevation_gain":1391,"url":"https://www.strava.com/activities/7845956365","permalink":"/01-personal/strava/2022-09-21-who-are-you-yourself-alone-and-nameless/","dgPassFrontmatter":true}
 ---
 
 
