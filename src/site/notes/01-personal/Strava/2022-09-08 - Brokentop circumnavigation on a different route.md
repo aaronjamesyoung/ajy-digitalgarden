@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-08-brokentop-circumnavigation-on-a-different-route/"}
+{"dg-publish":true,"date":"2022-09-08","distance":22.32,"moving_time":"3:52:56","elapsed_time":"4:41:50","pace":"10:26","total_elevation_gain":4325,"url":"https://www.strava.com/activities/7777192297","permalink":"/01-personal/strava/2022-09-08-brokentop-circumnavigation-on-a-different-route/","dgPassFrontmatter":true}
 ---
 
 
