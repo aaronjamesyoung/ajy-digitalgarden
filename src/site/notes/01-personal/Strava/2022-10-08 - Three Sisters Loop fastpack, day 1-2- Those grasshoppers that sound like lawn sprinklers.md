@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-10-08-three-sisters-loop-fastpack-day-1-2-those-grasshoppers-that-sound-like-lawn-sprinklers/"}
+{"dg-publish":true,"date":"2022-10-08","distance":34.88,"moving_time":"8:44:41","elapsed_time":"8:46:13","pace":"15:02","total_elevation_gain":5145,"url":"https://www.strava.com/activities/7942770781","permalink":"/01-personal/strava/2022-10-08-three-sisters-loop-fastpack-day-1-2-those-grasshoppers-that-sound-like-lawn-sprinklers/","dgPassFrontmatter":true}
 ---
 
 
