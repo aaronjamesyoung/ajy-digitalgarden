@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-06-02-wolf-in-the-front-slug-in-the-back/"}
+{"dg-publish":true,"date":"2020-06-02","distance":6.96,"moving_time":"52:10","elapsed_time":"52:13","pace":"7:29","total_elevation_gain":1342,"url":"https://www.strava.com/activities/3555543620","permalink":"/01-personal/strava/2020-06-02-wolf-in-the-front-slug-in-the-back/","dgPassFrontmatter":true}
 ---
 
 
