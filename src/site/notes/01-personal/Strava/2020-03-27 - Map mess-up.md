@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-03-27-map-mess-up/"}
+{"dg-publish":true,"date":"2020-03-27","distance":8.17,"moving_time":"1:12:18","elapsed_time":"1:13:35","pace":"8:50","total_elevation_gain":1433,"url":"https://www.strava.com/activities/3225201561","permalink":"/01-personal/strava/2020-03-27-map-mess-up/","dgPassFrontmatter":true}
 ---
 
 
