@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faith/","dgShowBacklinks":false}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/faith/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
