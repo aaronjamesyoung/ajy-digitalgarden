@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-09-17-mt-washington/"}
+{"dg-publish":true,"date":"2022-09-17","distance":7.68,"moving_time":"1:26:40","elapsed_time":"1:46:14","pace":"11:17","total_elevation_gain":2002,"url":"https://www.strava.com/activities/7824366941","permalink":"/01-personal/strava/2022-09-17-mt-washington/","dgPassFrontmatter":true}
 ---
 
 
