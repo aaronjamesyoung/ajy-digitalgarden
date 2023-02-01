@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-08-19-fastpack-prototype-test-jog/"}
+{"dg-publish":true,"date":"2021-08-19","distance":4.01,"moving_time":"32:58","elapsed_time":"35:05","pace":"8:13","total_elevation_gain":194,"url":"https://www.strava.com/activities/5821310350","permalink":"/01-personal/strava/2021-08-19-fastpack-prototype-test-jog/","dgPassFrontmatter":true}
 ---
 
 
