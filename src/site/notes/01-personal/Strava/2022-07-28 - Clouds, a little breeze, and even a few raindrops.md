@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-07-28-clouds-a-little-breeze-and-even-a-few-raindrops/"}
+{"dg-publish":true,"date":"2022-07-28","distance":6.56,"moving_time":"51:27","elapsed_time":"52:05","pace":"7:50","total_elevation_gain":531,"url":"https://www.strava.com/activities/7545311324","permalink":"/01-personal/strava/2022-07-28-clouds-a-little-breeze-and-even-a-few-raindrops/","dgPassFrontmatter":true}
 ---
 
 
