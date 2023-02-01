@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-10-12-bridge-creek/"}
+{"dg-publish":true,"date":"2021-10-12","distance":8.33,"moving_time":"1:08:38","elapsed_time":"1:13:12","pace":"8:14","total_elevation_gain":1380,"url":"https://www.strava.com/activities/6104106986","permalink":"/01-personal/strava/2021-10-12-bridge-creek/","dgPassFrontmatter":true}
 ---
 
 
