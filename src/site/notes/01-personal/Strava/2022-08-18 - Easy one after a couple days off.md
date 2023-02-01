@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2022-08-18-easy-one-after-a-couple-days-off/"}
+{"dg-publish":true,"date":"2022-08-18","distance":6,"moving_time":"49:26","elapsed_time":"49:50","pace":"8:14","total_elevation_gain":532,"url":"https://www.strava.com/activities/7661149505","permalink":"/01-personal/strava/2022-08-18-easy-one-after-a-couple-days-off/","dgPassFrontmatter":true}
 ---
 
 
