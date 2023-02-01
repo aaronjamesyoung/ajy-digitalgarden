@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-10-30-larch-ladness/"}
+{"dg-publish":true,"date":"2021-10-30","distance":10.88,"moving_time":"1:20:10","elapsed_time":"1:22:12","pace":"7:22","total_elevation_gain":240,"url":"https://www.strava.com/activities/6189090464","permalink":"/01-personal/strava/2021-10-30-larch-ladness/","dgPassFrontmatter":true}
 ---
 
 
