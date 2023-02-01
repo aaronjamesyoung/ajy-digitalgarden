@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-11-27-walk-in-the-light-of-the-lord/"}
+{"source":"[Walk in the Light of the Lord](https://www.youtube.com/watch?v=_1TC6L26iBw)","clipped":"2022-11-27","dg-publish":true,"grade":2,"permalink":"/96-articles/2022-11-27-walk-in-the-light-of-the-lord/","dgPassFrontmatter":true}
 ---
 
 
