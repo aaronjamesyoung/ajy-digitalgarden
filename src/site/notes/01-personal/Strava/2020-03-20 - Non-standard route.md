@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-03-20-non-standard-route/"}
+{"dg-publish":true,"date":"2020-03-20","distance":5.18,"moving_time":"49:57","elapsed_time":"53:13","pace":"9:38","total_elevation_gain":1068,"url":"https://www.strava.com/activities/3201267048","permalink":"/01-personal/strava/2020-03-20-non-standard-route/","dgPassFrontmatter":true}
 ---
 
 
