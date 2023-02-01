@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-07-24-random-road-randomer-road-cattle-path/"}
+{"dg-publish":true,"date":"2020-07-24","distance":2.78,"moving_time":"23:30","elapsed_time":"23:40","pace":"8:27","total_elevation_gain":293,"url":"https://www.strava.com/activities/3816636584","permalink":"/01-personal/strava/2020-07-24-random-road-randomer-road-cattle-path/","dgPassFrontmatter":true}
 ---
 
 
