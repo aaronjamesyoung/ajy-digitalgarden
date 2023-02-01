@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-09-17-one-way-fastpack/"}
+{"dg-publish":true,"date":"2021-09-17","distance":22.22,"moving_time":"4:32:20","elapsed_time":"5:23:28","pace":"12:15","total_elevation_gain":2672,"url":"https://www.strava.com/activities/5977466610","permalink":"/01-personal/strava/2021-09-17-one-way-fastpack/","dgPassFrontmatter":true}
 ---
 
 
