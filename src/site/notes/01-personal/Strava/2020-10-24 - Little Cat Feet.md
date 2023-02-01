@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2020-10-24-little-cat-feet/"}
+{"dg-publish":true,"date":"2020-10-24","distance":10.44,"moving_time":"1:25:58","elapsed_time":"1:26:06","pace":"8:13","total_elevation_gain":1483,"url":"https://www.strava.com/activities/4238651343","permalink":"/01-personal/strava/2020-10-24-little-cat-feet/","dgPassFrontmatter":true}
 ---
 
 
