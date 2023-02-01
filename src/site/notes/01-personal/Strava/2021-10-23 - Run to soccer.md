@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-10-23-run-to-soccer/"}
+{"dg-publish":true,"date":"2021-10-23","distance":10.84,"moving_time":"1:21:57","elapsed_time":"1:23:07","pace":"7:33","total_elevation_gain":240,"url":"https://www.strava.com/activities/6156549074","permalink":"/01-personal/strava/2021-10-23-run-to-soccer/","dgPassFrontmatter":true}
 ---
 
 
