@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2015-06-28-did-you-throw-your-pop-at-me/"}
+{"dg-publish":true,"date":"2015-06-28","distance":18.09,"moving_time":"56:44","elapsed_time":"56:59","pace":"3:08","total_elevation_gain":797,"url":"https://www.strava.com/activities/335129770","permalink":"/01-personal/strava/2015-06-28-did-you-throw-your-pop-at-me/","dgPassFrontmatter":true}
 ---
 
 
