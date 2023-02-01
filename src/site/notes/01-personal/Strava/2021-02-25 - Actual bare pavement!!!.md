@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-personal/strava/2021-02-25-actual-bare-pavement/"}
+{"dg-publish":true,"date":"2021-02-25","distance":5.57,"moving_time":"43:12","elapsed_time":"44:22","pace":"7:45","total_elevation_gain":370,"url":"https://www.strava.com/activities/4850725834","permalink":"/01-personal/strava/2021-02-25-actual-bare-pavement/","dgPassFrontmatter":true}
 ---
 
 
