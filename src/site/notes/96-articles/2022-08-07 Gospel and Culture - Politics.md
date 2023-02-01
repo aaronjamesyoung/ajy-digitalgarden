@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/96-articles/2022-08-07-gospel-and-culture-politics/"}
+{"dg-publish":true,"grade":2,"permalink":"/96-articles/2022-08-07-gospel-and-culture-politics/","dgPassFrontmatter":true}
 ---
 
 
