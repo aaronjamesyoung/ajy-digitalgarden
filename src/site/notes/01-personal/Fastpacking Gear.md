@@ -7,6 +7,8 @@
 
 Stuff that might go with me on a backpacking or fastpacking trip. This is my gear, not a list of recommended gear to purchase. However this list would be a good place to start a checklist of gear needed.
 
+See specifics: [Gear Spreadsheet](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List)
+
 ## Pack
 
 * [[01-personal/MYOG Fastpack\|MYOG Fastpack]]
