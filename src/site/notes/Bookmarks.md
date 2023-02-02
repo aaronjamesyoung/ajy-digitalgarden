@@ -23,7 +23,7 @@
 
 ## Aarontable
 
-* [Backpacking Gear list](https://docs.google.com/spreadsheets/d/1c3U37VE4f4RL_oW_v5u3jLVuHz5jevo25naRfY7kpP0/edit#gid=0)
+* [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
 * [Buttes](https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkCplM/edit#gid=0)
 * [Pace Calculator](https://docs.google.com/spreadsheets/d/1UqTg4FQEOUkAqtetSEt-zcskdmXjwcFmItngiJRIUm0/edit#gid=0)
 * [Sewing Calculator](https://docs.google.com/spreadsheets/d/1GMI_w_bTGRCVBmLmUaO316l-YjUyKxto72saeMuHm0k/edit#gid=0)
