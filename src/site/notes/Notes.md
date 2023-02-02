@@ -38,13 +38,13 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | 2022-11-27 | \-    |
 | [[01-personal/Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-01-31 | 2023-01-31 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-01-31 | 2023-02-01 | 🥉    |
 | [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                                       | 2023-01-27 | 2023-02-01 | 🥇    |
 | [[01-personal/Bullet Journaling\|Bullet Journaling]]                                                                       | 2022-12-02 | 2022-12-06 | 🥈    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[01-personal/Couch\|Couch]]                                                                                               | 2022-11-15 | 2022-11-25 | 🥉    |
 | [[01-personal/Digital Garden\|Digital Garden]]                                                                             | 2022-12-12 | 2022-12-12 | 🥈    |
-| [[01-personal/Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-12-27 | 2022-12-28 | 🥈    |
+| [[01-personal/Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-12-27 | 2023-02-01 | 🥈    |
 | [[01-personal/First Aid Kit\|First Aid Kit]]                                                                               | 2022-11-12 | 2022-11-17 | 🥈    |
 | [[01-personal/First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                                                 | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[01-personal/Fostering\|Fostering]]                                                                                       | 2022-11-14 | 2022-11-26 | 🥉    |
@@ -54,7 +54,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[01-personal/How to shorten a separating zipper\|How to shorten a separating zipper]]                                     | 2022-12-14 | 2022-12-22 | 🥉    |
 | [[01-personal/How to take a running selfie\|How to take a running selfie]]                                                 | 2022-11-28 | 2022-11-28 | 🥉    |
-| [[index\|index]]                                                                                                           | 2022-12-27 | 2023-01-01 | \-    |
+| [[index\|index]]                                                                                                           | 2022-12-27 | 2023-02-01 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-11 | 2022-11-25 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-11 | 2022-11-25 | 🥈    |
 | [[01-personal/Loft Bed\|Loft Bed]]                                                                                         | 2022-11-15 | 2022-11-25 | 🥉    |
