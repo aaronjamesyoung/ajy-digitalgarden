@@ -15,54 +15,46 @@
 
 **I work as a web developer**, so I'm working on expanding my notes on [[📘 Code and Work\|📘 Code and Work]].
 
-**I also keep notes about** [[📘 Life\|📘 Life]], my [[📘 Faith\|📘 Faith]], and the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) to track the books I've been reading. (If you're on Mastodon or another Fediverse network, you can follow my BookWyrm account from there.)
+**I also keep notes about** [[📘 Life\|📘 Life]] and the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) to track the books I've been reading. (If you're on Mastodon or another Fediverse network, you can follow my BookWyrm account from there.)
 
-## Notes
+## Posts and Notes
 
-I try to assign my notes a "content score" which indicates their level of completeness:
+Some of my notes are written as fairly refined blog posts, while others are simply "notes to self" containing information that I've been working on lately.
 
-* 🥇 - Well-written, publishable notes or posts
-* 🥈 - It may be a list of bullet points, but it has good information
-* 🥉 - Incomplete thoughts that are probably unintelligible to anyone besides myself
-
-See below, or view all [[Notes\|Notes]]
+Start below, or view all [[Notes\|Notes]]
 
 <div class="col-2">
 <div>
 
-### Posts
+### Recent Blog Posts
 
-| Post                                                         | Updated    |
-| ------------------------------------------------------------ | ---------- |
-| 🥇 [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] | 2023-02-01 |
-| 🥇 [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                     | 2023-02-01 |
-| 🥇 [[Uses\|Uses]]                                                  | 2023-01-01 |
-| 🥇 [[📘 Fastpacking\|📘 Fastpacking]]                                        | 2022-12-31 |
-| 🥇 [[01-personal/MYOG Wind Pants\|MYOG Wind Pants]]                                       | 2022-12-28 |
-| 🥇 [[01-personal/How this site is built\|How this site is built]]                                | 2022-12-12 |
-| 🥇 [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]         | 2022-11-25 |
-| 🥇 [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]  | 2022-11-25 |
-| 🥇 [[01-personal/Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]   | 2022-11-25 |
-| 🥇 [[01-personal/Running Gear\|Running Gear]]                                          | 2022-11-19 |
-| 🥇 [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                 | 2022-11-17 |
+- [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
+- [[01-personal/Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
+- [[Uses\|Uses]] (2023-01-01)
+- [[📘 Fastpacking\|📘 Fastpacking]] (2022-12-31)
+- [[01-personal/MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
+- [[01-personal/How this site is built\|How this site is built]] (2022-12-12)
+- [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] (2022-11-25)
+- [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2022-11-25)
+- [[01-personal/Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2022-11-25)
+- [[01-personal/Running Gear\|Running Gear]] (2022-11-19)
+- [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2022-11-17)
 
 
 </div><div>
 
 ### Recent Notes
 
-| Note                                               | Updated    |
-| -------------------------------------------------- | ---------- |
-| 🥈 [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]    | 2023-01-31 |
-| 🥈 [[📘 MYOG\|📘 MYOG]]                                     | 2023-01-31 |
-| 🥈 [[📘 Life\|📘 Life]]                                     | 2023-01-31 |
-| 🥈 [[📘 Code and Work\|📘 Code and Work]]                            | 2023-01-31 |
-| 🥉 [[Bookmarks\|Bookmarks]]                                   | 2023-01-31 |
-| 🥈 [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]]                             | 2023-01-26 |
-| 🥈 [[01-personal/My goals for 2023\|My goals for 2023]]                           | 2023-01-15 |
-| 🥈 [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] | 2023-01-15 |
-| 🥉 [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]            | 2023-01-01 |
-| 🥉 [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                          | 2023-01-01 |
+- [[Bookmarks\|Bookmarks]] (2023-02-01)
+- [[01-personal/Fastpacking Gear\|Fastpacking Gear]] (2023-02-01)
+- [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] (2023-01-31)
+- [[📘 MYOG\|📘 MYOG]] (2023-01-31)
+- [[📘 Life\|📘 Life]] (2023-01-31)
+- [[📘 Code and Work\|📘 Code and Work]] (2023-01-31)
+- [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]] (2023-01-26)
+- [[01-personal/My goals for 2023\|My goals for 2023]] (2023-01-15)
+- [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] (2023-01-15)
+- [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]] (2023-01-01)
 
 
 </div>
