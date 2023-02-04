@@ -34,8 +34,13 @@ This can be tracked by checking this table:
 | File                                                                                                                | Created    | Updated    | Grade |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
 | [[📘 MYOG\|📘 MYOG]]                                                                                             | 2023-01-27 | 2023-01-31 | 🥈    |
-| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                               | 2023-01-01 | 2023-01-01 | 🥉    |
+| [[2023 Epiphany\|2023 Epiphany]]                                                                                 | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                               | 2023-01-01 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                   | 2023-02-02 | 2023-02-02 | 🥉    |
 | [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]         | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[96-articles/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                               | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                     | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                       | 2023-02-02 | 2023-02-02 | 🥉    |
 | [[Bookmarks\|Bookmarks]]                                                                                         | 2023-01-31 | 2023-02-01 | 🥉    |
 | [[01-personal/Brokentop Circuit\|Brokentop Circuit]]                                                             | 2023-01-27 | 2023-02-01 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] | 2023-02-01 | 2023-02-01 | 🥇    |
