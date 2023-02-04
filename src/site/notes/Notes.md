@@ -16,25 +16,32 @@ I try to assign my notes a "content score" which indicates their level of comple
 | File                                                                                                                          | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
 | [[📘 Code and Work\|📘 Code and Work]]                                                                                     | 2022-11-21 | 2023-01-31 | 🥈    |
-| [[📘 Faith\|📘 Faith]]                                                                                                     | 2022-11-21 | 2022-12-31 | 🥈    |
+| [[📘 Faith\|📘 Faith]]                                                                                                     | 2022-11-21 | 2023-02-02 | 🥈    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2022-12-27 | 2022-12-31 | 🥇    |
 | [[📘 Life\|📘 Life]]                                                                                                       | 2022-11-21 | 2023-01-31 | 🥈    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-01-27 | 2023-01-31 | 🥈    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                     | 2022-11-21 | 2022-12-31 | 🥈    |
 | [[📘 Running\|📘 Running]]                                                                                                 | 2022-12-27 | 2022-12-31 | 🥈    |
+| [[01-personal/2020 First Allegiance\|2020 First Allegiance]]                                                               | 2022-12-27 | 2022-12-27 | 🥈    |
+| [[01-personal/2022 Advent\|2022 Advent]]                                                                                   | 2022-11-27 | 2023-01-01 | 🥉    |
+| [[01-personal/2022 Work of the People\|2022 Work of the People]]                                                           | 2022-11-22 | 2022-11-27 | 🥉    |
 | [[96-articles/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                         | 2022-09-22 | 2022-11-25 | 🥈    |
 | [[96-articles/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                             | 2022-10-17 | 2022-11-25 | 🥉    |
 | [[96-articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                             | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]]         | 2022-11-14 | 2022-11-26 | 🥈    |
-| [[96-articles/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
+| [[96-articles/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                     | 2022-12-27 | 2023-02-02 | 🥈    |
 | [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                         | 2022-11-27 | 2023-01-31 | 🥈    |
-| [[96-articles/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                         | 2022-12-04 | 2022-12-04 | 🥉    |
-| [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 2022-12-11 | 🥉    |
-| [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                     | 2022-12-22 | 2022-12-22 | 🥉    |
-| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                         | 2023-01-01 | 2023-01-01 | 🥉    |
+| [[96-articles/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                         | 2022-12-04 | 2023-02-02 | 🥉    |
+| [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 2023-02-02 | 🥉    |
+| [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                     | 2022-12-22 | 2023-02-02 | 🥉    |
+| [[2023 Epiphany\|2023 Epiphany]]                                                                                           | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                         | 2023-01-01 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                             | 2023-02-02 | 2023-02-02 | 🥉    |
 | [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                   | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[96-articles/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                         | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                               | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[96-articles/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                 | 2023-02-02 | 2023-02-02 | 🥉    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
-| [[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]]                                                                     | 2022-11-27 | 2023-01-01 | 🥉    |
 | [[01-personal/All Strava Activities\|All Strava Activities]]                                                               | 2022-11-27 | 2022-11-27 | \-    |
 | [[01-personal/Backpacking Routes\|Backpacking Routes]]                                                                     | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
@@ -46,7 +53,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/Digital Garden\|Digital Garden]]                                                                             | 2022-12-12 | 2022-12-12 | 🥈    |
 | [[01-personal/Fastpacking Gear\|Fastpacking Gear]]                                                                         | 2022-12-27 | 2023-02-01 | 🥈    |
 | [[01-personal/First Aid Kit\|First Aid Kit]]                                                                               | 2022-11-12 | 2022-11-17 | 🥈    |
-| [[01-personal/First Allegiance - 2020 Fall\|First Allegiance - 2020 Fall]]                                                 | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[01-personal/Fostering\|Fostering]]                                                                                       | 2022-11-14 | 2022-11-26 | 🥉    |
 | [[02-work/Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                         | 2022-11-07 | 2022-11-25 | 🥈    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                     | 2022-05-26 | 2022-11-17 | \-    |
@@ -87,4 +93,3 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[01-personal/Vue App Setup\|Vue App Setup]]                                                                               | 2022-11-21 | 2022-11-25 | 🥈    |
 | [[01-personal/Website thoughts\|Website thoughts]]                                                                         | 2022-11-14 | 2022-11-25 | 🥈    |
 | [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                               | 2022-11-12 | 2022-11-17 | 🥇    |
-| [[01-personal/Work of the People - 2022 Fall\|Work of the People - 2022 Fall]]                                             | 2022-11-22 | 2022-11-27 | 🥉    |
