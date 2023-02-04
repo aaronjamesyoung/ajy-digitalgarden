@@ -7,7 +7,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cBQxgi4ZGeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[01-personal/Advent - 2022 Fall\|Advent - 2022 Fall]] [[📘 Faith\|📘 Faith]]
+[[01-personal/2022 Advent\|2022 Advent]] [[📘 Faith\|📘 Faith]]
 
 [[94-bible/Isaiah 11\|Isaiah 11]] vv 1-10
 
