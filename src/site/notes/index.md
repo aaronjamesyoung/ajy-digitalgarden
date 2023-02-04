@@ -45,16 +45,16 @@ Start below, or view all [[Notes\|Notes]]
 
 ### Recent Notes
 
-- [[Bookmarks\|Bookmarks]] (2023-02-01)
-- [[01-personal/Fastpacking Gear\|Fastpacking Gear]] (2023-02-01)
-- [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]] (2023-01-31)
-- [[📘 MYOG\|📘 MYOG]] (2023-01-31)
-- [[📘 Life\|📘 Life]] (2023-01-31)
-- [[📘 Code and Work\|📘 Code and Work]] (2023-01-31)
-- [[01-personal/MYOG Wind Shell\|MYOG Wind Shell]] (2023-01-26)
-- [[01-personal/My goals for 2023\|My goals for 2023]] (2023-01-15)
-- [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] (2023-01-15)
-- [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]] (2023-01-01)
+- [[96-articles/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]] (2023-02-02)
+- [[2023 Epiphany\|2023 Epiphany]] (2023-02-02)
+- [[96-articles/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]] (2023-02-02)
+- [[96-articles/2023-01-15 Wait Training\|2023-01-15 Wait Training]] (2023-02-02)
+- [[96-articles/2023-01-08 Hearing God\|2023-01-08 Hearing God]] (2023-02-02)
+- [[📘 Faith\|📘 Faith]] (2023-02-02)
+- [[96-articles/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] (2023-02-02)
+- [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]] (2023-02-02)
+- [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]] (2023-02-02)
+- [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]] (2023-02-02)
 
 
 </div>
