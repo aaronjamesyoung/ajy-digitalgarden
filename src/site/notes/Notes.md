@@ -25,24 +25,31 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2020 First Allegiance\|2020 First Allegiance]]                                                                           | 2022-12-27 | 2022-12-27 | 🥈    |
 | [[2022 Advent\|2022 Advent]]                                                                                               | 2022-11-27 | 2023-01-01 | 🥉    |
 | [[2022 Work of the People\|2022 Work of the People]]                                                                       | 2022-11-22 | 2022-11-27 | 🥉    |
-| [[96-articles/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                         | 2022-09-22 | 2022-11-25 | 🥈    |
-| [[96-articles/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                             | 2022-10-17 | 2022-11-25 | 🥉    |
-| [[96-articles/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                             | 2022-12-27 | 2022-12-27 | 🥈    |
-| [[96-articles/2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]]         | 2022-11-14 | 2022-11-26 | 🥈    |
-| [[96-articles/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                     | 2022-12-27 | 2023-02-02 | 🥈    |
-| [[96-articles/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                         | 2022-11-27 | 2023-01-31 | 🥈    |
-| [[96-articles/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                         | 2022-12-04 | 2023-02-02 | 🥉    |
-| [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                   | 2022-12-11 | 2023-02-02 | 🥉    |
-| [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                     | 2022-12-22 | 2023-02-02 | 🥉    |
-| [[2023 Epiphany\|2023 Epiphany]]                                                                                           | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                         | 2023-01-01 | 2023-02-02 | 🥉    |
-| [[96-articles/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                             | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[96-articles/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                   | 2023-01-15 | 2023-01-15 | 🥈    |
-| [[96-articles/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                         | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[96-articles/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                               | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[96-articles/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                 | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[96-articles/2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                         | 2023-02-05 | 2023-02-05 | 🥉    |
-| [[96-articles/2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                         | 2023-02-12 | 2023-02-12 | 🥉    |
+| [[2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                     | 2022-09-22 | 2022-11-25 | 🥈    |
+| [[2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                         | 2022-10-17 | 2022-11-25 | 🥉    |
+| [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                                         | 2022-12-27 | 2022-12-27 | 🥈    |
+| [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]]                     | 2022-11-14 | 2022-11-26 | 🥈    |
+| [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                                 | 2022-12-27 | 2023-02-02 | 🥈    |
+| [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                                     | 2022-11-27 | 2023-01-31 | 🥈    |
+| [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                                     | 2022-12-04 | 2023-02-02 | 🥉    |
+| [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                               | 2022-12-11 | 2023-02-02 | 🥉    |
+| [[2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                                 | 2022-12-22 | 2023-02-02 | 🥉    |
+| [[2023 Epiphany\|2023 Epiphany]]                                                                                           | 2023-02-02 | 2023-03-19 | 🥉    |
+| [[2023 Lent\|2023 Lent]]                                                                                                   | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                     | 2023-01-01 | 2023-02-02 | 🥉    |
+| [[2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                         | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                     | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                           | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                             | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                                     | 2023-02-05 | 2023-02-05 | 🥉    |
+| [[2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                                     | 2023-02-12 | 2023-03-19 | 🥉    |
+| [[2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]                                             | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                     | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                   | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                           | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[96-articles/2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                             | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                           | 2023-03-19 | 2023-03-19 | 🥉    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[All Strava Activities\|All Strava Activities]]                                                                           | 2022-11-27 | 2022-11-27 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                 | 2022-12-27 | 2022-12-27 | 🥈    |
