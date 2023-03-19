@@ -9,7 +9,7 @@
 
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]]. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
-**What is this site?** It's my [[01-personal/Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding set of notes I try to keep about everything I do. Find out [[01-personal/How this site is built\|How this site is built]].
+**What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
 **Outdoors,** I spend a lot of time [[📘 Running\|📘 Running]] on trails and [[📘 Fastpacking\|📘 Fastpacking]] when I can. I also [[📘 MYOG\|📘 MYOG]] ("Make your own gear") a lot of the items I use. **Want to track my running?** Follow me on [Strava](https://www.strava.com/athletes/1057219).
 
@@ -28,23 +28,26 @@ Start below, or view all [[Notes\|Notes]]
 
 ### Recent Blog Posts
 
+- [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-02-04)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
-- [[01-personal/Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
+- [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
 - [[Uses\|Uses]] (2023-01-01)
 - [[📘 Fastpacking\|📘 Fastpacking]] (2022-12-31)
-- [[01-personal/MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
-- [[01-personal/How this site is built\|How this site is built]] (2022-12-12)
-- [[01-personal/Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] (2022-11-25)
-- [[01-personal/Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2022-11-25)
-- [[01-personal/Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2022-11-25)
-- [[01-personal/Running Gear\|Running Gear]] (2022-11-19)
-- [[01-personal/Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2022-11-17)
+- [[MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
+- [[How this site is built\|How this site is built]] (2022-12-12)
+- [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] (2022-11-25)
+- [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2022-11-25)
+- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2022-11-25)
+- [[Running Gear\|Running Gear]] (2022-11-19)
+- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2022-11-17)
 
 
 </div><div>
 
 ### Recent Notes
 
+- [[96-articles/2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]] (2023-02-12)
+- [[96-articles/2023-02-05 Living in Awe\|2023-02-05 Living in Awe]] (2023-02-05)
 - [[96-articles/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]] (2023-02-02)
 - [[2023 Epiphany\|2023 Epiphany]] (2023-02-02)
 - [[96-articles/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]] (2023-02-02)
@@ -53,8 +56,6 @@ Start below, or view all [[Notes\|Notes]]
 - [[📘 Faith\|📘 Faith]] (2023-02-02)
 - [[96-articles/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]] (2023-02-02)
 - [[96-articles/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]] (2023-02-02)
-- [[96-articles/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]] (2023-02-02)
-- [[96-articles/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]] (2023-02-02)
 
 
 </div>
