@@ -3,7 +3,7 @@
 ---
 
 
-[[2022-12-11\|2022-12-11]] [[📘 Faith\|📘 Faith]] [[01-personal/2022 Advent\|2022 Advent]]
+[[2022-12-11\|2022-12-11]] [[📘 Faith\|📘 Faith]] [[2022 Advent\|2022 Advent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MOypm2pHpoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
