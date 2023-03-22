@@ -10,6 +10,7 @@
 | Distance | Time  | Elapsed Time | Pace | Elevation |
 | -------- | ----- | ------------ | ---- | --------- |
 | 4        | 32:00 | 32:00        | 7:59 | 0         |
+| 4        | 32:00 | 32:00        | 7:59 | 0         |
 
 
 Easily the worst run since last time I did a treadmill run
