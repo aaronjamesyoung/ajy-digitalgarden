@@ -10,6 +10,7 @@
 | Distance | Time    | Elapsed Time | Pace | Elevation |
 | -------- | ------- | ------------ | ---- | --------- |
 | 10.58    | 1:34:44 | 1:41:54      | 8:57 | 902       |
+| 10.58    | 1:34:44 | 1:41:54      | 8:57 | 902       |
 
 
 Tough and slow! I also think I had a bit of GPS inaccuracy in the trees, I thought this loop was a bit longer than this.
