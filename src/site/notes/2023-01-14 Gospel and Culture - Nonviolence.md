@@ -31,7 +31,7 @@ This discussion was led by Dr. Gerry Breshears, professor of theology at Western
 
 ### Just war
 
-* [[Genesis 14\|Genesis 14]] - describes Abram's defense of Lot and the reaction of the priest Melchizidek. Though Abram was not always a perfectly moral man, Melchizidek seems to have approved of the action.
+* [[94-bible/Genesis 14\|Genesis 14]] - describes Abram's defense of Lot and the reaction of the priest Melchizidek. Though Abram was not always a perfectly moral man, Melchizidek seems to have approved of the action.
 * This point of view developed in Christianity around the time of Constantine.
 * This view holds that there are certain wars in which Christians are *obligated* to fight:
     * War must be declared by a legitimate government
