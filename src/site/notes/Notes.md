@@ -38,7 +38,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2023 Lent\|2023 Lent]]                                                                                                   | 2023-03-19 | 2023-03-19 | 🥉    |
 | [[2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                     | 2023-01-01 | 2023-02-02 | 🥉    |
 | [[2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                         | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-15 | 2023-03-20 | 🥈    |
 | [[2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                     | 2023-02-02 | 2023-02-02 | 🥉    |
 | [[2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                           | 2023-02-02 | 2023-02-02 | 🥉    |
 | [[2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                             | 2023-02-02 | 2023-02-02 | 🥉    |
@@ -48,7 +48,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                     | 2023-03-19 | 2023-03-19 | 🥉    |
 | [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                   | 2023-03-19 | 2023-03-19 | 🥉    |
 | [[2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                           | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[96-articles/2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                             | 2023-03-19 | 2023-03-19 | 🥉    |
+| [[2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                         | 2023-03-19 | 2023-03-19 | 🥉    |
 | [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                           | 2023-03-19 | 2023-03-19 | 🥉    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[All Strava Activities\|All Strava Activities]]                                                                           | 2022-11-27 | 2022-11-27 | \-    |
