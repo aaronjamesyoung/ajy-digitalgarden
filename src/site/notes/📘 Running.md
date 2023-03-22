@@ -13,18 +13,18 @@ I've run a few ultramarathons and I ran cross country and track all through high
 
 [[All Strava Activities\|All Strava Activities]] - [Follow me on Strava](https://www.strava.com/athletes/aaronjamesyoung)
 
-| File                                                                                                                                 | Distance | Time    | Pace | Elevation |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------- | ---- | --------- |
-| [[01-personal/Strava/2022-12-26 - 50 and raining. Am I still in Coos Bay?\|2022-12-26 - 50 and raining. Am I still in Coos Bay?]] | 4        | 31:46   | 7:55 | 229       |
-| [[01-personal/Strava/2022-12-24 - No option but treadmill\|2022-12-24 - No option but treadmill]]                                 | 4        | 32:00   | 7:59 | 0         |
-| [[01-personal/Strava/2022-12-22 - Lunch Run\|2022-12-22 - Lunch Run]]                                                             | 4.01     | 34:37   | 8:37 | 473       |
-| [[01-personal/Strava/2022-12-20 - Afternoon Run\|2022-12-20 - Afternoon Run]]                                                     | 4.01     | 33:26   | 8:20 | 237       |
-| [[01-personal/Strava/2022-12-18 - Blue Ridge Trails\|2022-12-18 - Blue Ridge Trails]]                                             | 10.58    | 1:34:44 | 8:57 | 902       |
-| [[01-personal/Strava/2022-12-17 - Afternoon Run\|2022-12-17 - Afternoon Run]]                                                     | 6.5      | 47:18   | 7:16 | 472       |
-| [[01-personal/Strava/2022-12-16 - Morning Run\|2022-12-16 - Morning Run]]                                                         | 4        | 31:32   | 7:52 | 433       |
-| [[01-personal/Strava/2022-12-15 - Afternoon Run\|2022-12-15 - Afternoon Run]]                                                     | 4.01     | 32:21   | 8:04 | 236       |
-| [[01-personal/Strava/2022-12-13 - Afternoon Run\|2022-12-13 - Afternoon Run]]                                                     | 6        | 46:05   | 7:40 | 360       |
-| [[01-personal/Strava/2022-12-12 - Afternoon Run\|2022-12-12 - Afternoon Run]]                                                     | 7.01     | 1:00:15 | 8:35 | 613       |
+| File                                                                                                                         | Distance | Time    | Pace | Elevation |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------- | ---- | --------- |
+| [[01-personal/Strava/2023-03-20 - Afternoon Run\|2023-03-20 - Afternoon Run]]                                             | 4        | 33:19   | 8:19 | 243       |
+| [[01-personal/Strava/2023-03-18 - Lunch Run\|2023-03-18 - Lunch Run]]                                                     | 8.01     | 1:03:50 | 7:58 | 246       |
+| [[01-personal/Strava/2023-03-17 - Afternoon Run\|2023-03-17 - Afternoon Run]]                                             | 4        | 33:09   | 8:16 | 185       |
+| [[01-personal/Strava/2023-03-16 - Afternoon Run\|2023-03-16 - Afternoon Run]]                                             | 4        | 33:07   | 8:16 | 236       |
+| [[01-personal/Strava/2023-03-15 - Afternoon Run\|2023-03-15 - Afternoon Run]]                                             | 4.01     | 33:22   | 8:19 | 180       |
+| [[01-personal/Strava/2023-03-14 - Afternoon Run\|2023-03-14 - Afternoon Run]]                                             | 3        | 26:42   | 8:53 | 177       |
+| [[01-personal/Strava/2023-03-13 - Getting over my first case of covid\|2023-03-13 - Getting over my first case of covid]] | 2        | 18:00   | 9:00 | 100       |
+| [[01-personal/Strava/2023-03-06 - Afternoon Run\|2023-03-06 - Afternoon Run]]                                             | 4        | 32:30   | 8:06 | 236       |
+| [[01-personal/Strava/2023-03-03 - Lunch Run\|2023-03-03 - Lunch Run]]                                                     | 4        | 31:35   | 7:53 | 233       |
+| [[01-personal/Strava/2023-03-01 - Afternoon Run\|2023-03-01 - Afternoon Run]]                                             | 4        | 32:32   | 8:07 | 235       |
 
 
 ## Run planning
