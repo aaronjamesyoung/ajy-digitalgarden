@@ -71,7 +71,9 @@ https://router.vuejs.org/guide/essentials/history-mode.html#example-server-confi
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
-RewriteRule ^index\.html$ - [L]
+RewriteRule
+{ #index}
+\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.html [L]
@@ -84,7 +86,9 @@ If you're in a subfolder:
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /subdirectoryName
-RewriteRule ^subdirectoryName/index\.html$ - [L]
+RewriteRule
+{ #subdirectoryName}
+/index\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /subdirectoryName/index.html [L]
