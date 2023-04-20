@@ -46,6 +46,8 @@ Start below, or view all [[Notes\|Notes]]
 
 ### Recent Notes
 
+- [[Bookmarks\|Bookmarks]] (2023-04-20)
+- [[📘 MYOG\|📘 MYOG]] (2023-03-24)
 - [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] (2023-03-20)
 - [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]] (2023-03-19)
 - [[2023 Lent\|2023 Lent]] (2023-03-19)
@@ -54,8 +56,6 @@ Start below, or view all [[Notes\|Notes]]
 - [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]] (2023-03-19)
 - [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]] (2023-03-19)
 - [[2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]] (2023-03-19)
-- [[2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]] (2023-03-19)
-- [[2023 Epiphany\|2023 Epiphany]] (2023-03-19)
 
 
 </div>
