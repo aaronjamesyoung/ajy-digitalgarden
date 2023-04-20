@@ -11,14 +11,9 @@
 * [Asana](https://app.asana.com/0/home/17941980459425)
 * [BookWyrm](https://bookwyrm.ajy.co)
 * [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
-* [FreshRSS (homeserver)](https://hs.ajy.co/reader/i/)
-* [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
-* [Google Voice](https://voice.google.com/u/0/messages)
-* [Libby](https://libbyapp.com/shelf)
 * [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 * [Nextcloud (Homeserver)](https://hs.ajy.co/nextcloud/index.php/apps/dashboard/)
 * [PhotoPrism (Homeserver)](https://photoprism.ajy.co/)
-* [Pocket Casts](https://play.pocketcasts.com/new-releases)
 * [Strava](https://www.strava.com/dashboard)
 
 ## Aarontable
@@ -35,7 +30,11 @@
 * [BLS Canvas](https://bls.instructure.com/)
 * [Every Mountain in the World](http://everymountainintheworld.com/)
 * [FreeSewing](https://freesewing.org/)
+* [FreshRSS (homeserver)](https://hs.ajy.co/reader/i/)
+* [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
+* [Google Voice](https://voice.google.com/u/0/messages)
 * [Library Genesis](http://libgen.rs/)
+* [Libby](https://libbyapp.com/shelf)
 * [LibriVox](https://librivox.org/)
 * [OpenAI Chat](https://chat.openai.com/chat)
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
@@ -60,10 +59,8 @@
 ## Work
 
 * [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/)
-* [Crater Invoicing software](https://craterapp.com/)
 * [Everhour](https://app.everhour.com/#/time)
 * [Gitea - Pro Q](https://aaron.proqsolutions.com/git)
-* [GitHub - quatrochan/Equal: 🧬 Equal is a Vue 3 UI library based on TypeScript](https://github.com/quatrochan/Equal)
 * [Matomo (homeserver)](https://hs.ajy.co/matomo/)
 * [Node-Red Flows](https://flows.nodered.org/)
 * [Open Color](https://yeun.github.io/open-color/)
