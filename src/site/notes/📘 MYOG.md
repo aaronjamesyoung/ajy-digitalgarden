@@ -14,9 +14,12 @@ I've been getting into making my own outdoor gear. Here's what I've done:
 * [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]
 * [[MYOG Wind Pants\|MYOG Wind Pants]]
 * [[MYOG Wind Shell\|MYOG Wind Shell]]
+* [[MYOG EDC Pack\|MYOG EDC Pack]]
 
 as well as a handful of stuff sacks and miscellaneous items.
 
 Todo add to this note: sewing notes, techniques, resources, etc.
+
+[MYOG Tips - Getting foam into shoulder straps - YouTube](https://www.youtube.com/watch?v=_3xNgrc30vE)
 
 #topic 
