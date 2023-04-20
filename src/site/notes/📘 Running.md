@@ -13,18 +13,18 @@ I've run a few ultramarathons and I ran cross country and track all through high
 
 [[All Strava Activities\|All Strava Activities]] - [Follow me on Strava](https://www.strava.com/athletes/aaronjamesyoung)
 
-| File                                                                                                                         | Distance | Time    | Pace | Elevation |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------- | ---- | --------- |
-| [[01-personal/Strava/2023-03-20 - Afternoon Run\|2023-03-20 - Afternoon Run]]                                             | 4        | 33:19   | 8:19 | 243       |
-| [[01-personal/Strava/2023-03-18 - Lunch Run\|2023-03-18 - Lunch Run]]                                                     | 8.01     | 1:03:50 | 7:58 | 246       |
-| [[01-personal/Strava/2023-03-17 - Afternoon Run\|2023-03-17 - Afternoon Run]]                                             | 4        | 33:09   | 8:16 | 185       |
-| [[01-personal/Strava/2023-03-16 - Afternoon Run\|2023-03-16 - Afternoon Run]]                                             | 4        | 33:07   | 8:16 | 236       |
-| [[01-personal/Strava/2023-03-15 - Afternoon Run\|2023-03-15 - Afternoon Run]]                                             | 4.01     | 33:22   | 8:19 | 180       |
-| [[01-personal/Strava/2023-03-14 - Afternoon Run\|2023-03-14 - Afternoon Run]]                                             | 3        | 26:42   | 8:53 | 177       |
-| [[01-personal/Strava/2023-03-13 - Getting over my first case of covid\|2023-03-13 - Getting over my first case of covid]] | 2        | 18:00   | 9:00 | 100       |
-| [[01-personal/Strava/2023-03-06 - Afternoon Run\|2023-03-06 - Afternoon Run]]                                             | 4        | 32:30   | 8:06 | 236       |
-| [[01-personal/Strava/2023-03-03 - Lunch Run\|2023-03-03 - Lunch Run]]                                                     | 4        | 31:35   | 7:53 | 233       |
-| [[01-personal/Strava/2023-03-01 - Afternoon Run\|2023-03-01 - Afternoon Run]]                                             | 4        | 32:32   | 8:07 | 235       |
+| File                                                                                                                                                                             | Distance | Time    | Pace     | Elevation |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- | -------- | --------- |
+| [[01-personal/Strava/2023-04-04 - Lunch Run\|2023-04-04 - Lunch Run]]                                                                                                         | 5        | 38:08   | 7:37     | 248       |
+| [[01-personal/Strava/2023-04-03 - Afternoon Run\|2023-04-03 - Afternoon Run]]                                                                                                 | 4        | 31:25   | 7:50     | 232       |
+| [[01-personal/Strava/2023-04-01 - Smith Rock- Gray Butte \|2023-04-01 - Smith Rock- Gray Butte ]]                                                                             | 15.5     | 2:47:50 | 10:49    | 3418      |
+| [[01-personal/Strava/2023-04-01 - April 1? Why sure let's shovel another foot of snow\|2023-04-01 - April 1? Why sure let's shovel another foot of snow]]                     | 0.01     | 45:00   | 74:30:24 | 0         |
+| [[01-personal/Strava/2023-03-31 - Lunch Run\|2023-03-31 - Lunch Run]]                                                                                                         | 4        | 31:40   | 7:54     | 406       |
+| [[01-personal/Strava/2023-03-30 - Evening Run\|2023-03-30 - Evening Run]]                                                                                                     | 4.01     | 32:14   | 8:02     | 236       |
+| [[01-personal/Strava/2023-03-28 - Lunch Run\|2023-03-28 - Lunch Run]]                                                                                                         | 4        | 31:15   | 7:48     | 269       |
+| [[01-personal/Strava/2023-03-27 - Snow run, + book haul from neighborhood Little Free Libraries\|2023-03-27 - Snow run, + book haul from neighborhood Little Free Libraries]] | 3        | 26:39   | 8:52     | 221       |
+| [[01-personal/Strava/2023-03-25 - Lunch Run\|2023-03-25 - Lunch Run]]                                                                                                         | 12       | 1:37:29 | 8:07     | 865       |
+| [[01-personal/Strava/2023-03-24 - Lunch Run\|2023-03-24 - Lunch Run]]                                                                                                         | 3        | 24:00   | 7:59     | 100       |
 
 
 ## Run planning
