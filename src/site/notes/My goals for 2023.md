@@ -33,26 +33,47 @@ This can be tracked by checking this table:
 
 | File                                                                                                                          | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-01-27 | 2023-01-31 | 🥈    |
-| [[2023 Epiphany\|2023 Epiphany]]                                                                                           | 2023-02-02 | 2023-03-19 | 🥉    |
-| [[2023 Lent\|2023 Lent]]                                                                                                   | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                     | 2023-01-01 | 2023-02-02 | 🥉    |
-| [[2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                         | 2023-02-02 | 2023-02-02 | 🥉    |
+| [[📘 Code and Work\|📘 Code and Work]]                                                                                     | 2023-02-02 | 2023-01-31 | 🥈    |
+| [[📘 Faith\|📘 Faith]]                                                                                                     | 2023-02-06 | 2023-02-02 | 🥈    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2023-01-02 | 2022-12-31 | 🥇    |
+| [[📘 Life\|📘 Life]]                                                                                                       | 2023-02-02 | 2023-01-31 | 🥈    |
+| [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-02-02 | 2023-03-24 | 🥈    |
+| [[📘 News Articles\|📘 News Articles]]                                                                                     | 2023-01-02 | 2022-12-31 | 🥈    |
+| [[📘 Running\|📘 Running]]                                                                                                 | 2023-01-02 | 2022-12-31 | 🥈    |
+| [[2022 Advent\|2022 Advent]]                                                                                               | 2023-01-02 | 2023-01-01 | 🥉    |
+| [[2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                     | 2023-01-02 | 2022-11-25 | 🥈    |
+| [[2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                         | 2023-01-02 | 2022-11-25 | 🥉    |
+| [[2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                                         | 2023-01-02 | 2022-12-27 | 🥈    |
+| [[2022-11-14 Preparing for and Managing Visitation\|2022-11-14 Preparing for and Managing Visitation]]                     | 2023-01-02 | 2022-11-26 | 🥈    |
+| [[2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                                 | 2023-02-06 | 2023-02-02 | 🥈    |
+| [[2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                                     | 2023-02-02 | 2023-01-31 | 🥈    |
+| [[2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                                     | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                               | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                                 | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2023 Epiphany\|2023 Epiphany]]                                                                                           | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023 Lent\|2023 Lent]]                                                                                                   | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                     | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                         | 2023-02-06 | 2023-02-02 | 🥉    |
 | [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                               | 2023-01-15 | 2023-03-20 | 🥈    |
-| [[2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                     | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                           | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                             | 2023-02-02 | 2023-02-02 | 🥉    |
-| [[2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                                     | 2023-02-05 | 2023-02-05 | 🥉    |
-| [[2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                                     | 2023-02-12 | 2023-03-19 | 🥉    |
-| [[2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]                                             | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                     | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                   | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                           | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                         | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                           | 2023-03-19 | 2023-03-19 | 🥉    |
-| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-01-31 | 2023-02-01 | 🥉    |
-| [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-01-27 | 2023-02-01 | 🥇    |
-| [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
-| [[MYOG Wind Shell\|MYOG Wind Shell]]                                                                                       | 2023-01-27 | 2023-01-26 | 🥈    |
-| [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] | 2023-02-04 | 2023-02-04 | 🥇    |
+| [[2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                     | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                           | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                             | 2023-02-06 | 2023-02-02 | 🥉    |
+| [[2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                                     | 2023-02-06 | 2023-02-05 | 🥉    |
+| [[2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                                     | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]                                             | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                     | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                   | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                           | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                         | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                           | 2023-03-20 | 2023-03-19 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-02-02 | 2023-04-20 | 🥉    |
+| [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-02-02 | 2023-02-01 | 🥇    |
+| [[Fastpacking Gear\|Fastpacking Gear]]                                                                                     | 2023-02-02 | 2023-02-01 | 🥈    |
+| [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-02 | 2023-02-01 | 🥇    |
+| [[index\|index]]                                                                                                           | 2023-02-02 | 2023-02-01 | \-    |
+| [[My goals for 2023\|My goals for 2023]]                                                                                   | 2023-01-15 | 2023-01-15 | 🥈    |
+| [[Notes\|Notes]]                                                                                                           | 2023-01-02 | 2022-12-31 | \-    |
+| [[Recommended Books\|Recommended Books]]                                                                                   | 2023-01-02 | 2023-01-01 | 🥈    |
+| [[Uses\|Uses]]                                                                                                             | 2023-01-02 | 2023-01-01 | 🥇    |
+| [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] | 2023-02-06 | 2023-02-04 | 🥇    |
 
