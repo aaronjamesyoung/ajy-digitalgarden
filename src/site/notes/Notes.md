@@ -21,7 +21,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Life\|📘 Life]]                                                                                                       | 2023-02-02 | 2023-01-31 | 🥈    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-02-02 | 2023-03-24 | 🥈    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                     | 2023-01-02 | 2022-12-31 | 🥈    |
-| [[📘 Running\|📘 Running]]                                                                                                 | 2023-01-02 | 2022-12-31 | 🥈    |
+| [[📘 Running\|📘 Running]]                                                                                                 | 2023-01-02 | 2023-04-20 | 🥈    |
 | [[2020 First Allegiance\|2020 First Allegiance]]                                                                           | 2022-11-30 | 2022-12-27 | 🥈    |
 | [[2022 Advent\|2022 Advent]]                                                                                               | 2023-01-02 | 2023-01-01 | 🥉    |
 | [[2022 Work of the People\|2022 Work of the People]]                                                                       | 2022-11-30 | 2022-11-27 | 🥉    |
@@ -51,7 +51,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                         | 2023-03-20 | 2023-03-19 | 🥉    |
 | [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                           | 2023-03-20 | 2023-03-19 | 🥉    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-14 | 2022-11-12 | \-    |
-| [[All Strava Activities\|All Strava Activities]]                                                                           | 2022-11-30 | 2022-11-27 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                 | 2022-11-30 | 2022-12-27 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-11-30 | 2022-11-25 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-02-02 | 2023-04-20 | 🥉    |
