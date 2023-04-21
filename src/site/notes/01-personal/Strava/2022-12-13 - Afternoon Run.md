@@ -10,7 +10,6 @@
 | Distance | Time  | Elapsed Time | Pace | Elevation |
 | -------- | ----- | ------------ | ---- | --------- |
 | 6        | 46:05 | 47:03        | 7:40 | 360       |
-| 6        | 46:05 | 47:03        | 7:40 | 360       |
 
 
 Only turned on my headlamp as cars went by. I'd say it was for visibility and safety, but really I just didn't want to look like the weirdo out for a run in the dark with no light
