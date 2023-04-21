@@ -39,7 +39,7 @@ This can be tracked by checking this table:
 | [[📘 Life\|📘 Life]]                                                                                                       | 2023-02-02 | 2023-01-31 | 🥈    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-02-02 | 2023-03-24 | 🥈    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                     | 2023-01-02 | 2022-12-31 | 🥈    |
-| [[📘 Running\|📘 Running]]                                                                                                 | 2023-01-02 | 2022-12-31 | 🥈    |
+| [[📘 Running\|📘 Running]]                                                                                                 | 2023-01-02 | 2023-04-20 | 🥈    |
 | [[2022 Advent\|2022 Advent]]                                                                                               | 2023-01-02 | 2023-01-01 | 🥉    |
 | [[2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                     | 2023-01-02 | 2022-11-25 | 🥈    |
 | [[2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                         | 2023-01-02 | 2022-11-25 | 🥉    |
