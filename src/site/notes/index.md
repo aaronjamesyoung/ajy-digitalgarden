@@ -46,6 +46,7 @@ Start below, or view all [[Notes\|Notes]]
 
 ### Recent Notes
 
+- [[📘 Running\|📘 Running]] (2023-04-20)
 - [[Bookmarks\|Bookmarks]] (2023-04-20)
 - [[📘 MYOG\|📘 MYOG]] (2023-03-24)
 - [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] (2023-03-20)
@@ -55,7 +56,6 @@ Start below, or view all [[Notes\|Notes]]
 - [[2023-03-05 Born Again\|2023-03-05 Born Again]] (2023-03-19)
 - [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]] (2023-03-19)
 - [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]] (2023-03-19)
-- [[2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]] (2023-03-19)
 
 
 </div>
