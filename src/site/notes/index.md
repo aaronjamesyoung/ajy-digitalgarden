@@ -19,15 +19,7 @@
 
 ## Posts and Notes
 
-Some of my notes are written as fairly refined blog posts, while others are simply "notes to self" containing information that I've been working on lately.
-
-Start below, or view all [[Notes\|Notes]]
-
-<div class="col-2">
-<div>
-
-### Recent Blog Posts
-
+Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-02-04)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
 - [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
@@ -42,21 +34,3 @@ Start below, or view all [[Notes\|Notes]]
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2022-11-17)
 
 
-</div><div>
-
-### Recent Notes
-
-- [[📘 Running\|📘 Running]] (2023-04-20)
-- [[Bookmarks\|Bookmarks]] (2023-04-20)
-- [[📘 MYOG\|📘 MYOG]] (2023-03-24)
-- [[2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]] (2023-03-20)
-- [[2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]] (2023-03-19)
-- [[2023 Lent\|2023 Lent]] (2023-03-19)
-- [[2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]] (2023-03-19)
-- [[2023-03-05 Born Again\|2023-03-05 Born Again]] (2023-03-19)
-- [[2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]] (2023-03-19)
-- [[2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]] (2023-03-19)
-
-
-</div>
-</div>
