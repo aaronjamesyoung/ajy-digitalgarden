@@ -15,7 +15,7 @@
 
 **I work as a web developer**, so I'm working on expanding my notes on [[📘 Code and Work\|📘 Code and Work]].
 
-**I also keep notes about** [[📘 Life\|📘 Life]] and the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) to track the books I've been reading. (If you're on Mastodon or another Fediverse network, you can follow my BookWyrm account from there.)
+**I also keep notes about** the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) (a fediverse service) to track the books I've been reading.
 
 ## Posts and Notes
 
