@@ -7,7 +7,7 @@
 
 ![IMG_20221120_115413805.jpg](/img/user/98-attachments/IMG_20221120_115413805.jpg)
 
-These are my super lame wind pants, made [[00-daily/2022-11/2022-11-19\|2022-11-19]]. They are pretty roomy so I can pull them on over a pair of sweats if needed.
+These are my super lame wind pants, made [[2022-11-19\|2022-11-19]]. They are pretty roomy so I can pull them on over a pair of sweats if needed.
 
 They have pockets, a shock cord drawcord at the waist, and rolled hems at the ankles. I was considering to add snap plackets on the ankles, but chose not to. I may end up opening the side seams at the ankles to add snap plackets someday, but I'll try it as-is for now.
 
