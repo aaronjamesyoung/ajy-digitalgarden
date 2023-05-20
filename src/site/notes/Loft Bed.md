@@ -9,6 +9,13 @@ Plan to build a high loft bed with standing desk space underneath
 
 * [How to Build a Loft Bed - The Home Depot](https://www.homedepot.com/c/ah/how-to-build-a-loft-bed/9ba683603be9fa5395fab9016d2777b3)
 
+Measurements
+
+* Bottom of frame: 75"
+* Top of rail: 96"
+* Ladder. Top of frame: 80 5/8"
+* 
+
 ## Materials
 
 * **Legs**
