@@ -8,7 +8,7 @@
 * [How To Build a Synthetic Top Quilt – DIY / MYOG – Backcountry Banter](https://backcountrybanter.com/how-to-build-a-synthetic-top-quilt-diy-myog/)
 * [How To Make A Synthetic Top Quilt - DIY / MYOG - YouTube](https://www.youtube.com/watch?v=be4ciUndiBg)
 
-Done on [[00-daily/2022-11/2022-11-01\|2022-11-01]]!! This went pretty quickly and was easy to make
+Done on [[2022-11-01\|2022-11-01]]!! This went pretty quickly and was easy to make
 * About 4 hours of work
 * But I was going slowly overall. Could have been quicker
 * However it's worth taking time sewing to make sure I am catching all layers.
