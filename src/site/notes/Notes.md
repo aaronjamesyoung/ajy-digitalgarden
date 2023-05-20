@@ -18,6 +18,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Code and Work\|📘 Code and Work]]                                                                                     | 2022-11-21 | 2023-01-31 | 🥈    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2022-12-27 | 2022-12-31 | 🥇    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-03-24 | 2023-03-24 | 🥈    |
+| [[📘 News Articles\|📘 News Articles]]                                                                                     | 2022-11-21 | 2023-05-20 | 🥈    |
 | [[📘 Running\|📘 Running]]                                                                                                 | 2023-04-20 | 2023-04-20 | 🥈    |
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                 | 2022-12-27 | 2022-12-27 | 🥈    |
@@ -35,7 +36,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                 | 2022-12-14 | 2022-12-22 | 🥉    |
 | [[How to take a running selfie\|How to take a running selfie]]                                                             | 2022-11-28 | 2022-11-28 | 🥉    |
-| [[index\|index]]                                                                                                           | 2022-12-27 | 2023-04-22 | \-    |
+| [[index\|index]]                                                                                                           | 2022-12-27 | 2023-05-20 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-11 | 2022-11-25 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-11 | 2022-11-25 | 🥈    |
 | [[Loft Bed\|Loft Bed]]                                                                                                     | 2022-11-15 | 2023-04-26 | 🥉    |
