@@ -13,13 +13,12 @@
 
 **Outdoors,** I spend a lot of time [[📘 Running\|📘 Running]] on trails and [[📘 Fastpacking\|📘 Fastpacking]] when I can. I also [[📘 MYOG\|📘 MYOG]] ("Make your own gear") a lot of the items I use. **Want to track my running?** Follow me on [Strava](https://www.strava.com/athletes/1057219).
 
-**I work as a web developer**, so I'm working on expanding my notes on [[📘 Code and Work\|📘 Code and Work]].
-
 **I also keep notes about** the [[📘 News Articles\|📘 News Articles]] I find important. **You can follow me** on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) (a fediverse service) to track the books I've been reading.
 
 ## Posts and Notes
 
 Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
+- [[Running Gear\|Running Gear]] (2023-05-27)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-02-04)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
 - [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
@@ -30,7 +29,6 @@ Start with my more refined posts below, or view all [[Notes\|Notes]], many of wh
 - [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] (2022-11-25)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2022-11-25)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2022-11-25)
-- [[Running Gear\|Running Gear]] (2022-11-19)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2022-11-17)
 
 
