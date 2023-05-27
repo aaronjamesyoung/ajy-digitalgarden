@@ -33,14 +33,14 @@ Here's pretty much anything I may take out on a run. Let's start with stuff I we
 
 ## Jackets & Shells
 
-* (coming soon) [[MYOG Wind Shell\|MYOG Wind Shell]]
-* (coming soon) [[MYOG Rain Shell\|MYOG Rain Shell]]
+* [[MYOG Wind Shell\|MYOG Wind Shell]]
+* [[MYOG Rain Shell\|MYOG Rain Shell]]
 
 ## Hats
 
-* **Outdoor Research Swift cap** - This is comfortable but too hot on hot sunny days. Consider modifying to make it cooler or get a different UPF 50 running cap.
+* **REI "On The Trail" cap** - UPF 50 and it cools fairly well, despite needing better ventilation
 * Random REI cap from a few years ago - has a floppy brim and is nice and cool & comfy
-* New Balance beanie
+* New Balance beanie for cold weather
 
 ## Pack
 
@@ -52,8 +52,9 @@ Here's pretty much anything I may take out on a run. Let's start with stuff I we
 * **Goodr Sunglasses** - If the question is running sunglasses, the answer is Goodr.
 * **Garmin Forerunner 245** - No music
 * **Biolite 330 Headlamp** - I like this - it's comfortable and plenty bright - but the battery life has decreased over time, and the red light went out.
-* **Aonijie 500ml soft water flasks** - I carry two of these on my pack. I don't like water bladders. Would prefer wide-mouth or flip-top flasks (also would like compatibility with Salomon XA filter)
-* **Katadyn BeFree filter + Hydrapak Seeker 2L reservoir** - For long days I carry a filter and compatible reservoir in the stretchy back pocket of my pack.
+* **Rovyvon Aurora A5x Flashlight** - It can clip to my hat brim and it's good to carry as a "just in case" light.
+* **Aonijie 500ml soft water flasks** - I carry two of these on my pack. I don't like water bladders. Would prefer wide-mouth or flip-top flask
+* **Hydrapak filter + Hydrapak Seeker 2L reservoir** - For long days I carry a filter and compatible reservoir in the stretchy back pocket of my pack.
 * [[First Aid Kit\|First Aid Kit]]
 * **Garmin Inreach Mini** - first generation
 * Other random stuff - Phone, TP & wipes, etc.
