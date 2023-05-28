@@ -38,6 +38,7 @@
 * [LibriVox](https://librivox.org/)
 * [OpenAI Chat](https://chat.openai.com/chat)
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
+* [TimeAndDate - Bend](https://www.timeanddate.com/worldclock/usa/bend)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=44.05675188852766&lng=-121.50398254394531&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=58&gain=1.0&gamma=1.0&atmFilter=&showDates=false)
 * [Snotel UpdateReport Entry Page](https://wcc.sc.egov.usda.gov/reports/SelectUpdateReport.html)
