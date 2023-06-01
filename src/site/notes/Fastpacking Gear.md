@@ -29,7 +29,7 @@ See specifics: [Gear Spreadsheet](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-Li
 
 * I usually wear shorts, socks, and running shoes, plus the following:
     * [Men's Crater Lake™ Hoody | Mountain Hardwear](https://www.mountainhardwear.com/p/mens-crater-lake-hoody-1982411.html)
-    * [Swift Cap | Outdoor Research](https://www.outdoorresearch.com/us/swift-cap-243430)
+    * [REI Co-op On The Trail Cap](https://www.rei.com/product/148159/rei-co-op-on-the-trail-cap?CAWELAID=120217890015860874)
     * [A Ginger’s Soul | Black On Black Sunglasses | goodr sunglasses](https://goodr.com/collections/the-ogs/products/a-gingers-soul)
     * [Garmin Forerunner® 245 | Running Watch](https://www.garmin.com/en-US/p/628939)
 * Packed clothing depends on expected conditions
@@ -49,7 +49,7 @@ See specifics: [Gear Spreadsheet](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-Li
 ## Water
 
 * [AONIJIE 500mL Soft Flask](https://www.amazon.com/AONIJIE-Portable-Marathon-Hydration-450ML-2PCS/dp/B06XVKM55F?th=1)
-* [Katadyn Befree water filter](https://www.amazon.com/Katadyn-8019641-Befree-Replacement-Cartridge/dp/B01N9SE2T9/)
+* [42mm Filter Cap | HydraPak](https://hydrapak.com/collections/water-filtration/products/42mm-filter-cap)
 * [Hydrapak Seeker - Collapsible Water Storage (2L/70oz)](https://www.amazon.com/Hydrapak-Seeker-Collapsible-Hydration-Reservoir/dp/B08NX82XZB/)
 
 ## Food
