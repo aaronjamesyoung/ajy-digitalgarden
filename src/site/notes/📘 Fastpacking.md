@@ -11,8 +11,6 @@ Fastpacking is essentially overnight backpacking, but running. So I carry a ligh
 
 * [[Fastpacking Gear\|Fastpacking Gear]]
 * [[First Aid Kit\|First Aid Kit]]
-* [[Mileage\|Mileage]]
-* [[Nutrition\|Nutrition]]
 * [[Navigation\|Navigation]]
 * [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
 
