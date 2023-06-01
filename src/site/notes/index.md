@@ -18,14 +18,14 @@
 ## Posts and Notes
 
 Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
+- [[How this site is built\|How this site is built]] (2023-06-01)
+- [[📘 Fastpacking\|📘 Fastpacking]] (2023-06-01)
 - [[Running Gear\|Running Gear]] (2023-05-27)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-02-04)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
 - [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
 - [[Uses\|Uses]] (2023-01-01)
-- [[📘 Fastpacking\|📘 Fastpacking]] (2022-12-31)
 - [[MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
-- [[How this site is built\|How this site is built]] (2022-12-12)
 - [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] (2022-11-25)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2022-11-25)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2022-11-25)
