@@ -18,7 +18,7 @@ I've run a few ultramarathons and I ran cross country and track all through high
 * [[Navigation\|Navigation]]
 * [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
 
-## External Articles
+## Articles I read
 
 - ['Running While Black' tells a new story about who belongs in the sport](https://www.npr.org/sections/health-shots/2022/11/16/1136216628/running-while-black-tells-a-new-story-about-who-belongs-in-the-sport)
 - [What I Eat for Trail Running](https://www.youtube.com/watch?v=L0DgF0hoOhc)
