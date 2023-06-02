@@ -3,8 +3,6 @@
 ---
 
 
-[[📘 Life\|📘 Life]]
-
 I recently got a new Kindle - the newest Paperwhite released in 2021 - and took a fair amount of time to figure out the best way to handle sideloaded books. Here are my thoughts:
 
 ## The current situation
