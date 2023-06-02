@@ -39,6 +39,6 @@ Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all 
 ## My future planning & other notes
 
 * [[Backpacking Routes\|Backpacking Routes]]
-* [[Oregon Desert Trail\|Oregon Desert Trail]]
+* [[01-personal/Oregon Desert Trail\|Oregon Desert Trail]]
 
 #topic 
