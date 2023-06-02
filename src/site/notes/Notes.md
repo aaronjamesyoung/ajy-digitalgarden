@@ -33,7 +33,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How this site is built\|How this site is built]]                                                                         | 2022-11-30 | 2023-06-01 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-02 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                 | 2022-12-23 | 2022-12-22 | 🥉    |
-| [[index\|index]]                                                                                                           | 2023-05-30 | 2023-05-27 | \-    |
+| [[index\|index]]                                                                                                           | 2023-05-30 | 2023-06-01 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-30 | 2022-11-25 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-30 | 2022-11-25 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                           | 2022-12-29 | 2022-12-28 | 🥈    |
@@ -42,16 +42,14 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                                                                       | 2022-12-29 | 2022-12-28 | 🥉    |
 | [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                                       | 2022-12-29 | 2022-12-28 | 🥇    |
 | [[Navigation\|Navigation]]                                                                                                 | 2022-11-30 | 2022-11-26 | 🥈    |
-| [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                           | 2022-11-30 | 2022-11-25 | 🥇    |
+| [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                           | 2022-11-30 | 2023-06-01 | 🥇    |
 | [[Notes\|Notes]]                                                                                                           | 2023-01-02 | 2022-12-31 | \-    |
-| [[Oregon Desert Trail\|Oregon Desert Trail]]                                                                               | 2022-11-18 | 2022-11-21 | 🥉    |
 | [[Recommended Books\|Recommended Books]]                                                                                   | 2023-01-02 | 2023-01-01 | 🥈    |
 | [[Résumé\|Résumé]]                                                                                                         | 2022-11-14 | 2022-11-11 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                             | 2023-05-30 | 2023-05-27 | 🥇    |
 | [[Topic Notes\|Topic Notes]]                                                                                               | 2022-11-30 | 2022-11-26 | 🥈    |
-| [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]               | 2022-11-30 | 2022-11-25 | 🥇    |
-| [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]             | 2022-11-30 | 2022-11-25 | 🥇    |
-| [[Uses\|Uses]]                                                                                                             | 2023-01-02 | 2023-01-01 | 🥇    |
-| [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] | 2023-02-06 | 2023-02-04 | 🥇    |
-| [[Vue App Setup\|Vue App Setup]]                                                                                           | 2022-11-30 | 2022-11-25 | 🥈    |
+| [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]               | 2022-11-30 | 2023-06-01 | 🥇    |
+| [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]             | 2022-11-30 | 2023-06-01 | 🥇    |
+| [[Uses\|Uses]]                                                                                                             | 2023-01-02 | 2023-06-01 | 🥇    |
+| [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] | 2023-02-06 | 2023-06-01 | 🥇    |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                                           | 2022-11-18 | 2022-11-17 | 🥇    |
