@@ -3,7 +3,7 @@
 ---
 
 
-[[📘 Fastpacking\|📘 Fastpacking]] [[📘 Life\|📘 Life]]
+[[📘 Fastpacking\|📘 Fastpacking]]
 
 We sorely needed rain this October, but I decided to take advantage of the warm sunny weather to do a late(ish) season fastpack of the Three Sisters loop.
 
