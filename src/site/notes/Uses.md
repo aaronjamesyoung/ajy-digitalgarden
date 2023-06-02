@@ -3,8 +3,6 @@
 ---
 
 
-[[📘 Code and Work\|📘 Code and Work]] [[📘 Projects\|📘 Projects]]
-
 ## Life stuff
 
 - REI Ruckpack 28 Backpack, Black – it’s a good everyday pack but near the end of it's life.
@@ -26,8 +24,8 @@
 
 ## Development
 
-- Brave – web browser
-- Visual Studio Code
+- Vivaldi – web browser
+- Visual Studio Code / Lapce
 - git
 - [prm](https://github.com/EivindArvesen/prm) – terminal project manager
 - Docker
