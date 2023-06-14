@@ -10,10 +10,13 @@
 * [Asana](https://app.asana.com/0/home/17941980459425)
 * [BookWyrm](https://bookwyrm.ajy.co)
 * [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
+* [Chat](https://mail.google.com/chat/u/1/)
+* [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 * [Nextcloud (Homeserver)](https://hs.ajy.co/nextcloud/index.php/apps/dashboard/)
 * [PhotoPrism (Homeserver)](https://photoprism.ajy.co/)
 * [Strava](https://www.strava.com/dashboard)
+* [Voice](https://voice.google.com/u/0/messages)
 
 ## Aarontable
 
