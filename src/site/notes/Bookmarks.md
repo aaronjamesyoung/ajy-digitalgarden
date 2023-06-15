@@ -9,14 +9,14 @@
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
 
-## Aarontable
+## 📊 Aarontable
 
 * [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
 * [Buttes](https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkCplM/edit#gid=0)
 * [Pace Calculator](https://docs.google.com/spreadsheets/d/1UqTg4FQEOUkAqtetSEt-zcskdmXjwcFmItngiJRIUm0/edit#gid=0)
 * [Sewing Calculator](https://docs.google.com/spreadsheets/d/1GMI_w_bTGRCVBmLmUaO316l-YjUyKxto72saeMuHm0k/edit#gid=0)
 
-## Homeserver
+## 🖥 Homeserver
 
 * [BookWyrm](https://bookwyrm.ajy.co)
 * [Matomo](https://hs.ajy.co/matomo/)
@@ -24,7 +24,7 @@
 * [PhotoPrism](https://photoprism.ajy.co/)
 * [Syncthing](http://localhost:8384/)
 
-## Outdoors
+## 🌄 Outdoors
 
 * [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
 * [Every Mountain in the World](http://everymountainintheworld.com/)
@@ -32,14 +32,14 @@
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
 * [Strava](https://www.strava.com/dashboard)
 
-## Personal
+## 🧔 Personal
 
 * [ARRIS](http://192.168.0.1/login.php)
 * [bend for sale - craigslist](https://bend.craigslist.org/search/sss?excats=20-24-24-1-50-1-2-2-21-1-14-1-2-1-4-4-10-8-1-1-1-1-1-1-1-1-3-1-1-1-4-1)
 * [BLS Canvas](https://bls.instructure.com/)
 * [TimeAndDate - Bend](https://www.timeanddate.com/worldclock/usa/bend)
 
-## Reading
+## 📘 Reading
 
 * [Libby](https://libbyapp.com/shelf)
 * [Library Genesis](http://libgen.rs/)
@@ -47,20 +47,20 @@
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Standard Ebooks](https://standardebooks.org/)
 
-## Web
+## 🕸 Web
 
 * [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/)
 * [Node-Red Flows](https://flows.nodered.org/)
 * [Open Color](https://yeun.github.io/open-color/)
 
-## Weather
+## ⛈ Weather
 
 * [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 * [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=44.05675188852766&lng=-121.50398254394531&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=58&gain=1.0&gamma=1.0&atmFilter=&showDates=false)
 * [Snotel UpdateReport Entry Page](https://wcc.sc.egov.usda.gov/reports/SelectUpdateReport.html)
 * [Zoom Earth | LIVE weather, storm tracker, wildfire maps](https://zoom.earth/#view=44.08493,-121.39793,9z/map=live/overlays=heat,fires,wind,radar:off)
 
-## Wildfire
+## 🔥 Wildfire
 
 * [Central Oregon Fire Information – Prescribed Burning | Wildfire Updates | Smoke and Public Health Information](https://www.centraloregonfire.org/)
 * [Central Oregon Interagency Dispatch Center (COIDC)](https://gacc.nifc.gov/nwcc/districts/COIDC/)
@@ -71,7 +71,7 @@
 * [twitter.com/centralorfire](https://twitter.com/centralorfire)
 * [WildCAD](http://www.wildcad.net/WCOR-COC.htm)
 
-## Work
+## 🛠 Work
 
 * [Asana](https://app.asana.com/0/home/17941980459425)
 * [Everhour](https://app.everhour.com/#/time)
