@@ -18,6 +18,7 @@ I always like to keep track of what’s currently happening with wildfires and s
 ## Incident reports
 
 -   [WildCAD](http://www.wildcad.net/WCOR-COC.htm) – Click “Recent Incidents” to see every reported wildfire and smoke check within the Central Oregon area.
+    - Not updated since May 23, 2023. As an alternative, Fire, Weather, and Avalance Center has local summary pages: [Local Wildfire Incident Dashboard for Bend, Oregon | Fire, Weather & Avalanche Center](https://www.fireweatheravalanche.org/wildfires/dashboard/local/oregon/bend)
 -   [Fire, Weather & Avalanche Center](https://www.fireweatheravalanche.org/fire/) – A mapped representation of the raw data reported in WildCAD. While this is useful for seeing current fires and containment statuses, the map is slow and the site is somewhat buggy. To make things a bit better:
     -   Turn off the 24-hour lightning layer and zoom in on Oregon (or your state). Open the user menu and click “Save Map”.
     -   It will say “Saving” and continue spinning, but it does save and you can refresh the page to see the map as you have configured it.
