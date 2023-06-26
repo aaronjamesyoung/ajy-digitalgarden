@@ -18,6 +18,7 @@
 ## Posts and Notes
 
 Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
+- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2023-06-26)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-06-01)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2023-06-01)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2023-06-01)
@@ -29,5 +30,4 @@ Start with my more refined posts below, or view all [[Notes\|Notes]], many of wh
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
 - [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
 - [[MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
-- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2022-11-17)
 
