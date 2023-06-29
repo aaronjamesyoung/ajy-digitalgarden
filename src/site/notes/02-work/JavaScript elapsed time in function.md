@@ -3,7 +3,7 @@
 ---
 
 
-[[📘 Code and Work\|📘 Code and Work]]
+[[📘 Code\|📘 Code]]
 
 This allows us to log how long various steps of a Node or other JS function take:
 
