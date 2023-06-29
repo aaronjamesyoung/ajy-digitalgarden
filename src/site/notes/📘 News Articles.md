@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/news-articles/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/news-articles/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
