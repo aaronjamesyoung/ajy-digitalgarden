@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":3,"permalink":"/fastpacking/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/fastpacking/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
