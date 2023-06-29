@@ -13,10 +13,10 @@ This is the pack I use for fastpacking trips. It's blue, approx 30 L capacity in
 
 ## Specs and Performance
 
-* **Materials** - Blue is Robic Nylon 100D from Ripstop By The Roll. Black side pockets are Hex 70, also from RBTR. The white mesh is a utility mesh from Joann's. Stretchy vest strap pockets are power mesh from Joann's, and the back pocket is a net mesh also from Joann's.
+* **Materials** - Blue is Robic Nylon 100D from Ripstop By The Roll. Black side pockets are Hex 70, also from RBTR. The white mesh is a utility mesh from Joann's. Stretchy vest strap pockets are power mesh (doubled up) from Joann's, and the back pocket is a cargo net mesh also from Joann's.
 * **Weight** - As built, this pack weighs 14.4 oz.
 * **Capacity** - 30L-plus is a very rough estimate.
-* **Carry** - The pack carries nicely. When filled it doesn't particularly bounce even at a jog. The shoulder straps are padded over the top, so they don't dig into my trapezius muscles.
+* **Carry** - The pack carries nicely. When filled (but not overloaded) it doesn't particularly bounce even at a jog. The shoulder straps are padded over the top, so they don't dig into my trapezius muscles.
 
 ## Notable Features
 
