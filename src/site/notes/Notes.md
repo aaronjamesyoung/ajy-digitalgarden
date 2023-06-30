@@ -47,6 +47,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Navigation\|Navigation]]                                                                                                 | 2022-11-26 | 2022-11-26 | 🥈    |
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                           | 2023-06-01 | 2023-06-01 | 🥇    |
 | [[Notes\|Notes]]                                                                                                           | 2022-11-26 | 2022-12-31 | \-    |
+| [[Read 2023\|Read 2023]]                                                                                                   | 2023-06-28 | 2023-06-28 | 🥇    |
 | [[Recommended Books\|Recommended Books]]                                                                                   | 2022-12-30 | 2023-06-28 | 🥇    |
 | [[Résumé\|Résumé]]                                                                                                         | 2022-11-11 | 2022-11-11 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                             | 2022-11-12 | 2023-05-27 | 🥇    |
