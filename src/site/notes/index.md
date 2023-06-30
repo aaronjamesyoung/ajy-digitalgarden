@@ -24,6 +24,7 @@
 ## Posts and Notes
 
 Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
+- [[Read 2023\|Read 2023]] (2023-06-28)
 - [[Recommended Books\|Recommended Books]] (2023-06-28)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2023-06-26)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-06-01)
