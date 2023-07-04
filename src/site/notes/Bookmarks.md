@@ -70,7 +70,7 @@
 * [MORNINGBRIEF.pdf](https://gacc.nifc.gov/nwcc/content/products/intelligence/MORNINGBRIEF.pdf)
 * [PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a10/p604800/cC5#10.5/44.0353/-121.4749)
 * [twitter.com/centralorfire](https://twitter.com/centralorfire)
-* [WildCAD](http://www.wildcad.net/WCOR-COC.htm) (no longer updated?)
+* [WildWeb](https://www.wildwebe.net/?dc_name=ORCOC)
 
 ## 🛠 Work
 
