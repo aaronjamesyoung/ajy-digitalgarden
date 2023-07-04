@@ -32,7 +32,7 @@
 * [Outdoor Permits](https://outdoorstatus.com/permits/)
 * [Strava](https://www.strava.com/dashboard)
 
-## 🧔 Personal
+## 🤪 Personal
 
 * [ARRIS](http://192.168.0.1/login.php)
 * [bend for sale - craigslist](https://bend.craigslist.org/search/sss?excats=20-24-24-1-50-1-2-2-21-1-14-1-2-1-4-4-10-8-1-1-1-1-1-1-1-1-3-1-1-1-4-1)
