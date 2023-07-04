@@ -24,9 +24,9 @@
 ## Posts and Notes
 
 Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
+- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2023-07-04)
 - [[Read 2023\|Read 2023]] (2023-06-28)
 - [[Recommended Books\|Recommended Books]] (2023-06-28)
-- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2023-06-26)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-06-01)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2023-06-01)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2023-06-01)
