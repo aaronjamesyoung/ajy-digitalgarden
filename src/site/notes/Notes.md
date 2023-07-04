@@ -24,7 +24,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                 | 2022-12-27 | 2023-06-28 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-06-15 | 2023-06-26 | 🥉    |
+| [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-06-15 | 2023-07-01 | 🥉    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-01-27 | 2023-02-01 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                         | 2022-12-12 | 2022-12-12 | 🥈    |
