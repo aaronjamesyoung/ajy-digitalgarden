@@ -15,7 +15,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                          | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                     | 2023-06-28 | 2023-06-28 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                     | 2023-06-28 | 2023-07-04 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2023-06-01 | 2023-06-28 | \-    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
@@ -24,6 +24,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                 | 2022-12-27 | 2023-06-28 | 🥈    |
 | [[96-articles/Bend smoke days by year\|Bend smoke days by year]]                                                           | 2022-10-29 | 2022-11-25 | 🥈    |
+| [[Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]     | 2023-07-04 | 2023-07-04 | 🥉    |
 | [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-06-15 | 2023-07-04 | 🥉    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-01-27 | 2023-02-01 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
@@ -36,7 +37,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How this site is built\|How this site is built]]                                                                         | 2023-06-01 | 2023-06-01 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                 | 2022-12-14 | 2022-12-22 | 🥉    |
-| [[index\|index]]                                                                                                           | 2023-06-01 | 2023-06-28 | \-    |
+| [[index\|index]]                                                                                                           | 2023-06-01 | 2023-07-07 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                           | 2022-04-12 | 2023-06-28 | 🥈    |
