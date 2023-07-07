@@ -11,7 +11,7 @@
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
-## Topics to explore
+## Topics
 
 *The 📘 indicates my topic landing pages.*
 
@@ -21,9 +21,7 @@
 * [[📘 Books\|📘 Books]]: I read a lot. You can follow me on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) (a fediverse service) to track the books I've been reading.
 * [[📘 News Articles\|📘 News Articles]]: Here's the news I found interesting recently.
 
-## Posts and Notes
-
-Start with my more refined posts below, or view all [[Notes\|Notes]], many of which are simply "notes to self" containing information that I've been working on lately.
+## Articles
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2023-07-04)
 - [[Read 2023\|Read 2023]] (2023-06-28)
 - [[Recommended Books\|Recommended Books]] (2023-06-28)
@@ -38,3 +36,7 @@ Start with my more refined posts below, or view all [[Notes\|Notes]], many of wh
 - [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
 - [[MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
 
+
+## Notes
+
+View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
