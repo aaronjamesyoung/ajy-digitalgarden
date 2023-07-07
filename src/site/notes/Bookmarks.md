@@ -3,8 +3,6 @@
 ---
 
 
-
-
 * 📌 [Chat](https://mail.google.com/chat/u/1/)
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
