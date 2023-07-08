@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"grade":1,"permalink":"/book-notes-nonviolence-the-revolutionary-way-of-jesus/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"permalink":"/book-notes-nonviolence-the-revolutionary-way-of-jesus/","dgPassFrontmatter":true}
 ---
 
 
 [[📘 Books\|📘 Books]]
+
+Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus" by Preston Sprinkle.
 
 ## Ch. 1 - Overview
 
