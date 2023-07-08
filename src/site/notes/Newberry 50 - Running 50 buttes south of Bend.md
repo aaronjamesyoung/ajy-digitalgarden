@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":3,"permalink":"/newberry-50-running-50-buttes-south-of-bend/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"permalink":"/newberry-50-running-50-buttes-south-of-bend/","dgPassFrontmatter":true}
 ---
 
 
@@ -14,9 +14,9 @@ Newberry Crater sits south of Bend, Oregon. Dotting the slopes are several small
 - All the named peaks with >100 feet prominence
 - plus the unnamed peaks with >200 feet prominence.
 
-Caltopo link: Buttes - CalTopo
+Caltopo link: [Buttes - CalTopo](https://caltopo.com/m/T00L5)
 
-I did 27 of these buttes during spring 2022 before breaking for my summer running in other areas. I hope to pick up this project later next spring.
+I did 27 of these buttes during spring 2022 before breaking for my summer running in other areas. I hope to pick up this project later.
 
 ## Strava Activities
 
