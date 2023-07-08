@@ -3,6 +3,8 @@
 ---
 
 
+[[📘 Code\|📘 Code]]
+
 I've gone through several iterations of my website over the years, but this one is unique.
 
 Previous versions of my site have been built with WordPress (usually) or a static site generator such as Pelican.
