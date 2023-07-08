@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":1,"permalink":"/snap-placket-tutorials/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"permalink":"/snap-placket-tutorials/","dgPassFrontmatter":true}
 ---
 
 
