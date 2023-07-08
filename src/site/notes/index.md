@@ -22,19 +22,15 @@
 * [[📘 News Articles\|📘 News Articles]]: Here's the news I found interesting recently.
 
 ## Articles
-- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (2023-07-04)
-- [[Read 2023\|Read 2023]] (2023-06-28)
-- [[Recommended Books\|Recommended Books]] (2023-06-28)
-- [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (2023-06-01)
-- [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (2023-06-01)
-- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (2023-06-01)
-- [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]] (2023-06-01)
-- [[How this site is built\|How this site is built]] (2023-06-01)
-- [[Uses\|Uses]] (2023-06-01)
-- [[Running Gear\|Running Gear]] (2023-05-27)
-- [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (2023-02-01)
-- [[Brokentop Circuit\|Brokentop Circuit]] (2023-02-01)
-- [[MYOG Wind Pants\|MYOG Wind Pants]] (2022-12-28)
+- [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
+- [[How this site is built\|How this site is built]] (Updated 2023-07-07)
+- [[Bend smoke days by year\|Bend smoke days by year]] (Updated 2023-07-07)
+- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-07-04)
+- [[Recommended Books\|Recommended Books]] (Updated 2023-06-28)
+- [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-06-01)
+- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-06-01)
+- [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (Updated 2023-02-01)
+- [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-02-01)
 
 
 ## Notes
