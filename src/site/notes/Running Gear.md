@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":3,"permalink":"/running-gear/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"permalink":"/running-gear/","dgPassFrontmatter":true}
 ---
 
 
