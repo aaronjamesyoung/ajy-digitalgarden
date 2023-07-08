@@ -9,9 +9,9 @@ Here are my code notes and snippets. I've typically been reliant on the internet
 
 ## Notes
 
-| Notes                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[02-work/Git hooks for WordPress grunt sass.md\\|Git hooks for WordPress grunt sass]]</li><li>[[02-work/JavaScript elapsed time in function.md\\|JavaScript elapsed time in function]]</li><li>[[02-work/JavaScript promisify a callback.md\\|JavaScript promisify a callback]]</li><li>[[02-work/Vue App Setup.md\\|Vue App Setup]]</li></ul> |
+| Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[02-work/Git hooks for WordPress grunt sass.md\\|Git hooks for WordPress grunt sass]]</li><li>[[02-work/JavaScript elapsed time in function.md\\|JavaScript elapsed time in function]]</li><li>[[02-work/JavaScript promisify a callback.md\\|JavaScript promisify a callback]]</li><li>[[02-work/Vue App Setup.md\\|Vue App Setup]]</li><li>[[Digital Garden.md\\|Digital Garden]]</li><li>[[How this site is built.md\\|How this site is built]]</li></ul> |
 
 
 ## External Articles
