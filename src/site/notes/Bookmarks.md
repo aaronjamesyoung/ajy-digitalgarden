@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":1,"permalink":"/bookmarks/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/bookmarks/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -26,15 +26,17 @@
 
 * [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
 * [Every Mountain in the World](http://everymountainintheworld.com/)
-* [Orienteer](https://orienteer.co/)
-* [Outdoor Permits](https://outdoorstatus.com/permits/)
+* [Purchase a day-use permit - Recreation.gov](https://www.recreation.gov/ticket/facility/300009)
+* [Purchase an overnight permit - Recreation.gov](https://www.recreation.gov/permits/4675311)
 * [Strava](https://www.strava.com/dashboard)
+* [Three Sisters Wilderness Permit Map (PDF)](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd899716.pdf)
 
 ## 🤪 Personal
 
 * [ARRIS](http://192.168.0.1/login.php)
 * [bend for sale - craigslist](https://bend.craigslist.org/search/sss?excats=20-24-24-1-50-1-2-2-21-1-14-1-2-1-4-4-10-8-1-1-1-1-1-1-1-1-3-1-1-1-4-1)
 * [BLS Canvas](https://bls.instructure.com/)
+* [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 * [TimeAndDate - Bend](https://www.timeanddate.com/worldclock/usa/bend)
 
 ## 📘 Reading
