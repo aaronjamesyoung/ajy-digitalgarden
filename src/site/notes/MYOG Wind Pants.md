@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":3,"permalink":"/myog-wind-pants/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"permalink":"/myog-wind-pants/","dgPassFrontmatter":true}
 ---
 
 
