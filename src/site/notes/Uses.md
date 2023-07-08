@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"grade":3,"permalink":"/uses/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/uses/","dgPassFrontmatter":true}
 ---
 
 
 ## Life stuff
 
-- REI Ruckpack 28 Backpack, Black – it’s a good everyday pack but near the end of it's life.
+- [[MYOG EDC Pack\|MYOG EDC Pack]]
 - Hydro Flask 12oz Coffee Mug – Keeps my coffee hot for hours
 - Hydro Flask 32oz Wide Mouth water bottle
 - Tito titanium spork
@@ -14,7 +14,7 @@
 
 - Laptop: HP Spectre x360 – home
 - Laptop: Dell XPS 13 – work
-- Phone: Motorola Moto G5 Plus – hand-me-down from my wife
+- Phone: Google Pixel 4a – hand-me-down from my wife
 
 ## OS / Environment
 
@@ -24,10 +24,9 @@
 
 ## Development
 
-- Vivaldi – web browser
-- Visual Studio Code / Lapce
+- Brave – web browser
+- Visual Studio Code
 - git
-- [prm](https://github.com/EivindArvesen/prm) – terminal project manager
 - Docker
 - Caddy Server
 
