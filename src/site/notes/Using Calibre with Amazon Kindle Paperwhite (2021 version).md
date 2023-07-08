@@ -9,7 +9,7 @@ I recently got a new Kindle - the newest Paperwhite released in 2021 - and took 
 
 I have an epub library which I manage on my Linux laptop with [calibre - E-book management](https://calibre-ebook.com/). I don't have a ton of them. I have been trying to standardize my library as epub-only, but obviously that won't work with a Kindle.
 
-Amazon DOES now support sending an epub to Kindle via email, or (I think) the desktop "Send to Kindle" app. That app isn't available for Linux, and I'd prefer to use a data cable to connect my Kindle to my laptop anyway. So I need to use Calibre to convert my books to a kindle-compatible format.
+Amazon DOES now support sending an epub to Kindle via email, or (I think) the desktop "Send to Kindle" app. The Kindle then does an onboard conversion to a compatible format. The "Send to Kindle" app isn't available for Linux, and I'd prefer to use a data cable to connect my Kindle to my laptop anyway. So I need to use Calibre to convert my books to a kindle-compatible format.
 
 ## Kindle format options
 
@@ -42,3 +42,5 @@ After getting the ASIN entered for each book in my library, I converted them all
 I use the included Kindle data cable to send books from Calibre to my Kindle.
 
 I do not consider this to be a 2-way sync. My Calibre library is the source of the data and Kindle is essentially a client. I don't keep them synchronized with each other, but I upload books from Calibre to Kindle when I decide to read them.
+
+I very rarely turn on wifi on my Kindle.
