@@ -21,8 +21,8 @@ See specifics: [Gear Spreadsheet](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-Li
 ## Sleep
 
 * [[MYOG Quilt\|MYOG Quilt]] - 22 oz
-* [Forclaz Trek 100, Folding Foam Hiking Mattress | Decathlon](https://www.decathlon.com/collections/camp-mattresses/products/backpacking-foam-folding-mattress-trek-100-174619?variant=31627393663038) - Similar to z-lite. Cut to 7 panels (out of 12)
-* 1/8" foam pad - when layered on top of the folding pad, it's a pretty comfortable combination. It helps to have a campsite with soft ground.
+* [Forclaz Trek 100, Folding Foam Hiking Mattress | Decathlon](https://www.decathlon.com/collections/camp-mattresses/products/backpacking-foam-folding-mattress-trek-100-174619?variant=31627393663038) - Similar to z-lite. Cut to 6 panels (out of 12)
+* [Thinlight Foam Pad - 1/8" – Gossamer Gear](https://www.gossamergear.com/products/thinlight-foam-pad?variant=40134759645238) - when layered on top of the folding pad, it's a pretty comfortable combination. It helps to have a campsite with soft ground.
 * [Sea to Summit Aeros Premium Pillow](https://seatosummit.com/products/aeros-pillow-premium) - Light and somewhat comfortable.
 
 ## Clothing
@@ -35,7 +35,7 @@ See specifics: [Gear Spreadsheet](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-Li
 * Packed clothing depends on expected conditions
     * [[MYOG Rain Shell\|MYOG Rain Shell]] or [[MYOG Wind Shell\|MYOG Wind Shell]]
     * [[MYOG Wind Pants\|MYOG Wind Pants]]
-    * [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]
+    * Hooded fleece pullover
     * [Trek 500, Seamless Backpacking Liner Gloves | Decathlon](https://www.decathlon.com/collections/hiking-gloves/products/mountain-backpacking-liner-gloves-trek-500?)
     * Extra socks
 
