@@ -3,6 +3,8 @@
 ---
 
 
+[[📘 Code\|📘 Code]]
+
 My website is a digital garden. What does that mean?
 
 > A collection of thoughts, ideas, highlights, annotations, quotes, summaries, and notes that are richer than a tweet, but lack the timestamped nature of a blog post or published essay. ([What are digital gardens? – Chuck Grimmett](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/))
