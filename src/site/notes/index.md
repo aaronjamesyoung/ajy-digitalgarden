@@ -11,14 +11,19 @@
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
+## Follow me online
+
+* [Strava](https://www.strava.com/athletes/1057219) is where I post my running and outdoor adventures
+* [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) is a fediverse service to track the books I've been reading. You can follow me from another Bookwyrm instance or Mastodon.
+
 ## Topics
 
 *The 📘 indicates my topic landing pages.*
 
-* [[📘 Running\|📘 Running]]: I'm a trail runner. Mountains are cool. You can follow me on [Strava](https://www.strava.com/athletes/1057219).
+* [[📘 Running\|📘 Running]]: I'm a trail runner. Mountains are cool.
 * [[📘 Fastpacking\|📘 Fastpacking]]: It's like trail running, with an overnight gear set.
 * [[📘 MYOG\|📘 MYOG]]: I make a lot of my outdoor gear.
-* [[📘 Books\|📘 Books]]: I read a lot. You can follow me on [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) (a fediverse service) to track the books I've been reading.
+* [[📘 Books\|📘 Books]]: I read a lot.
 * [[📘 News Articles\|📘 News Articles]]: Here's the news I found interesting recently.
 
 ## Articles
