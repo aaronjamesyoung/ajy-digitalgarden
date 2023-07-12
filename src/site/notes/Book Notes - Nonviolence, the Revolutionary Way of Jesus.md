@@ -3,7 +3,7 @@
 ---
 
 
-[[📘 Books\|📘 Books]]
+[[📘 Books\|📘 Books]] [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]
 
 Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus" by Preston Sprinkle.
 
@@ -104,7 +104,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 
 ## Ch. 7 - NT #2 - Sermon on the Mount & Teachings
 
-* Sermon on the Mount: Matthew 5-7
+* Sermon on the Mount: [[94-bible/Matthew 5\|Matthew 5]] - 7
 * Here's what the kingdom of God is:
     * Desire leading to murder is prohibited
     * Don't use violence to resist evil...
@@ -117,7 +117,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
     * Good Samaritan - Who would be the good samaritan today? Drug dealers, the terrorists - the embodiment of the one you'd like to destroy.
         * Note that just before this parable, James and John asked Jesus to call down fire on a Samaritan village [[Luke 9\|Luke 9]] v51-56
 * Jesus' nonviolent journey to the cross is a pattern for us to imitate:
-    * [[94-bible/Matthew 16\|Matthew 16]] v24, [[John 13\|John 13]] v15, [[Mark 10\|Mark 10]] v44, Luke 9:51-56, [[Mark 13\|Mark 13]] v9-13, [[Matt 26\|Matt 26]] v52
+    * [[94-bible/Matthew 16\|Matthew 16]] v24, [[John 13\|John 13]] v15, [[94-bible/Mark 10\|Mark 10]] v44, Luke 9:51-56, [[Mark 13\|Mark 13]] v9-13, [[Matt 26\|Matt 26]] v52
     * [[1 Peter 2\|1 Peter 2]] v21-23 - Peter specifically says we must follow Jesus' example in this
 * Love our enemies because it's right.
     * *Faithfulness* rather than *effectiveness* is our motivation
