@@ -26,7 +26,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 * [[94-bible/Genesis 6\|Genesis 6]] - God is specifically concerned w/ violence before the flood.
 * **The early chapters of Genesis celebrate peace and condemn violence.**
 * Abraham, Isaac, and Jacob demonstrate nonviolent solutions to conflict.
-    * Violence, like in [[Genesis 34\|Genesis 34]], is condemned ([[Genesis 49\|Genesis 49]] v5-7)
+    * Violence, like in [[94-bible/Genesis 34\|Genesis 34]], is condemned ([[94-bible/Genesis 49\|Genesis 49]] v5-7)
 * Possible exceptions:
     * Gen 9:6 - Death penalty. This seems clear, but is it actually a command? Does it refer to God's action, Remember it is condemning murder anyway. God will later institute the death penalty and it is discussed later in this book.
     * Gen 14 - Abram's militia. The story is relayed without commentary. Melchizedek?
@@ -41,7 +41,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 * God never sanctions *militarism* even when allowing warfare.
 * Israel was structured non-hierarchically and egalitarian according to law.
     * Israel's economic system under God's law does not allow an economy that could support a standing army.
-    * [[Deuteronomy 20\|Deuteronomy 20]] - describes Israel's army system. Note differences from other nations:
+    * [[94-bible/Deuteronomy 20\|Deuteronomy 20]] - describes Israel's army system. Note differences from other nations:
         * God determines victory
         * Offer peace first
         * Volunteer army with many exemptions
@@ -63,7 +63,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 * "Total annihilation" was only carried against certain cities (which were generally military outposts)
 * Some passages suggest total annihilation, and others do not.
     * Perhaps hyperbole, which was common in the ancient world
-    * Possibly God's command in [[Deuteronomy 20\|Deuteronomy 20]] could be interpreted as hyperbolic as it uses simliar language.
+    * Possibly God's command in [[94-bible/Deuteronomy 20\|Deuteronomy 20]] could be interpreted as hyperbolic as it uses simliar language.
 * Overall, the OT usually describes what happened without a value judgement. We should not misapply Joshua to our lives. This is not justification for Christians in America to wage violence against others.
 
 ## Ch. 5 - OT #4 - Judges & Prophets
@@ -85,7 +85,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
         * After Joshua, Israel became a warmongering nation like those surrounding it
         * By Isaiah's day, Israel is trusting in alliances and their own military strength for defense.
         * So - God moves away from all militarism
-            * [[94-bible/Isaiah 2\|Isaiah 2]] v4, [[94-bible/Isaiah 9\|Isaiah 9]] v6-7, [[94-bible/Isaiah 11\|Isaiah 11]] v6,9, [[Isaiah 42\|Isaiah 42]] v2-3 (nonviolent fight for justice)
+            * [[94-bible/Isaiah 2\|Isaiah 2]] v4, [[94-bible/Isaiah 9\|Isaiah 9]] v6-7, [[94-bible/Isaiah 11\|Isaiah 11]] v6,9, [[94-bible/Isaiah 42\|Isaiah 42]] v2-3 (nonviolent fight for justice)
 
 ## Ch. 6 - NT #1 - Gospels
 
@@ -93,11 +93,11 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
     * Note in particular, the Maccabbean revolt and subsequent Jewish rulers influenced the Jewish expectations of a Messiah. They expected him to seek freedom for the Jews through bloodshed.
 * **Jesus' central message: The Kingdom of God**
     * Kingdom is: God's reign over Israel through the Messiah
-    * Demilitarized [[Deuteronomy 17\|Deuteronomy 17]]
-    * Jesus' kingdom is explicitly nonviolent [[John 18\|John 18]] v36
+    * Demilitarized [[94-bible/Deuteronomy 17\|Deuteronomy 17]]
+    * Jesus' kingdom is explicitly nonviolent [[94-bible/John 18\|John 18]] v36
     * Enemies ore loved and offenders are forgiven
-    * In [[Matthew 11\|Matthew 11]] John the Baptist asks if Jesus is Messiah. Jesus uses kingdom language to answer and to draw contrast with kingdoms of the world.
-* Jesus often tells his followers not to call him Messiah because of the militarized implications that term had in the day. See [[Mark 8\|Mark 8]] v27-38, specifically v31 emphasizing Jesus as a suffering servant.
+    * In [[94-bible/Matthew 11\|Matthew 11]] John the Baptist asks if Jesus is Messiah. Jesus uses kingdom language to answer and to draw contrast with kingdoms of the world.
+* Jesus often tells his followers not to call him Messiah because of the militarized implications that term had in the day. See [[94-bible/Mark 8\|Mark 8]] v27-38, specifically v31 emphasizing Jesus as a suffering servant.
 * The Kingdom of God is shaped by servitude and suffering, not human power and violence.
     * Through nonviolence the power of God rather than the power of humans is showcased.
 * We are called to be different. Something is wrong if we cannot be distinguished from worldly kingdoms.
@@ -115,10 +115,10 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 * The Sermon applies to Christians in all areas of life, including serving in secular governments. That is, Christians should not go to war in service to a worldly government.
 * Love your Enemy - Who is the enemy? This is a broad understanding of enemy: religious, political, personal.
     * Good Samaritan - Who would be the good samaritan today? Drug dealers, the terrorists - the embodiment of the one you'd like to destroy.
-        * Note that just before this parable, James and John asked Jesus to call down fire on a Samaritan village [[Luke 9\|Luke 9]] v51-56
+        * Note that just before this parable, James and John asked Jesus to call down fire on a Samaritan village [[94-bible/Luke 9\|Luke 9]] v51-56
 * Jesus' nonviolent journey to the cross is a pattern for us to imitate:
-    * [[94-bible/Matthew 16\|Matthew 16]] v24, [[John 13\|John 13]] v15, [[94-bible/Mark 10\|Mark 10]] v44, Luke 9:51-56, [[Mark 13\|Mark 13]] v9-13, [[Matt 26\|Matt 26]] v52
-    * [[1 Peter 2\|1 Peter 2]] v21-23 - Peter specifically says we must follow Jesus' example in this
+    * [[94-bible/Matthew 16\|Matthew 16]] v24, [[94-bible/John 13\|John 13]] v15, [[94-bible/Mark 10\|Mark 10]] v44, Luke 9:51-56, [[94-bible/Mark 13\|Mark 13]] v9-13, [[94-bible/Matthew 26\|Matthew 26]] v52
+    * [[94-bible/1 Peter 2\|1 Peter 2]] v21-23 - Peter specifically says we must follow Jesus' example in this
 * Love our enemies because it's right.
     * *Faithfulness* rather than *effectiveness* is our motivation
         * Nonviolent resistance often *is* effective but our motivation is primarily to be faithful.
@@ -126,7 +126,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 ## Ch. 8 - NT #3 - Acts & Epistles
 
 * Phillipians discusses that we are citizens of heaven first. This city was granted Roman citizenship, so this is a big deal to these people. Paul tells them to be good citizens of the Kingdom of God - *and not Rome* is implied. Paul is drawing a clear line - steering their patriotism away from Rome and toward Jesus.
-* [[Acts 17\|Acts 17]] was understood as a critique of Nero
+* [[94-bible/Acts 17\|Acts 17]] was understood as a critique of Nero
     * Jesus is Lord and Savior - thus Nero is not!
 * NT language about Savior, Lord, peace, etc. is all commandeering language used by Rome.
 * The NT emphasizes over & over that our primary citizenship is the Kingdom of God. That's different than any worldly kingdom.
@@ -141,10 +141,10 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
 
 * "Babylon" symbolizes empires past, present, and future. This includes Rome, crusade states, etc.
 * Rev emphasizes the Kingdom of God vs worldly kingdoms.
-* Jesus' authority to judge ([[Revelation 19\|Revelation 19]]) is attained by first being conqured by enemies (Rev 1-18)
-* Christians "conquer" when they are killed. [[Revelation 12\|Revelation 12]] v11. See "conquer" in Rev 1-3.
+* Jesus' authority to judge ([[94-bible/Revelation 19\|Revelation 19]]) is attained by first being conqured by enemies (Rev 1-18)
+* Christians "conquer" when they are killed. [[94-bible/Revelation 12\|Revelation 12]] v11. See "conquer" in Rev 1-3.
 * When Rev mentions "blood", it's always the blood fo the saints, even the grape part.
-* [[Revelation 19\|Revelation 19]] the blood is Christ's own. Yes he has a sword, but it's in his mouth, symbolizing his words.
+* [[94-bible/Revelation 19\|Revelation 19]] the blood is Christ's own. Yes he has a sword, but it's in his mouth, symbolizing his words.
 * Nowhere in Revelation are Christians called or allowed to be violent.
 
 ## Ch. 10 - The Early Church
@@ -186,7 +186,7 @@ Here are my book notes from reading "Nonviolence, the Revolutionary Way of Jesus
     * Buying swords: 2 is enough, Jesus undoes the violence done with the sword.
         * Jesus asked disciples to pick up a sword "so he would be numbered with transgressors" essentially to fulfill a prophecy that the Romans would have this excuse to execute him.
 * **OT prophecy of violent Messiah?**
-    * [[94-bible/Psalm 2\|Psalm 2]], [[94-bible/Isaiah 11\|Isaiah 11]], [[Psalm 110\|Psalm 110]]
+    * [[94-bible/Psalm 2\|Psalm 2]], [[94-bible/Isaiah 11\|Isaiah 11]], [[94-bible/Psalm 110\|Psalm 110]]
     * Messiah conquers evil in the 1st coming, judges enemies in teh second.
     * Psalm 110 v1 - the NT often refers to this verse in context of *spiritual* enemies
 * **Capital punishment in the bible?**
