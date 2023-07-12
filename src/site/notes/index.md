@@ -25,6 +25,8 @@
 * [[📘 MYOG\|📘 MYOG]]: I make a lot of my outdoor gear.
 * [[📘 Books\|📘 Books]]: I read a lot.
 * [[📘 News Articles\|📘 News Articles]]: Here's the news I found interesting recently.
+* [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]: This has been an area of interest and research for me lately.
+* [[📘 Sermons\|📘 Sermons]]: Church sermon notes.
 
 ## Articles
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
