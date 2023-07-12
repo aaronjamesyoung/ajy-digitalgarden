@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":2,"permalink":"/sermons/2023-epiphany/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/sermons/2023-epiphany/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
