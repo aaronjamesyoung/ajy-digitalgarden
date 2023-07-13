@@ -15,6 +15,7 @@
 
 * [Strava](https://www.strava.com/athletes/1057219) is where I post my running and outdoor adventures
 * [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) is a fediverse service to track the books I've been reading. You can follow me from another Bookwyrm instance or Mastodon.
+* [Pixelfed](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. It's also a fediverse service, so you can follow on a Pixelfed or Mastodon instance.
 
 ## Topics
 
