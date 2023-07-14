@@ -284,21 +284,26 @@ body.theme-dark {
 }
 .index {
   @media screen and (min-width: 1024px) {
+    max-width: 80vw;
     .content img {
-      width: 984px;
-      margin-left: 50%;
-      transform: translateX(-50%);
-      max-width: none;
       border-radius: 8px;
     }
   }
   #hello { text-align: center; }
-  .col-2 { @include _fg(2);
-    ul { list-style-type: none; margin-left: 0;
-      li { margin-bottom: 10px; line-height: 1.5rem; }
-    }
-    table tr td:nth-of-type(2) {
-      white-space: nowrap;
+
+  // Home Columns
+  .hc {
+    @include _fg(2 1);
+  }
+
+  // Image streams on homepage
+  .is {
+    display: flex;
+    justify-content: start;
+    .is__item { margin-right: 20px; }
+    .is__item a { display: block; }
+    .is__item img {
+      height: 300px;
     }
   }
 }
