@@ -14,15 +14,21 @@
 ## Follow me online
 
 * [Strava](https://www.strava.com/athletes/1057219) is where I post my running and outdoor adventures
-* [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) is a fediverse service to track the books I've been reading. You can follow me from another Bookwyrm instance or Mastodon.
-* [Pixelfed](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. It's also a fediverse service, so you can follow on a Pixelfed or Mastodon instance.
 
-## Currently Reading
+### Currently Reading
 
 <div id="bookwyrm-reading"></div>
-<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;fetch(BW_URL).then(response=>response.text()).then(data=>{console.log(data);const elem=document.getElementById("bookwyrm-reading");elem.innerHTML=data});</script>
 
-<style type="text/css">.is{display:flex;justify-content:start}.is_item{margin-right:20px}.is__item a{display:block}.is__item img{width:100% !important;margin-left:0 !important;transform:none !important;height:300px}</style>
+[BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) is a fediverse service to track the books I've been reading. You can follow me from another Bookwyrm instance or Mastodon.
+<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;const PF_URL=`https://hs.ajy.co/nodered/stream/pixelfed`;fetch(BW_URL).then(response=>response.text()).then(data=>{console.log(data);const elem=document.getElementById("bookwyrm-reading");elem.innerHTML=data});fetch(PF_URL).then(response=>response.text()).then(data=>{console.log(data);const elem=document.getElementById("pixelfed");elem.innerHTML=data});</script>
+
+<style type="text/css">.is{display:flex;justify-content:start}.is__item{margin-right:20px}.is__item a{display:block}.is__item img{width:100% !important;margin-left:0 !important;transform:none !important;height:300px}</style>
+
+### Latest Photos
+
+<div id="pixelfed"></div>
+
+[Pixelfed](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. It's also a fediverse service, so you can follow on a Pixelfed or Mastodon instance.
 
 ## Topics
 
