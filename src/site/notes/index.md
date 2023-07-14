@@ -48,9 +48,13 @@ View all my [[Notes\|Notes]] - less refined articles and thoughts I've been work
 ## Testing
 
 <div id="bookwyrm-reading"></div>
+<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;fetch(BW_URL).then(response=>response.text()).then(data=>{console.log(data);const elem=document.getElementById("bookwyrm-reading");elem.innerHTML=data});</script>
+
+
+```
+<div id="bookwyrm-reading"></div>
 <script>
 const BW_URL = `https://hs.ajy.co/nodered/stream/bookwyrm-reading`;
-
 fetch(BW_URL)
   .then(response => response.text())
   .then(data => {
@@ -59,3 +63,4 @@ fetch(BW_URL)
     elem.innerHTML = data;
   });
 </script>
+```
