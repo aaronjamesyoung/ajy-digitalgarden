@@ -3,6 +3,8 @@
 ---
 
 
+<div class="home-left">
+
 ![PXL_20210901_234007644.MP.jpg](/img/user/98-attachments/PXL_20210901_234007644.MP.jpg)
 
 ## Hello!
@@ -27,7 +29,11 @@
 
 [Pixelfed](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. It's also a fediverse service, so you can follow on a Pixelfed or Mastodon instance.
 
-## Topics
+</div><div class="home-right">
+
+## Writing
+
+### Topics
 
 *The 📘 indicates my topic landing pages.*
 
@@ -39,7 +45,8 @@
 * [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]: This has been an area of interest and research for me lately.
 * [[📘 Sermons\|📘 Sermons]]: Church sermon notes.
 
-## Articles
+### Articles
+
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
 - [[How this site is built\|How this site is built]] (Updated 2023-07-07)
 - [[Bend smoke days by year\|Bend smoke days by year]] (Updated 2023-07-07)
@@ -51,11 +58,12 @@
 - [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-02-01)
 
 
-## Notes
+### Notes
 
 View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
+
+</div>
 
 <script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;const PF_URL=`https://hs.ajy.co/nodered/stream/pixelfed`;fetch(PF_URL).then(response=>response.text()).then(data=>{const elem=document.getElementById("pixelfed");elem.innerHTML=data;fetch(BW_URL).then(response2=>response2.text()).then(data2=>{const elem2=document.getElementById("bookwyrm-reading");elem2.innerHTML=data2});});</script>
 
 <style type="text/css">.is{display:flex;justify-content:start}.is__item{margin-right:20px}.is__item a{display:block}.is__item img{width:100% !important;margin-left:0 !important;transform:none !important;height:300px}</style>
-
