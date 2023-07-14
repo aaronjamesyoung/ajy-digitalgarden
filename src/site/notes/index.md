@@ -55,7 +55,7 @@
 
 View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
 
-<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;const PF_URL=`https://hs.ajy.co/nodered/stream/pixelfed`;fetch(BW_URL).then(response=>response.text()).then(data=>{const elem=document.getElementById("bookwyrm-reading");elem.innerHTML=data;fetch(PF_URL).then(response2=>response2.text()).then(data2=>{const elem2=document.getElementById("pixelfed");elem2.innerHTML=data2});});</script>
+<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;const PF_URL=`https://hs.ajy.co/nodered/stream/pixelfed`;fetch(PF_URL).then(response=>response.text()).then(data=>{const elem=document.getElementById("pixelfed");elem.innerHTML=data;fetch(BW_URL).then(response2=>response2.text()).then(data2=>{const elem2=document.getElementById("bookwyrm-reading");elem2.innerHTML=data2});});</script>
 
 <style type="text/css">.is{display:flex;justify-content:start}.is__item{margin-right:20px}.is__item a{display:block}.is__item img{width:100% !important;margin-left:0 !important;transform:none !important;height:300px}</style>
 
