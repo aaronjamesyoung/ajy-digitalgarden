@@ -17,6 +17,13 @@
 * [BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) is a fediverse service to track the books I've been reading. You can follow me from another Bookwyrm instance or Mastodon.
 * [Pixelfed](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. It's also a fediverse service, so you can follow on a Pixelfed or Mastodon instance.
 
+## Currently Reading
+
+<div id="bookwyrm-reading"></div>
+<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;fetch(BW_URL).then(response=>response.text()).then(data=>{console.log(data);const elem=document.getElementById("bookwyrm-reading");elem.innerHTML=data});</script>
+
+<style type="text/css">.is{display:flex;justify-content:start}.is_item{margin-right:20px}.is__item a{display:block}.is__item img{width:100% !important;margin-left:0 !important;transform:none !important;height:300px}</style>
+
 ## Topics
 
 *The 📘 indicates my topic landing pages.*
@@ -45,22 +52,3 @@
 
 View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
 
-## Testing
-
-<div id="bookwyrm-reading"></div>
-<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;fetch(BW_URL).then(response=>response.text()).then(data=>{console.log(data);const elem=document.getElementById("bookwyrm-reading");elem.innerHTML=data});</script>
-
-
-```
-<div id="bookwyrm-reading"></div>
-<script>
-const BW_URL = `https://hs.ajy.co/nodered/stream/bookwyrm-reading`;
-fetch(BW_URL)
-  .then(response => response.text())
-  .then(data => {
-    console.log(data);
-    const elem = document.getElementById("bookwyrm-reading");
-    elem.innerHTML = data;
-  });
-</script>
-```
