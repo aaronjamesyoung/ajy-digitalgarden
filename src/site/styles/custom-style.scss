@@ -272,28 +272,18 @@ body.theme-dark {
 
 // Site-specific styles
 // HOMEPAGE
-#topics + ul {
-  display: flex;
-  list-style-type: none;
-  padding-left: 0;
-  margin-left: 0;
-  flex-wrap: wrap;
-  li {
-    padding-right: 25px;
-  }
-}
 .index {
   @media screen and (min-width: 1024px) {
-    max-width: 80vw;
-    .content img {
-      border-radius: 8px;
+    max-width: 80vw !important;
+    // Home Columns
+    .hc {
+      @include _fg(2 1);
     }
   }
   #hello { text-align: center; }
 
-  // Home Columns
-  .hc {
-    @include _fg(2 1);
+  .content img {
+    border-radius: 8px;
   }
 
   // Image streams on homepage
