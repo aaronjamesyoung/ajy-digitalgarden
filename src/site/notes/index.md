@@ -7,8 +7,6 @@
 
 ![PXL_20210901_234007644.MP.jpg](/img/user/98-attachments/PXL_20210901_234007644.MP.jpg)
 
-## Hello!
-
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]]. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
@@ -17,15 +15,11 @@
 
 * [Strava](https://www.strava.com/athletes/1057219) is where I post my running and outdoor adventures
 
-### Currently Reading
-
-[My BookWyrm account](https://bookwyrm.ajy.co/user/aaronjamesyoung) is where I track the books I've been reading. You can follow me from Bookwyrm or the fediverse.
+### Currently Reading <small><a class="button" target="_blank" href="https://bookwyrm.ajy.co/user/aaronjamesyoung">Follow me on Bookwyrm</a></small>
 
 <div id="bookwyrm-reading"></div>
 
-### Latest Photos
-
-[My Pixelfed account](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. You can follow me from Pixelfed or the fediverse.
+### Latest Photos <small><a class="button" target="_blank" href="https://pixelfed.social/i/web/profile/584894152884316735">Follow me on Pixelfed</a></small>
 
 <div id="pixelfed"></div>
 
