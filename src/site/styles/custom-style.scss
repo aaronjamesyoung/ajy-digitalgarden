@@ -336,6 +336,10 @@ body.theme-dark {
 }
 
 // Buttons
+h3 small {
+  font-size: 1rem !important;
+  line-height: 1.5rem !important;
+}
 .button {
   display: inline-block;
   background: #12b886 !important;
