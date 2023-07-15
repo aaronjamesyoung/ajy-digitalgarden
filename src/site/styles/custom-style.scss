@@ -295,12 +295,18 @@ body.theme-dark {
   // Image streams on homepage
   .is {
     display: flex;
+    flex-wrap: wrap;
     justify-content: start;
-    .is__item { margin-right: 20px; }
+    .is__item { margin-right: 20px; margin-bottom: 20px; width: calc(33% - 20px); }
     .is__item a { display: block; }
     .is__item img {
-      height: 300px;
+      display: block;
     }
+  }
+
+  #bookwyrm-reading .is {
+    .is__item { width: auto; }
+    .is__item img { height: 200px; }
   }
 }
 
