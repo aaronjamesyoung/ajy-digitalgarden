@@ -19,15 +19,15 @@
 
 ### Currently Reading
 
-<div id="bookwyrm-reading"></div>
+[My BookWyrm account](https://bookwyrm.ajy.co/user/aaronjamesyoung) is where I track the books I've been reading. You can follow me from Bookwyrm or the fediverse.
 
-[BookWyrm](https://bookwyrm.ajy.co/user/aaronjamesyoung) is a fediverse service to track the books I've been reading. You can follow me from another Bookwyrm instance or Mastodon.
+<div id="bookwyrm-reading"></div>
 
 ### Latest Photos
 
-<div id="pixelfed"></div>
+[My Pixelfed account](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. You can follow me from Pixelfed or the fediverse.
 
-[Pixelfed](https://pixelfed.social/i/web/profile/584894152884316735) is where I'm posting some photos. It's also a fediverse service, so you can follow on a Pixelfed or Mastodon instance.
+<div id="pixelfed"></div>
 
 </div><div class="hc__right">
 
