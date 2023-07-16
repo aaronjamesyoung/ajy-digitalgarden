@@ -14,7 +14,7 @@ The Brokentop Circuit is a 42-mile route circumnavigating Brokentop. This page d
 * Elevation gain: 5900 feet
 * Generai terrain: Smooth, well-travelled dirt trails, rocky in places. Long hills but not steep. A few creek crossings, but none require wet feet.
 * Permit: To camp in the wilderness you need a [Central Cascades Wilderness Overnight Permit](https://www.recreation.gov/permits/4675311). If you follow the map above, you will be entering the wilderness at Tam McArthur Rim, so you need the Tam McArthur Rim Trailhead permit from that page. See [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]].
-* **Warning:** The Bridge Creek Trail is less worn in many places and it will be helpful to use a GPS track through this section. There may be trees down, blocking or obscuring the trail.
+* **Warning:** The Bridge Creek Trail is less worn in many places and it will be helpful to use a GPS track through this section. There are currently many trees down, blocking or obscuring the trail.
 
 ## Highlights
 
