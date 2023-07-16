@@ -18,7 +18,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Books\|📘 Books]]                                                                                                     | 2023-06-28 | 2023-07-12 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                     | 2023-07-12 | 2023-07-12 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2023-06-01 | 2023-06-28 | \-    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2023-06-01 | 2023-07-16 | \-    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                     | 2022-11-21 | 2023-06-28 | \-    |
 | [[📘 Running\|📘 Running]]                                                                                                 | 2023-06-01 | 2023-06-28 | \-    |
@@ -57,7 +57,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                       | 2022-10-29 | 2023-07-07 | 🥇    |
 | [[Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]     | 2023-07-04 | 2023-07-12 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-07-07 | 2023-07-12 | \-    |
-| [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-01-27 | 2023-02-01 | 🥇    |
+| [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                         | 2022-12-12 | 2023-07-07 | 🥈    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                                     | 2023-07-07 | 2023-07-07 | 🥈    |
@@ -79,13 +79,14 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                                       | 2022-11-04 | 2023-07-07 | 🥈    |
 | [[Navigation\|Navigation]]                                                                                                 | 2022-11-26 | 2022-11-26 | 🥈    |
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                           | 2023-07-07 | 2023-07-07 | 🥈    |
+| [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                     | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                           | 2022-11-26 | 2022-12-31 | \-    |
 | [[Read 2023\|Read 2023]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Recommended Books\|Recommended Books]]                                                                                   | 2022-12-30 | 2023-06-28 | 🥇    |
 | [[Résumé\|Résumé]]                                                                                                         | 2022-11-11 | 2022-11-11 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                             | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                         | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[Topic Notes\|Topic Notes]]                                                                                               | 2023-07-07 | 2023-07-07 | \-    |
+| [[Topic Notes\|Topic Notes]]                                                                                               | 2023-07-07 | 2023-07-14 | \-    |
 | [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]               | 2023-06-01 | 2023-06-01 | 🥇    |
 | [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]             | 2023-06-01 | 2023-06-01 | 🥇    |
 | [[Uses\|Uses]]                                                                                                             | 2023-07-07 | 2023-07-07 | \-    |
