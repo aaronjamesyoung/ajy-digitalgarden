@@ -3,7 +3,7 @@
 ---
 
 
-As I take notes about various things, sometimes certain topics emerge. I create "topic" notes to handle these. Topic notes are designated with a notebook emoji 📘
+As I take notes about various things, sometimes certain topics emerge. I create "topic" overview notes to handle these. Consider them "landing pages". Topic notes are designated with a notebook emoji 📘
 
 Ideally, my topic notes contain:
 
