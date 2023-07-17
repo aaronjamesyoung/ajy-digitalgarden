@@ -64,6 +64,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[First Aid Kit\|First Aid Kit]]                                                                                           | 2022-11-12 | 2022-11-17 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                       | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[02-work/Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                         | 2022-11-07 | 2023-06-28 | 🥈    |
+| [[Heart of Darkness\|Heart of Darkness]]                                                                                   | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                     | 2022-05-26 | 2022-11-17 | \-    |
 | [[How this site is built\|How this site is built]]                                                                         | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
@@ -87,7 +88,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Running Gear\|Running Gear]]                                                                                             | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                         | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Topic Notes\|Topic Notes]]                                                                                               | 2023-07-07 | 2023-07-14 | \-    |
-| [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]               | 2023-06-01 | 2023-06-01 | 🥇    |
+| [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]               | 2023-06-01 | 2023-07-16 | 🥇    |
 | [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]             | 2023-06-01 | 2023-06-01 | 🥇    |
 | [[Uses\|Uses]]                                                                                                             | 2023-07-07 | 2023-07-07 | \-    |
 | [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] | 2023-07-07 | 2023-07-07 | 🥇    |
