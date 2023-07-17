@@ -12,6 +12,7 @@ I did this loop in early July 2022 following a cool and wet spring. It was very 
 The loop is very challenging and the elevation profile is only part of the challenge. Poor footing is nearly constant on many parts of the loop and navigation gets progressively more difficult as the loop goes on. I’ll talk about trail conditions specifically later, but for now suffice to say that a couple of these trails are in dire need of maintenance before they disappear altogether.
 
 - [GPS track](https://caltopo.com/m/EAUN)
+- [[Heart of Darkness\|Heart of Darkness]] - My route description, water sources, and cue sheet
 - [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]] - Description and approximate mileage. Archive of writeup from Friends of the Ochocos site which is no longer live.
 
 <iframe src="https://photoprism.ajy.co/s/13icq91ne6/heart-of-darkness" width="100%" height="800"></iframe>
