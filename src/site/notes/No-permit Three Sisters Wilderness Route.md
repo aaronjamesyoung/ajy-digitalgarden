@@ -20,7 +20,7 @@ This is a 2-night loop and both campsites are situated just outside the wilderne
 
 ## Highlights
 
-* Tumalo Falls - Mile 3 and 39
+* Tumalo Falls - Mile 3
 * Little Three Creek Lake - Mile 16
 * Park Meadow - Mile 22
 * Green Lakes Pass - Mile 24
