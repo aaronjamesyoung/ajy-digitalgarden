@@ -16,8 +16,8 @@ Fastpacking is essentially overnight backpacking, but running. So I carry a ligh
 
 ## Trip Reports
 
-- [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]
+- [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]
 
 
 ## Route recommendations in Central Oregon
