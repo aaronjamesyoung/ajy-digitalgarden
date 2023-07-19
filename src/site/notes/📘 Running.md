@@ -23,6 +23,7 @@ I've run a few ultramarathons and I ran cross country and track all through high
 - ['Running While Black' tells a new story about who belongs in the sport](https://www.npr.org/sections/health-shots/2022/11/16/1136216628/running-while-black-tells-a-new-story-about-who-belongs-in-the-sport)
 - [How to Use Running Poles - Ultra Running Magazine](https://ultrarunning.com/featured/how-to-use-running-poles/)
 - [The Right and Wrong Way to Foam-Roll](https://www.trailrunnermag.com/training/injuries-and-treatment-training/the-right-and-wrong-way-to-foam-roll/)
+- [Time Outside Can Feel Like an Escape. But Your Mindset Matters.](https://www.trailrunnermag.com/training/time-outside-can-feel-like-an-escape-but-your-mindset-matters/)
 - [What I Eat for Trail Running](https://www.youtube.com/watch?v=L0DgF0hoOhc)
 
 
