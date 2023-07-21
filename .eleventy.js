@@ -15,7 +15,7 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
-function transformImage(src, cls, alt, sizes, widths = ["500", "900", "auto"]) {
+function transformImage(src, cls, alt, sizes, widths = ["500", "1100", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
