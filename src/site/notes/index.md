@@ -29,7 +29,7 @@
 
 ### Topics
 
-*The 📘 indicates my topic landing pages.*
+*The 📘 indicates [[Topic Notes\|Topic Notes]]*
 
 * [[📘 Running\|📘 Running]]: I'm a trail runner. Mountains are cool.
 * [[📘 Fastpacking\|📘 Fastpacking]]: It's like trail running, with an overnight gear set.
@@ -41,15 +41,17 @@
 
 ### Articles
 
+- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-07-16)
+- [[Heart of Darkness\|Heart of Darkness]] (Updated 2023-07-16)
+- [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]] (Updated 2023-07-16)
+- [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-07-16)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
 - [[How this site is built\|How this site is built]] (Updated 2023-07-07)
 - [[Bend smoke days by year\|Bend smoke days by year]] (Updated 2023-07-07)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-07-04)
 - [[Recommended Books\|Recommended Books]] (Updated 2023-06-28)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-06-01)
-- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-06-01)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (Updated 2023-02-01)
-- [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-02-01)
 
 
 ### Notes
