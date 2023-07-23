@@ -23,6 +23,8 @@
 
 <div id="pixelfed"></div>
 
+*Bookwyrm and Pixelfed are smaller, federated alternatives to more mainstream social networks. If you use Mastodon, you can follow me from there.*
+
 </div><div class="hc__right">
 
 ## Writing
