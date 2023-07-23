@@ -69,7 +69,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How this site is built\|How this site is built]]                                                                         | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                           | 2023-06-01 | 2023-07-21 | \-    |
+| [[index\|index]]                                                                                                           | 2023-06-01 | 2023-07-22 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                           | 2023-07-07 | 2023-07-07 | 🥈    |
