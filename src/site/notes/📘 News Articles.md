@@ -18,6 +18,7 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 
 | source                                                                                                                                                                                                           | read on           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                                                  | July 24, 2023     |
 | [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/)                        | July 20, 2023     |
 | [Oregon Tried a Bold Experiment in Drug Policy. Early Results Aren’t Encouraging.](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/?utm_source=feed) | July 20, 2023     |
 | [QAnon supporters are promoting 'Sound of Freedom.' Here's why](https://www.npr.org/2023/07/19/1188405402/qanon-supporters-are-promoting-sound-of-freedom-heres-why)                                             | July 19, 2023     |
