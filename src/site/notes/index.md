@@ -27,14 +27,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                           | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [Affirmative action's rejection will impact school diversity](https://www.axios.com/2023/06/29/affirmative-action-explained-students-diversity)                                                  | July 09, 2023     |
-| [Climate denialism has burnt to a crisp](https://www.washingtonpost.com/politics/2023/07/07/climate-denialism-gone/)                                                                             | July 09, 2023     |
-| [A record high number of dead trees are found as Oregon copes with an extreme drought](https://www.npr.org/2022/12/20/1143532629/oregon-megadrought-dead-fir-trees-forest-service-aerial-survey) | January 11, 2023  |
-| [74 Things That Blew Our Mind in 2022](https://www.theatlantic.com/science/archive/2022/12/the-science-facts-that-blew-our-mind-2022/672603/)                                                    | December 30, 2022 |
-| [Big Money Bought the Forests. Small Logging Communities Are Paying the Price.](https://features.propublica.org/oregon-timber/severance-tax-cut-wall-street-private-logging-companies/#965774)   | \-                |
-| [Come along as we connect the dots between climate, migration and the far-right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)               | \-                |
+| source                                                                                                                                                                                                           | read on       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)                              | July 25, 2023 |
+| [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                                                  | July 24, 2023 |
+| [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/)                        | July 20, 2023 |
+| [Oregon Tried a Bold Experiment in Drug Policy. Early Results Aren’t Encouraging.](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/?utm_source=feed) | July 20, 2023 |
+| [QAnon supporters are promoting 'Sound of Freedom.' Here's why](https://www.npr.org/2023/07/19/1188405402/qanon-supporters-are-promoting-sound-of-freedom-heres-why)                                             | July 19, 2023 |
+| [Sound of Freedom wants to raise awareness about child trafficking. Here’s what it’s really doing.](https://www.vox.com/culture/23794355/sound-of-freedom-controversy-true-story-qanon)                          | July 14, 2023 |
 
 
 </div><div class="hc__right">
