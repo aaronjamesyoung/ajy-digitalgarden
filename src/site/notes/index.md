@@ -23,7 +23,13 @@
 
 <div id="pixelfed"></div>
 
-*Bookwyrm and Pixelfed are smaller, federated alternatives to more mainstream social networks. If you use Mastodon, you can follow me from there.*
+### News
+
+Here are some recent news articles I found interesting:
+
+| source | read on |
+| ------ | ------- |
+
 
 </div><div class="hc__right">
 
@@ -37,7 +43,6 @@
 * [[📘 Fastpacking\|📘 Fastpacking]]: It's like trail running, with an overnight gear set.
 * [[📘 MYOG\|📘 MYOG]]: I make a lot of my outdoor gear.
 * [[📘 Books\|📘 Books]]: I read a lot.
-* [[📘 News Articles\|📘 News Articles]]: Here's the news I found interesting recently.
 * [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]: This has been an area of interest and research for me lately.
 * [[📘 Sermons\|📘 Sermons]]: Church sermon notes.
 
