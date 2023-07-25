@@ -27,8 +27,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source | read on |
-| ------ | ------- |
+| source                                                                                                                                                                                           | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Affirmative action's rejection will impact school diversity](https://www.axios.com/2023/06/29/affirmative-action-explained-students-diversity)                                                  | July 09, 2023     |
+| [Climate denialism has burnt to a crisp](https://www.washingtonpost.com/politics/2023/07/07/climate-denialism-gone/)                                                                             | July 09, 2023     |
+| [A record high number of dead trees are found as Oregon copes with an extreme drought](https://www.npr.org/2022/12/20/1143532629/oregon-megadrought-dead-fir-trees-forest-service-aerial-survey) | January 11, 2023  |
+| [74 Things That Blew Our Mind in 2022](https://www.theatlantic.com/science/archive/2022/12/the-science-facts-that-blew-our-mind-2022/672603/)                                                    | December 30, 2022 |
+| [Big Money Bought the Forests. Small Logging Communities Are Paying the Price.](https://features.propublica.org/oregon-timber/severance-tax-cut-wall-street-private-logging-companies/#965774)   | \-                |
+| [Come along as we connect the dots between climate, migration and the far-right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)               | \-                |
 
 
 </div><div class="hc__right">
