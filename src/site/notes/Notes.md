@@ -55,6 +55,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[About Me\|About Me]]                                                                                                     | 2022-11-11 | 2022-11-12 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                 | 2022-12-27 | 2023-07-07 | 🥈    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                       | 2022-10-29 | 2023-07-07 | 🥇    |
+| [[Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                       | 2023-07-26 | 2023-07-26 | 🥈    |
 | [[Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]     | 2023-07-04 | 2023-07-12 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                   | 2023-07-07 | 2023-07-12 | \-    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                   | 2023-01-27 | 2023-07-16 | 🥇    |
