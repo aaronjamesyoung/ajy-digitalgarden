@@ -13,7 +13,9 @@
 
 ## Follow me online
 
-* [Strava](https://www.strava.com/athletes/1057219) is where I post my running and outdoor adventures
+### Running <small><a class="button" target="_blank" href="https://www.strava.com/athletes/aaronjamesyoung">Follow me on Strava</a></small>
+
+<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1057219/latest-rides/ed2151117df36fe681b40b6883a1d116e9c6b39b'></iframe>
 
 ### Currently Reading <small><a class="button" target="_blank" href="https://bookwyrm.ajy.co/user/aaronjamesyoung">Follow me on Bookwyrm</a></small>
 
