@@ -18,6 +18,7 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 
 | source                                                                                                                                                                                                           | read on           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)                                          | July 26, 2023     |
 | [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)                              | July 25, 2023     |
 | [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                                                  | July 24, 2023     |
 | [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/)                        | July 20, 2023     |
