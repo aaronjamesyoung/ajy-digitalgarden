@@ -29,12 +29,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                           | read on       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)                                          | July 26, 2023 |
 | [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)                              | July 25, 2023 |
 | [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                                                  | July 24, 2023 |
 | [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/)                        | July 20, 2023 |
 | [Oregon Tried a Bold Experiment in Drug Policy. Early Results Aren’t Encouraging.](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/?utm_source=feed) | July 20, 2023 |
 | [QAnon supporters are promoting 'Sound of Freedom.' Here's why](https://www.npr.org/2023/07/19/1188405402/qanon-supporters-are-promoting-sound-of-freedom-heres-why)                                             | July 19, 2023 |
-| [Sound of Freedom wants to raise awareness about child trafficking. Here’s what it’s really doing.](https://www.vox.com/culture/23794355/sound-of-freedom-controversy-true-story-qanon)                          | July 14, 2023 |
 
 
 </div><div class="hc__right">
