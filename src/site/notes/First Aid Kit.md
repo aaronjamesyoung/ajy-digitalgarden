@@ -5,7 +5,7 @@
 
 [[📘 Running\|📘 Running]] [[📘 Fastpacking\|📘 Fastpacking]]
 
-I started with the Adventure Medical Kits 0.3 kit (their smallest one). I've removed a few things and added others. My kit weighs roughly 3 oz, and I keep it in a red ziploc bag.
+I started with the [Ultralight / Watertight .3 Medical Kit - Adventure Medical Kits](https://www.adventuremedicalkits.com/medical-kits/ultralight-watertight/ultralight-watertight-3.html) (their smallest one). I've removed a few things and added others. My kit weighs roughly 3 oz, and I keep it in a red ziploc bag.
 
 * Alcohol pads - 4 sterile prep pads
 * Aquatabs - one strip in case of filter failure
