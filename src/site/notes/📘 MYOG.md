@@ -9,7 +9,6 @@ I've been getting into making my own outdoor gear. Here's some of what I've done
 
 * [[MYOG EDC Pack\|MYOG EDC Pack]]
 * [[MYOG Fastpack\|MYOG Fastpack]]
-* [[MYOG Fleece Pullover\|MYOG Fleece Pullover]]
 * [[MYOG Quilt\|MYOG Quilt]]
 * [[MYOG Rain Shell\|MYOG Rain Shell]]
 * [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]]
