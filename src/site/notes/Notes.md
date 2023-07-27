@@ -19,7 +19,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                     | 2023-07-12 | 2023-07-12 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                         | 2023-06-01 | 2023-07-16 | \-    |
-| [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
+| [[📘 MYOG\|📘 MYOG]]                                                                                                       | 2023-07-27 | 2023-07-26 | \-    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                     | 2022-11-21 | 2023-07-25 | \-    |
 | [[📘 Running\|📘 Running]]                                                                                                 | 2023-06-01 | 2023-06-28 | \-    |
 | [[📘 Sermons\|📘 Sermons]]                                                                                                 | 2023-07-12 | 2023-07-12 | \-    |
@@ -62,7 +62,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Contact Me\|Contact Me]]                                                                                                 | 2022-11-11 | 2022-12-04 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                         | 2022-12-12 | 2023-07-07 | 🥈    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                                     | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[First Aid Kit\|First Aid Kit]]                                                                                           | 2022-11-12 | 2022-11-17 | 🥈    |
+| [[First Aid Kit\|First Aid Kit]]                                                                                           | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                       | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[02-work/Git hooks for WordPress grunt sass\|Git hooks for WordPress grunt sass]]                                         | 2022-11-07 | 2023-06-28 | 🥈    |
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                   | 2023-07-16 | 2023-07-16 | 🥇    |
@@ -70,12 +70,12 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How this site is built\|How this site is built]]                                                                         | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]           | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                           | 2023-06-01 | 2023-07-25 | \-    |
+| [[index\|index]]                                                                                                           | 2023-06-01 | 2023-07-26 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                       | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                               | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                           | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                           | 2022-04-12 | 2023-06-28 | 🥈    |
-| [[MYOG Quilt\|MYOG Quilt]]                                                                                                 | 2022-10-31 | 2022-12-28 | 🥈    |
+| [[MYOG Quilt\|MYOG Quilt]]                                                                                                 | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]]                                                           | 2022-11-12 | 2022-12-28 | 🥈    |
 | [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                                                                       | 2022-11-12 | 2022-12-28 | 🥉    |
 | [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                                       | 2022-11-04 | 2023-07-07 | 🥈    |
@@ -91,6 +91,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Topic Notes\|Topic Notes]]                                                                                               | 2023-07-07 | 2023-07-14 | \-    |
 | [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]               | 2023-06-01 | 2023-07-16 | 🥇    |
 | [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]             | 2023-06-01 | 2023-06-01 | 🥇    |
-| [[Uses\|Uses]]                                                                                                             | 2023-07-07 | 2023-07-07 | \-    |
+| [[Uses\|Uses]]                                                                                                             | 2023-07-27 | 2023-07-26 | \-    |
 | [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] | 2023-07-07 | 2023-07-07 | 🥇    |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                                           | 2022-11-12 | 2023-07-04 | 🥇    |
