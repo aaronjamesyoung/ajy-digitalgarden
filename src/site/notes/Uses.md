@@ -37,22 +37,19 @@
 
 ## Selfhosted Services
 
-- [BookWyrm](https://joinbookwyrm.com/) - Goodreads alternative
+- [BookWyrm](https://joinbookwyrm.com/) - Goodreads alternative, federated
 - [FreshRSS](https://www.freshrss.org/) – RSS reader
 - [Gitea](https://gitea.io/en-us/) – Git repositories
 - [Matomo](https://matomo.org/) – Analytics
 - [Nextcloud](https://nextcloud.com/) – File sharing, music streaming
 - [Photoprism](https://photoprism.app/) – Photo backup
+- [Syncthing](https://syncthing.net/) - File Syncronization
 
 ## Online Services
 
 - Bitwarden
 - Digital Ocean
-- Pocket Casts. Podcasts in my playlist include but are not limited to:
-    - [Dan Carlin’s Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
-    - [The History of Byzantium](https://thehistoryofbyzantium.com/)
-    - [Left, Right, & Center](https://www.kcrw.com/news/shows/left-right-center)
-    - [Morning Show](https://goodstuff.network/morningshow/)
-    - [Fall of Civilizations](https://fallofcivilizationspodcast.com/)
+- Grist - Database / Spreadsheet application
+- Pixelfed - Instagram alternative, federated
 - Strava
 - Uptime Robot
