@@ -5,8 +5,20 @@
 
 [[📘 Books\|📘 Books]]
 
-- In 2023, I've read 64 books. Here they are in order:
+- So far in 2023, I've read 64 books.
 
+
+The best books of this year have been:
+
+- A Farewell to Arms (Hemingway, Ernest)
+- A Thousand Splendid Suns (Hosseini, Khaled)
+- Babel (Kuang, R.F.)
+- Cannery Row (Steinbeck, John)
+- Hawaii (Michener, James A.)
+- Lonesome Dove (McMurtry, Larry)
+- Shogun (Clavell, James)
+- The Little Friend (Tartt, Donna)
+- War and Peace (Tolstoy, Leo)
 
 
 | Cover                                                                                         | title                                                       | author                        | series                     | started           | finished          | Rating |
