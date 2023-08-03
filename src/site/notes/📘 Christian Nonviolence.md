@@ -8,8 +8,8 @@
 - [[📘 Sermons\|📘 Sermons]]
 - [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]
 - [[sermons/2023-04-02 Our Gentle King\|2023-04-02 Our Gentle King]]
-- [[Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]
-- [[Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
+- [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]
+- [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
 - [[index\|index]]
 
 
@@ -31,7 +31,7 @@ What is Christian nonviolence?
     * Earlier edition titled *Fight - A Christian case for nonviolence*
     * This is a good introductory defense of Christian nonviolence for Christians who are beginning to research this for themselves. I think the author overemphasizes his conservative "credentials" in places, but he knows his audience. If you are just starting to think about this, start here.
     * This book walks through the Old Testament, New Testament, and early church history to promote a Christian view of nonviolence
-    * [[Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
+    * [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
 * *Jesus and Nonviolence - A Third Way* - Walter Wink
     * In this book, the focus is on presenting nonviolent resistance as an alternative to either violence, or passive non-resistance.
 * *The Myth of a Christian Nation* - Greg Boyd
