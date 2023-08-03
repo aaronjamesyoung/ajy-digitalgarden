@@ -62,7 +62,6 @@ Here are some recent news articles I found interesting:
 - [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-07-16)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
 - [[How this site is built\|How this site is built]] (Updated 2023-07-07)
-- [[Bend smoke days by year\|Bend smoke days by year]] (Updated 2023-07-07)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-07-04)
 - [[Recommended Books\|Recommended Books]] (Updated 2023-06-28)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-06-01)
