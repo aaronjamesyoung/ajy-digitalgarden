@@ -5,7 +5,7 @@
 
 [[📘 Books\|📘 Books]]
 
-- In 2023, I've read 63 books. Here they are in order:
+- In 2023, I've read 64 books. Here they are in order:
 
 
 
@@ -74,3 +74,4 @@
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg) | Jonathan Strange & Mr Norrell                               | Clarke, Susanna               | \-                         | July 13, 2023     | July 30, 2023     | ⭐⭐⭐⭐   |
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg) | Soulsmith                                                   | Wight, Will                   | Cradle                     | July 31, 2023     | August 01, 2023   | ⭐⭐⭐    |
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/b455fb06-11ee-4f6a-92c4-05256e7b3a7d.jpeg) | Hawaii                                                      | Michener, James A.            | \-                         | June 23, 2023     | August 02, 2023   | ⭐⭐⭐⭐⭐  |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/37e62258-e544-40ee-b93c-0fbac6e38c4a.jpeg) | Cannery Row                                                 | Steinbeck, John               | \-                         | July 30, 2023     | August 02, 2023   | ⭐⭐⭐⭐⭐  |
