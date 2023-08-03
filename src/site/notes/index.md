@@ -25,6 +25,17 @@
 
 <div id="bookwyrm-reading"></div>
 
+### Recently Read
+
+| Cover                                                                                         | title                | author             | series                 | started | finished | Rating |
+| --------------------------------------------------------------------------------------------- | -------------------- | ------------------ | ---------------------- | ------- | -------- | ------ |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/0a37e79e-b23f-4dd6-9092-177a1b5fe123.jpeg) | 2666                 | Bolaño, Roberto    | \-                     | \-      | \-       | ⭐⭐⭐⭐⭐  |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/c5fa3dc8-e611-492e-8211-640b0686ed00.jpeg) | A Betrayal in Winter | Abraham, Daniel    | The Long Price Quartet | \-      | \-       | ⭐⭐⭐    |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/5d79b3f6-7691-4f40-8963-bbe651691224.jpeg) | A Shadow in Summer   | Abraham, Daniel    | The Long Price Quartet | \-      | \-       | ⭐⭐⭐    |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/1b47f48b-aa78-4cc1-82ce-13de3716c6fd.jpeg) | A Wind in the Door   | L'Engle, Madeleine | Time Quintet           | \-      | \-       | ⭐⭐⭐⭐   |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/0dd66484-0fac-4111-8823-0b6cdc9fc55c.jpeg) | A Wizard of Earthsea | Le Guin, Ursula K. | Earthsea Cycle         | \-      | \-       | ⭐⭐⭐⭐⭐  |
+
+
 ### News
 
 Here are some recent news articles I found interesting:
