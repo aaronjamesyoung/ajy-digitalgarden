@@ -5,7 +5,7 @@
 
 * [[Recommended Books\|Recommended Books]] - If you ask me what you should read, I'll send you this list.
 * [[Books Read in 2023\|Books Read in 2023]]
-* 
+* [[Books Read Before 2023\|Books Read Before 2023]] - I wasn't tracking as carefully, but here are most of the books I read over the past few years. Excludes books that I reread in 2023.
 
 ## Book Notes
 
