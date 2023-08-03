@@ -27,13 +27,13 @@
 
 ### Recently Read
 
-| Cover                                                                                         | title                | author             | series                 | started | finished | Rating |
-| --------------------------------------------------------------------------------------------- | -------------------- | ------------------ | ---------------------- | ------- | -------- | ------ |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/0a37e79e-b23f-4dd6-9092-177a1b5fe123.jpeg) | 2666                 | Bolaño, Roberto    | \-                     | \-      | \-       | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/c5fa3dc8-e611-492e-8211-640b0686ed00.jpeg) | A Betrayal in Winter | Abraham, Daniel    | The Long Price Quartet | \-      | \-       | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/5d79b3f6-7691-4f40-8963-bbe651691224.jpeg) | A Shadow in Summer   | Abraham, Daniel    | The Long Price Quartet | \-      | \-       | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/1b47f48b-aa78-4cc1-82ce-13de3716c6fd.jpeg) | A Wind in the Door   | L'Engle, Madeleine | Time Quintet           | \-      | \-       | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/0dd66484-0fac-4111-8823-0b6cdc9fc55c.jpeg) | A Wizard of Earthsea | Le Guin, Ursula K. | Earthsea Cycle         | \-      | \-       | ⭐⭐⭐⭐⭐  |
+| Cover                                                                                         | title                         | author                | series                 | started       | finished        | Rating |
+| --------------------------------------------------------------------------------------------- | ----------------------------- | --------------------- | ---------------------- | ------------- | --------------- | ------ |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/37e62258-e544-40ee-b93c-0fbac6e38c4a.jpeg) | Cannery Row                   | Steinbeck, John       | \-                     | July 30, 2023 | August 02, 2023 | ⭐⭐⭐⭐⭐  |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/b455fb06-11ee-4f6a-92c4-05256e7b3a7d.jpeg) | Hawaii                        | Michener, James A.    | \-                     | June 23, 2023 | August 02, 2023 | ⭐⭐⭐⭐⭐  |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg) | Soulsmith                     | Wight, Will           | Cradle                 | July 31, 2023 | August 01, 2023 | ⭐⭐     |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg) | Jonathan Strange & Mr Norrell | Clarke, Susanna       | \-                     | July 13, 2023 | July 30, 2023   | ⭐⭐⭐⭐   |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9a2bc5f4-b7b2-4e34-81dc-1d858b784fe4.jpeg) | The Curse of Chalion          | Bujold, Lois McMaster | World of the Five Gods | July 23, 2023 | July 26, 2023   | ⭐⭐⭐    |
 
 
 ### News
