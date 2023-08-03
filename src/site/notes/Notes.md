@@ -54,7 +54,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-04-02 Our Gentle King\|2023-04-02 Our Gentle King]]                                                               | 2023-07-17 | 2023-07-12 | 🥈    |
 | [[About Me\|About Me]]                                                                                                           | 2022-11-14 | 2022-11-12 | \-    |
 | [[Backpacking Routes\|Backpacking Routes]]                                                                                       | 2023-07-05 | 2023-07-07 | 🥈    |
-| [[Bend smoke days by year\|Bend smoke days by year]]                                                                             | 2023-07-07 | 2023-07-07 | 🥇    |
+| [[Bend smoke days by year\|Bend smoke days by year]]                                                                             | 2023-07-07 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-08-02 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-07-26 | 2023-07-26 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-07-17 | 2023-07-12 | 🥈    |
@@ -86,6 +86,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                                 | 2022-11-30 | 2023-07-07 | 🥈    |
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-17 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2023-01-02 | 2022-12-31 | \-    |
+| [[Oregon acres burned by year\|Oregon acres burned by year]]                                                                     | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[Recommended Books\|Recommended Books]]                                                                                         | 2023-07-05 | 2023-06-28 | 🥇    |
 | [[Résumé\|Résumé]]                                                                                                               | 2022-11-14 | 2022-11-11 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-05-30 | 2023-07-07 | 🥈    |
