@@ -62,8 +62,7 @@ Here are some recent news articles I found interesting:
 * [[📘 Fastpacking\|📘 Fastpacking]]: It's like trail running, with an overnight gear set.
 * [[📘 MYOG\|📘 MYOG]]: I make a lot of my outdoor gear.
 * [[📘 Books\|📘 Books]]: I read a lot.
-* [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]: This has been an area of interest and research for me lately.
-* [[📘 Sermons\|📘 Sermons]]: Church sermon notes.
+* [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]: Notes and reading on this topic.
 
 ### Articles
 
