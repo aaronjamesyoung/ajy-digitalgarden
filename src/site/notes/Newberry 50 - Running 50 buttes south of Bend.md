@@ -20,12 +20,12 @@ I did 27 of these buttes during spring 2022 before breaking for my summer runnin
 
 ## Strava Activities
 
-* [Newberry 50: #1/50 - Pilot Butte](https://www.strava.com/activities/6679445034)
-* [Newberry 50: #2,3,4,5/50 - Cabin, Coyote, Horse, Bessie Buttes](https://www.strava.com/activities/6707650219)
-* [Newberry 50: #6,7,8/50 - Huntington Butte, Green Mountain, Lava Butte](https://www.strava.com/activities/6888649146)
-* [Newberry 50: #9,10,11,12,13,14,15/50 - Kelsey, Balbali, (unnamed), Ikt, Klawhop, (unnamed), Luna Buttes](https://www.strava.com/activities/6922866303)
-* [Newberry 50: #16,17,18,19,20,21,22/50 - (unnamed), (unnamed), Nota, (unnamed), Jane*, Sugar Pine, Ada Buttes](https://www.strava.com/activities/7067674375)
-* [Newberry 50: #23,24,25,26,27/50 - Kide, Swamp Wells, (unnamed), Fuzztail, Lava Top Buttes](https://www.strava.com/activities/7181013542)
+* [Newberry 50: 1/50 - Pilot Butte](https://www.strava.com/activities/6679445034)
+* [Newberry 50: 2,3,4,5/50 - Cabin, Coyote, Horse, Bessie Buttes](https://www.strava.com/activities/6707650219)
+* [Newberry 50: 6,7,8/50 - Huntington Butte, Green Mountain, Lava Butte](https://www.strava.com/activities/6888649146)
+* [Newberry 50: 9,10,11,12,13,14,15/50 - Kelsey, Balbali, (unnamed), Ikt, Klawhop, (unnamed), Luna Buttes](https://www.strava.com/activities/6922866303)
+* [Newberry 50: 16,17,18,19,20,21,22/50 - (unnamed), (unnamed), Nota, (unnamed), Jane*, Sugar Pine, Ada Buttes](https://www.strava.com/activities/7067674375)
+* [Newberry 50: 23,24,25,26,27/50 - Kide, Swamp Wells, (unnamed), Fuzztail, Lava Top Buttes](https://www.strava.com/activities/7181013542)
 
 ## Ratings
 
