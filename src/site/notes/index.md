@@ -27,14 +27,16 @@
 
 ### Recently Read
 
-| Cover                                                                                         | title                         | author                | series                 | started       | finished        | Rating |
-| --------------------------------------------------------------------------------------------- | ----------------------------- | --------------------- | ---------------------- | ------------- | --------------- | ------ |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/37e62258-e544-40ee-b93c-0fbac6e38c4a.jpeg) | Cannery Row                   | Steinbeck, John       | \-                     | July 30, 2023 | August 02, 2023 | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/b455fb06-11ee-4f6a-92c4-05256e7b3a7d.jpeg) | Hawaii                        | Michener, James A.    | \-                     | June 23, 2023 | August 02, 2023 | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg) | Soulsmith                     | Wight, Will           | Cradle                 | July 31, 2023 | August 01, 2023 | ⭐⭐     |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg) | Jonathan Strange & Mr Norrell | Clarke, Susanna       | \-                     | July 13, 2023 | July 30, 2023   | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9a2bc5f4-b7b2-4e34-81dc-1d858b784fe4.jpeg) | The Curse of Chalion          | Bujold, Lois McMaster | World of the Five Gods | July 23, 2023 | July 26, 2023   | ⭐⭐⭐    |
+<div class="book-covers">
 
+- [![cover](https://bookwyrm.ajy.co/images/covers/37e62258-e544-40ee-b93c-0fbac6e38c4a.jpeg)](https://bookwyrm.ajy.co/book/22441/s/cannery-row)
+- [![cover](https://bookwyrm.ajy.co/images/covers/b455fb06-11ee-4f6a-92c4-05256e7b3a7d.jpeg)](https://bookwyrm.ajy.co/book/16721/s/hawaii)
+- [![cover](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)](https://bookwyrm.ajy.co/book/22753/s/soulsmith)
+- [![cover](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg)](https://bookwyrm.ajy.co/book/2497/s/jonathan-strange-mr-norrell)
+- [![cover](https://bookwyrm.ajy.co/images/covers/9a2bc5f4-b7b2-4e34-81dc-1d858b784fe4.jpeg)](https://bookwyrm.ajy.co/book/21751)
+
+
+</div>
 
 ### News
 
