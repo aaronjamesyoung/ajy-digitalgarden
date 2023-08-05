@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/code/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/code/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -18,4 +18,3 @@ Here are my code notes and snippets. I've typically been reliant on the internet
 
 
 
-#topic 
