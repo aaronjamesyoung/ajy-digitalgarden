@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/fastpacking/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/fastpacking/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -16,8 +16,8 @@ Fastpacking is essentially overnight backpacking, but running. So I carry a ligh
 
 ## Trip Reports
 
-- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]
+- [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]
 
 
 ## Route recommendations in Central Oregon
@@ -40,5 +40,3 @@ Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all 
 
 * [[Backpacking Routes\|Backpacking Routes]]
 * [[01-personal/Oregon Desert Trail\|Oregon Desert Trail]]
-
-#topic 
