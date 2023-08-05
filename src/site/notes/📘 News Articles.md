@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/news-articles/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/news-articles/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -54,5 +54,3 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 | [Whether gas prices are up or down, don't blame or thank the president](https://www.npr.org/2022/10/27/1131675651/gas-prices-oil-fuel-rising-president)                                                          | \-                |
 | [Why White Voters With Racist Views Often Still Support Black Republicans](https://fivethirtyeight.com/features/why-racist-white-voters-often-favor-black-republicans/)                                          | \-                |
 
-
-#topic 
