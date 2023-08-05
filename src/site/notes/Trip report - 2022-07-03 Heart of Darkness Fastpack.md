@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":3,"permalink":"/trip-report-2022-07-03-heart-of-darkness-fastpack/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":3,"tag":"tripReport","permalink":"/trip-report-2022-07-03-heart-of-darkness-fastpack/","dgPassFrontmatter":true}
 ---
 
 
@@ -52,5 +52,3 @@ Fortunately, when I reached the intersection with the Coffee Pot Trail, things i
 To return to the car, I did a 4 mile road run from Boeing Field Trailhead back to Rock Creek Trailhead. After the challenges of the last two days it felt good to get some easy smooth miles in. Rock Creek parallels the road along much of this section.
 
 This loop was tougher than I expected, and I don’t know that a fastpack / running focus is the right way to experience it. It’s just generally not very runnable. But this is a beautiful and remote area that many people miss, and I think it’s worth visiting.
-
-#tripReport
