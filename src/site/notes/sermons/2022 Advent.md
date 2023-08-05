@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/sermons/2022-advent/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"tag":"sermonSeries","permalink":"/sermons/2022-advent/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -12,5 +12,3 @@ Antioch Church's Fall / Winter 2022 Advent series
 - [[sermons/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]
 - [[sermons/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]
 
-
-#sermonSeries 
