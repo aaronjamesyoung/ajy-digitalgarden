@@ -73,7 +73,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                       | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-08-03 | \-    |
+| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-08-04 | \-    |
 | [[02-work/JavaScript elapsed time in function\|JavaScript elapsed time in function]]                                             | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[02-work/JavaScript promisify a callback\|JavaScript promisify a callback]]                                                     | 2022-11-11 | 2023-06-28 | 🥈    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
@@ -86,7 +86,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                                 | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2022-12-31 | \-    |
-| [[Oregon acres burned by year\|Oregon acres burned by year]]                                                                     | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2023-06-28 | 🥇    |
 | [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2023-08-04 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
