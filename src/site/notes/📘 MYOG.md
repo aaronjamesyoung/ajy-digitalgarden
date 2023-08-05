@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/myog/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/myog/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -37,5 +37,3 @@ as well as a handful of stuff sacks and miscellaneous items.
 * [Printable Sewing Patterns | United States | Properfit Clothing](https://www.properfitclothing.com)
     * Hats and manhy other things
     * [ProperFit Clothing Co. - YouTube](https://www.youtube.com/@ProperFitClothing)
-
-#topic 
