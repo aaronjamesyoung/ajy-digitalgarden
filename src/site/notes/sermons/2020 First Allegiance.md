@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/sermons/2020-first-allegiance/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"tag":"sermonSeries","permalink":"/sermons/2020-first-allegiance/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -31,5 +31,4 @@ Sermon series corresponds with these, so sermon notes are embedded in the below 
 8. **Biblical Justice** - *I commit to understanding and pursuing justice as I engage in civic life, not minimizing scripture’s repeated call to seek justice and allowing scripture to critique popular conceptions of justice in our culture* - (Is 1:17; Micah 6:8, Mt 23:23)
 9. **Peacemaking** - *I commit to face-to-face conflict resolution rather than arguments on social media* - (Mt 18:15-17, Rom 12:17-21)
 10. **Loving Enemies** - *I commit to loving and praying for my so-called political “enemies,” especially those whom I have the hardest time loving and praying for. This includes a commitment to pray for our government leaders regardless of who wins the election* - (Mt 5:43-44, 1 Tim 2:1-4)
-
-#sermonSeries 
+ 
