@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/sermons/2023-epiphany/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"tag":"sermonSeries","permalink":"/sermons/2023-epiphany/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -15,5 +15,3 @@ Sermon Series for Epiphany season of 2023.
 - [[sermons/2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]
 - [[sermons/2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]
 
-
-#sermonSeries
