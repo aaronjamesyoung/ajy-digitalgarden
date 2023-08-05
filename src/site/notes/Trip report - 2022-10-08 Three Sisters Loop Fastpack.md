@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":3,"permalink":"/trip-report-2022-10-08-three-sisters-loop-fastpack/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":3,"tag":"tripReport","permalink":"/trip-report-2022-10-08-three-sisters-loop-fastpack/","dgPassFrontmatter":true}
 ---
 
 
@@ -66,5 +66,3 @@ So I stopped to eat a bit at Green Lakes and got some water and arranged Evelyn 
 Again, golden hour was beautiful as I crossed the south side of Brokentop. It got dark and I used a light in about the last mile of the day.
 
 After 38 miles today I was officially done. I hobbled around for a couple days and started recovering soon after.
-
-#tripReport 
