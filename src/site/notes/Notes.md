@@ -16,16 +16,16 @@ I try to assign my notes a "content score" which indicates their level of comple
 | File                                                                                                                                | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
 | [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2023-08-03 | \-    |
-| [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-07-12 | \-    |
-| [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-06-28 | \-    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2023-07-16 | \-    |
-| [[📘 MYOG\|📘 MYOG]]                                                                                                             | 2023-07-27 | 2023-07-26 | \-    |
-| [[📘 News Articles\|📘 News Articles]]                                                                                           | 2022-11-21 | 2023-07-25 | \-    |
-| [[📘 Running\|📘 Running]]                                                                                                       | 2023-06-01 | 2023-06-28 | \-    |
-| [[📘 Sermons\|📘 Sermons]]                                                                                                       | 2023-07-12 | 2023-07-12 | \-    |
-| [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                         | 2022-12-27 | 2023-07-12 | 🥈    |
-| [[sermons/2022 Advent\|2022 Advent]]                                                                                             | 2022-11-27 | 2023-07-12 | 🥈    |
-| [[sermons/2022 Work of the People\|2022 Work of the People]]                                                                     | 2022-11-22 | 2023-07-12 | 🥈    |
+| [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-08-05 | \-    |
+| [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-08-05 | \-    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2023-08-05 | \-    |
+| [[📘 MYOG\|📘 MYOG]]                                                                                                             | 2023-07-27 | 2023-08-05 | \-    |
+| [[📘 News Articles\|📘 News Articles]]                                                                                           | 2022-11-21 | 2023-08-05 | \-    |
+| [[📘 Running\|📘 Running]]                                                                                                       | 2023-06-01 | 2023-08-05 | \-    |
+| [[📘 Sermons\|📘 Sermons]]                                                                                                       | 2023-07-12 | 2023-08-05 | \-    |
+| [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                         | 2022-12-27 | 2023-08-05 | 🥈    |
+| [[sermons/2022 Advent\|2022 Advent]]                                                                                             | 2022-11-27 | 2023-08-05 | 🥈    |
+| [[sermons/2022 Work of the People\|2022 Work of the People]]                                                                     | 2022-11-22 | 2023-08-05 | 🥈    |
 | [[sermons/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                   | 2022-09-22 | 2023-07-12 | 🥈    |
 | [[sermons/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                       | 2022-10-17 | 2023-07-12 | 🥉    |
 | [[sermons/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                                       | 2022-12-27 | 2023-07-12 | 🥈    |
@@ -34,8 +34,8 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                                   | 2022-12-04 | 2023-07-12 | 🥈    |
 | [[sermons/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                             | 2022-12-11 | 2023-07-12 | 🥈    |
 | [[sermons/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                               | 2022-12-22 | 2023-07-12 | 🥈    |
-| [[sermons/2023 Epiphany\|2023 Epiphany]]                                                                                         | 2023-02-02 | 2023-07-12 | 🥈    |
-| [[sermons/2023 Lent\|2023 Lent]]                                                                                                 | 2023-03-19 | 2023-07-12 | 🥈    |
+| [[sermons/2023 Epiphany\|2023 Epiphany]]                                                                                         | 2023-02-02 | 2023-08-05 | 🥈    |
+| [[sermons/2023 Lent\|2023 Lent]]                                                                                                 | 2023-03-19 | 2023-08-05 | 🥈    |
 | [[sermons/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                   | 2023-01-01 | 2023-07-12 | 🥈    |
 | [[sermons/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                       | 2023-02-02 | 2023-07-12 | 🥈    |
 | [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                             | 2023-01-15 | 2023-07-12 | 🥈    |
@@ -83,7 +83,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]                                                                             | 2022-11-12 | 2022-12-28 | 🥉    |
 | [[MYOG Wind Pants\|MYOG Wind Pants]]                                                                                             | 2022-11-04 | 2023-07-07 | 🥈    |
 | [[Navigation\|Navigation]]                                                                                                       | 2022-11-26 | 2022-11-26 | 🥈    |
-| [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                                 | 2023-07-07 | 2023-07-07 | 🥈    |
+| [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                                 | 2023-07-07 | 2023-08-05 | 🥈    |
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2022-12-31 | \-    |
 | [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2023-06-28 | 🥇    |
@@ -91,8 +91,8 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Topic Notes\|Topic Notes]]                                                                                                     | 2023-07-07 | 2023-07-14 | \-    |
-| [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]                     | 2023-06-01 | 2023-07-16 | 🥇    |
-| [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]                   | 2023-06-01 | 2023-06-01 | 🥇    |
+| [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]                     | 2023-06-01 | 2023-08-05 | 🥇    |
+| [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]                   | 2023-06-01 | 2023-08-05 | 🥇    |
 | [[Uses\|Uses]]                                                                                                                   | 2023-07-27 | 2023-07-26 | \-    |
 | [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]]       | 2023-07-07 | 2023-07-07 | 🥇    |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                                                 | 2022-11-12 | 2023-07-04 | 🥇    |
