@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"permalink":"/sermons/2022-work-of-the-people/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"tag":"sermonSeries","permalink":"/sermons/2022-work-of-the-people/","dgShowBacklinks":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -23,5 +23,3 @@ This is the Fall 2022 sermon series about our church's various practices during 
 - [[sermons/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]
 - [[sermons/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]
 
-
-#sermonSeries 
