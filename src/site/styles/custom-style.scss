@@ -273,7 +273,7 @@ body.theme-dark {
 
 // Site-specific styles
 // HOMEPAGE
-.notes {
+body.theme-dark.notes {
   @media screen and (min-width: 1024px) {
     max-width: 80vw !important;
     // Home Columns
@@ -312,6 +312,24 @@ body.theme-dark {
   #bookwyrm-reading .is {
     .is__item { width: auto; }
     .is__item img { height: 200px; }
+  }
+
+  .book-covers {
+    ul {
+      margin-left: 0;
+      list-style-type: none;
+      li {
+        display: inline-block;
+        margin-right: 12px;
+        a {
+          background: none;
+          padding: 0;
+          img {
+            height: 200px;
+          }
+        }
+      }
+    }
   }
 }
 
