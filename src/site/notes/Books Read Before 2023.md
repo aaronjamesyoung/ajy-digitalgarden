@@ -5,12 +5,13 @@
 
 [[📘 Books\|📘 Books]]
 
-- I didn't keep detailed book records before 2023, but here are 104 of them from the past few years.
+- I didn't keep detailed book records before 2023, but here are 105 of them from the past few years.
 
 
 
 | Cover                                                                                                                        | title                                          | author                        | series                           | Rating |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------- | -------------------------------- | ------ |
+| ![cover\|80](\-)                                                                                                             | \-                                             | \-                            | \-                               | \-     |
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/266457d6-e31e-49c7-80ac-b72e902aa2ff.jpeg)                                | Rivers of London                               | Aaronovitch, Ben              | Peter Grant                      | ⭐⭐     |
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/5d79b3f6-7691-4f40-8963-bbe651691224.jpeg)                                | A Shadow in Summer                             | Abraham, Daniel               | The Long Price Quartet           | ⭐⭐⭐    |
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/c5fa3dc8-e611-492e-8211-640b0686ed00.jpeg)                                | A Betrayal in Winter                           | Abraham, Daniel               | The Long Price Quartet           | ⭐⭐⭐    |
