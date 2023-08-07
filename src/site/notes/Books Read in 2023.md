@@ -5,7 +5,7 @@
 
 [[📘 Books\|📘 Books]]
 
-- So far in 2023, I've read 64 books.
+- So far in 2023, I've read 65 books.
 
 
 The best books of this year have been:
@@ -87,3 +87,4 @@ The best books of this year have been:
 | ![cover\|80](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)                                | Soulsmith                                                   | Wight, Will                   | Cradle                     | July 31, 2023     | August 01, 2023   | ⭐⭐     |
 | ![cover\|80](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388188936i/4799.jpg)     | Cannery Row                                                 | Steinbeck, John               | \-                         | July 30, 2023     | August 02, 2023   | ⭐⭐⭐⭐⭐  |
 | ![cover\|80](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415585664i/12658.jpg)    | Hawaii                                                      | Michener, James A.            | \-                         | June 23, 2023     | August 02, 2023   | ⭐⭐⭐⭐⭐  |
+| ![cover\|80](https://bookwyrm.ajy.co/images/covers/29ba8755-07e4-4ac2-874d-bc5c78835a6d.jpeg)                                | The Wager                                                   | Grann, David                  | \-                         | August 04, 2023   | August 06, 2023   | ⭐⭐⭐⭐   |
