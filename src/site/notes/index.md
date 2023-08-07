@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- [![cover](https://bookwyrm.ajy.co/images/covers/29ba8755-07e4-4ac2-874d-bc5c78835a6d.jpeg)](https://bookwyrm.ajy.co/book/23222/s/the-wager)
 - [![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388188936i/4799.jpg)](https://bookwyrm.ajy.co/book/22441/s/cannery-row)
 - [![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415585664i/12658.jpg)](https://bookwyrm.ajy.co/book/16721/s/hawaii)
 - [![cover](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)](https://bookwyrm.ajy.co/book/22753/s/soulsmith)
 - [![cover](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg)](https://bookwyrm.ajy.co/book/2497/s/jonathan-strange-mr-norrell)
-- [![cover](https://bookwyrm.ajy.co/images/covers/9a2bc5f4-b7b2-4e34-81dc-1d858b784fe4.jpeg)](https://bookwyrm.ajy.co/book/21751)
 
 
 </div>
