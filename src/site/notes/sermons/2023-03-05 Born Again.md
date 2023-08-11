@@ -1,5 +1,5 @@
 ---
-{"source":"[Born Again](https://www.youtube.com/watch?v=BB-VTcYdWGE)","clipped":"2023-03-05","dg-publish":true,"grade":2,"permalink":"/sermons/2023-03-05-born-again/","dgPassFrontmatter":true}
+{"source":"[Born Again](https://www.youtube.com/watch?v=BB-VTcYdWGE)","clipped":"2023-03-05","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-03-05-born-again/","dgPassFrontmatter":true}
 ---
 
 
