@@ -1,5 +1,5 @@
 ---
-{"source":"[The Peaceable Kingdom](https://www.youtube.com/watch?v=cBQxgi4ZGeM)","clipped":"2022-12-04","dg-publish":true,"grade":2,"permalink":"/sermons/2022-12-04-the-peaceable-kingdom/","dgPassFrontmatter":true}
+{"source":"[The Peaceable Kingdom](https://www.youtube.com/watch?v=cBQxgi4ZGeM)","clipped":"2022-12-04","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-12-04-the-peaceable-kingdom/","dgPassFrontmatter":true}
 ---
 
 
