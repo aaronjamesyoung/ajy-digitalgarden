@@ -1,5 +1,5 @@
 ---
-{"source":"[Walk in the Light of the Lord](https://www.youtube.com/watch?v=_1TC6L26iBw)","clipped":"2022-11-27","dg-publish":true,"grade":2,"permalink":"/sermons/2022-11-27-walk-in-the-light-of-the-lord/","dgPassFrontmatter":true}
+{"source":"[Walk in the Light of the Lord](https://www.youtube.com/watch?v=_1TC6L26iBw)","clipped":"2022-11-27","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-11-27-walk-in-the-light-of-the-lord/","dgPassFrontmatter":true}
 ---
 
 
