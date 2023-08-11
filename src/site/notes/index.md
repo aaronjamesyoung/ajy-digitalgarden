@@ -21,9 +21,13 @@
 
 <div id="pixelfed"></div>
 
-### Currently Reading <small><a class="button" target="_blank" href="https://bookwyrm.ajy.co/user/aaronjamesyoung">Follow me on Bookwyrm</a></small>
+### Currently Reading
 
-<div id="bookwyrm-reading"></div>
+<div class="book-covers">
+
+
+
+</div>
 
 ### Recently Read
 
