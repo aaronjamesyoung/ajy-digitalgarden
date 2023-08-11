@@ -1,5 +1,5 @@
 ---
-{"source":"[The Dwelling Place of God](https://www.youtube.com/watch?v=vwkaYxgEr9A)","clipped":"2023-02-02","dg-publish":true,"grade":2,"permalink":"/sermons/2023-01-29-the-dwelling-place-of-god/","dgPassFrontmatter":true}
+{"source":"[The Dwelling Place of God](https://www.youtube.com/watch?v=vwkaYxgEr9A)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-01-29-the-dwelling-place-of-god/","dgPassFrontmatter":true}
 ---
 
 
