@@ -1,5 +1,5 @@
 ---
-{"source":"[Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)","clipped":"2022-11-13","dg-publish":true,"grade":2,"permalink":"/sermons/2022-11-13-receiving-communion/","dgPassFrontmatter":true}
+{"source":"[Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)","clipped":"2022-11-13","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-11-13-receiving-communion/","dgPassFrontmatter":true}
 ---
 
 
