@@ -321,12 +321,8 @@ body.theme-dark.notes {
       li {
         display: inline-block;
         margin-right: 12px;
-        a {
-          background: none;
-          padding: 0;
-          img {
-            height: 200px;
-          }
+        img {
+          height: 200px;
         }
       }
     }
