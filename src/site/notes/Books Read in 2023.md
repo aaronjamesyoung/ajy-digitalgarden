@@ -1,90 +1,45 @@
----
-{"dg-publish":true,"grade":2,"permalink":"/books-read-in-2023/","dgPassFrontmatter":true}
----
+```dataviewjs
+function renderReadDates(readdates) {
+	let str = '';
+	for(var i=0; i<readdates.length; i++) {
+	    if(new Date(readdates[i].finished).getFullYear() === 2023) {
+			str += '* ';
+			str += new Date(readdates[i].started).toLocaleDateString('en-us', { month:"long", day:"numeric", year: "numeric"});
+			str += ' - ';
+			str += new Date(readdates[i].finished).toLocaleDateString('en-us', { month:"long", day:"numeric", year: "numeric"});
+			str += "\n";
+		}
+	}
+	return str;
+}
 
-
-[[📘 Books\|📘 Books]]
-
-- So far in 2023, I've read 65 books.
-
-
-The best books of this year have been:
-
-- A Farewell to Arms (Hemingway, Ernest)
-- A Thousand Splendid Suns (Hosseini, Khaled)
-- Babel (Kuang, R.F.)
-- Cannery Row (Steinbeck, John)
-- Hawaii (Michener, James A.)
-- Lonesome Dove (McMurtry, Larry)
-- Shogun (Clavell, James)
-- The Little Friend (Tartt, Donna)
-- War and Peace (Tolstoy, Leo)
-
-
-| Cover                                                                                                                        | title                                                       | author                        | series                     | started           | finished          | Rating |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------- | -------------------------- | ----------------- | ----------------- | ------ |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/51eebeb8-0372-4f57-9f12-11105b9118ea.jpeg)                                | The Forge in the Forest                                     | Rohan, Michael Scott          | Winter of the World        | January 01, 2023  | January 03, 2023  | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/3e096db0-d9c7-48a5-8311-8d23e55983cb.jpeg)                                | Fool Moon                                                   | Butcher, Jim                  | The Dresden Files          | January 01, 2023  | January 06, 2023  | ⭐⭐     |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/630aa6e8-9f1d-4efc-8aeb-1186dbf0c974.jpeg)                                | Tress of the Emerald Sea                                    | Sanderson, Brandon            | Secret Projects            | January 03, 2023  | January 06, 2023  | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9dc903c0-09c0-4718-8994-3c76373e953b.jpeg)                                | Of Mice and Men                                             | Steinbeck, John               | \-                         | \-                | January 09, 2023  | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/ab626663-dc4c-4475-91a9-8975eeab0582.jpeg)                                | The Way of Kings                                            | Sanderson, Brandon            | The Stormlight Archive     | January 12, 2023  | January 21, 2023  | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/b2afa07e-fb56-456d-9d75-ef438508d8e7.jpeg)                                | Words of Radiance                                           | Sanderson, Brandon            | The Stormlight Archive     | January 21, 2023  | January 30, 2023  | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/4.jpg)                                                                    | Ashes of Man                                                | Ruocchio, Christopher         | The Sun Eater              | January 10, 2023  | January 31, 2023  | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/b2bdcbaf-c8f4-4bf0-97bd-9feda0fef7ff.jpeg)                                | The Ember Blade                                             | Wooding, Chris                | The Darkwater Legacy       | January 31, 2023  | February 07, 2023 | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/3865398c-b74f-4700-bc7e-eab4e96661f2.jpeg)                                | Oathbringer                                                 | Sanderson, Brandon            | The Stormlight Archive     | January 31, 2023  | February 08, 2023 | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/627ae6ff-79a5-4818-a8a5-229c79646d2b.jpeg)                                | The Farthest Shore                                          | Le Guin, Ursula K.            | Earthsea Cycle             | January 13, 2023  | February 10, 2023 | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/fa2ad4fc-9343-428e-9c11-f2797932e35d.jpeg)                                | Run                                                         | Crouch, Blake                 | \-                         | February 12, 2023 | February 12, 2023 | ⭐⭐     |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/0fffc712-c7c5-46d5-aa53-70d72302e421.jpeg)                                | The Little Friend                                           | Tartt, Donna                  | \-                         | February 06, 2023 | February 13, 2023 | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/2223afc2-c0c0-4ff3-9caf-07179e98201c.jpeg)                                | Rhythm of War                                               | Sanderson, Brandon            | The Stormlight Archive     | February 09, 2023 | February 18, 2023 | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/e4267a22-885d-40a9-b5bc-b25cafad20db.jpeg)                                | War and Peace                                               | Tolstoy, Leo                  | \-                         | January 06, 2023  | February 21, 2023 | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386803701i/19161852.jpg) | The Fifth Season                                            | Jemisin, N.K.                 | The Broken Earth           | February 18, 2023 | February 24, 2023 | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/1ecc145e-ec13-4831-a344-e154c7a6a205.jpeg)                                | The Shadow of What Was Lost                                 | Islington, James              | The Licanius Trilogy       | February 26, 2023 | February 28, 2023 | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/634c5869-ec25-4321-bfad-4a9c5fdfdfe0.jpeg)                                | A Farewell to Arms                                          | Hemingway, Ernest             | \-                         | February 26, 2023 | March 01, 2023    | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/bc9a93a3-bc5b-4e2d-9aee-bbc997486886.jpeg)                                | The Final Empire                                            | Sanderson, Brandon            | Mistborn                   | February 25, 2023 | March 03, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/e4afbab3-8877-4777-a91b-2508dd972c4a.jpeg)                                | Babel                                                       | Kuang, R.F.                   | \-                         | March 01, 2023    | March 04, 2023    | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/181a1fed-f4de-4872-937c-d8ebfbe87e3b.jpeg)                                | Shogun                                                      | Clavell, James                | \-                         | March 05, 2023    | March 09, 2023    | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/4ec64edd-ece7-44cf-8fb6-bac78fd483b9.jpeg)                                | The Well of Ascension                                       | Sanderson, Brandon            | Mistborn                   | March 04, 2023    | March 10, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/8c06395d-a776-4756-9b28-e2da3c730b75.jpeg)                                | One Hundred Years of Solitude                               | Márquez, Gabriel García       | \-                         | March 04, 2023    | March 13, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/b8fcc2ae-29e2-45dc-b971-df7bf868a776.jpeg)                                | Mending the Divides                                         | Huckins, Jon and Swigart, Jer | \-                         | February 23, 2023 | March 14, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/f63fb8d5-4fe7-42b4-b49f-0f246c73031f.jpeg)                                | Boy's Life                                                  | McCammon, Robert R.           | \-                         | March 14, 2023    | March 15, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/5c8b7394-968c-4f08-891d-53245a9d4327.jpeg)                                | Warbreaker                                                  | Sanderson                     | \-                         | March 15, 2023    | March 17, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/b026877b-5d59-4e93-9e06-26ba5088a218.jpeg)                                | The Hero of Ages                                            | Sanderson, Brandon            | Mistborn                   | March 11, 2023    | March 18, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/4a08bbf1-cd7a-4378-9905-5c027dfde485.jpeg)                                | An Echo of Things to Come                                   | Islington, James              | The Licanius Trilogy       | March 17, 2023    | March 19, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/6cd795da-b18d-4a86-9976-20f6854ccf14.jpeg)                                | Sea of Tranquility                                          | Mandel, Emily St. John        | \-                         | March 19, 2023    | March 20, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/67930a95-1cd5-4f70-8efb-4080400b1bff.jpeg)                                | The Light of All That Falls                                 | Islington, James              | The Licanius Trilogy       | March 20, 2023    | March 25, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/a40e4d4e-b450-4c62-bcfa-72911bee0002.jpeg)                                | The Left Hand of Darkness                                   | Le Guin, Ursula K.            | \-                         | March 26, 2023    | April 03, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/0efdc74d-23c8-4a01-8059-8ddc954b813c.jpeg)                                | A Thousand Splendid Suns                                    | Hosseini, Khaled              | \-                         | April 03, 2023    | April 04, 2023    | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/5e03df17-2932-4740-817f-88f2ca61815d.jpeg)                                | The Frugal Wizard's Handbook for Surviving Medieval England | Sanderson, Brandon            | Secret Projects            | April 04, 2023    | April 05, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/cc44087c-eaaf-4c59-aa8a-efbf8e894b57.jpeg)                                | The Shadow Casket                                           | Wooding, Chris                | The Darkwater Legacy       | April 05, 2023    | April 10, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/38e944d2-cbb8-453e-9076-6f6690633f8d.jpeg)                                | Musashi                                                     | Yoshikawa, Eiji               | \-                         | March 19, 2023    | April 11, 2023    | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/79e8e1ff-c2c5-422e-8e45-ac1b469b9489.jpeg)                                | The Hitchhiker's Guide to the Galaxy                        | Adams, Douglas                | \-                         | April 18, 2023    | April 19, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/bb7fb825-0d6d-4373-876f-aa030f83a664.jpeg)                                | City of Stairs                                              | Bennett, Robert Jackson       | The Divine Cities          | April 23, 2023    | April 26, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/dd391530-4f5a-4066-8518-600d850e4239.jpeg)                                | Jesus and nonviolence                                       | Wink, Walter                  | \-                         | April 29, 2023    | April 29, 2023    | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/d76c7033-3f1c-40c4-b4d7-6234a07863f1.jpeg)                                | Aztec                                                       | Jennings, Gary                | \-                         | April 16, 2023    | May 03, 2023      | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/4c8ffd66-3118-43d7-b1b8-da8802fe92a5.jpeg)                                | The Justice of Kings                                        | Swan, Richard                 | Empire of the Wolf         | April 29, 2023    | May 03, 2023      | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/e84ef061-8f00-4ff6-b797-f4fffaab5a03.jpeg)                                | The Giver                                                   | Lowry, Lois                   | The Giver Quartet          | May 03, 2023      | May 04, 2023      | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/00da58f8-ec87-4ec3-9535-767920c8266c.jpeg)                                | The Dragonbone Chair                                        | Williams, Tad                 | Memory, Sorrow, and Thorn  | May 04, 2023      | May 07, 2023      | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/8a71bc00-c445-4967-aa89-93c514ac5e50.jpeg)                                | The Tyranny of Faith                                        | Swan, Richard                 | Empire of the Wolf         | May 09, 2023      | May 15, 2023      | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/00eac081-5224-46d2-9570-90d6b47d79c5.jpeg)                                | The Girl with Seven Names                                   | Lee, Hyeonseo                 | \-                         | May 15, 2023      | May 17, 2023      | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/3ed100f9-7b58-4739-be89-9f18229f017c.jpeg)                                | City of Blades                                              | Bennett, Robert Jackson       | The Divine Cities          | May 16, 2023      | May 20, 2023      | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/92e38ee7-ab45-45d0-9641-450bf4ac4c5a.png)                                 | The Will of the Many                                        | Islington, James              | The Hierarchy              | May 27, 2023      | May 29, 2023      | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/5bedc1f7-32de-4d26-89b3-622a861b8e05.jpeg)                                | The Myth of a Christian Nation                              | Boyd, Gregory A.              | \-                         | May 17, 2023      | June 04, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/f63a5f97-b30f-463b-b10a-16f938b0ee35.jpeg)                                | Gathering Blue                                              | Lowry, Lois                   | The Giver Quartet          | June 04, 2023     | June 07, 2023     | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/93ed745e-02eb-4fa7-85ef-14e75435a27c.jpeg)                                | Stone of Farewell                                           | Williams, Tad                 | Memory, Sorrow, and Thorn  | May 31, 2023      | June 07, 2023     | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/3959f58e-d29f-4d25-a2a5-133724737859.jpeg)                                | The Crippled God                                            | Erikson, Steven               | Malazan Book of the Fallen | March 09, 2023    | June 15, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/3555df6b-2b10-4029-ac1b-fdfddc80898f.jpeg)                                | City of Miracles                                            | Bennett, Robert Jackson       | The Divine Cities          | June 16, 2023     | June 20, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/e3085ac0-6c6f-4064-9d36-9e9f0deacc05.jpeg)                                | Lonesome Dove                                               | McMurtry, Larry               | \-                         | June 07, 2023     | June 22, 2023     | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/e3e9ad77-9a0a-4724-b793-d7764f039da2.jpeg)                                | Nonviolence                                                 | Sprinkle, Preston M.          | \-                         | June 07, 2023     | June 30, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/df2120d2-bc3b-4e84-a9a0-01442d447728.jpeg)                                | Ship of Magic                                               | Hobb, Robin                   | Liveship Traders           | June 21, 2023     | July 01, 2023     | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/700e63ce-e84f-4312-8c46-324fd8e2ca62.jpeg)                                | Yumi and the Nightmare Painter                              | Sanderson, Brandon            | Secret Projects            | July 01, 2023     | July 02, 2023     | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/1def2c17-c45b-49d2-9601-2163ebb02948.jpeg)                                | To Green Angel Tower                                        | Williams, Tad                 | Memory, Sorrow, and Thorn  | July 02, 2023     | July 11, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/c8da9a26-8390-4eb4-aa49-0bff47d522d3.jpeg)                                | The Word for World is Forest                                | Le Guin, Ursula K.            | \-                         | July 11, 2023     | July 13, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/54aa4ffa-c3fc-4a52-85a0-d795af59e6f7.jpeg)                                | A Farewell to Mars                                          | Zahnd, Brian                  | \-                         | July 12, 2023     | July 16, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/59d877dc-8448-4625-a436-ade9a1d22251.jpeg)                                | Unsouled                                                    | Wight, Will                   | Cradle                     | July 16, 2023     | July 19, 2023     | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/5476f61c-54bd-4f8a-bb90-bbc29358aeb8.jpeg)                                | Project Hail Mary                                           | Weir, Andy                    | \-                         | July 20, 2023     | July 22, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9a2bc5f4-b7b2-4e34-81dc-1d858b784fe4.jpeg)                                | The Curse of Chalion                                        | Bujold, Lois McMaster         | World of the Five Gods     | July 23, 2023     | July 26, 2023     | ⭐⭐⭐    |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg)                                | Jonathan Strange & Mr Norrell                               | Clarke, Susanna               | \-                         | July 13, 2023     | July 30, 2023     | ⭐⭐⭐⭐   |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)                                | Soulsmith                                                   | Wight, Will                   | Cradle                     | July 31, 2023     | August 01, 2023   | ⭐⭐     |
-| ![cover\|80](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388188936i/4799.jpg)     | Cannery Row                                                 | Steinbeck, John               | \-                         | July 30, 2023     | August 02, 2023   | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415585664i/12658.jpg)    | Hawaii                                                      | Michener, James A.            | \-                         | June 23, 2023     | August 02, 2023   | ⭐⭐⭐⭐⭐  |
-| ![cover\|80](https://bookwyrm.ajy.co/images/covers/29ba8755-07e4-4ac2-874d-bc5c78835a6d.jpeg)                                | The Wager                                                   | Grann, David                  | \-                         | August 04, 2023   | August 06, 2023   | ⭐⭐⭐⭐   |
+dv.table(
+    ["cover", "title", "author", "series", "read", "rating"],
+	dv.pages('"93-books"')
+	    .filter(b => {
+	        let ret = false;
+	        let year = false;
+	        if(b.readdates) {
+		        b.readdates.map(r => {
+			        if(r.finished && r.finished.toString().includes("2023")) {
+			            year = true;
+			        }
+			        return r;
+		        });
+	        }
+	        if(b.shelf && (b.shelf === "read" || b.shelf === 'reading') && year) {
+	            ret = true;
+	        }
+	        return ret;
+	    })
+		.sort(b => b.readdates[b.readdates.length-1].finished)
+	    .map(b => [
+		    "![" + b.cover + "|80](" + b.cover + ")",
+		    b.title,
+		    b.author,
+		    b.series,
+		    renderReadDates(b.readdates),
+		    "⭐".repeat(b.rating)
+		])
+)
+```
