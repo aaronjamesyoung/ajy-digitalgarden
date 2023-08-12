@@ -25,7 +25,6 @@
 
 <div class="book-covers">
 
-- ![cover](http://books.google.com/books/content?id=y4veAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](https://bookwyrm.ajy.co/images/covers/e2e8ae7f-e17f-444b-a1fb-b59a9e977a4c.jpeg)
 
 
@@ -35,11 +34,11 @@
 
 <div class="book-covers">
 
+- ![cover](http://books.google.com/books/content?id=y4veAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](https://bookwyrm.ajy.co/images/covers/29ba8755-07e4-4ac2-874d-bc5c78835a6d.jpeg)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388188936i/4799.jpg)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415585664i/12658.jpg)
 - ![cover](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)
-- ![cover](https://bookwyrm.ajy.co/images/covers/9aa2c5a1-aa40-47c9-9e6f-abd3c90ff33a.jpeg)
 
 
 </div>
