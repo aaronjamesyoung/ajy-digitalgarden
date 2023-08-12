@@ -27,6 +27,7 @@
 
 - ![cover](https://bookwyrm.ajy.co/images/covers/e2e8ae7f-e17f-444b-a1fb-b59a9e977a4c.jpeg)
 
+{ .block-language-dataview}
 
 </div>
 
@@ -40,6 +41,7 @@
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415585664i/12658.jpg)
 - ![cover](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)
 
+{ .block-language-dataview}
 
 </div>
 
@@ -56,6 +58,7 @@ Here are some recent news articles I found interesting:
 | [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/)                        | July 20, 2023   |
 | [Oregon Tried a Bold Experiment in Drug Policy. Early Results Aren’t Encouraging.](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/?utm_source=feed) | July 20, 2023   |
 
+{ .block-language-dataview}
 
 </div><div class="hc__right">
 
@@ -84,6 +87,7 @@ Here are some recent news articles I found interesting:
 - [[Recommended Books\|Recommended Books]] (Updated 2023-06-28)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (Updated 2023-02-01)
 
+{ .block-language-dataview}
 
 ### Notes
 
