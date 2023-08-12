@@ -12,3 +12,4 @@
 - [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]
 - [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
 
+{ .block-language-dataview}
