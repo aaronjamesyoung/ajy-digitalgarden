@@ -10,6 +10,7 @@
 - [[sermons/2023 Epiphany\|2023 Epiphany]]
 - [[sermons/2023 Lent\|2023 Lent]]
 
+{ .block-language-dataview}
 ## Not Sermons
 
 * [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]
