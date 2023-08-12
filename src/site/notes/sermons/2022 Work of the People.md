@@ -23,3 +23,4 @@ This is the Fall 2022 sermon series about our church's various practices during 
 - [[sermons/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]
 - [[sermons/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]
 
+{ .block-language-dataview}
