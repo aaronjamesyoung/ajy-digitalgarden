@@ -13,8 +13,10 @@ Here are my code notes and snippets. I've typically been reliant on the internet
 | ----------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[Digital Garden.md\\|Digital Garden]]</li><li>[[How this site is built.md\\|How this site is built]]</li></ul> |
 
+{ .block-language-dataview}
 
 ## External Articles
 
 
+{ .block-language-dataview}
 
