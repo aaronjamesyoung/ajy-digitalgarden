@@ -12,6 +12,7 @@
 - [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
 - [[index\|index]]
 
+{ .block-language-dataview}
 
 ## Definitions
 
