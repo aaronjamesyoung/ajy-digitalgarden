@@ -52,14 +52,17 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                         | 2023-03-19 | 2023-08-09 | 🥈    |
 | [[sermons/2023-03-26 When God Cries\|2023-03-26 When God Cries]]                                                                 | 2023-07-12 | 2023-08-09 | 🥈    |
 | [[sermons/2023-04-02 Our Gentle King\|2023-04-02 Our Gentle King]]                                                               | 2023-07-12 | 2023-08-09 | 🥈    |
+| [[sermons/2023-07-16 Blessed to Be a Blessing\|2023-07-16 Blessed to Be a Blessing]]                                             | 2023-08-11 | 2023-08-11 | 🥉    |
+| [[sermons/2023-07-23 A Place of Seeing\|2023-07-23 A Place of Seeing]]                                                           | 2023-08-11 | 2023-08-11 | 🥉    |
+| [[sermons/2023-08-06 We're All Esau\|2023-08-06 We're All Esau]]                                                                 | 2023-08-11 | 2023-08-11 | 🥉    |
 | [[About Me\|About Me]]                                                                                                           | 2022-11-11 | 2022-11-12 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                             | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-07-26 | 2023-08-09 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-07-04 | 2023-08-09 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-07-07 | 2023-08-02 | \-    |
-| [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-05 | 🥈    |
-| [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-05 | 🥈    |
+| [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
+| [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-12 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2022-12-04 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                               | 2022-12-12 | 2023-07-07 | 🥈    |
@@ -71,7 +74,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                       | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-08-10 | \-    |
+| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-08-12 | \-    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                                 | 2022-04-12 | 2023-06-28 | 🥈    |
 | [[MYOG Quilt\|MYOG Quilt]]                                                                                                       | 2023-07-27 | 2023-07-26 | 🥈    |
