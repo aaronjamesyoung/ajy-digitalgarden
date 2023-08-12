@@ -12,3 +12,4 @@ Antioch Church's Fall / Winter 2022 Advent series
 - [[sermons/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]
 - [[sermons/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]
 
+{ .block-language-dataview}
