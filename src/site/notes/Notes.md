@@ -59,7 +59,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[About Me\|About Me]]                                                                                                           | 2022-11-11 | 2022-11-12 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                             | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
-| [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-08-09 | 🥈    |
+| [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-08-14 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-07-07 | 2023-08-02 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
