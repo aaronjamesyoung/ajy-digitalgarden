@@ -8,7 +8,6 @@
 - [[📘 Sermons\|📘 Sermons]]
 - [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]
 - [[sermons/2023-04-02 Our Gentle King\|2023-04-02 Our Gentle King]]
-- [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]
 - [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
 - [[index\|index]]
 
