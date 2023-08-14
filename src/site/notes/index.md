@@ -49,14 +49,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                           | read on         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Trump’s Rivals Can’t Compete With His Version Of Masculinity](https://fivethirtyeight.com/features/trumps-rivals-cant-compete-with-his-version-of-masculinity/)                                                 | August 01, 2023 |
-| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)                                          | July 26, 2023   |
-| [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)                              | July 25, 2023   |
-| [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                                                  | July 24, 2023   |
-| [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/)                        | July 20, 2023   |
-| [Oregon Tried a Bold Experiment in Drug Policy. Early Results Aren’t Encouraging.](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/?utm_source=feed) | July 20, 2023   |
+| source                                                                                                                                                                                    | read on         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)                                            | August 14, 2023 |
+| [Trump’s Rivals Can’t Compete With His Version Of Masculinity](https://fivethirtyeight.com/features/trumps-rivals-cant-compete-with-his-version-of-masculinity/)                          | August 01, 2023 |
+| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)                   | July 26, 2023   |
+| [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)       | July 25, 2023   |
+| [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                           | July 24, 2023   |
+| [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/) | July 20, 2023   |
 
 { .block-language-dataview}
 
