@@ -19,6 +19,7 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 
 | source                                                                                                                                                                                                           | read on           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)                                                                   | August 14, 2023   |
 | [Trump’s Rivals Can’t Compete With His Version Of Masculinity](https://fivethirtyeight.com/features/trumps-rivals-cant-compete-with-his-version-of-masculinity/)                                                 | August 01, 2023   |
 | [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)                                          | July 26, 2023     |
 | [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)                              | July 25, 2023     |
