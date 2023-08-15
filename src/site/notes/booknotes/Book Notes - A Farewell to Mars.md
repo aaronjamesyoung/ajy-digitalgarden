@@ -3,6 +3,8 @@
 ---
 
 
+[[📘 Books\|📘 Books]] [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]
+
 Here are my book notes for "A Farewell to Mars" by Brian Zahnd.
 
 ## Ch. 1 - The Preacher of Peace
