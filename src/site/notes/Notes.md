@@ -87,7 +87,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                                 | 2023-07-07 | 2023-08-05 | 🥈    |
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2022-12-31 | \-    |
-| [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2023-06-28 | 🥇    |
+| [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2023-08-15 | 🥇    |
 | [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2023-08-04 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
