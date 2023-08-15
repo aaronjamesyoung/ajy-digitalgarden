@@ -25,6 +25,7 @@
 
 <div class="book-covers">
 
+- ![cover](http://books.google.com/books/content?id=n7JfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
