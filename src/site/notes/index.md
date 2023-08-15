@@ -77,6 +77,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-08-05)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-08-05)
 - [[Heart of Darkness\|Heart of Darkness]] (Updated 2023-07-16)
@@ -85,7 +86,6 @@ Here are some recent news articles I found interesting:
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
 - [[How this site is built\|How this site is built]] (Updated 2023-07-07)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-07-04)
-- [[Recommended Books\|Recommended Books]] (Updated 2023-06-28)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (Updated 2023-02-01)
 
 { .block-language-dataview}
