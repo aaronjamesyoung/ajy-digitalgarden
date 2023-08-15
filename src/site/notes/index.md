@@ -37,10 +37,10 @@
 <div class="book-covers">
 
 - ![cover](http://books.google.com/books/content?id=y4veAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://bookwyrm.ajy.co/images/covers/29ba8755-07e4-4ac2-874d-bc5c78835a6d.jpeg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Rwd8EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/1JOfAgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OUw0AQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://bookwyrm.ajy.co/images/covers/150558d4-cfcf-432b-8f2c-71f66de01c07.jpeg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/5BOQzwEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -50,14 +50,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                    | read on         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)                                            | August 14, 2023 |
-| [Trump’s Rivals Can’t Compete With His Version Of Masculinity](https://fivethirtyeight.com/features/trumps-rivals-cant-compete-with-his-version-of-masculinity/)                          | August 01, 2023 |
-| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)                   | July 26, 2023   |
-| [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/)       | July 25, 2023   |
-| [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                           | July 24, 2023   |
-| [Electric Cars Are Sending Tire Particles Into the Soil, Air, and Water](https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/) | July 20, 2023   |
+| source                                                                                                                                                                              | read on         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Your Smartwatch May Be Impeding Long-Term Running Goals](https://www.trailrunnermag.com/training/smartwatch-running-goals/)                                                        | August 15, 2023 |
+| [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)                                      | August 14, 2023 |
+| [Trump’s Rivals Can’t Compete With His Version Of Masculinity](https://fivethirtyeight.com/features/trumps-rivals-cant-compete-with-his-version-of-masculinity/)                    | August 01, 2023 |
+| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)             | July 26, 2023   |
+| [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/) | July 25, 2023   |
+| [Note to Florida and DeSantis: Enslaved Africans were already skilled](https://www.washingtonpost.com/history/2023/07/24/florida-slavery-history-ron-desantis/)                     | July 24, 2023   |
 
 { .block-language-dataview}
 
