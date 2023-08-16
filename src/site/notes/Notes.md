@@ -40,13 +40,13 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                       | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                             | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                   | 2023-08-10 | 2023-08-09 | 🥈    |
-| [[sermons/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                         | 2023-08-10 | 2023-08-09 | 🥈    |
+| [[sermons/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                         | 2023-08-10 | 2023-08-15 | 🥈    |
 | [[sermons/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                           | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                                   | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                                   | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]                                           | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                   | 2023-08-10 | 2023-08-09 | 🥈    |
-| [[sermons/2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                 | 2023-08-10 | 2023-08-09 | 🥈    |
+| [[sermons/2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                 | 2023-08-10 | 2023-08-15 | 🥈    |
 | [[sermons/2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                         | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                       | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[sermons/2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                         | 2023-08-10 | 2023-08-09 | 🥈    |
@@ -61,7 +61,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-08-14 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-08-09 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-07-07 | 2023-08-02 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-07-07 | 2023-08-16 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
