@@ -3,7 +3,6 @@
 ---
 
 
-* 📌 [BookWyrm](https://bookwyrm.ajy.co)
 * 📌 [Chat](https://mail.google.com/chat/u/1/)
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * 📌 [Pixelfed](https://pixelfed.social/i/web)
@@ -18,7 +17,6 @@
 
 ## 🖥 Homeserver
 
-* [BookWyrm](https://bookwyrm.ajy.co)
 * [Matomo](https://hs.ajy.co/matomo/)
 * [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard/)
 * [PhotoPrism](https://photoprism.ajy.co/)
