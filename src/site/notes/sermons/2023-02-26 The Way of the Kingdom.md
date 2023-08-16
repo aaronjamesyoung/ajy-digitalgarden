@@ -20,5 +20,5 @@
     * A: Jesus discerns that this temptation would make the kingdom ONLY about souls. Jesus cares about our souls but also about the physical and social wellbeing of people. [[94-bible/1 John 4\|1 John 4]] vv 20-21
         * Inverse of the first temptation
 * v8 - 3rd temptation. Devil is offering all the kingdoms of the world.
-    * A - Ends vs means. Jesus' kingdom is about means, not just ends. The way thigns are done, matters. No shortcuts. [[94-bible/Matthew 16\|Matthew 16]] vv 21-23
+    * A - Ends vs means. Jesus' kingdom is about means, not just ends. The way things are done, matters. No shortcuts. [[94-bible/Matthew 16\|Matthew 16]] vv 21-23
 * v11 - Jesus wins. He resisted the devil, and the devil fled from Him. Jesus stayed on earth to establish a kingdom that was about alleviating suffering AND saving souls. Jesus is the way - the way we come to God, and the way God comes to us.
