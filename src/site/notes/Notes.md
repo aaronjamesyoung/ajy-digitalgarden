@@ -63,7 +63,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-08-09 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-07-07 | 2023-08-16 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
-| [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-13 | 🥈    |
+| [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-17 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2022-12-04 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                               | 2022-12-12 | 2023-07-07 | 🥈    |
