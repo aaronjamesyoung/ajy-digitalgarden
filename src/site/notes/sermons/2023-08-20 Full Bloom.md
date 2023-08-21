@@ -14,7 +14,7 @@
 * Genesis doesn't just chronicle events - it tells us how to think about the world.
 * 37:4- Joseph's brothers hate him. This is thematic in Genesis, even back to Cain + Abel.
 * 37:26 Sounds like they weren't planning to follow Reuben's plan- They are still discussing killing Joseph.
-* From here to end of Genesis- Joseph has ascents & descents- literal and metaphorical. God was always with him.
+* From here to end of Genesis- Joseph has ascents & descents- literal and metaphorical. God was always with him.x
 * God was also with the brothers this whole time. He has brought about a change. At the end, Judah is willing to serve as a slave in Benjamin's place.
 * This is made possible by Joseph's forgiveness. [[Genesis 45\|Genesis 45]] 4-5 - "It was to save lives that God sent me here.
 
