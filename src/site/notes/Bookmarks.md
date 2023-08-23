@@ -3,7 +3,7 @@
 ---
 
 
-* 📌 [Chat](https://mail.google.com/chat/u/1/)
+* 📌 [‎Bard](https://bard.google.com/)
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * 📌 [Pixelfed](https://pixelfed.social/i/web)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
