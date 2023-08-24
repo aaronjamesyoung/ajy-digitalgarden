@@ -73,6 +73,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                             | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2022-11-17 | \-    |
+| [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                     | 2023-08-14 | 2023-08-14 | 🥈    |
