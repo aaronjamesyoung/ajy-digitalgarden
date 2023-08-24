@@ -77,6 +77,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
 - [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-08-05)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-08-05)
