@@ -3,8 +3,9 @@
 ---
 
 
-* 📌 [‎Bard](https://bard.google.com/)
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
+* 📌 [Gmail](https://mail.google.com/mail/u/1/)
+* 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 * 📌 [Pixelfed](https://pixelfed.social/i/web)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
 
@@ -35,6 +36,7 @@
 
 * [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
 * [ARRIS](http://192.168.0.1/login.php)
+* [‎Bard](https://bard.google.com/)
 * [bend for sale - craigslist](https://bend.craigslist.org/search/sss?excats=20-24-24-1-50-1-2-2-21-1-14-1-2-1-4-4-10-8-1-1-1-1-1-1-1-1-3-1-1-1-4-1)
 * [BLS Canvas](https://bls.instructure.com/)
 * [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
