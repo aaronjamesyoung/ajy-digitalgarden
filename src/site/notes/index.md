@@ -26,7 +26,6 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/50wvEAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -36,11 +35,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/50wvEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/gVz1AAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/TfaMzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=n7JfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=y4veAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Rwd8EAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -50,14 +49,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                              | read on         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Trump Is Constitutionally Prohibited From the Presidency](https://www.theatlantic.com/ideas/archive/2023/08/donald-trump-constitutionally-prohibited-presidency/675048/)           | August 20, 2023 |
-| [Your Smartwatch May Be Impeding Long-Term Running Goals](https://www.trailrunnermag.com/training/smartwatch-running-goals/)                                                        | August 15, 2023 |
-| [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)                                      | August 14, 2023 |
-| [Trump’s Rivals Can’t Compete With His Version Of Masculinity](https://fivethirtyeight.com/features/trumps-rivals-cant-compete-with-his-version-of-masculinity/)                    | August 01, 2023 |
-| [What Goodreads Is Doing to the Publishing World](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/?utm_source=feed)             | July 26, 2023   |
-| [The American Evangelical Church is in Crisis. There's Only One Way Out.](https://www.theatlantic.com/ideas/archive/2023/07/christian-evangelical-church-division-politics/674810/) | July 25, 2023   |
+| source                                                                                                                                                                                                               | read on         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [The Fourteenth Amendment Fantasy](https://www.theatlantic.com/ideas/archive/2023/08/trump-disqualified-president-14th-amendment/675163/)                                                                            | August 30, 2023 |
+| [Pyramid Schemes Are Illegal. MLMs Are Not. What About the Tech That Powers Them? – The Markup](https://themarkup.org/news/2023/08/24/pyramid-schemes-are-illegal-mlms-are-not-what-about-the-tech-that-powers-them) | August 24, 2023 |
+| [What Bradley Cooper’s Makeup in ‘Maestro’ Can’t Conceal](https://www.theatlantic.com/ideas/archive/2023/08/bradley-cooper-maestro-movie-leonard-bernstein-jewish/675106/)                                           | August 24, 2023 |
+| [Trump Is Constitutionally Prohibited From the Presidency](https://www.theatlantic.com/ideas/archive/2023/08/donald-trump-constitutionally-prohibited-presidency/675048/)                                            | August 20, 2023 |
+| [Your Smartwatch May Be Impeding Long-Term Running Goals](https://www.trailrunnermag.com/training/smartwatch-running-goals/)                                                                                         | August 15, 2023 |
+| [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)                                                                       | August 14, 2023 |
 
 { .block-language-dataview}
 
