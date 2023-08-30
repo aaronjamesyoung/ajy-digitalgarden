@@ -32,8 +32,6 @@ Here are a few fastpacking rotes I'd recommend in Central Oregon. I've done all 
 
 ## External Articles
 
-- [58 recommended snacks and lunches for backpacking - Andrew Skurka](https://andrewskurka.com/58-recommended-snacks-and-lunches-for-backpacking/)
 - [Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)
-- [r/Ultralight - 5.4 days, 16,250+ calories in a Bare Boxer](https://www.reddit.com/r/Ultralight/comments/uqkd2y/54_days_16250_calories_in_a_bare_boxer/)
 
 { .block-language-dataview}
