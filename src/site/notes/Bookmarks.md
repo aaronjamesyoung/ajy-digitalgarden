@@ -4,7 +4,7 @@
 
 
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
-* 📌 [Gmail](https://mail.google.com/mail/u/1/)
+* 📌 [Gmail - AJY](https://mail.google.com/mail/u/1/)
 * 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 * 📌 [Pixelfed](https://pixelfed.social/i/web)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
@@ -78,6 +78,6 @@
 
 ## 🛠 Work
 
-* [Asana](https://app.asana.com/0/home/17941980459425)
-* [Everhour](https://app.everhour.com/#/time)
-* [Gitea - Pro Q](https://aaron.proqsolutions.com/git)
+* [Pro Q - Asana](https://app.asana.com/0/home/17941980459425)
+* [Pro Q - Gitea](https://aaron.proqsolutions.com/git)
+* [Pro Q - Gmail](https://mail.google.com/mail/u/2/)
