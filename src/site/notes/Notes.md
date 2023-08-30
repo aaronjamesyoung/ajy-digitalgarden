@@ -62,17 +62,17 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-08-14 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-08-09 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-08-22 | 2023-08-22 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-08-22 | 2023-08-24 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-17 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
-| [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2022-12-04 | \-    |
+| [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2023-08-24 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                               | 2022-12-12 | 2023-07-07 | 🥈    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                                           | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[First Aid Kit\|First Aid Kit]]                                                                                                 | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                             | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2023-07-16 | 🥇    |
-| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2022-11-17 | \-    |
+| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2023-08-27 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-07-07 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
