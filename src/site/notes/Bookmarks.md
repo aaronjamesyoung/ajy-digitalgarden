@@ -34,7 +34,6 @@
 
 ## 🤪 Personal
 
-* [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
 * [ARRIS](http://192.168.0.1/login.php)
 * [‎Bard](https://bard.google.com/)
 * [bend for sale - craigslist](https://bend.craigslist.org/search/sss?excats=20-24-24-1-50-1-2-2-21-1-14-1-2-1-4-4-10-8-1-1-1-1-1-1-1-1-3-1-1-1-4-1)
@@ -45,8 +44,8 @@
 
 ## 📘 Reading
 
+* [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
 * [Libby](https://libbyapp.com/shelf)
-* [Library Genesis](http://libgen.rs/)
 * [LibriVox](https://librivox.org/)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Standard Ebooks](https://standardebooks.org/)
