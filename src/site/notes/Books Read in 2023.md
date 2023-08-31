@@ -11,6 +11,7 @@ Below are the books I've read in 2023. The best books of this year have been:
 - A Thousand Splendid Suns (Khaled Hosseini)
 - Babel (R. F. Kuang)
 - Cannery Row (John Steinbeck)
+- East of Eden (John Steinbeck)
 - Hawaii (James A. Michener)
 - Lonesome Dove (Larry McMurtry)
 - Shōgun: The Epic Novel of Japan (James Clavell)
@@ -91,5 +92,6 @@ Below are the books I've read in 2023. The best books of this year have been:
 | ![https://books.google.com/books/publisher/content/images/frontcover/TfaMzwEACAAJ?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/TfaMzwEACAAJ?fife=w600-h900&source=gbs_api)     | Blackflame                                                  | Will Wight               | Cradle                     | August 17, 2023 - August 20, 2023     | ⭐⭐⭐    |
 | ![https://books.google.com/books/publisher/content/images/frontcover/gVz1AAAAQBAJ?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/gVz1AAAAQBAJ?fife=w600-h900&source=gbs_api)     | Orfeo                                                       | Richard Powers           | \-                         | August 17, 2023 - August 23, 2023     | ⭐⭐⭐⭐   |
 | ![https://books.google.com/books/publisher/content/images/frontcover/50wvEAAAQBAJ?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/50wvEAAAQBAJ?fife=w600-h900&source=gbs_api)     | The Hand of the Sun King                                    | J.T. Greathouse          | Pact and Pattern           | August 21, 2023 - August 29, 2023     | ⭐⭐⭐    |
+| ![https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api)     | East of Eden                                                | John Steinbeck           | \-                         | August 07, 2023 - August 30, 2023     | ⭐⭐⭐⭐⭐  |
 
 { .block-language-dataview}
