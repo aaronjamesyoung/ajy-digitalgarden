@@ -11,6 +11,7 @@ Below are the books I've read in 2023. The best books of this year have been:
 - A Thousand Splendid Suns (Khaled Hosseini)
 - Babel (R. F. Kuang)
 - Cannery Row (John Steinbeck)
+- Demon Copperhead (Barbara Kingsolver)
 - East of Eden (John Steinbeck)
 - Hawaii (James A. Michener)
 - Lonesome Dove (Larry McMurtry)
@@ -95,5 +96,6 @@ Below are the books I've read in 2023. The best books of this year have been:
 | ![https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api)     | East of Eden                                                | John Steinbeck           | \-                         | August 07, 2023 - August 30, 2023       | ⭐⭐⭐⭐⭐  |
 | ![http://books.google.com/books/content?id=LRReRz7t7xoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\|80](http://books.google.com/books/content?id=LRReRz7t7xoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | The Killing Moon                                            | N. K. Jemisin            | Dreamblood                 | August 29, 2023 - September 04, 2023    | ⭐⭐⭐⭐   |
 | ![https://books.google.com/books/publisher/content/images/frontcover/48ttswEACAAJ?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/48ttswEACAAJ?fife=w600-h900&source=gbs_api)     | Skysworn                                                    | Will Wight               | Cradle                     | September 03, 2023 - September 06, 2023 | ⭐⭐⭐    |
+| ![https://books.google.com/books/publisher/content/images/frontcover/bMxZEAAAQBAJ?fife=w600-h900&source=gbs_api\|80](https://books.google.com/books/publisher/content/images/frontcover/bMxZEAAAQBAJ?fife=w600-h900&source=gbs_api)     | Demon Copperhead                                            | Barbara Kingsolver       | \-                         | August 30, 2023 - September 08, 2023    | ⭐⭐⭐⭐⭐  |
 
 { .block-language-dataview}
