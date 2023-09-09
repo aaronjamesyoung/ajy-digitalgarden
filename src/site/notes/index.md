@@ -27,6 +27,7 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/urnaCwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=MH48bnzN0LUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/wLeuDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -36,8 +37,8 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/bMxZEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/QrCazgEACAAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/bMxZEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/48ttswEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=LRReRz7t7xoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api)
@@ -54,10 +55,10 @@ Here are some recent news articles I found interesting:
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [How American Democracy Fell So Far Behind](https://www.theatlantic.com/ideas/archive/2023/09/american-constitution-norway/675199/)                                                                                  | September 08, 2023 |
 | [I Did A Plank Every Day For 120 Days. Here’s What Happened.](https://www.trailrunnermag.com/people/culture-people/humor-culture-people/semi-rad-i-did-a-plank-every-day/)                                           | September 08, 2023 |
+| [The End Will Come for the Cult of MAGA](https://www.theatlantic.com/ideas/archive/2023/08/trumpism-maga-cult-republican-voters-indoctrination/675173/)                                                              | August 30, 2023    |
 | [The Fourteenth Amendment Fantasy](https://www.theatlantic.com/ideas/archive/2023/08/trump-disqualified-president-14th-amendment/675163/)                                                                            | August 30, 2023    |
 | [Pyramid Schemes Are Illegal. MLMs Are Not. What About the Tech That Powers Them? – The Markup](https://themarkup.org/news/2023/08/24/pyramid-schemes-are-illegal-mlms-are-not-what-about-the-tech-that-powers-them) | August 24, 2023    |
 | [What Bradley Cooper’s Makeup in ‘Maestro’ Can’t Conceal](https://www.theatlantic.com/ideas/archive/2023/08/bradley-cooper-maestro-movie-leonard-bernstein-jewish/675106/)                                           | August 24, 2023    |
-| [Trump Is Constitutionally Prohibited From the Presidency](https://www.theatlantic.com/ideas/archive/2023/08/donald-trump-constitutionally-prohibited-presidency/675048/)                                            | August 20, 2023    |
 
 { .block-language-dataview}
 
