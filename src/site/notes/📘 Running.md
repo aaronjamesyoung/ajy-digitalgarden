@@ -23,5 +23,6 @@ I've run a few ultramarathons and I ran cross country and track all through high
 - [How to Use Running Poles - Ultra Running Magazine](https://ultrarunning.com/featured/how-to-use-running-poles/)
 - [The Right and Wrong Way to Foam-Roll](https://www.trailrunnermag.com/training/injuries-and-treatment-training/the-right-and-wrong-way-to-foam-roll/)
 - [Time Outside Can Feel Like an Escape. But Your Mindset Matters.](https://www.trailrunnermag.com/training/time-outside-can-feel-like-an-escape-but-your-mindset-matters/)
+- [Your Smartwatch May Be Impeding Long-Term Running Goals](https://www.trailrunnermag.com/training/smartwatch-running-goals/)
 
 { .block-language-dataview}
