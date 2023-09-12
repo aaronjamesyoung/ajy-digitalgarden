@@ -53,12 +53,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                               | read on            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Never Acquire Clothes the Same Way Again](https://www.theatlantic.com/health/archive/2023/09/basic-sewing-skills-fast-fashion/675278/)                                                                              | September 11, 2023 |
 | [How American Democracy Fell So Far Behind](https://www.theatlantic.com/ideas/archive/2023/09/american-constitution-norway/675199/)                                                                                  | September 08, 2023 |
 | [I Did A Plank Every Day For 120 Days. Here’s What Happened.](https://www.trailrunnermag.com/people/culture-people/humor-culture-people/semi-rad-i-did-a-plank-every-day/)                                           | September 08, 2023 |
 | [The End Will Come for the Cult of MAGA](https://www.theatlantic.com/ideas/archive/2023/08/trumpism-maga-cult-republican-voters-indoctrination/675173/)                                                              | August 30, 2023    |
 | [The Fourteenth Amendment Fantasy](https://www.theatlantic.com/ideas/archive/2023/08/trump-disqualified-president-14th-amendment/675163/)                                                                            | August 30, 2023    |
 | [Pyramid Schemes Are Illegal. MLMs Are Not. What About the Tech That Powers Them? – The Markup](https://themarkup.org/news/2023/08/24/pyramid-schemes-are-illegal-mlms-are-not-what-about-the-tech-that-powers-them) | August 24, 2023    |
-| [What Bradley Cooper’s Makeup in ‘Maestro’ Can’t Conceal](https://www.theatlantic.com/ideas/archive/2023/08/bradley-cooper-maestro-movie-leonard-bernstein-jewish/675106/)                                           | August 24, 2023    |
 
 { .block-language-dataview}
 
