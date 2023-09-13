@@ -632,7 +632,9 @@ progress,
   vertical-align: inherit;
 }
 
-:where(:root) {
+:where(:root),
+.theme-dark,
+html {
   -webkit-tap-highlight-color: transparent;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -2688,6 +2690,12 @@ body.theme-dark {
     }
   }
   */
+
+  blockquote:before { display: none; }
+  blockquote {
+    color: inherit;
+    background: transparent;
+  }
 
   .search-keys { display: none; }
 
