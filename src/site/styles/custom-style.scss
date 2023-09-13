@@ -2807,6 +2807,9 @@ body.theme-dark {
   }
 
   // Callouts
+  .callout {
+    margin-bottom: var(--typography-spacing-vertical);
+  }
   .callout-title {
     margin-bottom: 12px;
   }
@@ -2824,14 +2827,14 @@ body.theme-dark.notes {
     }
     // Home Columns
     .hc {
-      @include _fg(2 1, 48px);
+      @include _fg(2 1, 96px);
       margin-bottom: 24px;
       > :nth-child(2n+2) {
         // background: rgba(255,255,255,0.1);
         // border-radius: 8px;
         // padding: 24px;
-        border-left: 1px solid rgba(255,255,255,0.2);
-        padding-left: 48px;
+        // border-left: 1px solid rgba(255,255,255,0.2);
+        // padding-left: 48px;
         --font-size: 90%;
 
         h1 {
