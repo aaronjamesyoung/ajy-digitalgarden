@@ -47,7 +47,7 @@ The Obsidian Digital Garden site theme looks OK out of the box and allows you to
 
 I am using the default theme, but customized it:
 
-* I added [Water.css](https://watercss.kognise.dev/) for a new set of base styles
+* I added [Pico.css](https://picocss.com/) for a new set of base styles
 * I reflowed the sidebar with backlinks to the bottom of the page
 * I also made some markup updates to the template to add my site icon, change the `<title>` tag a little, and tweak a couple hardcoded styles.
 
