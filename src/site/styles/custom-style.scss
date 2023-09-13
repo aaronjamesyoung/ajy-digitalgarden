@@ -2850,6 +2850,7 @@ body.theme-dark.notes {
           --font-size: 1.125em;
           --typography-spacing-vertical: 1.6875em;
         }
+        h1, h2, h3, h4, h5 { margin-bottom: 0.25em; }
       }
     }
   }
@@ -2943,5 +2944,5 @@ h3 small {
 
 // HTML
 html {
-  background: var(--background-color);
+  background: #11191f; // --background-color
 }
