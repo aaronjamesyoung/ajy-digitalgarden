@@ -65,6 +65,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-08-22 | 2023-08-30 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-08-17 | 🥈    |
+| [[Brian's Cabinets\|Brian's Cabinets]]                                                                                           | 2023-09-12 | 2023-09-12 | 🥇    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2023-08-24 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                               | 2022-12-12 | 2023-07-07 | 🥈    |
@@ -74,11 +75,11 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2023-09-09 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
-| [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-07-07 | 🥇    |
+| [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-09-13 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                     | 2023-08-14 | 2023-08-14 | 🥈    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                       | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-09-12 | \-    |
+| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-09-13 | \-    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                                 | 2022-04-12 | 2023-06-28 | 🥈    |
 | [[MYOG Quilt\|MYOG Quilt]]                                                                                                       | 2023-07-27 | 2023-07-26 | 🥈    |
