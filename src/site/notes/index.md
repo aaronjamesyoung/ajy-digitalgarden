@@ -9,6 +9,11 @@
 
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]]. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
+
+> [!TIP] Currently seeking work
+> I'm currently seeking work as a JavaScript developer, preferably focusing on application development using full-stack JavaScript or a Vue.js frontend + serverless backend. I'm open to contract work as well as full-time employment.
+
+
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
 ## Follow me online
