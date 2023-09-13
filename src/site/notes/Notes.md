@@ -78,7 +78,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                     | 2023-08-14 | 2023-08-14 | 🥈    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                       | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-08-30 | \-    |
+| [[index\|index]]                                                                                                                 | 2023-08-03 | 2023-09-12 | \-    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                                 | 2022-04-12 | 2023-06-28 | 🥈    |
 | [[MYOG Quilt\|MYOG Quilt]]                                                                                                       | 2023-07-27 | 2023-07-26 | 🥈    |
@@ -90,7 +90,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2022-12-31 | \-    |
 | [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2023-08-15 | 🥇    |
-| [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2023-08-04 | \-    |
+| [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2023-09-12 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Topic Notes\|Topic Notes]]                                                                                                     | 2023-07-07 | 2023-07-14 | \-    |
