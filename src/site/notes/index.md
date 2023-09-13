@@ -84,7 +84,6 @@ Here are some recent news articles I found interesting:
 ### Articles
 
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
-- [[Brian's Cabinets\|Brian's Cabinets]] (Updated 2023-09-12)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
 - [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-08-05)
