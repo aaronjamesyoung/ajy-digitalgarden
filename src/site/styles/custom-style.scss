@@ -510,9 +510,12 @@ kbd {
   --h6-color: #afbbc4;
   --muted-color: hsl(205, 10%, 50%);
   --muted-border-color: #1f2d38;
-  --primary: hsl(195, 85%, 41%);
-  --primary-hover: hsl(195, 80%, 50%);
-  --primary-focus: rgba(16, 149, 193, 0.25);
+  // --primary: hsl(195, 85%, 41%);
+  // --primary-hover: hsl(195, 80%, 50%);
+  // --primary-focus: rgba(16, 149, 193, 0.25);
+  --primary: #0ca678;
+  --primary-hover: #20c997;
+  --primary-focus: rgba(12, 166, 120, 0.25);
   --primary-inverse: #fff;
   --secondary: hsl(205, 15%, 41%);
   --secondary-hover: hsl(205, 10%, 50%);
@@ -664,6 +667,7 @@ body > header,
 body > main,
 body.theme-dark > .navbar,
 body.theme-dark > .content,
+body.theme-dark > aside,
 body > footer {
   width: 100%;
   margin-right: auto;
@@ -675,6 +679,7 @@ body > footer {
   body > main,
   body.theme-dark > .navbar,
   body.theme-dark > .content,
+  body.theme-dark > aside,
   body > footer {
     max-width: 510px;
     padding-right: 0;
@@ -686,6 +691,7 @@ body > footer {
   body > main,
   body.theme-dark > .navbar,
   body.theme-dark > .content,
+  body.theme-dark > aside,
   body > footer {
     max-width: 700px;
   }
@@ -695,6 +701,7 @@ body > footer {
   body > main,
   body.theme-dark > .navbar,
   body.theme-dark > .content,
+  body.theme-dark > aside,
   body > footer {
     max-width: 920px;
   }
@@ -704,6 +711,7 @@ body > footer {
   body > main,
   body.theme-dark > .navbar,
   body.theme-dark > .content,
+  body.theme-dark > aside,
   body > footer {
     max-width: 1130px;
   }
@@ -2846,7 +2854,7 @@ body.theme-dark.notes {
 
   .book-covers {
     ul {
-      margin-left: 0;
+      margin-left: 0; padding-left: 0;
       list-style-type: none;
       li {
         display: inline-block;
@@ -2897,10 +2905,15 @@ h3 small {
 }
 .button {
   display: inline-block;
-  background: #12b886 !important;
+  background: var(--primary) !important;
   color: white !important;
   font-weight: bold;
   text-shadow: 0px 1px 3px rgba(0,0,0,0.3);
   padding: 0 10px !important;
   border-radius: 3px;
+}
+
+// HTML
+html {
+  background: var(--background-color);
 }
