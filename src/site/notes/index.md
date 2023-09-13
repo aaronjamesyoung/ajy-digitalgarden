@@ -7,11 +7,11 @@
 
 ![PXL_20210901_234007644.MP.jpg](/img/user/98-attachments/PXL_20210901_234007644.MP.jpg)
 
-**I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]]. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
+**I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]].
 
 
 > [!TIP] Currently seeking work
-> I'm currently seeking work as a JavaScript developer, preferably focusing on application development using full-stack JavaScript or a Vue.js frontend + serverless backend. I'm open to contract work as well as full-time employment.
+> I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
@@ -83,6 +83,8 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[How this site is built\|How this site is built]] (Updated 2023-09-13)
+- [[Brian's Cabinets\|Brian's Cabinets]] (Updated 2023-09-12)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
 - [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-08-05)
@@ -91,7 +93,6 @@ Here are some recent news articles I found interesting:
 - [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]] (Updated 2023-07-16)
 - [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-07-16)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
-- [[How this site is built\|How this site is built]] (Updated 2023-07-07)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-07-04)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (Updated 2023-02-01)
 
