@@ -269,6 +269,14 @@ body.theme-dark {
     background: transparent;
     padding: 0;
   }
+
+  // Callouts
+  .callout-title {
+    margin-bottom: 12px;
+  }
+  .callout-content > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 // Site-specific styles
