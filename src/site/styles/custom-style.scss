@@ -662,6 +662,8 @@ body {
 }
 body > header,
 body > main,
+body.theme-dark > .navbar,
+body.theme-dark > .content,
 body > footer {
   width: 100%;
   margin-right: auto;
@@ -671,6 +673,8 @@ body > footer {
 @media (min-width: 576px) {
   body > header,
   body > main,
+  body.theme-dark > .navbar,
+  body.theme-dark > .content,
   body > footer {
     max-width: 510px;
     padding-right: 0;
@@ -680,6 +684,8 @@ body > footer {
 @media (min-width: 768px) {
   body > header,
   body > main,
+  body.theme-dark > .navbar,
+  body.theme-dark > .content,
   body > footer {
     max-width: 700px;
   }
@@ -687,6 +693,8 @@ body > footer {
 @media (min-width: 992px) {
   body > header,
   body > main,
+  body.theme-dark > .navbar,
+  body.theme-dark > .content,
   body > footer {
     max-width: 920px;
   }
@@ -694,6 +702,8 @@ body > footer {
 @media (min-width: 1200px) {
   body > header,
   body > main,
+  body.theme-dark > .navbar,
+  body.theme-dark > .content,
   body > footer {
     max-width: 1130px;
   }
@@ -2706,7 +2716,7 @@ body.theme-dark {
   // Navbar
   .navbar {
     position: relative;
-    padding-left: 0; padding-right: 0;
+    padding: 12px 0;
     background-color: transparent;
     border-bottom: 1px solid rgba(255,255,255,0.2);
     margin-bottom: 20px;
@@ -2793,7 +2803,7 @@ body.theme-dark {
 // HOMEPAGE
 body.theme-dark.notes {
   @media screen and (min-width: 1024px) {
-    .content {
+    .content, .navbar {
       max-width: 80vw !important;
     }
     // Home Columns
