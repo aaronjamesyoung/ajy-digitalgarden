@@ -5,7 +5,7 @@
 
 <div class="hc"><div class="hc__left">
 
-![PXL_20210901_234007644.MP.jpg](/img/user/98-attachments/PXL_20210901_234007644.MP.jpg)
+![mt-washington.jpg](/img/user/98-attachments/mt-washington.jpg)
 
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]].
 
@@ -56,14 +56,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                     | read on            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Actual Indoctrination Comes to Public Schools](https://www.theatlantic.com/ideas/archive/2023/09/prager-u-indoctrination-public-schools-1619-project/675294/)             | September 13, 2023 |
-| [How Kevin McCarthy's unilateral impeachment inquiry could backfire](https://www.axios.com/2023/09/12/mccarthy-vs-himself)                                                 | September 12, 2023 |
-| [Never Acquire Clothes the Same Way Again](https://www.theatlantic.com/health/archive/2023/09/basic-sewing-skills-fast-fashion/675278/)                                    | September 11, 2023 |
-| [How American Democracy Fell So Far Behind](https://www.theatlantic.com/ideas/archive/2023/09/american-constitution-norway/675199/)                                        | September 08, 2023 |
-| [I Did A Plank Every Day For 120 Days. Here’s What Happened.](https://www.trailrunnermag.com/people/culture-people/humor-culture-people/semi-rad-i-did-a-plank-every-day/) | September 08, 2023 |
-| [The End Will Come for the Cult of MAGA](https://www.theatlantic.com/ideas/archive/2023/08/trumpism-maga-cult-republican-voters-indoctrination/675173/)                    | August 30, 2023    |
+| source                                                                                                                                                                       | read on            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Richard Hanania and the Allure of Racist Pseudoscience](https://www.theatlantic.com/ideas/archive/2023/09/richard-hanania-racist-pseudoscience-woke-silicon-valley/675335/) | September 15, 2023 |
+| [Actual Indoctrination Comes to Public Schools](https://www.theatlantic.com/ideas/archive/2023/09/prager-u-indoctrination-public-schools-1619-project/675294/)               | September 13, 2023 |
+| [How Kevin McCarthy's unilateral impeachment inquiry could backfire](https://www.axios.com/2023/09/12/mccarthy-vs-himself)                                                   | September 12, 2023 |
+| [Never Acquire Clothes the Same Way Again](https://www.theatlantic.com/health/archive/2023/09/basic-sewing-skills-fast-fashion/675278/)                                      | September 11, 2023 |
+| [How American Democracy Fell So Far Behind](https://www.theatlantic.com/ideas/archive/2023/09/american-constitution-norway/675199/)                                          | September 08, 2023 |
+| [I Did A Plank Every Day For 120 Days. Here’s What Happened.](https://www.trailrunnermag.com/people/culture-people/humor-culture-people/semi-rad-i-did-a-plank-every-day/)   | September 08, 2023 |
 
 { .block-language-dataview}
 
