@@ -85,47 +85,94 @@ Make sure that DataviewJS queries are enabled.
 
 ### Visualize your books
 
-OK, here's the dataview dump everyone's been asking for! I use separate notes in my vault for each of these queries:
+OK, here's the dataview dump everyone's been asking for! I use separate notes in my vault for each of these queries. For each query I'll indicate whether it's a `dataview` or `dataviewjs` code block.
 
-**Bookshelf: to read**
+**Bookshelf: to read** (dataview)
 
-````
-````````````| Cover | Title | author | series |
-| ----- | ----- | ------ | ------ |
-
-{ .block-language-dataview}````````````
-````
+```
+TABLE WITHOUT ID
+"![cover|80](" + cover + ")" AS "Cover",
+"[[" + file.name + "|" + title + "]]" AS "Title",
+author, series
+FROM "books"
+WHERE shelf="toread"
+SORT title ASC
+```
 
 * This displays the cover at 80px wide
 * Title is a link to the book note
 * Assumes that your book notes are stored in a folder called "books"
 * Throughout these examples, double check your shelf names.
 
-**Bookshelf: currently reading**
+**Bookshelf: currently reading** (dataview)
 
-````
-| Cover | Title | author | series |
-| ----- | ----- | ------ | ------ |
+```
+TABLE WITHOUT ID
+"![cover|80](" + cover + ")" AS "Cover",
+"[[" + file.name + "|" + title + "]]" AS "Title",
+author, series
+FROM "books"
+WHERE shelf="reading"
+SORT started ASC
+```
 
-{ .block-language-dataview}
-````
+**Bookshelf: stopped reading** (dataview)
 
-**Bookshelf: stopped reading**
-
-````
-| Cover | Title | author | series |
-| ----- | ----- | ------ | ------ |
-
-{ .block-language-dataview}
-````
+```
+TABLE WITHOUT ID
+"![cover|80](" + cover + ")" AS "Cover",
+"[[" + file.name + "|" + title + "]]" AS "Title",
+author, series
+FROM "books"
+WHERE shelf="stopped"
+SORT title ASC
+```
 
 When stopping a book, don't put a date in "finished" because it'll make your book display in this next query:
 
-**Bookshelf: Read in 2023**
+**Bookshelf: Read in 2023** (needs to be a dataviewjs block)
 
-````
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">0</span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
-````
+```
+function renderReadDates(readdates) {
+	let str = '';
+	for(var i=0; i<readdates.length; i++) {
+	    if(new Date(readdates[i].finished).getFullYear() === 2023) {
+			str += '* ';
+			str += new Date(readdates[i].started).toLocaleDateString('en-us', { month:"long", day:"numeric", year: "numeric"});
+			str += ' - ';
+			str += new Date(readdates[i].finished).toLocaleDateString('en-us', { month:"long", day:"numeric", year: "numeric"});
+			str += "\n";
+		}
+	}
+	return str;
+}
+
+dv.table(
+    ["cover", "title", "author", "series", "read", "rating"],
+	dv.pages('"books"')
+	    .filter(b => {
+	        let ret = false;
+	        if(b.readdates) {
+		        b.readdates.map(r => {
+			        if(r.finished && r.finished.toString().includes("2023")) {
+			            ret = true;
+			        }
+			        return r;
+		        });
+	        }
+	        return ret;
+	    })
+		.sort(b => b.readdates[b.readdates.length-1].finished)
+	    .map(b => [
+		    "![" + b.cover + "|80](" + b.cover + ")",
+		    "[[" + b.file.name + "|" + b.title + "]]",
+		    b.author,
+		    b.series,
+		    renderReadDates(b.readdates),
+		    "⭐".repeat(b.rating)
+		])
+)
+```
 
 OK, here's where things get interesting. We're using DataviewJS to create a fancier query.
 
@@ -134,25 +181,40 @@ OK, here's where things get interesting. We're using DataviewJS to create a fanc
 * `dv.pages('"books"')` refers to the "books" folder where your book notes are kept.
 * We filter alll the books by checking to see if the book was finished during 2023, and then sort the books by finished date.
 
-**List the 5-star books from 2023**
+**List the 5-star books from 2023** (dataview)
 
-````
+```
+LIST WITHOUT ID
+title + " (" + author + ")"
+FROM "books"
+WHERE rating=5 AND contains(string(readdates.finished), "2023")
+```
 
-{ .block-language-dataview}
-````
+**Show how many books you have read in 2023** (dataview)
 
-**Show how many books you have read in 2023**
+```
+LIST WITHOUT ID
+"So far in 2023, I've read " + length(rows) + " books."
+FROM "books"
+WHERE contains(string(readdates.finished), "2023")
+GROUP BY dateformat(finished, "yyyy")
+```
 
-````
+**Display covers of books grouped by series** (dataviewjs)
 
-{ .block-language-dataview}
-````
+```
+let groups = dv.pages('"books"')
+	.groupBy(p => p.series)
+	.sort(b => b.series);
 
-**Display covers of books grouped by series**
-
-````
-
-````
+for(let group of groups) {
+    dv.header(3, group.key)
+    let rows = group.rows.sort(b => b.seriesnumber, 'asc')
+        .map(b => `<img src="${b.cover}" style="height: 160px; margin-right: 6px; margin-bottom: 6px; border-radius: 4px;" />`)
+        .join("");
+    dv.el('div', rows);
+}
+```
 
 From all these examples, I hope you can build other queries you might want.
 
