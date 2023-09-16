@@ -6,7 +6,7 @@
 
 I've been using Obsidian for all my notes for some time now, and I've fairly recently started tracking my book reading in Obsidian as well.
 
-I never really got into Goodreads, and I used [BookWyrm](https://joinbookwyrm.com/) for some time, but I don't need the social features of those types of sites. However, if you are looking for a Goodreads replacement with social functionality, then either Bookwyrm or Hardcover are excellent choices. If you just want a personal reading log, Obsidian will work great.
+I never really got into Goodreads, and I used [BookWyrm](https://joinbookwyrm.com/) for some time, but I don't need the social features of those types of sites. However, if you are looking for a Goodreads replacement with social functionality, then either Bookwyrm or [Hardcover](https://hardcover.app/) are excellent choices. If you just want a personal reading log, Obsidian will work great.
 
 I'm definitely not the first to figure out this kind of system and I've built it from many other sources, but hopefully it's helpful for me to compile my method here.
 
@@ -14,7 +14,7 @@ My system is somewhat unique in that it allows for rereads.
 
 ### Required Community plugins
 
-* [Obsidian Book Search Plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Insert a note for each book with metadata pre-populated from Google Books
+* [Obsidian Book Search Plugin](https://github.com/anpigon/obsidian-book-search-plugin) - The core of this system is that you'll have a separate note in your vault for each book. This plugin makes this step easy. You can search for a book, and this plugin will insert a note in your vault with book metadata pre-populated from Google Books.
 * [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Visualize your notes
 
 Install the above plugins, then let's do some setup.
@@ -58,7 +58,7 @@ A few notes on the template:
 
 * `series`, `seriesnumber`, `rating`, `readdates`, `shelf`, and `list` properties are not populated by the plugin. After adding a book note, you'll need to update these yourself.
 * For `shelf`, you can choose what you want to do. I set it to one of: `toread`, `reading`, `read`, or `stopped`.
-* `list` is meant to be a freeform field; I use it to create a list of recommended books.
+* `list` is meant to be a freeform field; I use it to create a list of [[Recommended Books\|Recommended Books]].
 * `cover` has been updated from the default cover URL that the plugin provides. This version will give you large-format covers instead of small.
 * For `rating`, I use a number (1-5). My dataview queries below convert these to star emojis.
 * `readdates` is meant to accomodate multiple rereads. You would fill it out like this:
@@ -85,7 +85,7 @@ Make sure that DataviewJS queries are enabled.
 
 ### Visualize your books
 
-OK, here's the dataview dump everyone's been asking for! I use separate notes in my vault for each of these queries. For each query I'll indicate whether it's a `dataview` or `dataviewjs` code block.
+OK, here's the dataview dump! I use separate notes in my vault for each of these queries. For each query I'll indicate whether it's a `dataview` or `dataviewjs` code block.
 
 **Bookshelf: to read** (dataview)
 
@@ -180,6 +180,8 @@ OK, here's where things get interesting. We're using DataviewJS to create a fanc
 * Then we build a table.
 * `dv.pages('"books"')` refers to the "books" folder where your book notes are kept.
 * We filter alll the books by checking to see if the book was finished during 2023, and then sort the books by finished date.
+
+See [[Books Read in 2023\|Books Read in 2023]].
 
 **List the 5-star books from 2023** (dataview)
 
