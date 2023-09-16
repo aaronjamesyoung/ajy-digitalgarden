@@ -13,3 +13,7 @@
 - [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
 
 { .block-language-dataview}
+
+## Articles
+
+* [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]
