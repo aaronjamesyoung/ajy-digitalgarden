@@ -89,17 +89,12 @@ OK, here's the dataview dump everyone's been asking for! I use separate notes in
 
 **Bookshelf: to read**
 
-```
-\`\`\`dataview
-TABLE WITHOUT ID
-"![cover|80](" + cover + ")" AS "Cover",
-"[[" + file.name + "|" + title + "]]" AS "Title",
-author, series
-FROM "books"
-WHERE shelf="toread"
-SORT title ASC
-\`\`\`
-```
+````
+````````````| Cover | Title | author | series |
+| ----- | ----- | ------ | ------ |
+
+{ .block-language-dataview}````````````
+````
 
 * This displays the cover at 80px wide
 * Title is a link to the book note
