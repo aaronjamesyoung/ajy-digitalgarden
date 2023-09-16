@@ -87,7 +87,7 @@ Make sure that DataviewJS queries are enabled.
 
 OK, here's the dataview dump! I use separate notes in my vault for each of these queries. For each query I'll indicate whether it's a `dataview` or `dataviewjs` code block.
 
-**Bookshelf: to read** (dataview)
+**Bookshelf: to read** `dataview`
 
 ```
 TABLE WITHOUT ID
@@ -104,7 +104,7 @@ SORT title ASC
 * Assumes that your book notes are stored in a folder called "books"
 * Throughout these examples, double check your shelf names.
 
-**Bookshelf: currently reading** (dataview)
+**Bookshelf: currently reading** `dataview`
 
 ```
 TABLE WITHOUT ID
@@ -116,7 +116,7 @@ WHERE shelf="reading"
 SORT started ASC
 ```
 
-**Bookshelf: stopped reading** (dataview)
+**Bookshelf: stopped reading** `dataview`
 
 ```
 TABLE WITHOUT ID
@@ -130,7 +130,7 @@ SORT title ASC
 
 When stopping a book, don't put a date in "finished" because it'll make your book display in this next query:
 
-**Bookshelf: Read in 2023** (needs to be a dataviewjs block)
+**Bookshelf: Read in 2023** `dataviewjs`
 
 ```
 function renderReadDates(readdates) {
@@ -183,7 +183,7 @@ OK, here's where things get interesting. We're using DataviewJS to create a fanc
 
 See [[Books Read in 2023\|Books Read in 2023]].
 
-**List the 5-star books from 2023** (dataview)
+**List the 5-star books from 2023** `dataview`
 
 ```
 LIST WITHOUT ID
@@ -192,7 +192,7 @@ FROM "books"
 WHERE rating=5 AND contains(string(readdates.finished), "2023")
 ```
 
-**Show how many books you have read in 2023** (dataview)
+**Show how many books you have read in 2023** `dataview`
 
 ```
 LIST WITHOUT ID
@@ -202,11 +202,11 @@ WHERE contains(string(readdates.finished), "2023")
 GROUP BY dateformat(finished, "yyyy")
 ```
 
-**Display covers of books grouped by series** (dataviewjs)
+**Display covers of books grouped by series** `dataviewjs`
 
 ```
 let groups = dv.pages('"books"')
-	.groupBy(p => p.series)
+	.groupBy(b => b.series)
 	.sort(b => b.series);
 
 for(let group of groups) {
