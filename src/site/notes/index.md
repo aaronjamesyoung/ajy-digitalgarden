@@ -83,7 +83,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
-- [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-09-15)
+- [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-09-16)
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
 - [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
