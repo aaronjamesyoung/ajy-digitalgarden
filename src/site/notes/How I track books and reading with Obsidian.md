@@ -202,10 +202,11 @@ WHERE contains(string(readdates.finished), "2023")
 GROUP BY dateformat(finished, "yyyy")
 ```
 
-**Display covers of books grouped by series** `dataviewjs`
+**Display covers of books grouped by series** (excludes books not in a series) `dataviewjs`
 
 ```
 let groups = dv.pages('"books"')
+    .filter(b => b.series)
 	.groupBy(b => b.series)
 	.sort(b => b.series);
 
