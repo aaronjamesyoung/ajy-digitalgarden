@@ -15,7 +15,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                                | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2023-08-03 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2023-09-16 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-08-05 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2023-08-09 | \-    |
@@ -75,7 +75,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2023-09-09 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
-| [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]                                     | 2023-09-15 | 2023-09-15 | 🥇    |
+| [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]                                     | 2023-09-15 | 2023-09-16 | 🥇    |
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-09-13 | 🥇    |
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                     | 2023-08-14 | 2023-08-14 | 🥈    |
