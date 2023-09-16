@@ -92,7 +92,7 @@ OK, here's the dataview dump! I use separate notes in my vault for each of these
 ```
 TABLE WITHOUT ID
 "![cover|80](" + cover + ")" AS "Cover",
-"[[" + file.name + "|" + title + "]]" AS "Title",
+title,
 author, series
 FROM "books"
 WHERE shelf="toread"
@@ -100,7 +100,6 @@ SORT title ASC
 ```
 
 * This displays the cover at 80px wide
-* Title is a link to the book note
 * Assumes that your book notes are stored in a folder called "books"
 * Throughout these examples, double check your shelf names.
 
@@ -109,7 +108,7 @@ SORT title ASC
 ```
 TABLE WITHOUT ID
 "![cover|80](" + cover + ")" AS "Cover",
-"[[" + file.name + "|" + title + "]]" AS "Title",
+title,
 author, series
 FROM "books"
 WHERE shelf="reading"
@@ -121,7 +120,7 @@ SORT started ASC
 ```
 TABLE WITHOUT ID
 "![cover|80](" + cover + ")" AS "Cover",
-"[[" + file.name + "|" + title + "]]" AS "Title",
+title,
 author, series
 FROM "books"
 WHERE shelf="stopped"
@@ -165,7 +164,7 @@ dv.table(
 		.sort(b => b.readdates[b.readdates.length-1].finished)
 	    .map(b => [
 		    "![" + b.cover + "|80](" + b.cover + ")",
-		    "[[" + b.file.name + "|" + b.title + "]]",
+		    b.title,
 		    b.author,
 		    b.series,
 		    renderReadDates(b.readdates),
