@@ -89,12 +89,10 @@ OK, here's the dataview dump everyone's been asking for! I use separate notes in
 
 **Bookshelf: to read**
 
-````
-| Cover | Title | author | series |
+    | Cover | Title | author | series |
 | ----- | ----- | ------ | ------ |
 
 { .block-language-dataview}
-````
 
 * This displays the cover at 80px wide
 * Title is a link to the book note
