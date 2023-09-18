@@ -38,6 +38,7 @@
 * [‎Bard](https://bard.google.com/)
 * [bend for sale - craigslist](https://bend.craigslist.org/search/sss?excats=20-24-24-1-50-1-2-2-21-1-14-1-2-1-4-4-10-8-1-1-1-1-1-1-1-1-3-1-1-1-4-1)
 * [BLS Canvas](https://bls.instructure.com/)
+* [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
 * [Five Books - The Best Books Recommended by Experts](https://fivebooks.com/)
 * [Pixelfed](https://pixelfed.social/i/web)
 * [TimeAndDate - Bend](https://www.timeanddate.com/worldclock/usa/bend)
