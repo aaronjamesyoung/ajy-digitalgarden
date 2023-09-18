@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Book","dateCreated":"2023-08-09","permalink":"/booknotes/book-notes-nonviolence-the-revolutionary-way-of-jesus/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Book","dateCreated":"2023-08-09","permalink":"/booknotes/book-notes-nonviolence-the-revolutionary-way-of-jesus/","dgPassFrontmatter":true}
 ---
 
 
