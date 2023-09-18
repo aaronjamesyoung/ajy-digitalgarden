@@ -22,6 +22,17 @@ I always like to keep track of what’s currently happening with wildfires and s
     -   Turn off the 24-hour lightning layer and zoom in on Oregon (or your state). Open the user menu and click “Save Map”.
     -   It will say “Saving” and continue spinning, but it does save and you can refresh the page to see the map as you have configured it.
 
+
+> [!CAUTION] Inerpreting this data
+> Remember that Wildweb lists **every** report, including:
+> 
+> * Smoke checks
+> * False alarms
+> * Campfire checks
+> * Single-tree fires and other small hot spots
+> 
+> Bear in mind that authorities will take more steps to publicize fires that are worthy of public note and attention.
+
 ## Air quality
 
 -   [PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a10/p604800/cC5#10.5/44.0353/-121.4749) – With PurpleAir sensors fairly ubiquitous in our region, this is a more granular way to view air quality in your immediate area than the official sensors in your town. The URL for this map has been configured to:
