@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-08-07-gospel-and-culture-politics/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-08-07-gospel-and-culture-politics/","dgPassFrontmatter":true}
 ---
 
 
