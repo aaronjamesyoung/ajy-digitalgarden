@@ -23,7 +23,7 @@ I always like to keep track of what’s currently happening with wildfires and s
     -   It will say “Saving” and continue spinning, but it does save and you can refresh the page to see the map as you have configured it.
 
 
-> [!CAUTION] Inerpreting this data
+> [!CAUTION] Interpreting this data
 > Remember that Wildweb lists **every** report, including:
 > 
 > * Smoke checks
