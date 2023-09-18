@@ -56,14 +56,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                       | read on            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Don't Spy On Your Kids' Phones](https://www.theatlantic.com/ideas/archive/2023/09/parents-spy-kid-iphone-text-email-surveillance-digital-age/675286/)                       | September 16, 2023 |
-| [Study Shows Ultrarunners Exhibit An Increased Risk For Exercise Dependency](https://www.trailrunnermag.com/training/ultrarunners-risk-for-exercise-dependency/)             | September 16, 2023 |
-| [The Only Productivity Hack That Works on Me](https://www.theatlantic.com/health/archive/2023/09/to-do-list-productivity-apps/675314/?utm_source=feed)                       | September 16, 2023 |
-| [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)                                                                     | September 15, 2023 |
-| [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)                                  | September 15, 2023 |
-| [Richard Hanania and the Allure of Racist Pseudoscience](https://www.theatlantic.com/ideas/archive/2023/09/richard-hanania-racist-pseudoscience-woke-silicon-valley/675335/) | September 15, 2023 |
+| source                                                                                                                                                           | read on            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [The Agony of the School Car Line](https://www.theatlantic.com/ideas/archive/2023/09/school-car-lines-buses-biking/675345/)                                      | September 18, 2023 |
+| [Don't Spy On Your Kids' Phones](https://www.theatlantic.com/ideas/archive/2023/09/parents-spy-kid-iphone-text-email-surveillance-digital-age/675286/)           | September 16, 2023 |
+| [Study Shows Ultrarunners Exhibit An Increased Risk For Exercise Dependency](https://www.trailrunnermag.com/training/ultrarunners-risk-for-exercise-dependency/) | September 16, 2023 |
+| [The Only Productivity Hack That Works on Me](https://www.theatlantic.com/health/archive/2023/09/to-do-list-productivity-apps/675314/?utm_source=feed)           | September 16, 2023 |
+| [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)                                                         | September 15, 2023 |
+| [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)                      | September 15, 2023 |
 
 { .block-language-dataview}
 
@@ -83,6 +83,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-09-18)
 - [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-09-16)
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
@@ -93,7 +94,6 @@ Here are some recent news articles I found interesting:
 - [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]] (Updated 2023-07-16)
 - [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-07-16)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
-- [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-07-04)
 - [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]] (Updated 2023-02-01)
 
 { .block-language-dataview}
