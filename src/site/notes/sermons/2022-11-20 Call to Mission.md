@@ -1,5 +1,5 @@
 ---
-{"source":"[Call to Mission](https://www.youtube.com/watch?v=dweq86FGylY)","clipped":"2022-11-20","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-11-20-call-to-mission/","dgPassFrontmatter":true}
+{"source":"[Call to Mission](https://www.youtube.com/watch?v=dweq86FGylY)","clipped":"2022-11-20","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-11-20-call-to-mission/","dgPassFrontmatter":true}
 ---
 
 
