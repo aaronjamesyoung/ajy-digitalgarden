@@ -1,5 +1,5 @@
 ---
-{"source":"[Wait Training](https://www.youtube.com/watch?v=A4HSAE-r2tw)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-01-15-wait-training/","dgPassFrontmatter":true}
+{"source":"[Wait Training](https://www.youtube.com/watch?v=A4HSAE-r2tw)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-01-15-wait-training/","dgPassFrontmatter":true}
 ---
 
 
