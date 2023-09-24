@@ -1,5 +1,5 @@
 ---
-{"source":"[Now I'll Praise the Lord](https://www.youtube.com/watch?v=yYvTurrZIZI)","clipped":"2023-08-13","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-13","permalink":"/sermons/2023-08-13-now-i-ll-praise-the-lord/","dgPassFrontmatter":true}
+{"source":"[Now I'll Praise the Lord](https://www.youtube.com/watch?v=yYvTurrZIZI)","clipped":"2023-08-13","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-13","permalink":"/sermons/2023-08-13-now-i-ll-praise-the-lord/","dgPassFrontmatter":true}
 ---
 
 
