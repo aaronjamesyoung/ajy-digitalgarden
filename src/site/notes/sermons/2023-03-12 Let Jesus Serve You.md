@@ -1,5 +1,5 @@
 ---
-{"source":"[Let Jesus Serve You](https://www.youtube.com/watch?v=M5T26kTFNL0)","clipped":"2023-03-12","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-03-12-let-jesus-serve-you/","dgPassFrontmatter":true}
+{"source":"[Let Jesus Serve You](https://www.youtube.com/watch?v=M5T26kTFNL0)","clipped":"2023-03-12","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-03-12-let-jesus-serve-you/","dgPassFrontmatter":true}
 ---
 
 
