@@ -1,5 +1,5 @@
 ---
-{"source":"[How Jesus Sees the Scriptures](https://www.youtube.com/watch?v=WquAg6wxXLs)","clipped":"2023-02-12","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-02-12-how-jesus-sees-the-scriptures/","dgPassFrontmatter":true}
+{"source":"[How Jesus Sees the Scriptures](https://www.youtube.com/watch?v=WquAg6wxXLs)","clipped":"2023-02-12","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-02-12-how-jesus-sees-the-scriptures/","dgPassFrontmatter":true}
 ---
 
 
