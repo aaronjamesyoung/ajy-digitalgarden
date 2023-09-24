@@ -31,8 +31,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/urnaCwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](http://books.google.com/books/content?id=T4I1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=MH48bnzN0LUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/wLeuDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -42,11 +42,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/wLeuDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/QrCazgEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/bMxZEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/48ttswEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=LRReRz7t7xoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/OPy6E5ZhXs0C?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -56,14 +56,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                           | read on            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [The Agony of the School Car Line](https://www.theatlantic.com/ideas/archive/2023/09/school-car-lines-buses-biking/675345/)                                      | September 18, 2023 |
-| [Don't Spy On Your Kids' Phones](https://www.theatlantic.com/ideas/archive/2023/09/parents-spy-kid-iphone-text-email-surveillance-digital-age/675286/)           | September 16, 2023 |
-| [Study Shows Ultrarunners Exhibit An Increased Risk For Exercise Dependency](https://www.trailrunnermag.com/training/ultrarunners-risk-for-exercise-dependency/) | September 16, 2023 |
-| [The Only Productivity Hack That Works on Me](https://www.theatlantic.com/health/archive/2023/09/to-do-list-productivity-apps/675314/?utm_source=feed)           | September 16, 2023 |
-| [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)                                                         | September 15, 2023 |
-| [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)                      | September 15, 2023 |
+| source                                                                                                                                                                          | read on            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Are Energy Chews Actually Better Endurance Fuel than Gummy Bears?](https://www.trailrunnermag.com/nutrition/are-energy-chews-actually-better-endurance-fuel-than-gummy-bears/) | September 18, 2023 |
+| [The Agony of the School Car Line](https://www.theatlantic.com/ideas/archive/2023/09/school-car-lines-buses-biking/675345/)                                                     | September 18, 2023 |
+| [Don't Spy On Your Kids' Phones](https://www.theatlantic.com/ideas/archive/2023/09/parents-spy-kid-iphone-text-email-surveillance-digital-age/675286/)                          | September 16, 2023 |
+| [Study Shows Ultrarunners Exhibit An Increased Risk For Exercise Dependency](https://www.trailrunnermag.com/training/ultrarunners-risk-for-exercise-dependency/)                | September 16, 2023 |
+| [The Only Productivity Hack That Works on Me](https://www.theatlantic.com/health/archive/2023/09/to-do-list-productivity-apps/675314/?utm_source=feed)                          | September 16, 2023 |
+| [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)                                                                        | September 15, 2023 |
 
 { .block-language-dataview}
 
