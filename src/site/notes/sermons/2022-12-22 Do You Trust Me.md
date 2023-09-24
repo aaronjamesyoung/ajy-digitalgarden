@@ -1,5 +1,5 @@
 ---
-{"source":"[Do You Trust Me?](https://www.youtube.com/watch?v=jzwzJ0mwtKU)","clipped":"2022-12-22","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Active","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-12-22-do-you-trust-me/","dgPassFrontmatter":true}
+{"source":"[Do You Trust Me?](https://www.youtube.com/watch?v=jzwzJ0mwtKU)","clipped":"2022-12-22","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-12-22-do-you-trust-me/","dgPassFrontmatter":true}
 ---
 
 
