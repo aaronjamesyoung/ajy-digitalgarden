@@ -38,3 +38,13 @@ What is Christian nonviolence?
 * *The Myth of a Christian Nation* - Greg Boyd
     * This book is not specifically about nonviolence, but addresses some issues, misconceptions, and objections that are raised against Christian nonviolence.
     * The book states that because the Kingdom of God is different from kingdoms of this world, no nation-state can really claim to be a "Christian" nation - and doing so hurts the witness of Christians both within and without the country.
+
+## Resources
+
+* [Jesus Peace Collective](https://www.jesuspeacecollective.com/) - Articles, resources, podcast
+
+## External Articles
+
+- [[96-articles/How to Win Enemies\|How to Win Enemies]]
+
+{ .block-language-dataview}
