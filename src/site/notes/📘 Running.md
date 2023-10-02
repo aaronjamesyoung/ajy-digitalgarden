@@ -21,6 +21,7 @@ I've run a few ultramarathons and I ran cross country and track all through high
 ## External Articles
 
 - [Are Energy Chews Actually Better Endurance Fuel than Gummy Bears?](https://www.trailrunnermag.com/nutrition/are-energy-chews-actually-better-endurance-fuel-than-gummy-bears/)
+- [Are Exogenous Ketones Worth the Hype?](https://www.trailrunnermag.com/nutrition/are-exogenous-ketones-worth-the-hype/)
 - [Study Shows Ultrarunners Exhibit An Increased Risk For Exercise Dependency](https://www.trailrunnermag.com/training/ultrarunners-risk-for-exercise-dependency/)
 - [Your Smartwatch May Be Impeding Long-Term Running Goals](https://www.trailrunnermag.com/training/smartwatch-running-goals/)
 
