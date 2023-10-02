@@ -14,6 +14,13 @@
 
 { .block-language-dataview}
 
-## Articles
+## Other Notes
 
 * [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]
+
+## External Articles
+
+- [[96-articles/How To Mark A Book\|How To Mark A Book]]
+- [[96-articles/How to Annotate Books When You're Reading For Fun - the wordy habitat\|How to Annotate Books When You're Reading For Fun - the wordy habitat]]
+
+{ .block-language-dataview}
