@@ -15,13 +15,13 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                                | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2023-10-01 | \-    |
-| [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-10-01 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2023-10-02 | \-    |
+| [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-08-05 | \-    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2023-08-09 | \-    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2023-10-02 | \-    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                             | 2023-07-27 | 2023-08-05 | \-    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                           | 2022-11-21 | 2023-08-05 | \-    |
-| [[📘 Running\|📘 Running]]                                                                                                       | 2023-06-01 | 2023-10-01 | \-    |
+| [[📘 Running\|📘 Running]]                                                                                                       | 2023-06-01 | 2023-10-02 | \-    |
 | [[📘 Sermons\|📘 Sermons]]                                                                                                       | 2023-07-12 | 2023-08-05 | \-    |
 | [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                         | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[sermons/2022 Advent\|2022 Advent]]                                                                                             | 2023-08-10 | 2023-09-16 | 🥈    |
