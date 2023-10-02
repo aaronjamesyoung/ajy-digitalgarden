@@ -20,7 +20,7 @@
 
 ## External Articles
 
-- [[96-articles/How To Mark A Book\|How To Mark A Book]]
-- [[96-articles/How to Annotate Books When You're Reading For Fun - the wordy habitat\|How to Annotate Books When You're Reading For Fun - the wordy habitat]]
+- [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)
+- [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)
 
 { .block-language-dataview}
