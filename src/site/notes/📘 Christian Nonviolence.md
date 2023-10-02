@@ -45,6 +45,6 @@ What is Christian nonviolence?
 
 ## External Articles
 
-- [[96-articles/How to Win Enemies\|How to Win Enemies]]
+- [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)
 
 { .block-language-dataview}
