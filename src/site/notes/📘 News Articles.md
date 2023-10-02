@@ -9,9 +9,9 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 
 ## Notes
 
-| Notes                                                                      |
-| -------------------------------------------------------------------------- |
-| <ul><li>[[Bend smoke days by year.md\\|Bend smoke days by year]]</li></ul> |
+| Notes                                                                                                   |
+| ------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Bend smoke days by year.md\\|Bend smoke days by year]]</li><li>[[index.md\\|index]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -23,13 +23,9 @@ I attempt to keep links to articles with lasting relevance and I weed them out f
 | [Trump Didn’t Go to Michigan to Support Autoworkers](https://www.theatlantic.com/ideas/archive/2023/09/trump-uaw-strike-fake-news/675484/)                                                                                            | September 28, 2023 |
 | [Pangea Ultima Is a Bleak Vision of Earth’s Future](https://www.theatlantic.com/science/archive/2023/09/earth-future-supercontinent-pangea-ultima/675450/)                                                                            | September 25, 2023 |
 | [Trump Suggests That Mark Milley Deserves Execution](https://www.theatlantic.com/ideas/archive/2023/09/trump-milley-execution-incitement-violence/675435/)                                                                            | September 25, 2023 |
-| [Are Energy Chews Actually Better Endurance Fuel than Gummy Bears?](https://www.trailrunnermag.com/nutrition/are-energy-chews-actually-better-endurance-fuel-than-gummy-bears/)                                                       | September 18, 2023 |
 | [The Agony of the School Car Line](https://www.theatlantic.com/ideas/archive/2023/09/school-car-lines-buses-biking/675345/)                                                                                                           | September 18, 2023 |
 | [Don't Spy On Your Kids' Phones](https://www.theatlantic.com/ideas/archive/2023/09/parents-spy-kid-iphone-text-email-surveillance-digital-age/675286/)                                                                                | September 16, 2023 |
-| [Study Shows Ultrarunners Exhibit An Increased Risk For Exercise Dependency](https://www.trailrunnermag.com/training/ultrarunners-risk-for-exercise-dependency/)                                                                      | September 16, 2023 |
 | [The Only Productivity Hack That Works on Me](https://www.theatlantic.com/health/archive/2023/09/to-do-list-productivity-apps/675314/?utm_source=feed)                                                                                | September 16, 2023 |
-| [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)                                                                                                                              | September 15, 2023 |
-| [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)                                                                                           | September 15, 2023 |
 | [Richard Hanania and the Allure of Racist Pseudoscience](https://www.theatlantic.com/ideas/archive/2023/09/richard-hanania-racist-pseudoscience-woke-silicon-valley/675335/)                                                          | September 15, 2023 |
 | [Actual Indoctrination Comes to Public Schools](https://www.theatlantic.com/ideas/archive/2023/09/prager-u-indoctrination-public-schools-1619-project/675294/)                                                                        | September 13, 2023 |
 | [How Kevin McCarthy's unilateral impeachment inquiry could backfire](https://www.axios.com/2023/09/12/mccarthy-vs-himself)                                                                                                            | September 12, 2023 |
