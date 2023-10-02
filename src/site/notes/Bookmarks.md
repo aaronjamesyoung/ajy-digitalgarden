@@ -60,6 +60,7 @@
 ## ⛈ Weather
 
 * [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
+* [pwsweather.com/station/mid/pc186](https://www.pwsweather.com/station/mid/pc186)
 * [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=44.05675188852766&lng=-121.50398254394531&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=58&gain=1.0&gamma=1.0&atmFilter=&showDates=false)
 * [Snotel UpdateReport Entry Page](https://wcc.sc.egov.usda.gov/reports/SelectUpdateReport.html)
 * [Zoom Earth | LIVE weather, storm tracker, wildfire maps](https://zoom.earth/#view=44.08493,-121.39793,9z/map=live/overlays=heat,fires,wind,radar:off)
