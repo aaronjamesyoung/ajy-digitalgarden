@@ -56,14 +56,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                          | read on            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)                                                                                   | September 30, 2023 |
-| [National Coffee Day 2023: 5 things serious coffee fans should know](https://www.axios.com/2023/09/29/coffee-day-2023-health-facts)                                             | September 29, 2023 |
-| [Trump Didn’t Go to Michigan to Support Autoworkers](https://www.theatlantic.com/ideas/archive/2023/09/trump-uaw-strike-fake-news/675484/)                                      | September 28, 2023 |
-| [Pangea Ultima Is a Bleak Vision of Earth’s Future](https://www.theatlantic.com/science/archive/2023/09/earth-future-supercontinent-pangea-ultima/675450/)                      | September 25, 2023 |
-| [Trump Suggests That Mark Milley Deserves Execution](https://www.theatlantic.com/ideas/archive/2023/09/trump-milley-execution-incitement-violence/675435/)                      | September 25, 2023 |
-| [Are Energy Chews Actually Better Endurance Fuel than Gummy Bears?](https://www.trailrunnermag.com/nutrition/are-energy-chews-actually-better-endurance-fuel-than-gummy-bears/) | September 18, 2023 |
+| source                                                                                                                                                     | read on            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Are Exogenous Ketones Worth the Hype?](https://www.trailrunnermag.com/nutrition/are-exogenous-ketones-worth-the-hype/)                                    | October 02, 2023   |
+| [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)                                                              | September 30, 2023 |
+| [National Coffee Day 2023: 5 things serious coffee fans should know](https://www.axios.com/2023/09/29/coffee-day-2023-health-facts)                        | September 29, 2023 |
+| [Trump Didn’t Go to Michigan to Support Autoworkers](https://www.theatlantic.com/ideas/archive/2023/09/trump-uaw-strike-fake-news/675484/)                 | September 28, 2023 |
+| [Pangea Ultima Is a Bleak Vision of Earth’s Future](https://www.theatlantic.com/science/archive/2023/09/earth-future-supercontinent-pangea-ultima/675450/) | September 25, 2023 |
+| [Trump Suggests That Mark Milley Deserves Execution](https://www.theatlantic.com/ideas/archive/2023/09/trump-milley-execution-incitement-violence/675435/) | September 25, 2023 |
 
 { .block-language-dataview}
 
