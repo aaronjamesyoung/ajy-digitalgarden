@@ -32,6 +32,7 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/IEXNpyrUiXAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/BggjiQn2m8sC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/uomkEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -42,11 +43,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/uomkEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=T4I1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=MH48bnzN0LUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/urnaCwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/wLeuDwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/QrCazgEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -58,12 +59,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                     | read on            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)                                          | October 04, 2023   |
 | [Are Exogenous Ketones Worth the Hype?](https://www.trailrunnermag.com/nutrition/are-exogenous-ketones-worth-the-hype/)                                    | October 02, 2023   |
 | [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)                                                              | September 30, 2023 |
 | [National Coffee Day 2023: 5 things serious coffee fans should know](https://www.axios.com/2023/09/29/coffee-day-2023-health-facts)                        | September 29, 2023 |
 | [Trump Didn’t Go to Michigan to Support Autoworkers](https://www.theatlantic.com/ideas/archive/2023/09/trump-uaw-strike-fake-news/675484/)                 | September 28, 2023 |
 | [Pangea Ultima Is a Bleak Vision of Earth’s Future](https://www.theatlantic.com/science/archive/2023/09/earth-future-supercontinent-pangea-ultima/675450/) | September 25, 2023 |
-| [Trump Suggests That Mark Milley Deserves Execution](https://www.theatlantic.com/ideas/archive/2023/09/trump-milley-execution-incitement-violence/675435/) | September 25, 2023 |
 
 { .block-language-dataview}
 
