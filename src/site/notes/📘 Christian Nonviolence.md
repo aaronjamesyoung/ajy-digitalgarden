@@ -46,5 +46,6 @@ What is Christian nonviolence?
 ## External Articles
 
 - [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)
+- [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)
 
 { .block-language-dataview}
