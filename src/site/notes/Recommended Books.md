@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":3,"permalink":"/recommended-books/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":3,"permalink":"/recommended-books/","dgPassFrontmatter":true}
 ---
 
 
