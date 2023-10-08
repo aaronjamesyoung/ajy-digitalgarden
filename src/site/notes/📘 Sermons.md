@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/sermons/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/sermons/","dgPassFrontmatter":true}
 ---
 
 
