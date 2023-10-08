@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":3,"permalink":"/using-calibre-with-amazon-kindle-paperwhite-2021-version/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":3,"permalink":"/using-calibre-with-amazon-kindle-paperwhite-2021-version/","dgPassFrontmatter":true}
 ---
 
 
