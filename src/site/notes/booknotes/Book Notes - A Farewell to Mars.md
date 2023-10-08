@@ -83,7 +83,7 @@ Here are my book notes for "A Farewell to Mars" by Brian Zahnd.
 * The Kingdom has already come. So we don't pursue a worldly agenda while we're waiting for it.
 * Jesus is a kingdom ruler. But if we reduce his role to "personal savior" we are free to pledge our political allegiance to an empire.
     * German Christina movement helped Hitler's rise to power in the 1930's. Before we use the "What about Hitler" argument against nonviolence, we should consider why Christians supported him in the first place.
-* [[Matthew 25\|Matthew 25]] Jesus gives "Sheep and Goats" parable about judging the nations under the following criteria:
+* [[94-bible/Matthew 25\|Matthew 25]] Jesus gives "Sheep and Goats" parable about judging the nations under the following criteria:
     * The Poor
     * The Sick
     * The Immigrant
