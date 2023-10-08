@@ -17,11 +17,12 @@ Below are the books I've read in 2023. The best books of this year have been:
 - Lonesome Dove (Larry McMurtry)
 - Shōgun: The Epic Novel of Japan (James Clavell)
 - The Little Friend (Donna Tartt)
+- The Luminaries (Eleanor Catton)
 - War and Peace (Leo Tolstoy)
 
 { .block-language-dataview}
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>cover</span><span class="dataview small-text">80</span></th><th class="table-view-th"><span>title</span></th><th class="table-view-th"><span>author</span></th><th class="table-view-th"><span>series</span></th><th class="table-view-th"><span>read</span></th><th class="table-view-th"><span>rating</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><img width="80" alt="https://books.google.com/books/publisher/content/images/frontcover/BVczAgAAQBAJ?fife=w600-h900&amp;source=gbs_api" src="https://books.google.com/books/publisher/content/images/frontcover/BVczAgAAQBAJ?fife=w600-h900&amp;source=gbs_api" referrerpolicy="no-referrer"></span></td><td><span>The Forge in the Forest</span></td><td><span>Michael Scott Rohan</span></td><td><span>Winter of the World</span></td><td><span><ul>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>cover</span><span class="dataview small-text">81</span></th><th class="table-view-th"><span>title</span></th><th class="table-view-th"><span>author</span></th><th class="table-view-th"><span>series</span></th><th class="table-view-th"><span>read</span></th><th class="table-view-th"><span>rating</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><img width="80" alt="https://books.google.com/books/publisher/content/images/frontcover/BVczAgAAQBAJ?fife=w600-h900&amp;source=gbs_api" src="https://books.google.com/books/publisher/content/images/frontcover/BVczAgAAQBAJ?fife=w600-h900&amp;source=gbs_api" referrerpolicy="no-referrer"></span></td><td><span>The Forge in the Forest</span></td><td><span>Michael Scott Rohan</span></td><td><span>Winter of the World</span></td><td><span><ul>
 <li>Jan 1, 2023 - Jan 3, 2023</li>
 </ul></span></td><td><span>⭐⭐⭐</span></td></tr><tr><td><span><img width="80" alt="https://books.google.com/books/publisher/content/images/frontcover/pFBA4o6VZPYC?fife=w600-h900&amp;source=gbs_api" src="https://books.google.com/books/publisher/content/images/frontcover/pFBA4o6VZPYC?fife=w600-h900&amp;source=gbs_api" referrerpolicy="no-referrer"></span></td><td><span>Fool Moon</span></td><td><span>Jim Butcher</span></td><td><span>The Dresden Files</span></td><td><span><ul>
 <li>Jan 1, 2023 - Jan 6, 2023</li>
@@ -181,4 +182,6 @@ Below are the books I've read in 2023. The best books of this year have been:
 <li>Sep 23, 2023 - Sep 30, 2023</li>
 </ul></span></td><td><span>⭐⭐⭐⭐</span></td></tr><tr><td><span><img width="80" alt="https://books.google.com/books/publisher/content/images/frontcover/uomkEAAAQBAJ?fife=w600-h900&amp;source=gbs_api" src="https://books.google.com/books/publisher/content/images/frontcover/uomkEAAAQBAJ?fife=w600-h900&amp;source=gbs_api" referrerpolicy="no-referrer"></span></td><td><span>The Sunlit Man</span></td><td><span>Brandon Sanderson</span></td><td><span>Secret Projects</span></td><td><span><ul>
 <li>Oct 3, 2023 - Oct 4, 2023</li>
-</ul></span></td><td><span>⭐⭐</span></td></tr></tbody></table></div>
+</ul></span></td><td><span>⭐⭐</span></td></tr><tr><td><span><img width="80" alt="https://books.google.com/books/publisher/content/images/frontcover/BggjiQn2m8sC?fife=w600-h900&amp;source=gbs_api" src="https://books.google.com/books/publisher/content/images/frontcover/BggjiQn2m8sC?fife=w600-h900&amp;source=gbs_api" referrerpolicy="no-referrer"></span></td><td><span>The Luminaries</span></td><td><span>Eleanor Catton</span></td><td><span>-</span></td><td><span><ul>
+<li>Sep 29, 2023 - Oct 7, 2023</li>
+</ul></span></td><td><span>⭐⭐⭐⭐⭐</span></td></tr></tbody></table></div>
