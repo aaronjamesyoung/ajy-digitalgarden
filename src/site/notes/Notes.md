@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/notes/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"permalink":"/notes/","dgPassFrontmatter":true}
 ---
 
 
@@ -64,7 +64,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[Bookmarks\|Bookmarks]]                                                                                                         | 2023-08-22 | 2023-10-01 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
-| [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-09-24 | 🥈    |
+| [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-10-05 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                           | 2023-09-12 | 2023-09-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2023-08-24 | \-    |
