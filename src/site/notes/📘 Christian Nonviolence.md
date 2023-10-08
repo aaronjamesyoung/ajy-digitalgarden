@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/christian-nonviolence/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/christian-nonviolence/","dgPassFrontmatter":true}
 ---
 
 
