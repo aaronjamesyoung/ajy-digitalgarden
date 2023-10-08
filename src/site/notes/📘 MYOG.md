@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/myog/","dgShowBacklinks":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"tag":"topic","permalink":"/myog/","dgPassFrontmatter":true}
 ---
 
 
