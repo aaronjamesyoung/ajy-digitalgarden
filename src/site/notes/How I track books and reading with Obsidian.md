@@ -134,51 +134,71 @@ When stopping a book, don't put a date in "finished" because it'll make your boo
 ```
 function renderReadDates(readdates) {
 	let str = '';
-	for(var i=0; i<readdates.length; i++) {
-	    if(new Date(readdates[i].finished).getFullYear() === 2023) {
-			str += '* ';
-			str += new Date(readdates[i].started).toLocaleDateString('en-us', { month:"long", day:"numeric", year: "numeric"});
-			str += ' - ';
-			str += new Date(readdates[i].finished).toLocaleDateString('en-us', { month:"long", day:"numeric", year: "numeric"});
-			str += "\n";
-		}
-	}
+	str += new Date(readdates.started).toLocaleDateString('en-us', { month:"short", day:"numeric", year: "numeric"});
+	str += ' - ';
+	str += new Date(readdates.finished).toLocaleDateString('en-us', { month:"short", day:"numeric", year: "numeric"});
 	return str;
 }
 
+function fullBookList(dvarr, year) {
+	const retArr = [];
+
+    // Get only books read during the specified year
+    // But if a book was reread during the year, list it twice
+	dvarr.map(b => {
+		if(b.readdates) {
+			b.readdates.map(d => {
+				if(new Date(d.finished).getFullYear() === year) {
+					const book = Object.assign({}, b);
+					book.readdates = d;
+					retArr.push(book);
+				}
+				return d;
+			});
+		}
+		return b;
+	});
+
+    // Sort by date finished
+	retArr.sort((a,b) => {
+		let ret = 0;
+		if(a.readdates.finished.toString() > b.readdates.finished.toString()) {
+			ret = 1;
+		} else if(a.readdates.finished.toString() < b.readdates.finished.toString()) {
+			ret = -1;
+		}
+		return ret;
+	});
+	
+	return retArr;
+}
+
+// Function definitions finished, kick it off here and set your year:
+
+const year = 2023;
+const pages = dv.pages('"books"');
+const expandedPages = dv.array(fullBookList(pages, year));
+
 dv.table(
-    ["cover", "title", "author", "series", "read", "rating"],
-	dv.pages('"books"')
-	    .filter(b => {
-	        let ret = false;
-	        if(b.readdates) {
-		        b.readdates.map(r => {
-			        if(r.finished && r.finished.toString().includes("2023")) {
-			            ret = true;
-			        }
-			        return r;
-		        });
-	        }
-	        return ret;
-	    })
-		.sort(b => b.readdates[b.readdates.length-1].finished)
-	    .map(b => [
-		    "![" + b.cover + "|80](" + b.cover + ")",
-		    b.title,
-		    b.author,
-		    b.series,
-		    renderReadDates(b.readdates),
-		    "⭐".repeat(b.rating)
-		])
-)
+	["cover", "title", "author", "series", "read", "rating"],
+	expandedPages.map(b => [
+		"![" + b.cover + "|80](" + b.cover + ")",
+		"[[" + b.file.name + "|" + b.title + "]]",
+		b.author,
+		b.series,
+		renderReadDates(b.readdates),
+		"⭐".repeat(b.rating)
+	])
+);
 ```
 
 OK, here's where things get interesting. We're using DataviewJS to create a fancier query.
 
 * The first function helps us render start/finished dates into more natural language than YYYY-MM-DD.
+* We get our list of books, and filter them down to the books read during the specified year.
+* But if we reread a book during the year, we will list it again
 * Then we build a table.
 * `dv.pages('"books"')` refers to the "books" folder where your book notes are kept.
-* We filter alll the books by checking to see if the book was finished during 2023, and then sort the books by finished date.
 
 See [[Books Read in 2023\|Books Read in 2023]].
 
