@@ -31,7 +31,6 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/giaLDgAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/IEXNpyrUiXAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/j-WkEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
@@ -43,11 +42,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/IEXNpyrUiXAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/BggjiQn2m8sC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/uomkEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=T4I1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=MH48bnzN0LUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/urnaCwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -59,12 +58,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                          | read on            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Was Jesus Violent in the Temple?](https://www.jesuspeacecollective.com/post/was-jesus-violent-in-the-temple)                                                   | October 08, 2023   |
 | [The Bible on Self-Defense: A Response to Doug Wilson - Theology in the raw](https://theologyintheraw.com/the-bible-on-self-defense-a-response-to-doug-wilson/) | October 05, 2023   |
 | [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)                                               | October 04, 2023   |
 | [Are Exogenous Ketones Worth the Hype?](https://www.trailrunnermag.com/nutrition/are-exogenous-ketones-worth-the-hype/)                                         | October 02, 2023   |
 | [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)                                                                   | September 30, 2023 |
 | [National Coffee Day 2023: 5 things serious coffee fans should know](https://www.axios.com/2023/09/29/coffee-day-2023-health-facts)                             | September 29, 2023 |
-| [Trump Didn’t Go to Michigan to Support Autoworkers](https://www.theatlantic.com/ideas/archive/2023/09/trump-uaw-strike-fake-news/675484/)                      | September 28, 2023 |
 
 { .block-language-dataview}
 
