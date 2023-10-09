@@ -47,5 +47,6 @@ What is Christian nonviolence?
 
 - [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)
 - [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)
+- [Was Jesus Violent in the Temple?](https://www.jesuspeacecollective.com/post/was-jesus-violent-in-the-temple)
 
 { .block-language-dataview}
