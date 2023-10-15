@@ -22,5 +22,7 @@
 
 - [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)
 - [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)
+- [The 100 best novels written in English: the full list](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list)
+- [The best novels in English: readers' alternative list](https://www.theguardian.com/books/2015/sep/03/the-best-novels-in-english-readers-alternative-list)
 
 { .block-language-dataview}
