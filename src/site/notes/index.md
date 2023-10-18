@@ -59,12 +59,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                          | read on          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Self-Checkout Is a Failed Experiment](https://www.theatlantic.com/technology/archive/2023/10/self-checkout-kiosks-grocery-retail-stores/675676/)               | October 18, 2023 |
+| [The Israel-Hamas War and Academia's Activist Problem](https://www.theatlantic.com/ideas/archive/2023/10/israel-hamas-war-college-campuses-activism/675677/)    | October 18, 2023 |
 | [The 100 best novels written in English: the full list](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list)     | October 12, 2023 |
 | [The best novels in English: readers' alternative list](https://www.theguardian.com/books/2015/sep/03/the-best-novels-in-english-readers-alternative-list)      | October 12, 2023 |
 | [Was Jesus Violent in the Temple?](https://www.jesuspeacecollective.com/post/was-jesus-violent-in-the-temple)                                                   | October 08, 2023 |
 | [The Bible on Self-Defense: A Response to Doug Wilson - Theology in the raw](https://theologyintheraw.com/the-bible-on-self-defense-a-response-to-doug-wilson/) | October 05, 2023 |
-| [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)                                               | October 04, 2023 |
-| [Are Exogenous Ketones Worth the Hype?](https://www.trailrunnermag.com/nutrition/are-exogenous-ketones-worth-the-hype/)                                         | October 02, 2023 |
 
 { .block-language-dataview}
 
