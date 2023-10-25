@@ -30,6 +30,8 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/sLvdzgEACAAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/_zJrGHfzU_YC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/6-7dwAgTFfEC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
