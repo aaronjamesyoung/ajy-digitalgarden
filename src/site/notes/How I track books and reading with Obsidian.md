@@ -92,7 +92,6 @@ OK, here's the dataview dump! I use separate notes in my vault for each of these
 **Bookshelf: to read** `dataview`
 
 ```
-{{ "```dataview" }}
 TABLE WITHOUT ID
 "![cover|80](" + cover + ")" AS "Cover",
 title,
@@ -100,7 +99,6 @@ author, series
 FROM "books"
 WHERE shelf="toread"
 SORT title ASC
-{{ "```" }}
 ```
 
 * This displays the cover at 80px wide
@@ -206,7 +204,7 @@ OK, here's where things get interesting. We're using DataviewJS to create a fanc
 * Then we build a table.
 * `dv.pages('"books"')` refers to the "books" folder where your book notes are kept.
 
-See [[Books Read in 2023]].
+See [[Books Read in 2023\|Books Read in 2023]].
 
 ![2023-10-28_09-05.png](/img/user/98-attachments/2023-10-28_09-05.png)
 
