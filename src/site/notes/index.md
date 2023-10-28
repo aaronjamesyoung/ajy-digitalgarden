@@ -32,7 +32,6 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/sLvdzgEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_zJrGHfzU_YC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/6-7dwAgTFfEC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -43,11 +42,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/6-7dwAgTFfEC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/LsUMzQEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/giaLDgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/3V-UDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/O7FZzgEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZEhWuAEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -85,7 +84,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
-- [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-08)
+- [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-28)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-09-18)
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
