@@ -28,7 +28,7 @@ First, set a folder where all your book notes will live. Second, create a new no
 ```
 ---
 title: "{{title}}"
-author: {{author}}
+author: \{\{author\}\}
 series: 
 seriesnumber: 
 rating: 
