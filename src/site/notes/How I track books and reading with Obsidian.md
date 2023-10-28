@@ -27,7 +27,7 @@ First, set a folder where all your book notes will live. Second, create a new no
 
 ```
 ---
-title: "{{title}}"
+title: "{{ "{{" }}title{{ "}}" }}"
 author: {{ "{{" }}author{{ "}}" }}
 series: 
 seriesnumber: 
@@ -37,21 +37,21 @@ readdates:
   finished: 
 shelf: toread
 list: 
-publisher: {{publisher}}
-publish: {{publishDate}}
-pages: {{totalPage}}
-isbn: {{isbn10}} {{isbn13}}
+publisher: {{ "{{" }}publisher{{ "}}" }}
+publish: {{ "{{" }}publishDate{{ "}}" }}
+pages: {{ "{{" }}totalPage{{ "}}" }}
+isbn: {{ "{{" }}isbn10{{ "}}" }} {{ "{{" }}isbn13{{ "}}" }}
 cover: <%=book.coverUrl ? `https://books.google.com/books/publisher/content/images/frontcover/${[...book.coverUrl.split("&")[0].matchAll(/id.?(.*)/g)][0][1]}?fife=w600-h900&source=gbs_api` : ''%>
-dateCreated: {{date}}
+dateCreated: {{ "{{" }}date{{ "}}" }}
 ---
 
-![cover|150]({{coverUrl}})
+![cover|150]({{ "{{" }}coverUrl{{ "}}" }})
 
-## {{title}}
+## {{ "{{" }}title{{ "}}" }}
 
 ### Description
 
-{{description}}
+{{ "{{" }}description{{ "}}" }}
 ```
 
 A few notes on the template:
