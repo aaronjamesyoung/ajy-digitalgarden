@@ -59,7 +59,7 @@ A few notes on the template:
 * `series`, `seriesnumber`, `rating`, `readdates`, `shelf`, and `list` properties are not populated by the plugin. After adding a book note, you'll need to update these yourself.
 * For `shelf`, you can choose what you want to do. I set it to one of: `toread`, `reading`, `read`, or `stopped`.
 * `list` is meant to be a freeform field; I use it to create a list of [[Recommended Books\|Recommended Books]].
-* `cover` has been updated from the default cover URL that the plugin provides. This version will give you large-format covers instead of small.
+* `cover` has been updated from the default cover URL that the plugin provides. This version will give you large-format covers instead of small (also, the small covers often include a page curl).
 * For `rating`, I use a number (1-5). My dataview queries below convert these to star emojis.
 * `readdates` is meant to accomodate multiple rereads. You would fill it out like this:
 
@@ -72,6 +72,8 @@ readdates:
 ```
 
 ... and so on. Unfortunately this doesn't play well with the Obsidian Properties UI that was released recently in 1.4, so you might want to switch to source view while editing these dates.
+
+![2023-10-28_09-00.png](/img/user/98-attachments/2023-10-28_09-00.png)
 
 **Configure Dataview**
 
@@ -102,6 +104,8 @@ SORT title ASC
 * This displays the cover at 80px wide
 * Assumes that your book notes are stored in a folder called "books"
 * Throughout these examples, double check your shelf names.
+
+![2023-10-28_09-02.png](/img/user/98-attachments/2023-10-28_09-02.png)
 
 **Bookshelf: currently reading** `dataview`
 
@@ -196,11 +200,13 @@ OK, here's where things get interesting. We're using DataviewJS to create a fanc
 
 * The first function helps us render start/finished dates into more natural language than YYYY-MM-DD.
 * We get our list of books, and filter them down to the books read during the specified year.
-* But if we reread a book during the year, we will list it again
+* But if we reread a book during the year, the code will list it again
 * Then we build a table.
 * `dv.pages('"books"')` refers to the "books" folder where your book notes are kept.
 
 See [[Books Read in 2023\|Books Read in 2023]].
+
+![2023-10-28_09-05.png](/img/user/98-attachments/2023-10-28_09-05.png)
 
 **List the 5-star books from 2023** `dataview`
 
@@ -210,6 +216,8 @@ title + " (" + author + ")"
 FROM "books"
 WHERE rating=5 AND contains(string(readdates.finished), "2023")
 ```
+
+![2023-10-28_09-05_1.png](/img/user/98-attachments/2023-10-28_09-05_1.png)
 
 **Show how many books you have read in 2023** `dataview`
 
@@ -237,6 +245,8 @@ for(let group of groups) {
     dv.el('div', rows);
 }
 ```
+
+![2023-10-28_09-06.png](/img/user/98-attachments/2023-10-28_09-06.png)
 
 From all these examples, I hope you can build other queries you might want.
 
