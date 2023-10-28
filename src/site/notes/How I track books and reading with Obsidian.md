@@ -229,19 +229,38 @@ WHERE contains(string(readdates.finished), "2023")
 GROUP BY dateformat(finished, "yyyy")
 ```
 
-**Display covers of books grouped by series** (excludes books not in a series) `dataviewjs`
+**Display covers of books grouped by series, with average star rating of series** (excludes books not in a series) `dataviewjs`
 
 ```
 let groups = dv.pages('"books"')
-    .filter(b => b.series)
+	.filter(b => { // Only get books belonging to series
+	    let ret = true;
+	    if(!b.series) {
+	        ret = false;
+	    }
+	    if(b.shelf !== 'read') {
+	        ret = false;
+	    }
+	    return ret;
+	 })
 	.groupBy(b => b.series)
 	.sort(b => b.series);
 
 for(let group of groups) {
-    dv.header(3, group.key)
     let rows = group.rows.sort(b => b.seriesnumber, 'asc')
         .map(b => `<img src="${b.cover}" style="height: 160px; margin-right: 6px; margin-bottom: 6px; border-radius: 4px;" />`)
         .join("");
+    let grouplength = group.rows.length;
+	group.average = group.rows.array().reduce((acc, b) => { // Calculate average rating for books which have been rated
+	    if(b.rating) {
+			acc += b.rating;
+		} else {
+			grouplength--;
+		}
+		return acc;
+	}, 0) / grouplength;
+	group.average = Math.round(group.average*100) / 100
+	dv.header(3, `${group.key} (${group.average})`)
     dv.el('div', rows);
 }
 ```
