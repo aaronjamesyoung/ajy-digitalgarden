@@ -58,7 +58,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-08-13 Now I'll Praise the Lord\|2023-08-13 Now I'll Praise the Lord]]                                                         | 2023-08-13 | 2023-09-20 | 🥉    |
 | [[sermons/2023-08-20 Full Bloom\|2023-08-20 Full Bloom]]                                                                                     | 2023-08-20 | 2023-09-20 | 🥉    |
 | [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-10-10 | 🥉    |
-| [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2022-11-12 | \-    |
+| [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                                         | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                               | 2023-08-10 | 2023-09-16 | 🥈    |
@@ -68,7 +68,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                                   | 2023-08-02 | 2023-10-08 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                                       | 2023-09-12 | 2023-09-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                                     | 2023-01-27 | 2023-07-16 | 🥇    |
-| [[Contact Me\|Contact Me]]                                                                                                                   | 2022-11-11 | 2023-08-24 | \-    |
+| [[Contact Me\|Contact Me]]                                                                                                                   | 2022-11-11 | 2023-10-31 | \-    |
 | [[Digital Garden\|Digital Garden]]                                                                                                           | 2022-12-12 | 2023-07-07 | 🥈    |
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                                                       | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[First Aid Kit\|First Aid Kit]]                                                                                                             | 2023-07-27 | 2023-07-26 | 🥈    |
@@ -99,7 +99,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Topic Notes\|Topic Notes]]                                                                                                                 | 2023-07-07 | 2023-07-14 | \-    |
 | [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]                                 | 2023-06-01 | 2023-08-05 | 🥇    |
 | [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]                               | 2023-06-01 | 2023-08-05 | 🥇    |
-| [[Uses\|Uses]]                                                                                                                               | 2023-07-27 | 2023-07-26 | \-    |
+| [[Uses\|Uses]]                                                                                                                               | 2023-07-27 | 2023-10-31 | \-    |
 | [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]]                   | 2023-07-07 | 2023-07-07 | 🥇    |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                                                             | 2022-11-12 | 2023-09-18 | 🥇    |
 
