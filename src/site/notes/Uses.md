@@ -12,8 +12,7 @@
 
 ## Hardware
 
-- Laptop: HP Spectre x360 – home
-- Laptop: Dell XPS 13 – work
+- Laptop: HP Spectre x360
 - Phone: Google Pixel 4a – hand-me-down from my wife
 
 ## OS / Environment
@@ -37,11 +36,10 @@
 
 ## Selfhosted Services
 
-- [BookWyrm](https://joinbookwyrm.com/) - Goodreads alternative, federated
 - [FreshRSS](https://www.freshrss.org/) – RSS reader
-- [Gitea](https://gitea.io/en-us/) – Git repositories
 - [Matomo](https://matomo.org/) – Analytics
 - [Nextcloud](https://nextcloud.com/) – File sharing, music streaming
+- [Node-RED](https://nodered.org/) - Low-code workflows
 - [Photoprism](https://photoprism.app/) – Photo backup
 - [Syncthing](https://syncthing.net/) - File Syncronization
 
