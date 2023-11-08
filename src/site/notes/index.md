@@ -32,7 +32,7 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/9KkWEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=z1k_AxXUvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/lAO7iHaw0EwC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/v1LKQiao7GgC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -43,11 +43,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/lAO7iHaw0EwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WoNE62wPkBEC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/YuPvuwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_zJrGHfzU_YC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/sLvdzgEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/6-7dwAgTFfEC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -59,12 +59,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                       | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Why I’m Hopeful About the Future of Palestine and Israel](https://www.theatlantic.com/ideas/archive/2023/11/israeli-palestinian-conflict-hope/675917/)      | November 08, 2023 |
 | [Why Does God Allow the Innocent to Suffer?](https://www.plough.com/en/topics/faith/why-does-god-allow-the-innocent-to-suffer)                               | November 03, 2023 |
 | [Putting Politics Back in Christmas - Theology in the raw](https://theologyintheraw.com/putting-politics-back-in-christmas/)                                 | October 31, 2023  |
 | [When Love Seems Impossible](https://www.plough.com/en/topics/justice/peacemaking/when-love-seems-impossible)                                                | October 31, 2023  |
 | [Self-Checkout Is a Failed Experiment](https://www.theatlantic.com/technology/archive/2023/10/self-checkout-kiosks-grocery-retail-stores/675676/)            | October 18, 2023  |
 | [The Israel-Hamas War and Academia's Activist Problem](https://www.theatlantic.com/ideas/archive/2023/10/israel-hamas-war-college-campuses-activism/675677/) | October 18, 2023  |
-| [The 100 best novels written in English: the full list](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list)  | October 12, 2023  |
 
 { .block-language-dataview}
 
