@@ -26,7 +26,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                                     | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[sermons/2022 Advent\|2022 Advent]]                                                                                                         | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[sermons/2022 Work of the People\|2022 Work of the People]]                                                                                 | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[sermons/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                               | 2023-08-10 | 2023-09-16 | 🥈    |
+| [[sermons/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                               | 2023-11-06 | 2023-11-06 | 🥈    |
 | [[sermons/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                                   | 2023-08-10 | 2023-09-20 | 🥉    |
 | [[sermons/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                                                   | 2023-08-10 | 2023-09-20 | 🥈    |
 | [[sermons/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                                           | 2023-08-10 | 2023-09-20 | 🥈    |
@@ -38,7 +38,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023 Lent\|2023 Lent]]                                                                                                             | 2023-08-10 | 2023-09-20 | 🥈    |
 | [[sermons/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
 | [[sermons/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                                   | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                                         | 2023-08-10 | 2023-09-20 | 🥈    |
+| [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                                         | 2023-11-06 | 2023-11-06 | 🥈    |
 | [[sermons/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
 | [[sermons/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                                     | 2023-08-10 | 2023-09-20 | 🥈    |
 | [[sermons/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                                       | 2023-08-10 | 2023-09-20 | 🥈    |
@@ -57,7 +57,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-08-06 We're All Esau\|2023-08-06 We're All Esau]]                                                                             | 2023-08-11 | 2023-09-20 | 🥉    |
 | [[sermons/2023-08-13 Now I'll Praise the Lord\|2023-08-13 Now I'll Praise the Lord]]                                                         | 2023-08-13 | 2023-09-20 | 🥉    |
 | [[sermons/2023-08-20 Full Bloom\|2023-08-20 Full Bloom]]                                                                                     | 2023-08-20 | 2023-09-20 | 🥉    |
-| [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-10-10 | 🥉    |
+| [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-04 | 🥉    |
 | [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                                         | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
