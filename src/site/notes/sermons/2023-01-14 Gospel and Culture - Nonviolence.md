@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-01-14-gospel-and-culture-nonviolence/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Christianity"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-01-14-gospel-and-culture-nonviolence/","dgPassFrontmatter":true}
 ---
 
 
