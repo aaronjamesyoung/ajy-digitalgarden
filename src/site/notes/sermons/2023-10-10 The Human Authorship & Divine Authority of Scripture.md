@@ -25,7 +25,7 @@
 ### Pitfalls of overemphasizing the divine authority of scripture
 
 * Verse-picking - we may ignore context of longer passages to misinterpret a particular verse
-* Biblicism - says all we can know is what Scripture says (though Scripture itself does not claim this [[Romans 1\|Romans 1]] vv 18-23)
+* Biblicism - says all we can know is what Scripture says (though Scripture itself does not claim this [[94-bible/Romans 1\|Romans 1]] vv 18-23)
 * Reading our context into scripture - the historical and human context matters and even a knowledge of Greek and Hebrew are helpful
 
 ### Pitfalls of overemphasizing the human authorship of scripture
