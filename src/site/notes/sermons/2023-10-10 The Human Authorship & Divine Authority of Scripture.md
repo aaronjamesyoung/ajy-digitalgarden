@@ -1,5 +1,5 @@
 ---
-{"source":"[The Human Authorship & Divine Authority of Scripture](https://www.youtube.com/watch?v=2h9dFMEtSDo)","clipped":"2023-10-10","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-10-10","permalink":"/sermons/2023-10-10-the-human-authorship-and-divine-authority-of-scripture/","dgPassFrontmatter":true}
+{"source":"[The Human Authorship & Divine Authority of Scripture](https://www.youtube.com/watch?v=2h9dFMEtSDo)","clipped":"2023-10-10","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-10-10","permalink":"/sermons/2023-10-10-the-human-authorship-and-divine-authority-of-scripture/","dgPassFrontmatter":true}
 ---
 
 
