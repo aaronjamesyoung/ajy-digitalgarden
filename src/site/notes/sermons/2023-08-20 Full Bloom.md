@@ -1,5 +1,5 @@
 ---
-{"source":"[Full Bloom](https://www.youtube.com/watch?v=PMaG6OpUwjc)","clipped":"2023-08-20","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-20","permalink":"/sermons/2023-08-20-full-bloom/","dgPassFrontmatter":true}
+{"source":"[Full Bloom](https://www.youtube.com/watch?v=PMaG6OpUwjc)","clipped":"2023-08-20","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-20","permalink":"/sermons/2023-08-20-full-bloom/","dgPassFrontmatter":true}
 ---
 
 
