@@ -1,5 +1,5 @@
 ---
-{"source":"[Blessed to Be a Blessing](https://www.youtube.com/watch?v=Bq4wevFZh8E)","clipped":"2023-07-16","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-11","permalink":"/sermons/2023-07-16-blessed-to-be-a-blessing/","dgPassFrontmatter":true}
+{"source":"[Blessed to Be a Blessing](https://www.youtube.com/watch?v=Bq4wevFZh8E)","clipped":"2023-07-16","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-11","permalink":"/sermons/2023-07-16-blessed-to-be-a-blessing/","dgPassFrontmatter":true}
 ---
 
 
