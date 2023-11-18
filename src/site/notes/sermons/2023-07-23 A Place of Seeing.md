@@ -1,5 +1,5 @@
 ---
-{"source":"[A Place of Seeing](https://www.youtube.com/watch?v=dWCfg3ZfUZY)","clipped":"2023-07-23","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-11","permalink":"/sermons/2023-07-23-a-place-of-seeing/","dgPassFrontmatter":true}
+{"source":"[A Place of Seeing](https://www.youtube.com/watch?v=dWCfg3ZfUZY)","clipped":"2023-07-23","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-11","permalink":"/sermons/2023-07-23-a-place-of-seeing/","dgPassFrontmatter":true}
 ---
 
 
