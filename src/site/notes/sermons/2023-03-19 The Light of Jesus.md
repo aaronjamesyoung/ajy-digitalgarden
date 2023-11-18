@@ -1,5 +1,5 @@
 ---
-{"source":"[The Light of Jesus](https://www.youtube.com/watch?v=xN-Mu6VJ4MM)","clipped":"2023-03-19","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-03-19-the-light-of-jesus/","dgPassFrontmatter":true}
+{"source":"[The Light of Jesus](https://www.youtube.com/watch?v=xN-Mu6VJ4MM)","clipped":"2023-03-19","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-03-19-the-light-of-jesus/","dgPassFrontmatter":true}
 ---
 
 
