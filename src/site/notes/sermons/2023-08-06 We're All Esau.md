@@ -1,5 +1,5 @@
 ---
-{"source":"[We're All Esau](https://www.youtube.com/watch?v=8HR_4BicpyM)","clipped":"2023-08-11","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-11","permalink":"/sermons/2023-08-06-we-re-all-esau/","dgPassFrontmatter":true}
+{"source":"[We're All Esau](https://www.youtube.com/watch?v=8HR_4BicpyM)","clipped":"2023-08-11","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-11","permalink":"/sermons/2023-08-06-we-re-all-esau/","dgPassFrontmatter":true}
 ---
 
 
