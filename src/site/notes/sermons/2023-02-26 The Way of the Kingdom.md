@@ -1,5 +1,5 @@
 ---
-{"source":"[The Way of the Kingdom](https://www.youtube.com/watch?v=R82afri8dbc)","clipped":"2023-02-26","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-02-26-the-way-of-the-kingdom/","dgPassFrontmatter":true}
+{"source":"[The Way of the Kingdom](https://www.youtube.com/watch?v=R82afri8dbc)","clipped":"2023-02-26","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-02-26-the-way-of-the-kingdom/","dgPassFrontmatter":true}
 ---
 
 
