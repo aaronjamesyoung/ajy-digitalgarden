@@ -1,5 +1,5 @@
 ---
-{"source":"[God is in the Mess](https://www.youtube.com/watch?v=7p24oDRxCeg)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-01-22-god-is-in-the-mess/","dgPassFrontmatter":true}
+{"source":"[God is in the Mess](https://www.youtube.com/watch?v=7p24oDRxCeg)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-01-22-god-is-in-the-mess/","dgPassFrontmatter":true}
 ---
 
 
