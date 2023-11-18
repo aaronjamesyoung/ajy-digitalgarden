@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"tag":"sermonSeries","context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-epiphany/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-backlinks":false,"grade":2,"tag":"sermonSeries","context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-epiphany/","dgPassFrontmatter":true}
 ---
 
 
