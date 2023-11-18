@@ -19,51 +19,51 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                                       | 2023-07-12 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                                         | 2023-06-01 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                                           | 2023-06-01 | 2023-10-02 | \-    |
-| [[📘 MYOG\|📘 MYOG]]                                                                                                                         | 2023-07-27 | 2023-08-05 | \-    |
+| [[📘 MYOG\|📘 MYOG]]                                                                                                                         | 2023-07-27 | 2023-11-08 | \-    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                                       | 2022-11-21 | 2023-08-05 | \-    |
 | [[📘 Running\|📘 Running]]                                                                                                                   | 2023-06-01 | 2023-10-02 | \-    |
 | [[📘 Sermons\|📘 Sermons]]                                                                                                                   | 2023-07-12 | 2023-08-05 | \-    |
-| [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                                     | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[sermons/2022 Advent\|2022 Advent]]                                                                                                         | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[sermons/2022 Work of the People\|2022 Work of the People]]                                                                                 | 2023-08-10 | 2023-09-16 | 🥈    |
+| [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                                     | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022 Advent\|2022 Advent]]                                                                                                         | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022 Work of the People\|2022 Work of the People]]                                                                                 | 2023-08-10 | 2023-11-13 | 🥈    |
 | [[sermons/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                               | 2023-11-06 | 2023-11-06 | 🥈    |
-| [[sermons/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                                   | 2023-08-10 | 2023-09-20 | 🥉    |
-| [[sermons/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                                                   | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                                           | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                                         | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                                           | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023 Epiphany\|2023 Epiphany]]                                                                                                     | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023 Lent\|2023 Lent]]                                                                                                             | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                                   | 2023-08-10 | 2023-09-20 | 🥈    |
+| [[sermons/2022-10-16 Confessing Our Sins\|2022-10-16 Confessing Our Sins]]                                                                   | 2023-08-10 | 2023-11-13 | 🥉    |
+| [[sermons/2022-11-13 Receiving Communion\|2022-11-13 Receiving Communion]]                                                                   | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022-11-20 Call to Mission\|2022-11-20 Call to Mission]]                                                                           | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022-11-27 Walk in the Light of the Lord\|2022-11-27 Walk in the Light of the Lord]]                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022-12-04 The Peaceable Kingdom\|2022-12-04 The Peaceable Kingdom]]                                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022-12-11 Joy to the Earth\|2022-12-11 Joy to the Earth]]                                                                         | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2022-12-22 Do You Trust Me\|2022-12-22 Do You Trust Me]]                                                                           | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023 Epiphany\|2023 Epiphany]]                                                                                                     | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023 Lent\|2023 Lent]]                                                                                                             | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-01-01 Clash of the Kingdoms\|2023-01-01 Clash of the Kingdoms]]                                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-01-08 Hearing God\|2023-01-08 Hearing God]]                                                                                   | 2023-08-10 | 2023-11-13 | 🥈    |
 | [[sermons/2023-01-14 Gospel and Culture - Nonviolence\|2023-01-14 Gospel and Culture - Nonviolence]]                                         | 2023-11-06 | 2023-11-06 | 🥈    |
-| [[sermons/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                                     | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                                       | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]                                                       | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                               | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                             | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                                     | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                                   | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                                     | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-03-26 When God Cries\|2023-03-26 When God Cries]]                                                                             | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-04-02 Our Gentle King\|2023-04-02 Our Gentle King]]                                                                           | 2023-08-10 | 2023-09-20 | 🥈    |
-| [[sermons/2023-07-16 Blessed to Be a Blessing\|2023-07-16 Blessed to Be a Blessing]]                                                         | 2023-08-11 | 2023-09-20 | 🥉    |
-| [[sermons/2023-07-23 A Place of Seeing\|2023-07-23 A Place of Seeing]]                                                                       | 2023-08-11 | 2023-09-20 | 🥉    |
-| [[sermons/2023-08-06 We're All Esau\|2023-08-06 We're All Esau]]                                                                             | 2023-08-11 | 2023-09-20 | 🥉    |
-| [[sermons/2023-08-13 Now I'll Praise the Lord\|2023-08-13 Now I'll Praise the Lord]]                                                         | 2023-08-13 | 2023-09-20 | 🥉    |
-| [[sermons/2023-08-20 Full Bloom\|2023-08-20 Full Bloom]]                                                                                     | 2023-08-20 | 2023-09-20 | 🥉    |
-| [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-04 | 🥉    |
+| [[sermons/2023-01-15 Wait Training\|2023-01-15 Wait Training]]                                                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-01-22 God is in the Mess\|2023-01-22 God is in the Mess]]                                                                     | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-01-29 The Dwelling Place of God\|2023-01-29 The Dwelling Place of God]]                                                       | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-02-05 Living in Awe\|2023-02-05 Living in Awe]]                                                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-02-12 How Jesus Sees the Scriptures\|2023-02-12 How Jesus Sees the Scriptures]]                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-02-19 Which King, Whose Kingdom\|2023-02-19 Which King, Whose Kingdom]]                                                       | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-02-22 Ash Wednesday\|2023-02-22 Ash Wednesday]]                                                                               | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-02-26 The Way of the Kingdom\|2023-02-26 The Way of the Kingdom]]                                                             | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-03-05 Born Again\|2023-03-05 Born Again]]                                                                                     | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-03-12 Let Jesus Serve You\|2023-03-12 Let Jesus Serve You]]                                                                   | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-03-19 The Light of Jesus\|2023-03-19 The Light of Jesus]]                                                                     | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-03-26 When God Cries\|2023-03-26 When God Cries]]                                                                             | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-04-02 Our Gentle King\|2023-04-02 Our Gentle King]]                                                                           | 2023-08-10 | 2023-11-13 | 🥈    |
+| [[sermons/2023-07-16 Blessed to Be a Blessing\|2023-07-16 Blessed to Be a Blessing]]                                                         | 2023-08-11 | 2023-11-13 | 🥉    |
+| [[sermons/2023-07-23 A Place of Seeing\|2023-07-23 A Place of Seeing]]                                                                       | 2023-08-11 | 2023-11-13 | 🥉    |
+| [[sermons/2023-08-06 We're All Esau\|2023-08-06 We're All Esau]]                                                                             | 2023-08-11 | 2023-11-13 | 🥉    |
+| [[sermons/2023-08-13 Now I'll Praise the Lord\|2023-08-13 Now I'll Praise the Lord]]                                                         | 2023-08-13 | 2023-11-13 | 🥉    |
+| [[sermons/2023-08-20 Full Bloom\|2023-08-20 Full Bloom]]                                                                                     | 2023-08-20 | 2023-11-13 | 🥉    |
+| [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-13 | 🥉    |
 | [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                                         | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                               | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]             | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-10-01 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-11-11 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                                           | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                                   | 2023-08-02 | 2023-10-08 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                                       | 2023-09-12 | 2023-09-13 | 🥈    |
@@ -74,7 +74,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[First Aid Kit\|First Aid Kit]]                                                                                                             | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                                         | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                                     | 2023-07-16 | 2023-07-16 | 🥇    |
-| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                                       | 2023-08-10 | 2023-09-20 | \-    |
+| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                                       | 2023-08-10 | 2023-11-13 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]                     | 2023-08-21 | 2023-08-24 | 🥇    |
 | [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]                                                 | 2023-09-15 | 2023-10-28 | 🥇    |
 | [[How this site is built\|How this site is built]]                                                                                           | 2023-06-01 | 2023-09-13 | 🥇    |
