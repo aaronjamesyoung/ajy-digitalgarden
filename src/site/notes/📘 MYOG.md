@@ -11,6 +11,7 @@ I've been getting into making my own outdoor gear. Here's some of what I've done
 * [[MYOG Fastpack\|MYOG Fastpack]]
 * [[MYOG Quilt\|MYOG Quilt]]
 * [[MYOG Rain Shell\|MYOG Rain Shell]]
+* [[MYOG Solo Tarp\|MYOG Solo Tarp]]
 * [[MYOG Square Tarp and Net Tent\|MYOG Square Tarp and Net Tent]]
 * [[MYOG Trail Running Pack\|MYOG Trail Running Pack]]
 * [[MYOG Wind Pants\|MYOG Wind Pants]]
