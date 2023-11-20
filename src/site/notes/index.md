@@ -59,12 +59,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                  | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [America is Big Mad](https://www.axios.com/2023/11/19/america-is-big-mad)                                                                               | November 20, 2023 |
 | [Enemy Lovers](https://www.plough.com/en/topics/faith/witness/enemy-lovers)                                                                             | November 14, 2023 |
 | [Hamas Must Go](https://www.theatlantic.com/ideas/archive/2023/11/hamas-israel-ceasefire-humanitarian-pause-gaza/675992/?utm_source=feed)               | November 14, 2023 |
 | [Why I’m Hopeful About the Future of Palestine and Israel](https://www.theatlantic.com/ideas/archive/2023/11/israeli-palestinian-conflict-hope/675917/) | November 08, 2023 |
 | [Why Does God Allow the Innocent to Suffer?](https://www.plough.com/en/topics/faith/why-does-god-allow-the-innocent-to-suffer)                          | November 03, 2023 |
 | [Putting Politics Back in Christmas - Theology in the raw](https://theologyintheraw.com/putting-politics-back-in-christmas/)                            | October 31, 2023  |
-| [When Love Seems Impossible](https://www.plough.com/en/topics/justice/peacemaking/when-love-seems-impossible)                                           | October 31, 2023  |
 
 { .block-language-dataview}
 
