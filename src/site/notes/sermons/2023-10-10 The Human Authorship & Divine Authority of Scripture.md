@@ -5,6 +5,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2h9dFMEtSDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[[The Whole Gospel\|The Whole Gospel]]
+
 [[94-bible/2 Timothy 3\|2 Timothy 3]] vv 14-17
 
 * The Whole Truth of Scripture - human authorship and divine authority. We should not overemphasize the human or divine aspects of this relationship.
