@@ -57,13 +57,14 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-08-06 We're All Esau\|2023-08-06 We're All Esau]]                                                                             | 2023-08-11 | 2023-11-13 | 🥉    |
 | [[sermons/2023-08-13 Now I'll Praise the Lord\|2023-08-13 Now I'll Praise the Lord]]                                                         | 2023-08-13 | 2023-11-13 | 🥉    |
 | [[sermons/2023-08-20 Full Bloom\|2023-08-20 Full Bloom]]                                                                                     | 2023-08-20 | 2023-11-13 | 🥉    |
-| [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-13 | 🥉    |
+| [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-20 | 🥉    |
+| [[sermons/2023-11-20 Rooted & Responsive Worship\|2023-11-20 Rooted & Responsive Worship]]                                                   | 2023-11-20 | 2023-11-20 | 🥉    |
 | [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                                         | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                               | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]             | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-11-11 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-11-20 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                                           | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                                   | 2023-08-02 | 2023-10-08 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                                       | 2023-09-12 | 2023-09-13 | 🥈    |
