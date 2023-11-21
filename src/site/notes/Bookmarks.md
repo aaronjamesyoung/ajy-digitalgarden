@@ -6,7 +6,7 @@
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * 📌 [Gmail - AJY](https://mail.google.com/mail/u/1/)
 * 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
-* 📌 [Pixelfed](https://pixelfed.social/i/web)
+* 📌 [NumPad](https://numpad.io/)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
 
 ## 📊 Aarontable
