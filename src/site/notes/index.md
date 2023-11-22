@@ -32,7 +32,6 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/rv6OUfWcdwIC?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=z1k_AxXUvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/VB7IAgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -57,14 +56,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                  | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [The Problem With Turkey Trots](https://www.theatlantic.com/family/archive/2023/11/turkey-trot-tradition-american-diet-culture/676056/)                 | November 21, 2023 |
-| [America is Big Mad](https://www.axios.com/2023/11/19/america-is-big-mad)                                                                               | November 20, 2023 |
-| [‘Christianity Will Have Power’](https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html)                                            | November 20, 2023 |
-| [Enemy Lovers](https://www.plough.com/en/topics/faith/witness/enemy-lovers)                                                                             | November 14, 2023 |
-| [Hamas Must Go](https://www.theatlantic.com/ideas/archive/2023/11/hamas-israel-ceasefire-humanitarian-pause-gaza/675992/?utm_source=feed)               | November 14, 2023 |
-| [Why I’m Hopeful About the Future of Palestine and Israel](https://www.theatlantic.com/ideas/archive/2023/11/israeli-palestinian-conflict-hope/675917/) | November 08, 2023 |
+| source                                                                                                                                                                        | read on           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Trump Is Becoming Frighteningly Clear About What He Wants](https://www.theatlantic.com/ideas/archive/2023/11/trump-becoming-frighteningly-clear-about-what-he-wants/676086/) | November 22, 2023 |
+| [The Problem With Turkey Trots](https://www.theatlantic.com/family/archive/2023/11/turkey-trot-tradition-american-diet-culture/676056/)                                       | November 21, 2023 |
+| [America is Big Mad](https://www.axios.com/2023/11/19/america-is-big-mad)                                                                                                     | November 20, 2023 |
+| [‘Christianity Will Have Power’](https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html)                                                                  | November 20, 2023 |
+| [Enemy Lovers](https://www.plough.com/en/topics/faith/witness/enemy-lovers)                                                                                                   | November 14, 2023 |
+| [Hamas Must Go](https://www.theatlantic.com/ideas/archive/2023/11/hamas-israel-ceasefire-humanitarian-pause-gaza/675992/?utm_source=feed)                                     | November 14, 2023 |
 
 { .block-language-dataview}
 
