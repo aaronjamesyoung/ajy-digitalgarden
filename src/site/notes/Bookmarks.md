@@ -6,14 +6,12 @@
 * 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 * 📌 [Gmail - AJY](https://mail.google.com/mail/u/1/)
 * 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
-* 📌 [NumPad](https://numpad.io/)
 * 📌 [Voice](https://voice.google.com/u/0/messages)
 
 ## 📊 Aarontable
 
 * [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
 * [Buttes](https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkCplM/edit#gid=0)
-* [Pace Calculator](https://docs.google.com/spreadsheets/d/1UqTg4FQEOUkAqtetSEt-zcskdmXjwcFmItngiJRIUm0/edit#gid=0)
 * [Sewing Calculator](https://docs.google.com/spreadsheets/d/1GMI_w_bTGRCVBmLmUaO316l-YjUyKxto72saeMuHm0k/edit#gid=0)
 
 ## 🖥 Homeserver
