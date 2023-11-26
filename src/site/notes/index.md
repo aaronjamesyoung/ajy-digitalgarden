@@ -11,15 +11,9 @@
 > [!TIP] Currently seeking work
 > I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
-![mt-washington.jpg](/img/user/98-attachments/mt-washington.jpg)
-
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
 ## Follow me online
-
-### Running <small><a class="button" target="_blank" href="https://www.strava.com/athletes/aaronjamesyoung">Follow me on Strava</a></small>
-
-<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1057219/latest-rides/ed2151117df36fe681b40b6883a1d116e9c6b39b'></iframe>
 
 ### Latest Photos <small><a class="button" target="_blank" href="https://pixelfed.social/i/web/profile/584894152884316735">Follow me on Pixelfed</a></small>
 
@@ -66,6 +60,10 @@ Here are some recent news articles I found interesting:
 | [Enemy Lovers](https://www.plough.com/en/topics/faith/witness/enemy-lovers)                                                                                                   | November 14, 2023 |
 
 { .block-language-dataview}
+
+### Running <small><a class="button" target="_blank" href="https://www.strava.com/athletes/aaronjamesyoung">Follow me on Strava</a></small>
+
+<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1057219/latest-rides/ed2151117df36fe681b40b6883a1d116e9c6b39b'></iframe>
 
 </div><div class="hc__right">
 
