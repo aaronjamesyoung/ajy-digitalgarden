@@ -20,7 +20,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Code\|📘 Code]]                                                                                                                         | 2023-06-01 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                                           | 2023-06-01 | 2023-10-02 | \-    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                                         | 2023-07-27 | 2023-11-08 | \-    |
-| [[📘 News Articles\|📘 News Articles]]                                                                                                       | 2022-11-21 | 2023-08-05 | \-    |
+| [[📘 News Articles\|📘 News Articles]]                                                                                                       | 2022-11-21 | 2023-11-22 | \-    |
 | [[📘 Running\|📘 Running]]                                                                                                                   | 2023-06-01 | 2023-10-02 | \-    |
 | [[📘 Sermons\|📘 Sermons]]                                                                                                                   | 2023-07-12 | 2023-08-05 | \-    |
 | [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                                     | 2023-08-10 | 2023-11-13 | 🥈    |
@@ -64,7 +64,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                               | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]             | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-11-20 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-11-22 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                                           | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                                   | 2023-08-02 | 2023-10-08 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                                       | 2023-09-12 | 2023-09-13 | 🥈    |
