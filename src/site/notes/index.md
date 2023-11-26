@@ -5,14 +5,13 @@
 
 <div class="hc"><div class="hc__left">
 
-![mt-washington.jpg](/img/user/98-attachments/mt-washington.jpg)
-
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]].
 
 
 > [!TIP] Currently seeking work
 > I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
+![mt-washington.jpg](/img/user/98-attachments/mt-washington.jpg)
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
