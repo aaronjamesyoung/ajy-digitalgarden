@@ -45,6 +45,7 @@ What is Christian nonviolence?
 
 ## External Articles
 
+- [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)
 - [Enemy Lovers](https://www.plough.com/en/topics/faith/witness/enemy-lovers)
 - [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)
 - [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)
