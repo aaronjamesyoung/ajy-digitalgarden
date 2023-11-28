@@ -59,6 +59,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-08-20 Full Bloom\|2023-08-20 Full Bloom]]                                                                                     | 2023-08-20 | 2023-11-13 | 🥉    |
 | [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-20 | 🥉    |
 | [[sermons/2023-11-20 Rooted & Responsive Worship\|2023-11-20 Rooted & Responsive Worship]]                                                   | 2023-11-20 | 2023-11-20 | 🥉    |
+| [[sermons/2023-11-27 The Kingdom is Already & Not Yet\|2023-11-27 The Kingdom is Already & Not Yet]]                                         | 2023-11-28 | 2023-11-28 | 🥉    |
 | [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                                         | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
@@ -82,7 +83,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                             | 2023-02-01 | 2023-02-01 | 🥇    |
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                                 | 2023-08-14 | 2023-08-14 | 🥈    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                                             | 2023-08-03 | 2023-10-01 | \-    |
+| [[index\|index]]                                                                                                                             | 2023-08-03 | 2023-11-26 | \-    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                             | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                                             | 2022-04-12 | 2023-06-28 | 🥈    |
 | [[MYOG Quilt\|MYOG Quilt]]                                                                                                                   | 2023-07-27 | 2023-07-26 | 🥈    |
