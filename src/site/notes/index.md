@@ -25,7 +25,6 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NqKrzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](http://books.google.com/books/content?id=z1k_AxXUvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/GH1_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -36,11 +35,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/GH1_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/rv6OUfWcdwIC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/v1LKQiao7GgC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/9KkWEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/lAO7iHaw0EwC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/WoNE62wPkBEC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -50,14 +49,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                        | read on           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [The Decolonization Narrative Is Dangerous and False](https://www.theatlantic.com/ideas/archive/2023/10/decolonization-narrative-dangerous-and-false/675799/?utm_source=feed) | November 24, 2023 |
-| [Trump Is Becoming Frighteningly Clear About What He Wants](https://www.theatlantic.com/ideas/archive/2023/11/trump-becoming-frighteningly-clear-about-what-he-wants/676086/) | November 22, 2023 |
-| [The Problem With Turkey Trots](https://www.theatlantic.com/family/archive/2023/11/turkey-trot-tradition-american-diet-culture/676056/)                                       | November 21, 2023 |
-| [America is Big Mad](https://www.axios.com/2023/11/19/america-is-big-mad)                                                                                                     | November 20, 2023 |
-| [‘Christianity Will Have Power’](https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html)                                                                  | November 20, 2023 |
-| [Enemy Lovers](https://www.plough.com/en/topics/faith/witness/enemy-lovers)                                                                                                   | November 14, 2023 |
+| source                                                                                                                                                                                                               | read on           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/)                                                                        | November 28, 2023 |
+| [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)                                                                                                                     | November 27, 2023 |
+| [How to make your last name plural on holiday cards and avoid apostrophe catastrophe.](https://www.slate.com/blogs/browbeat/2014/11/25/how_to_make_your_last_name_plural_on_holiday_cards_and_avoid_apostrophe.html) | November 27, 2023 |
+| [The Decolonization Narrative Is Dangerous and False](https://www.theatlantic.com/ideas/archive/2023/10/decolonization-narrative-dangerous-and-false/675799/?utm_source=feed)                                        | November 24, 2023 |
+| [Trump Is Becoming Frighteningly Clear About What He Wants](https://www.theatlantic.com/ideas/archive/2023/11/trump-becoming-frighteningly-clear-about-what-he-wants/676086/)                                        | November 22, 2023 |
+| [The Problem With Turkey Trots](https://www.theatlantic.com/family/archive/2023/11/turkey-trot-tradition-american-diet-culture/676056/)                                                                              | November 21, 2023 |
 
 { .block-language-dataview}
 
