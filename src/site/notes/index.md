@@ -50,12 +50,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                               | read on           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                                                                                               | December 05, 2023 |
 | [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)                                                                             | December 05, 2023 |
 | [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/)                                                                        | November 28, 2023 |
 | [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)                                                                                                                     | November 27, 2023 |
 | [How to make your last name plural on holiday cards and avoid apostrophe catastrophe.](https://www.slate.com/blogs/browbeat/2014/11/25/how_to_make_your_last_name_plural_on_holiday_cards_and_avoid_apostrophe.html) | November 27, 2023 |
 | [The Decolonization Narrative Is Dangerous and False](https://www.theatlantic.com/ideas/archive/2023/10/decolonization-narrative-dangerous-and-false/675799/?utm_source=feed)                                        | November 24, 2023 |
-| [Trump Is Becoming Frighteningly Clear About What He Wants](https://www.theatlantic.com/ideas/archive/2023/11/trump-becoming-frighteningly-clear-about-what-he-wants/676086/)                                        | November 22, 2023 |
 
 { .block-language-dataview}
 
