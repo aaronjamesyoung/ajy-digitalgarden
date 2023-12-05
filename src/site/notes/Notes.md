@@ -60,6 +60,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[sermons/2023-10-10 The Human Authorship & Divine Authority of Scripture\|2023-10-10 The Human Authorship & Divine Authority of Scripture]] | 2023-10-10 | 2023-11-20 | 🥉    |
 | [[sermons/2023-11-20 Rooted & Responsive Worship\|2023-11-20 Rooted & Responsive Worship]]                                                   | 2023-11-20 | 2023-11-20 | 🥉    |
 | [[sermons/2023-11-27 The Kingdom is Already & Not Yet\|2023-11-27 The Kingdom is Already & Not Yet]]                                         | 2023-11-28 | 2023-11-28 | 🥉    |
+| [[sermons/2023-12-05 Waiting with Expectation\|2023-12-05 Waiting with Expectation]]                                                         | 2023-12-05 | 2023-12-05 | 🥉    |
 | [[About Me\|About Me]]                                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                                         | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                                      | 2023-07-28 | 2023-07-28 | 🥈    |
