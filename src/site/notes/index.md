@@ -23,6 +23,7 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/__eLJ3a27HUC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/YiEEAAAAQAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
@@ -50,8 +51,8 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                               | read on           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                                                                                               | December 05, 2023 |
 | [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)                                                                             | December 05, 2023 |
+| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                                                                                               | December 05, 2023 |
 | [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/)                                                                        | November 28, 2023 |
 | [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)                                                                                                                     | November 27, 2023 |
 | [How to make your last name plural on holiday cards and avoid apostrophe catastrophe.](https://www.slate.com/blogs/browbeat/2014/11/25/how_to_make_your_last_name_plural_on_holiday_cards_and_avoid_apostrophe.html) | November 27, 2023 |
