@@ -1,11 +1,9 @@
 ---
-{"source":"[The Peaceable Kingdom](https://www.youtube.com/watch?v=cBQxgi4ZGeM)","clipped":"2022-12-04","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2022-12-04-the-peaceable-kingdom/","dgPassFrontmatter":true}
+{"source":"[The Peaceable Kingdom](https://www.youtube.com/watch?v=cBQxgi4ZGeM)","clipped":"2022-12-04","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Advent","permalink":"/sermons/2022-12-04-the-peaceable-kingdom/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cBQxgi4ZGeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[[sermons/2022 Advent\|2022 Advent]]
 
 [[94-bible/Isaiah 11\|Isaiah 11]] vv 1-10
 
