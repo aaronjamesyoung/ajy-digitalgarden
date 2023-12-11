@@ -1,15 +1,13 @@
 ---
-{"source":"[Waiting with Expectation](https://www.youtube.com/watch?v=QbeS2fsFAIo)","clipped":"2023-12-05","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-12-05","permalink":"/sermons/2023-12-05-waiting-with-expectation/","dgPassFrontmatter":true}
+{"source":"[Waiting with Expectation](https://www.youtube.com/watch?v=QbeS2fsFAIo)","clipped":"2023-12-05","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-12-05","sermonSeries":"2023 Advent","permalink":"/sermons/2023-12-05-waiting-with-expectation/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QbeS2fsFAIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[2023 Advent\|2023 Advent]]
-
 First week of Advent, 2023
 
-[[Isaiah 64\|Isaiah 64]] v1-9 - Waiting with expectation
+[[94-bible/Isaiah 64\|Isaiah 64]] v1-9 - Waiting with expectation
 
 * Advent is the start of the new church year:
 	* Time of preparation and waiting for Christ:
