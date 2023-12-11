@@ -1,11 +1,11 @@
 ---
-{"source":"[Which King, Whose Kingdom?](https://www.youtube.com/watch?v=X3PCjLv7-Bw)","clipped":"2023-02-19","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-02-19-which-king-whose-kingdom/","dgPassFrontmatter":true}
+{"source":"[Which King, Whose Kingdom?](https://www.youtube.com/watch?v=X3PCjLv7-Bw)","clipped":"2023-02-19","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Epiphany","permalink":"/sermons/2023-02-19-which-king-whose-kingdom/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3PCjLv7-Bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[94-bible/Psalm 2\|Psalm 2]], [[94-bible/1 Samuel 8\|1 Samuel 8]] [[sermons/2023 Epiphany\|2023 Epiphany]]
+[[94-bible/Psalm 2\|Psalm 2]], [[94-bible/1 Samuel 8\|1 Samuel 8]]
 
 Sermon from Jer Swigart
 
