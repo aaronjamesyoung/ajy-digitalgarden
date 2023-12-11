@@ -1,11 +1,9 @@
 ---
-{"source":"[Wait Training](https://www.youtube.com/watch?v=A4HSAE-r2tw)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-01-15-wait-training/","dgPassFrontmatter":true}
+{"source":"[Wait Training](https://www.youtube.com/watch?v=A4HSAE-r2tw)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Epiphany","permalink":"/sermons/2023-01-15-wait-training/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A4HSAE-r2tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Second Sunday in [[sermons/2023 Epiphany\|2023 Epiphany]]
 
 [[94-bible/Psalm 40\|Psalm 40]] verses 1-11 - Dr. Gerry Breshears
 
