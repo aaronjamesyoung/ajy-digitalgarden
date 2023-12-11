@@ -1,9 +1,7 @@
 ---
-{"source":"[Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)","clipped":"2022-11-13","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2022-11-13-receiving-communion/","dgPassFrontmatter":true}
+{"source":"[Receiving Communion](https://www.youtube.com/watch?v=sSl4yYrKfPs)","clipped":"2022-11-13","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Work of the People","permalink":"/sermons/2022-11-13-receiving-communion/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2022 Work of the People\|2022 Work of the People]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSl4yYrKfPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
