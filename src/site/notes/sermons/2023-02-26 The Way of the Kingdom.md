@@ -1,9 +1,7 @@
 ---
-{"source":"[The Way of the Kingdom](https://www.youtube.com/watch?v=R82afri8dbc)","clipped":"2023-02-26","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-02-26-the-way-of-the-kingdom/","dgPassFrontmatter":true}
+{"source":"[The Way of the Kingdom](https://www.youtube.com/watch?v=R82afri8dbc)","clipped":"2023-02-26","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Lent","permalink":"/sermons/2023-02-26-the-way-of-the-kingdom/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2023 Lent\|2023 Lent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R82afri8dbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
