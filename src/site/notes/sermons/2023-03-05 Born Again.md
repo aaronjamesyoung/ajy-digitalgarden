@@ -1,9 +1,7 @@
 ---
-{"source":"[Born Again](https://www.youtube.com/watch?v=BB-VTcYdWGE)","clipped":"2023-03-05","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-03-05-born-again/","dgPassFrontmatter":true}
+{"source":"[Born Again](https://www.youtube.com/watch?v=BB-VTcYdWGE)","clipped":"2023-03-05","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Lent","permalink":"/sermons/2023-03-05-born-again/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2023 Lent\|2023 Lent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BB-VTcYdWGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,4 +22,3 @@ Michelle Jones, pastor from Imago Dei. 2nd Sunday of Lent
 * vv 11-13 - What can you do? You can trust me. Over the course of this passage, Jesus gets clearer and more explicit
     * Augustine: "The jews looked upon a serpent to be freed from serpents, and we look upon the death of Christ to be freed from death"
 * vv 16-17 - John stops quoting Jesus. Focus shifts from the story, to the listener.
-
