@@ -9,7 +9,7 @@ August 2022, Antioch - Notes from the Gospel and Culture forum on how Christians
 * Conflict is not the problem. Our ability to handle conflict is the problem. We can engage in hard conversations if we develop the tools
 * We have a kingdom responsibility to leverage our votes to help people on the underside of power
 
-### a conflicted allegiance
+## A Conflicted Allegiance
 
 * Nation vs kingdom
 * Cross and country - Christian nationalism - an errant belief that America is God's chosen nation and must be defended as such
@@ -17,14 +17,14 @@ August 2022, Antioch - Notes from the Gospel and Culture forum on how Christians
     * When we say God has put a person in power, we can attribute their actions as the will of God, and unquestionably go with it.
     * This can lead to using violence to try to make our nation more like how we think it should be as a Christian nation
 
-BILLY GRAHAM AFTER WATERGATE: "in my earlier days... I tended to identify the kingdom of God with the American way of life. I don't think like that now."
+BILLY GRAHAM AFTER WATERGATE: "in my earlier days… I tended to identify the kingdom of God with the American way of life. I don't think like that now."
 
-### going too far the other way
+## Going Too far the other way
 
 * Don't get apolitical or impartial. Keeping the church out of politics is not helpful to people under oppression.
 * You're not taking responsibility if you say "Jesus not politics"
 
-### be involved
+## Be Involved
 
 * Our relationship with Jesus should not be static. We should be willing to evaluate and reconstruct or faith.
 * Democracy may not be perfect but it is our tool
