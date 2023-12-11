@@ -1,11 +1,9 @@
 ---
-{"source":"[Hearing God](https://www.youtube.com/watch?v=Ooh0jE8X3SI)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-01-08-hearing-god/","dgPassFrontmatter":true}
+{"source":"[Hearing God](https://www.youtube.com/watch?v=Ooh0jE8X3SI)","clipped":"2023-02-02","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Epiphany","permalink":"/sermons/2023-01-08-hearing-god/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ooh0jE8X3SI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Sermon for the first Sunday of [[sermons/2023 Epiphany\|2023 Epiphany]]
 
 [[94-bible/Psalm 29\|Psalm 29]]
 
