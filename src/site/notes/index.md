@@ -13,12 +13,6 @@
 
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
-## Follow me online
-
-### Latest Photos <small><a class="button" target="_blank" href="https://pixelfed.social/i/web/profile/584894152884316735">Follow me on Pixelfed</a></small>
-
-<div id="pixelfed"></div>
-
 ### Currently Reading
 
 <div class="book-covers">
@@ -37,13 +31,17 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/rN27wwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NqKrzwEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](http://books.google.com/books/content?id=z1k_AxXUvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+- ![cover](https://books.google.com/books/content?id=z1k_AxXUvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/GH1_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/rv6OUfWcdwIC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
 </div>
+
+### Latest Photos <small><a class="button" target="_blank" href="https://pixelfed.social/i/web/profile/584894152884316735">Follow me on Pixelfed</a></small>
+
+<div id="pixelfed"></div>
 
 ### News
 
