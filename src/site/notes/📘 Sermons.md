@@ -5,10 +5,6 @@
 
 ## Sermon Series
 - [[sermons/2020 First Allegiance\|2020 First Allegiance]]
-- [[sermons/2022 Advent\|2022 Advent]]
-- [[sermons/2022 Work of the People\|2022 Work of the People]]
-- [[sermons/2023 Epiphany\|2023 Epiphany]]
-- [[sermons/2023 Lent\|2023 Lent]]
 
 { .block-language-dataview}
 ## Not Sermons
