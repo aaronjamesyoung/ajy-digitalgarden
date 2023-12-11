@@ -1,9 +1,7 @@
 ---
-{"source":"[When God Cries](https://www.youtube.com/watch?v=yEtKBHm0vYE)","clipped":"2023-07-12","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2023-03-26-when-god-cries/","dgPassFrontmatter":true}
+{"source":"[When God Cries](https://www.youtube.com/watch?v=yEtKBHm0vYE)","clipped":"2023-07-12","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Lent","permalink":"/sermons/2023-03-26-when-god-cries/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2023 Lent\|2023 Lent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
