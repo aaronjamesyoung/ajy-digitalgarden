@@ -9,12 +9,12 @@ Here are my notes from the Antioch Church Gospel and Culture forum on nonviolenc
 
 This discussion was led by Dr. Gerry Breshears, professor of theology at Western Seminary: [Gerry Breshears, Ph.D. - Western Seminary](https://www.westernseminary.edu/academics/faculty/gerry-breshears).
 
-## Broad categories of Christian positions on involvement in violence
+## Broad Categories of Christian Positions on Involvement in Violence
 
 ### Pacifism
 
 * [[94-bible/Romans 12\|Romans 12]]. Also Sermon on the Mount - "Turn the other cheek", "don't resist the one who is evil"
-    * Bless those who persecute you; bless and do not curse them... Repay no one evil for evil, but give thought to do what is honorable in the sight of all. If possible, so far as it depends on you, live peaceably with all. Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.” To the contrary, “if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.” Do not be overcome by evil, but overcome evil with good.
+    * Bless those who persecute you; bless and do not curse them… Repay no one evil for evil, but give thought to do what is honorable in the sight of all. If possible, so far as it depends on you, live peaceably with all. Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, "Vengeance is mine, I will repay, says the Lord." To the contrary, "if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head." Do not be overcome by evil, but overcome evil with good.
         * This is very direct teaching.
 * This was the position of the early church until the time of Constantine.
 * Rejection of violence in all forms:
@@ -29,7 +29,7 @@ This discussion was led by Dr. Gerry Breshears, professor of theology at Western
 * A Christian can serve in the military only as a non-combatant.
 * This particularly applies if they have been legally conscripted.
 
-### Just war
+### Just War
 
 * [[94-bible/Genesis 14\|Genesis 14]] - describes Abram's defense of Lot and the reaction of the priest Melchizidek. Though Abram was not always a perfectly moral man, Melchizidek seems to have approved of the action.
 * This point of view developed in Christianity around the time of Constantine.
@@ -69,7 +69,7 @@ Short notes from the general discussion / Q&A following the above presentation.
 * We should remember that as Christians, our primary citizenship is in the Kingdom of Heaven and our first duty is to it.
 * Some key scriptures and points that Christans agree on across these views:
     * [[94-bible/Romans 12\|Romans 12]] - We are not to avenge ourselves with violence. This does not necessarily preclude self-defense.
-    * [[94-bible/Matthew 5\|Matthew 5]]  - Do not resist an evil one
+    * [[94-bible/Matthew 5\|Matthew 5]] - Do not resist an evil one
     * [[94-bible/Romans 13\|Romans 13]] - Governments are established by God
         * Note: This passage is discussing the Roman government. If it was talking about the theocratic system of Israel's OT government, I think we could reasonably consider this passage not to apply to us - but it's talking about worldly governments.
         * This passage was written by Paul, who did sometimes refuse to submit to government [[94-bible/Acts 16\|Acts 16]] v 35
