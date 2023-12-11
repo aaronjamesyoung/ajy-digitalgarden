@@ -1,9 +1,7 @@
 ---
-{"source":"[Walk in the Light of the Lord](https://www.youtube.com/watch?v=_1TC6L26iBw)","clipped":"2022-11-27","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","permalink":"/sermons/2022-11-27-walk-in-the-light-of-the-lord/","dgPassFrontmatter":true}
+{"source":"[Walk in the Light of the Lord](https://www.youtube.com/watch?v=_1TC6L26iBw)","clipped":"2022-11-27","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Advent","permalink":"/sermons/2022-11-27-walk-in-the-light-of-the-lord/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2022 Advent\|2022 Advent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_1TC6L26iBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
