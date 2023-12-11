@@ -1,11 +1,9 @@
 ---
-{"source":"[Rooted & Responsive Worship](https://www.youtube.com/watch?v=VwIIWoyu2OU)","clipped":"2023-11-20","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-11-20","permalink":"/sermons/2023-11-20-rooted-and-responsive-worship/","dgPassFrontmatter":true}
+{"source":"[Rooted & Responsive Worship](https://www.youtube.com/watch?v=VwIIWoyu2OU)","clipped":"2023-11-20","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-11-20","sermonSeries":"2023 The Whole Gospel","permalink":"/sermons/2023-11-20-rooted-and-responsive-worship/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VwIIWoyu2OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[[The Whole Gospel\|The Whole Gospel]]
 
 ## Worship
 
