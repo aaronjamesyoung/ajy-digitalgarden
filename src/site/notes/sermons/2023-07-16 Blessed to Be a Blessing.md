@@ -1,5 +1,5 @@
 ---
-{"source":"[Blessed to Be a Blessing](https://www.youtube.com/watch?v=Bq4wevFZh8E)","clipped":"2023-07-16","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-11","permalink":"/sermons/2023-07-16-blessed-to-be-a-blessing/","dgPassFrontmatter":true}
+{"source":"[Blessed to Be a Blessing](https://www.youtube.com/watch?v=Bq4wevFZh8E)","clipped":"2023-07-16","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-11","sermonSeries":"2023 Summertide","permalink":"/sermons/2023-07-16-blessed-to-be-a-blessing/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,7 +15,7 @@ Scripture has 6 acts to resure & redeem the world:
 * Fall
 * Israel (Genesis 12 - Malachi)
 * Jesus
-* Church - Acts -  Rev 20
+* Church - Acts - Rev 20
 * New Creation - Rev. 21-22
 
 In Genesis 12, Abram is a random guy who God calls. God tells Abram to leave but not where to go. Calls Abram away from his family and established life, to an unknown destination.
