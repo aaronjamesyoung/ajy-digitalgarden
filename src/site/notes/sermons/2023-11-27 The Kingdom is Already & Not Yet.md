@@ -1,11 +1,9 @@
 ---
-{"source":"[The Kingdom is Already & Not Yet](https://www.youtube.com/watch?v=QFBR-NcAqnU)","clipped":"2023-11-28","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-11-28","permalink":"/sermons/2023-11-27-the-kingdom-is-already-and-not-yet/","dgPassFrontmatter":true}
+{"source":"[The Kingdom is Already & Not Yet](https://www.youtube.com/watch?v=QFBR-NcAqnU)","clipped":"2023-11-28","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-11-28","sermonSeries":"2023 The Whole Gospel","permalink":"/sermons/2023-11-27-the-kingdom-is-already-and-not-yet/","dgPassFrontmatter":true}
 ---
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QFBR-NcAqnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[[The Whole Gospel\|The Whole Gospel]]
 
 [[94-bible/Acts 1\|Acts 1]] v1-11
 
