@@ -5,7 +5,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EmJwkSJxYPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[Isaiah 40\|Isaiah 40]] v1-11
+[[94-bible/Isaiah 40\|Isaiah 40]] v1-11
 
 Second Sunday of Advent
 
@@ -16,7 +16,7 @@ Second Sunday of Advent
 * v2: "Her hard service has been completed"
 * v3: "A voice cries" - What will it look like when God arrives? Highway metaphor: Ground levled ot to make way for the coming of the Lord.
 * Martin Luther King, Jr. quoted this passage in his "I have a dream" speech. Why?
-	* Verse 3 is referenced in [[Luke 3\|Luke 3]] v4-5 when Jesus' arrival is being announced by John the Baptist. John is the last of the OT prophetic tradition. He is preparing the way for Christ.
+	* Verse 3 is referenced in [[94-bible/Luke 3\|Luke 3]] v4-5 when Jesus' arrival is being announced by John the Baptist. John is the last of the OT prophetic tradition. He is preparing the way for Christ.
 	* Luke 3:5 - Justice is coming - God is going to raise those who are low, and the high will be brought down. MLK Jr was echoing this.
 	* The power structures in society are demolished and inverted.
 	* When you're used to being on top, justice feels like oppression (but it's not)
