@@ -88,7 +88,7 @@ Short notes from the general discussion / Q&A following the above presentation.
 
 Speaker: what is his position?
 
-* [[Jeremiah 21\|Jeremiah 21]] verse 12 - Be actively involved in justice issues and protect the innocent.
+* [[94-bible/Jeremiah 21\|Jeremiah 21]] verse 12 - Be actively involved in justice issues and protect the innocent.
 * Speaker: He has an essentially pacifist view, but in an immediate crisis can use the *minimum force necessary* to prevent violence. This could be a sin! Sometimes there is no sinless way out of a situation, and we must do the *least wrong thing* to resolve it. We should still confess that action as a sin.
     * I think this is important to remember. We should not become desensitized to commiting wrongs even if they are necessary at times; we should remember they are wrong even when done toward good ends.
 * Aaron thoughts: This is a position specifically on physical violence. Are there principles here that can be extended to other areas of our lives? Verbal violence?
