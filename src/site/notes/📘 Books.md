@@ -16,6 +16,7 @@
 
 ## Other Notes
 
+* [[Best books of 2023\|Best books of 2023]]
 * [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]
 
 ## External Articles
