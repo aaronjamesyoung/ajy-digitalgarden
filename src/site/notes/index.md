@@ -17,6 +17,7 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/A54J9pyUf38C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/YiEEAAAAQAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_MO5EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
@@ -29,11 +30,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/4TTLyQEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/__eLJ3a27HUC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/rN27wwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NqKrzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/content?id=z1k_AxXUvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/GH1_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -47,14 +48,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                               | read on           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Useful JavaScript Data Grid Libraries — Smashing Magazine](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)                                                                         | December 12, 2023 |
-| [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)                                                                             | December 05, 2023 |
-| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                                                                                               | December 05, 2023 |
-| [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/)                                                                        | November 28, 2023 |
-| [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)                                                                                                                     | November 27, 2023 |
-| [How to make your last name plural on holiday cards and avoid apostrophe catastrophe.](https://www.slate.com/blogs/browbeat/2014/11/25/how_to_make_your_last_name_plural_on_holiday_cards_and_avoid_apostrophe.html) | November 27, 2023 |
+| source                                                                                                                                        | read on           |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Why Trump Won’t Win](https://www.theatlantic.com/ideas/archive/2023/12/trump-2024-win-why-unlikely/676354/?utm_source=feed)                  | December 15, 2023 |
+| [Useful JavaScript Data Grid Libraries — Smashing Magazine](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)  | December 12, 2023 |
+| [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)      | December 05, 2023 |
+| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                        | December 05, 2023 |
+| [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/) | November 28, 2023 |
+| [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)                                              | November 27, 2023 |
 
 { .block-language-dataview}
 
@@ -79,6 +80,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Best books of 2023\|Best books of 2023]] (Updated 2023-12-18)
 - [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-28)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-09-18)
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
