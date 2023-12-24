@@ -80,6 +80,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Wordle letter frequency\|Wordle letter frequency]] (Updated 2023-12-24)
 - [[Best books of 2023\|Best books of 2023]] (Updated 2023-12-18)
 - [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-28)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-09-18)
