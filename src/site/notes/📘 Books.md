@@ -3,7 +3,7 @@
 ---
 
 
-* [[Recommended Books\|Recommended Books]] - If you ask me what you should read, I'll send you this list.
+* [[Books Read in 2024\|Books Read in 2024]]
 * [[Books Read in 2023\|Books Read in 2023]]
 * [[Books Read Before 2023\|Books Read Before 2023]] - I wasn't tracking as carefully, but here are most of the books I read over the past few years.
 
@@ -16,6 +16,7 @@
 
 ## Other Notes
 
+* [[Recommended Books\|Recommended Books]] - If you ask me what you should read, I'll send you this list.
 * [[Best books of 2023\|Best books of 2023]]
 * [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]
 
