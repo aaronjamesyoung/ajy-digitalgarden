@@ -48,14 +48,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                        | read on           |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Why Trump Won’t Win](https://www.theatlantic.com/ideas/archive/2023/12/trump-2024-win-why-unlikely/676354/?utm_source=feed)                  | December 15, 2023 |
-| [Useful JavaScript Data Grid Libraries — Smashing Magazine](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)  | December 12, 2023 |
-| [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)      | December 05, 2023 |
-| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                        | December 05, 2023 |
-| [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/) | November 28, 2023 |
-| [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)                                              | November 27, 2023 |
+| source                                                                                                                                                                                                             | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [You've heard of Santa, maybe even Krampus, but what about the child-eating Yule Cat?](https://www.npr.org/2023/12/23/1221454825/youve-heard-of-santa-maybe-even-krampus-but-what-about-the-child-eating-yule-cat) | December 23, 2023 |
+| [Why Trump Won’t Win](https://www.theatlantic.com/ideas/archive/2023/12/trump-2024-win-why-unlikely/676354/?utm_source=feed)                                                                                       | December 15, 2023 |
+| [Useful JavaScript Data Grid Libraries — Smashing Magazine](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)                                                                       | December 12, 2023 |
+| [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)                                                                           | December 05, 2023 |
+| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                                                                                             | December 05, 2023 |
+| [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/)                                                                      | November 28, 2023 |
 
 { .block-language-dataview}
 
