@@ -15,7 +15,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                                            | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                                       | 2023-08-03 | 2023-12-18 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                                       | 2023-08-03 | 2023-12-23 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                                       | 2023-07-12 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                                         | 2023-06-01 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                                           | 2023-06-01 | 2023-10-02 | \-    |
@@ -70,6 +70,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bookmarks\|Bookmarks]]                                                                                                                     | 2023-08-22 | 2023-11-22 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                                           | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                                   | 2023-08-02 | 2023-12-11 | 🥈    |
+| [[Books Read in 2024\|Books Read in 2024]]                                                                                                   | 2023-12-23 | 2023-12-23 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                                       | 2023-09-12 | 2023-09-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                                     | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                                   | 2022-11-11 | 2023-10-31 | \-    |
@@ -106,5 +107,6 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Uses\|Uses]]                                                                                                                               | 2023-07-27 | 2023-10-31 | \-    |
 | [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]]                   | 2023-07-07 | 2023-07-07 | 🥇    |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                                                             | 2022-11-12 | 2023-09-18 | 🥇    |
+| [[Wordle letter frequency\|Wordle letter frequency]]                                                                                         | 2023-12-24 | 2023-12-24 | 🥇    |
 
 { .block-language-dataview}
