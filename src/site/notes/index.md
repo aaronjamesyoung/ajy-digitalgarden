@@ -20,6 +20,7 @@
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/A54J9pyUf38C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/YiEEAAAAQAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_MO5EAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/IGmrzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -50,12 +51,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                             | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Living with Religious Scrupulosity or Moral OCD](https://www.plough.com/en/topics/faith/discipleship/living-with-religious-scrupulosity-or-moral-ocd)                                                             | December 27, 2023 |
+| [Selling Friends](https://www.plough.com/en/topics/life/relationships/selling-friends)                                                                                                                             | December 27, 2023 |
 | [You've heard of Santa, maybe even Krampus, but what about the child-eating Yule Cat?](https://www.npr.org/2023/12/23/1221454825/youve-heard-of-santa-maybe-even-krampus-but-what-about-the-child-eating-yule-cat) | December 23, 2023 |
 | [Why Trump Won’t Win](https://www.theatlantic.com/ideas/archive/2023/12/trump-2024-win-why-unlikely/676354/?utm_source=feed)                                                                                       | December 15, 2023 |
 | [Useful JavaScript Data Grid Libraries — Smashing Magazine](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)                                                                       | December 12, 2023 |
 | [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)                                                                           | December 05, 2023 |
-| [In Praise of Repair Culture](https://www.plough.com/en/topics/justice/sustainable-living/in-praise-of-repair-culture)                                                                                             | December 05, 2023 |
-| [My Father, My Faith, and Donald Trump](https://www.theatlantic.com/magazine/archive/2024/01/evangelical-christian-nationalism-trump/676150/)                                                                      | November 28, 2023 |
 
 { .block-language-dataview}
 
