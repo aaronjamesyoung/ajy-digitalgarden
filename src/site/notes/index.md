@@ -50,12 +50,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                             | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Axios Explains: The racist history of Trump's 'poisoning the blood'](https://www.axios.com/2023/12/30/trump-poisoning-the-blood-racism)                                                                           | January 01, 2024  |
+| [December 29, 2023 (Nikki Haley and the death of the  Republican Party)](https://heathercoxrichardson.substack.com/p/december-29-2023)                                                                             | January 01, 2024  |
 | [Living with Religious Scrupulosity or Moral OCD](https://www.plough.com/en/topics/faith/discipleship/living-with-religious-scrupulosity-or-moral-ocd)                                                             | December 27, 2023 |
 | [Selling Friends](https://www.plough.com/en/topics/life/relationships/selling-friends)                                                                                                                             | December 27, 2023 |
 | [You've heard of Santa, maybe even Krampus, but what about the child-eating Yule Cat?](https://www.npr.org/2023/12/23/1221454825/youve-heard-of-santa-maybe-even-krampus-but-what-about-the-child-eating-yule-cat) | December 23, 2023 |
 | [Why Trump Won’t Win](https://www.theatlantic.com/ideas/archive/2023/12/trump-2024-win-why-unlikely/676354/?utm_source=feed)                                                                                       | December 15, 2023 |
-| [Useful JavaScript Data Grid Libraries — Smashing Magazine](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)                                                                       | December 12, 2023 |
-| [What Trump Could Do With a Second Term](https://www.theatlantic.com/magazine/archive/2024/01/donald-trump-second-term-policies/676176/)                                                                           | December 05, 2023 |
 
 { .block-language-dataview}
 
