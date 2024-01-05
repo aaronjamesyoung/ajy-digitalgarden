@@ -17,9 +17,9 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/q-eTDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/IGmrzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZG6pwnARDFYC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Ch1dp24RxYoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -30,11 +30,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Ch1dp24RxYoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/A54J9pyUf38C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/YiEEAAAAQAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_MO5EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/4TTLyQEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/__eLJ3a27HUC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -50,11 +50,11 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                          | read on           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [9 ways to get healthier in 2024 without trying very hard](https://www.npr.org/sections/health-shots/2024/01/02/1222505943/9-ways-to-get-healthier-in-2024-without-trying-very-hard)                            | January 02, 2024  |
 | [New California law banning guns in most public places takes effect](https://www.axios.com/2024/01/02/new-gun-ban-california-public-places)                                                                     | January 02, 2024  |
 | [Why My Favorite Strength Training Equipment is a Backpack Made for Distance Running](https://www.trailrunnermag.com/gear/why-my-favorite-strength-training-equipment-is-a-backpack-made-for-distance-running/) | January 02, 2024  |
 | [Axios Explains: The racist history of Trump's 'poisoning the blood'](https://www.axios.com/2023/12/30/trump-poisoning-the-blood-racism)                                                                        | January 01, 2024  |
 | [December 29, 2023 (Nikki Haley and the death of the  Republican Party)](https://heathercoxrichardson.substack.com/p/december-29-2023)                                                                          | January 01, 2024  |
-| [Living with Religious Scrupulosity or Moral OCD](https://www.plough.com/en/topics/faith/discipleship/living-with-religious-scrupulosity-or-moral-ocd)                                                          | December 27, 2023 |
 | [Selling Friends](https://www.plough.com/en/topics/life/relationships/selling-friends)                                                                                                                          | December 27, 2023 |
 
 { .block-language-dataview}
