@@ -17,7 +17,7 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/q-eTDwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dyKMDQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/IGmrzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZG6pwnARDFYC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
@@ -30,11 +30,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/q-eTDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Ch1dp24RxYoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/A54J9pyUf38C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/YiEEAAAAQAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_MO5EAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/4TTLyQEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -48,14 +48,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                          | read on          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [Don't look so blue, Neptune: Now astronomers know this planet's true color](https://www.npr.org/2024/01/05/1222906151/dont-look-so-blue-neptune-now-astronomers-know-this-planets-true-color)                  | January 06, 2024 |
-| [How Republicans have changed their tune on Jan. 6](https://www.axios.com/2024/01/06/jan-6-republican-response-change-anniversary)                                                                              | January 06, 2024 |
-| [9 ways to get healthier in 2024 without trying very hard](https://www.npr.org/sections/health-shots/2024/01/02/1222505943/9-ways-to-get-healthier-in-2024-without-trying-very-hard)                            | January 02, 2024 |
-| [New California law banning guns in most public places takes effect](https://www.axios.com/2024/01/02/new-gun-ban-california-public-places)                                                                     | January 02, 2024 |
-| [Why My Favorite Strength Training Equipment is a Backpack Made for Distance Running](https://www.trailrunnermag.com/gear/why-my-favorite-strength-training-equipment-is-a-backpack-made-for-distance-running/) | January 02, 2024 |
-| [Axios Explains: The racist history of Trump's 'poisoning the blood'](https://www.axios.com/2023/12/30/trump-poisoning-the-blood-racism)                                                                        | January 01, 2024 |
+| source                                                                                                                                                                                         | read on          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Disqualifying Trump Is Not Antidemocratic](https://www.theatlantic.com/ideas/archive/2024/01/constitution-democracy-trump-colorado-ruling/677074/)                                            | January 10, 2024 |
+| [After Dobbs Supreme Court Ruling, Little Change on Legal Abortions](https://www.nytimes.com/2023/09/07/briefing/abortion-dobbs.html)                                                          | January 06, 2024 |
+| [Don't look so blue, Neptune: Now astronomers know this planet's true color](https://www.npr.org/2024/01/05/1222906151/dont-look-so-blue-neptune-now-astronomers-know-this-planets-true-color) | January 06, 2024 |
+| [How Republicans have changed their tune on Jan. 6](https://www.axios.com/2024/01/06/jan-6-republican-response-change-anniversary)                                                             | January 06, 2024 |
+| [9 ways to get healthier in 2024 without trying very hard](https://www.npr.org/sections/health-shots/2024/01/02/1222505943/9-ways-to-get-healthier-in-2024-without-trying-very-hard)           | January 02, 2024 |
+| [New California law banning guns in most public places takes effect](https://www.axios.com/2024/01/02/new-gun-ban-california-public-places)                                                    | January 02, 2024 |
 
 { .block-language-dataview}
 
