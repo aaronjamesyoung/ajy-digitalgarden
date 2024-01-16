@@ -50,12 +50,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                         | read on          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Middle-Earth Heroes](https://www.plough.com/en/topics/culture/film/middle-earth-heroes)                                                                                                       | January 16, 2024 |
 | [Disqualifying Trump Is Not Antidemocratic](https://www.theatlantic.com/ideas/archive/2024/01/constitution-democracy-trump-colorado-ruling/677074/)                                            | January 10, 2024 |
 | [After Dobbs Supreme Court Ruling, Little Change on Legal Abortions](https://www.nytimes.com/2023/09/07/briefing/abortion-dobbs.html)                                                          | January 06, 2024 |
 | [Don't look so blue, Neptune: Now astronomers know this planet's true color](https://www.npr.org/2024/01/05/1222906151/dont-look-so-blue-neptune-now-astronomers-know-this-planets-true-color) | January 06, 2024 |
 | [How Republicans have changed their tune on Jan. 6](https://www.axios.com/2024/01/06/jan-6-republican-response-change-anniversary)                                                             | January 06, 2024 |
 | [9 ways to get healthier in 2024 without trying very hard](https://www.npr.org/sections/health-shots/2024/01/02/1222505943/9-ways-to-get-healthier-in-2024-without-trying-very-hard)           | January 02, 2024 |
-| [New California law banning guns in most public places takes effect](https://www.axios.com/2024/01/02/new-gun-ban-california-public-places)                                                    | January 02, 2024 |
 
 { .block-language-dataview}
 
