@@ -18,7 +18,7 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dyKMDQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/PBb0P6xnbkoC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/aF0_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OeuMDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
@@ -30,11 +30,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/PBb0P6xnbkoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/yZK-zQEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/h3wSdakBjZwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/6oNrEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/7m6vEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/IGmrzwEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -48,14 +48,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                         | read on          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| ['You gotta be tough': White evangelicals remain enthusiastic about Donald Trump](https://www.npr.org/2024/01/21/1225860255/evangelical-voters-trump-2024)                                     | January 21, 2024 |
-| [The Sword and the Cross](https://www.plough.com/en/topics/justice/nonviolence/the-sword-and-the-cross)                                                                                        | January 21, 2024 |
-| [Middle-Earth Heroes](https://www.plough.com/en/topics/culture/film/middle-earth-heroes)                                                                                                       | January 16, 2024 |
-| [Disqualifying Trump Is Not Antidemocratic](https://www.theatlantic.com/ideas/archive/2024/01/constitution-democracy-trump-colorado-ruling/677074/)                                            | January 10, 2024 |
-| [After Dobbs Supreme Court Ruling, Little Change on Legal Abortions](https://www.nytimes.com/2023/09/07/briefing/abortion-dobbs.html)                                                          | January 06, 2024 |
-| [Don't look so blue, Neptune: Now astronomers know this planet's true color](https://www.npr.org/2024/01/05/1222906151/dont-look-so-blue-neptune-now-astronomers-know-this-planets-true-color) | January 06, 2024 |
+| source                                                                                                                                                     | read on           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Colleges Are Lying to Their Students](https://www.theatlantic.com/ideas/archive/2024/02/thinking-yourself/677321/)                                        | February 02, 2024 |
+| [Reddit - Dive into anything](https://www.reddit.com/r/myog/comments/z9ey6s/seam_tape_a_community_knowledge_share/)                                        | February 01, 2024 |
+| ['You gotta be tough': White evangelicals remain enthusiastic about Donald Trump](https://www.npr.org/2024/01/21/1225860255/evangelical-voters-trump-2024) | January 21, 2024  |
+| [The Sword and the Cross](https://www.plough.com/en/topics/justice/nonviolence/the-sword-and-the-cross)                                                    | January 21, 2024  |
+| [Middle-Earth Heroes](https://www.plough.com/en/topics/culture/film/middle-earth-heroes)                                                                   | January 16, 2024  |
+| [Disqualifying Trump Is Not Antidemocratic](https://www.theatlantic.com/ideas/archive/2024/01/constitution-democracy-trump-colorado-ruling/677074/)        | January 10, 2024  |
 
 { .block-language-dataview}
 
