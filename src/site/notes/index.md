@@ -48,14 +48,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                     | read on           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Colleges Are Lying to Their Students](https://www.theatlantic.com/ideas/archive/2024/02/thinking-yourself/677321/)                                        | February 02, 2024 |
-| [Reddit - Dive into anything](https://www.reddit.com/r/myog/comments/z9ey6s/seam_tape_a_community_knowledge_share/)                                        | February 01, 2024 |
-| ['You gotta be tough': White evangelicals remain enthusiastic about Donald Trump](https://www.npr.org/2024/01/21/1225860255/evangelical-voters-trump-2024) | January 21, 2024  |
-| [The Sword and the Cross](https://www.plough.com/en/topics/justice/nonviolence/the-sword-and-the-cross)                                                    | January 21, 2024  |
-| [Middle-Earth Heroes](https://www.plough.com/en/topics/culture/film/middle-earth-heroes)                                                                   | January 16, 2024  |
-| [Disqualifying Trump Is Not Antidemocratic](https://www.theatlantic.com/ideas/archive/2024/01/constitution-democracy-trump-colorado-ruling/677074/)        | January 10, 2024  |
+| source                                                                                                                                                       | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [A 639-year-long John Cage organ performance strikes a new chord in Germany](https://www.npr.org/2024/02/06/1229217832/germany-john-cage-slow-organ-2-aslsp) | February 06, 2024 |
+| [The GOP’s True Priority](https://www.theatlantic.com/ideas/archive/2024/02/republicans-congress-immigration-deal/677357/)                                   | February 06, 2024 |
+| [Colleges Are Lying to Their Students](https://www.theatlantic.com/ideas/archive/2024/02/thinking-yourself/677321/)                                          | February 02, 2024 |
+| [Reddit - Dive into anything](https://www.reddit.com/r/myog/comments/z9ey6s/seam_tape_a_community_knowledge_share/)                                          | February 01, 2024 |
+| ['You gotta be tough': White evangelicals remain enthusiastic about Donald Trump](https://www.npr.org/2024/01/21/1225860255/evangelical-voters-trump-2024)   | January 21, 2024  |
+| [The Sword and the Cross](https://www.plough.com/en/topics/justice/nonviolence/the-sword-and-the-cross)                                                      | January 21, 2024  |
 
 { .block-language-dataview}
 
