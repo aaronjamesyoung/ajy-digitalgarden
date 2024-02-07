@@ -50,12 +50,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                       | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [February 6, 2024](https://heathercoxrichardson.substack.com/p/february-6-2024)                                                                              | February 07, 2024 |
 | [Part of Me Will Always Be Grateful for James Dobson](https://www.theatlantic.com/ideas/archive/2024/02/evangelicals-christianity-james-dobson/677362/)      | February 07, 2024 |
 | [A 639-year-long John Cage organ performance strikes a new chord in Germany](https://www.npr.org/2024/02/06/1229217832/germany-john-cage-slow-organ-2-aslsp) | February 06, 2024 |
 | [The GOP’s True Priority](https://www.theatlantic.com/ideas/archive/2024/02/republicans-congress-immigration-deal/677357/)                                   | February 06, 2024 |
 | [Colleges Are Lying to Their Students](https://www.theatlantic.com/ideas/archive/2024/02/thinking-yourself/677321/)                                          | February 02, 2024 |
 | ['You gotta be tough': White evangelicals remain enthusiastic about Donald Trump](https://www.npr.org/2024/01/21/1225860255/evangelical-voters-trump-2024)   | January 21, 2024  |
-| [The Sword and the Cross](https://www.plough.com/en/topics/justice/nonviolence/the-sword-and-the-cross)                                                      | January 21, 2024  |
 
 { .block-language-dataview}
 
