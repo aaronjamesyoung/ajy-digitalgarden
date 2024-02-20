@@ -17,8 +17,6 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dyKMDQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603551527i/54954580.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Q69PhJN-TbwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
@@ -30,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dyKMDQAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603551527i/54954580.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/aF0_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OeuMDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/PBb0P6xnbkoC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/yZK-zQEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/h3wSdakBjZwC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -48,14 +46,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                       | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [February 6, 2024](https://heathercoxrichardson.substack.com/p/february-6-2024)                                                                              | February 07, 2024 |
-| [Part of Me Will Always Be Grateful for James Dobson](https://www.theatlantic.com/ideas/archive/2024/02/evangelicals-christianity-james-dobson/677362/)      | February 07, 2024 |
-| [A 639-year-long John Cage organ performance strikes a new chord in Germany](https://www.npr.org/2024/02/06/1229217832/germany-john-cage-slow-organ-2-aslsp) | February 06, 2024 |
-| [The GOP’s True Priority](https://www.theatlantic.com/ideas/archive/2024/02/republicans-congress-immigration-deal/677357/)                                   | February 06, 2024 |
-| [Colleges Are Lying to Their Students](https://www.theatlantic.com/ideas/archive/2024/02/thinking-yourself/677321/)                                          | February 02, 2024 |
-| ['You gotta be tough': White evangelicals remain enthusiastic about Donald Trump](https://www.npr.org/2024/01/21/1225860255/evangelical-voters-trump-2024)   | January 21, 2024  |
+| source                                                                                                                                                             | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [A Gentler, Better Way to Change Minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/)                          | February 17, 2024 |
+| [Republicans Are No Longer a Political Party](https://www.theatlantic.com/ideas/archive/2024/02/republicans-are-no-longer-political-party/677437/?utm_source=feed) | February 13, 2024 |
+| [February 6, 2024](https://heathercoxrichardson.substack.com/p/february-6-2024)                                                                                    | February 07, 2024 |
+| [Part of Me Will Always Be Grateful for James Dobson](https://www.theatlantic.com/ideas/archive/2024/02/evangelicals-christianity-james-dobson/677362/)            | February 07, 2024 |
+| [A 639-year-long John Cage organ performance strikes a new chord in Germany](https://www.npr.org/2024/02/06/1229217832/germany-john-cage-slow-organ-2-aslsp)       | February 06, 2024 |
+| [The GOP’s True Priority](https://www.theatlantic.com/ideas/archive/2024/02/republicans-congress-immigration-deal/677357/)                                         | February 06, 2024 |
 
 { .block-language-dataview}
 
