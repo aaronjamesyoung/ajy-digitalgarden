@@ -17,7 +17,8 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/yyLTCwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZqsaAwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/1cJkdAULRI0C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Q69PhJN-TbwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
@@ -29,11 +30,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/yyLTCwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dyKMDQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603551527i/54954580.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/aF0_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OeuMDwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/PBb0P6xnbkoC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -49,12 +50,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                             | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [There’s Only One Way to Fix Air Pollution Now](https://www.theatlantic.com/science/archive/2024/02/air-pollution-life-cost-great-recession/677523/)               | February 21, 2024 |
 | [A Gentler, Better Way to Change Minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/)                          | February 17, 2024 |
 | [Republicans Are No Longer a Political Party](https://www.theatlantic.com/ideas/archive/2024/02/republicans-are-no-longer-political-party/677437/?utm_source=feed) | February 13, 2024 |
 | [February 6, 2024](https://heathercoxrichardson.substack.com/p/february-6-2024)                                                                                    | February 07, 2024 |
 | [Part of Me Will Always Be Grateful for James Dobson](https://www.theatlantic.com/ideas/archive/2024/02/evangelicals-christianity-james-dobson/677362/)            | February 07, 2024 |
 | [A 639-year-long John Cage organ performance strikes a new chord in Germany](https://www.npr.org/2024/02/06/1229217832/germany-john-cage-slow-organ-2-aslsp)       | February 06, 2024 |
-| [The GOP’s True Priority](https://www.theatlantic.com/ideas/archive/2024/02/republicans-congress-immigration-deal/677357/)                                         | February 06, 2024 |
 
 { .block-language-dataview}
 
