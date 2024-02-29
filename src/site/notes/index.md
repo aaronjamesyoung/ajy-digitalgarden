@@ -47,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                             | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [There’s Only One Way to Fix Air Pollution Now](https://www.theatlantic.com/science/archive/2024/02/air-pollution-life-cost-great-recession/677523/)               | February 21, 2024 |
-| [A Gentler, Better Way to Change Minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/)                          | February 17, 2024 |
-| [Republicans Are No Longer a Political Party](https://www.theatlantic.com/ideas/archive/2024/02/republicans-are-no-longer-political-party/677437/?utm_source=feed) | February 13, 2024 |
-| [February 6, 2024](https://heathercoxrichardson.substack.com/p/february-6-2024)                                                                                    | February 07, 2024 |
-| [Part of Me Will Always Be Grateful for James Dobson](https://www.theatlantic.com/ideas/archive/2024/02/evangelicals-christianity-james-dobson/677362/)            | February 07, 2024 |
-| [A 639-year-long John Cage organ performance strikes a new chord in Germany](https://www.npr.org/2024/02/06/1229217832/germany-john-cage-slow-organ-2-aslsp)       | February 06, 2024 |
+| source                                                                                                                                                                                                             | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Are smart phones ruining our culture?](https://feeds.feedblitz.com/~/872600219/0/currentpub/)                                                                                                                     | February 29, 2024 |
+| [Oregon’s Drug Decriminalization Aimed to Make Cops a Gateway to Rehab, Not Jail. State Leaders Failed to Make It Work.](https://www.propublica.org/article/oregon-leaders-hampered-drug-decriminalization-effort) | February 29, 2024 |
+| [The State of the Culture, 2024](https://www.honest-broker.com/p/the-state-of-the-culture-2024)                                                                                                                    | February 29, 2024 |
+| [The human cost of climate-related disasters is acutely undercounted, new study says](https://npr.org/2024/02/29/1234671424/the-human-cost-of-climate-related-disasters-is-acutely-undercounted-new-study-sa)      | February 29, 2024 |
+| [There’s Only One Way to Fix Air Pollution Now](https://www.theatlantic.com/science/archive/2024/02/air-pollution-life-cost-great-recession/677523/)                                                               | February 21, 2024 |
+| [A Gentler, Better Way to Change Minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/)                                                                          | February 17, 2024 |
 
 { .block-language-dataview}
 
