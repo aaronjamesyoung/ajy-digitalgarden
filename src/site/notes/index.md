@@ -30,10 +30,10 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Q69PhJN-TbwC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/yyLTCwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dyKMDQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603551527i/54954580.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/aF0_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
