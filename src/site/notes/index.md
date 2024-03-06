@@ -48,12 +48,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                             | read on           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Exclusive: Analysis predicts CO2 emissions would dramatically increase under Trump](https://www.axios.com/2024/03/06/co2-emissions-trump-biden-scenarios)                                                         | March 06, 2024    |
+| [Where Did Evangelicals Go Wrong?](https://www.theatlantic.com/ideas/archive/2024/03/evangelical-support-republican-trump/677610/)                                                                                 | March 06, 2024    |
 | [The Real Reason Trump Loves Putin](https://www.theatlantic.com/books/archive/2024/03/jacob-heilbrunn-america-last-trump-putin/677609/)                                                                            | March 02, 2024    |
 | [Are smart phones ruining our culture?](https://feeds.feedblitz.com/~/872600219/0/currentpub/)                                                                                                                     | February 29, 2024 |
 | [Oregon’s Drug Decriminalization Aimed to Make Cops a Gateway to Rehab, Not Jail. State Leaders Failed to Make It Work.](https://www.propublica.org/article/oregon-leaders-hampered-drug-decriminalization-effort) | February 29, 2024 |
 | [The State of the Culture, 2024](https://www.honest-broker.com/p/the-state-of-the-culture-2024)                                                                                                                    | February 29, 2024 |
-| [The human cost of climate-related disasters is acutely undercounted, new study says](https://npr.org/2024/02/29/1234671424/the-human-cost-of-climate-related-disasters-is-acutely-undercounted-new-study-sa)      | February 29, 2024 |
-| [There’s Only One Way to Fix Air Pollution Now](https://www.theatlantic.com/science/archive/2024/02/air-pollution-life-cost-great-recession/677523/)                                                               | February 21, 2024 |
 
 { .block-language-dataview}
 
