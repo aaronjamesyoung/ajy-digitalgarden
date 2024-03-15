@@ -5,7 +5,7 @@
 
 [[📘 Fastpacking\|📘 Fastpacking]]
 
-*Note from Aaron: This is an archive of an article that previously appeared on the Friends of the Ochocos website which is now offline. The article can be found on archive.org [here](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness). You can read about my backpacking trip on this route here: [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]*
+*Note from Aaron: This is an archive of an article that previously appeared on the Friends of the Ochocos website which is now offline. The article can be found on archive.org [here](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness). You can read about my backpacking trip on this route here: [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] and read my route guide with mileage, water sources, and other information: [[Heart of Darkness\|Heart of Darkness]]*
 
 # Heart of Darkness — Friends of the Ochocos
 
