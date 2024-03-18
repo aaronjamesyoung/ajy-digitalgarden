@@ -17,7 +17,7 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZqsaAwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/gt7EQgH8-b4C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WanKEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Op6eKrkxPq4C?fife=w600-h900&source=gbs_api)
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZqsaAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dYN7d5mnzeAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/szbNEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/1cJkdAULRI0C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Q69PhJN-TbwC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -49,12 +49,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                      | read on        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [What History Warriors Get Wrong](https://time.com/6917632/history-wars-teacher-survey/)                                                                                                                    | March 17, 2024 |
+| [How to Show Kids the Joy of Reading](https://www.theatlantic.com/education/archive/2020/08/how-show-kids-joy-reading/615109/)                                                                              | March 16, 2024 |
+| [Why Do Some People Love Reading?](https://www.theatlantic.com/education/archive/2019/09/love-reading-books-leisure-pleasure/598315/?utm_source=feed)                                                       | March 16, 2024 |
 | [Civil religion is different from Christian Nationalism](https://feeds.feedblitz.com/~/872754506/0/currentpub/)                                                                                             | March 09, 2024 |
 | [Immigrants are less likely to commit crimes than U.S.-born Americans, studies find](https://npr.org/2024/03/08/1237103158/immigrants-are-less-likely-to-commit-crimes-than-us-born-americans-studies-find) | March 09, 2024 |
 | [PragerU is a conservative video giant. Here's why it's trying to get into schools](https://npr.org/2024/03/07/1234491074/prageru-schools-videos-growth)                                                    | March 07, 2024 |
-| [Exclusive: Analysis predicts CO2 emissions would dramatically increase under Trump](https://www.axios.com/2024/03/06/co2-emissions-trump-biden-scenarios)                                                  | March 06, 2024 |
-| [Where Did Evangelicals Go Wrong?](https://www.theatlantic.com/ideas/archive/2024/03/evangelical-support-republican-trump/677610/)                                                                          | March 06, 2024 |
-| [The Real Reason Trump Loves Putin](https://www.theatlantic.com/books/archive/2024/03/jacob-heilbrunn-america-last-trump-putin/677609/)                                                                     | March 02, 2024 |
 
 { .block-language-dataview}
 
