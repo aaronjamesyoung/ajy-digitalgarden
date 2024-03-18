@@ -24,5 +24,6 @@
 
 - [How To Mark A Book](https://www.maebrussell.com/Articles%20and%20Notes/How%20To%20Mark%20A%20Book.html)
 - [How to Annotate Books When You're Reading For Fun - the wordy habitat](https://thewordyhabitat.com/how-to-annotate-books-reading-for-fun/)
+- [Why Do Some People Love Reading?](https://www.theatlantic.com/education/archive/2019/09/love-reading-books-leisure-pleasure/598315/?utm_source=feed)
 
 { .block-language-dataview}
