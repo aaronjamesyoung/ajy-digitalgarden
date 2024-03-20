@@ -14,7 +14,7 @@ Use this form to create tempo & stride workouts. This tool doesn't account for t
 <label>
   My long run this week will be
   <input type="number" id="gen-miles" style="width: 100px;" />
-  miles
+  miles.
 </label>
 <a id="gen-workout">Get a workout &rarr;</a>
 </form>
@@ -30,6 +30,7 @@ button.onclick = function(e) {
     const shorterInt = miles - longerInt;
     let speedString = '5 x (90 seconds fast, 3 minutes rest)';
     const workoutarr = [];
+    workoutarr.push('15 minutes warm up');
     if(week % 2 === 0) {
         workoutarr.push(`${shorterInt} minutes tempo, ${shorterInt / 2} minutes rest`);
         workoutarr.push(`${longerInt} minutes tempo, then straight into:`);
@@ -39,6 +40,7 @@ button.onclick = function(e) {
         workoutarr.push(`${shorterInt} minutes tempo, then straight into:`);
         workoutarr.push('5 x (90 seconds fast, 3 minutes rest)');
     }
+    workoutarr.push('15 minutes cool down');
     outputter.innerHTML =`<li>${workoutarr.join('</li><li>')}</li>`;
 };
 </script></div>
