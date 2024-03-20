@@ -37,6 +37,6 @@ button.onclick = function(e) {
         workoutarr.push(`${shorterInt} minutes tempo, then straight into:`);
         workoutarr.push('5 x (90 seconds fast, 3 minutes rest)');
     }
-    outputter.innerHtml(`<li>${workoutarr.join('</li><li>')}</li>`);
+    outputter.innerHTML(`<li>${workoutarr.join('</li><li>')}</li>`);
 };
 </script></div>
