@@ -3,6 +3,8 @@
 ---
 
 
+Use this form to create tempo & stride workouts. This tool doesn't account for taper weeks or race weeks, so exercise your own judgement:
+
 <div><form>
 <label>
   This is week number
@@ -37,6 +39,6 @@ button.onclick = function(e) {
         workoutarr.push(`${shorterInt} minutes tempo, then straight into:`);
         workoutarr.push('5 x (90 seconds fast, 3 minutes rest)');
     }
-    outputter.innerHTML(`<li>${workoutarr.join('</li><li>')}</li>`);
+    outputter.innerHTML =`<li>${workoutarr.join('</li><li>')}</li>`;
 };
 </script></div>
