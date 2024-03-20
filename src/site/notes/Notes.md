@@ -21,7 +21,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                                           | 2023-06-01 | 2023-10-02 | \-    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                                         | 2023-07-27 | 2023-11-08 | \-    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                                       | 2022-11-21 | 2023-11-22 | \-    |
-| [[📘 Running\|📘 Running]]                                                                                                                   | 2023-06-01 | 2023-10-02 | \-    |
+| [[📘 Running\|📘 Running]]                                                                                                                   | 2023-06-01 | 2024-03-20 | \-    |
 | [[📘 Sermons\|📘 Sermons]]                                                                                                                   | 2023-07-12 | 2023-08-05 | \-    |
 | [[sermons/2020 First Allegiance\|2020 First Allegiance]]                                                                                     | 2023-08-10 | 2023-12-10 | 🥈    |
 | [[sermons/2022-08-07 Gospel and Culture - Politics\|2022-08-07 Gospel and Culture - Politics]]                                               | 2023-11-06 | 2023-12-10 | 🥈    |
