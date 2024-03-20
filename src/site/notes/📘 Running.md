@@ -17,6 +17,7 @@ I've run a few ultramarathons and I ran cross country and track all through high
 * [[First Aid Kit\|First Aid Kit]]
 * [[Navigation\|Navigation]]
 * [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]
+* [[Tempo and Strides Workout Generator\|Tempo and Strides Workout Generator]]
 
 ## External Articles
 
