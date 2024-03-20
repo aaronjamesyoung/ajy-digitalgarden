@@ -3,8 +3,20 @@
 ---
 
 
-Fill out this form to get a somewhat appropriate workout.
-
+<form>
+<label>
+  This is week number
+  <input type="number" id="gen-week" style="width: 100px;" />
+  in my training season.
+</label>
+<label>
+  My long run this week will be
+  <input type="number" id="gen-miles" style="width: 100px;" />
+  miles
+</label>
+<button id="gen-workout">Get a workout</button>
+</form>
+<ul id="gen-display"></ul>
 <script>
 const miles = document.getElementById('gen-miles').value;
 const week = document.getElementById('gen-week').value;
@@ -29,20 +41,3 @@ button.onclick = function() {
     outputter.html(`<li>${workoutarr.join('</li><li>')}</li>`);
 };
 </script>
-<form>
-<label>
-  This is week number
-  <input type="number" id="gen-week" style="width: 100px;" />
-  in my training season.
-</label>
-<br><br>
-<label>
-  My long run this week will be
-  <input type="number" id="gen-miles" style="width: 100px;" />
-  miles
-</label>
-<br><br>
-<button id="gen-workout">Get a workout</button>
-</form>
-<br><br>
-<ul id="gen-display"></ul>
