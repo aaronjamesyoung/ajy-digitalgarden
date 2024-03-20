@@ -101,6 +101,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Résumé\|Résumé]]                                                                                                                           | 2022-11-11 | 2023-09-12 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                                           | 2023-07-07 | 2023-07-07 | 🥈    |
+| [[Tempo and Strides Workout Generator\|Tempo and Strides Workout Generator]]                                                                 | 2024-03-20 | 2024-03-20 | 🥈    |
 | [[Topic Notes\|Topic Notes]]                                                                                                                 | 2023-07-07 | 2023-07-14 | \-    |
 | [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]                                 | 2023-06-01 | 2023-08-05 | 🥇    |
 | [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]                               | 2023-06-01 | 2023-08-05 | 🥇    |
