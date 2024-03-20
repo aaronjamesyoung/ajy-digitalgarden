@@ -14,7 +14,7 @@
   <input type="number" id="gen-miles" style="width: 100px;" />
   miles
 </label>
-<a id="gen-workout">Get a workout &rarr;</button>
+<a id="gen-workout">Get a workout &rarr;</a>
 </form>
 <ul id="gen-display"></ul>
 <script>
