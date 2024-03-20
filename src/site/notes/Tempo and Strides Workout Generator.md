@@ -20,12 +20,12 @@ Use this form to create tempo & stride workouts. This tool doesn't account for t
 </form>
 <ul id="gen-display"></ul>
 <script>
-const miles = document.getElementById('gen-miles').value;
-const week = document.getElementById('gen-week').value;
 const button = document.getElementById('gen-workout');
 const outputter = document.getElementById('gen-display');
 button.onclick = function(e) {
     e.preventDefault();
+    const miles = Number(document.getElementById('gen-miles').value);
+    const week = Number(document.getElementById('gen-week').value);
     const longerInt = Math.round(miles * 0.6);
     const shorterInt = miles - longerInt;
     let speedString = '5 x (90 seconds fast, 3 minutes rest)';
