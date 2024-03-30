@@ -17,8 +17,9 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/fWzfAAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/0FCJEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1300039756i/92610.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/1nOvLGnVZJAC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/NJMF0AEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -28,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/LtxZzgEACAAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/fWzfAAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/0FCJEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/gt7EQgH8-b4C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Op6eKrkxPq4C?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/WanKEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZqsaAwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dYN7d5mnzeAC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -46,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                      | read on        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [What History Warriors Get Wrong](https://time.com/6917632/history-wars-teacher-survey/)                                                                                                                    | March 17, 2024 |
-| [How to Show Kids the Joy of Reading](https://www.theatlantic.com/education/archive/2020/08/how-show-kids-joy-reading/615109/)                                                                              | March 16, 2024 |
-| [Why Do Some People Love Reading?](https://www.theatlantic.com/education/archive/2019/09/love-reading-books-leisure-pleasure/598315/?utm_source=feed)                                                       | March 16, 2024 |
-| [Civil religion is different from Christian Nationalism](https://feeds.feedblitz.com/~/872754506/0/currentpub/)                                                                                             | March 09, 2024 |
-| [Immigrants are less likely to commit crimes than U.S.-born Americans, studies find](https://npr.org/2024/03/08/1237103158/immigrants-are-less-likely-to-commit-crimes-than-us-born-americans-studies-find) | March 09, 2024 |
-| [PragerU is a conservative video giant. Here's why it's trying to get into schools](https://npr.org/2024/03/07/1234491074/prageru-schools-videos-growth)                                                    | March 07, 2024 |
+| source                                                                                                                                                    | read on        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [Here's how to set your reading goals and read more books in 2024](https://npr.org/2024/03/28/1241024462/how-to-set-reading-goals-national-reading-month) | March 29, 2024 |
+| [The Public Has a Right to Trump's Speedy Trial](https://www.theatlantic.com/politics/archive/2024/03/dc-trump-trial-speed/677862/)                       | March 26, 2024 |
+| [What History Warriors Get Wrong](https://time.com/6917632/history-wars-teacher-survey/)                                                                  | March 17, 2024 |
+| [How to Show Kids the Joy of Reading](https://www.theatlantic.com/education/archive/2020/08/how-show-kids-joy-reading/615109/)                            | March 16, 2024 |
+| [Why Do Some People Love Reading?](https://www.theatlantic.com/education/archive/2019/09/love-reading-books-leisure-pleasure/598315/?utm_source=feed)     | March 16, 2024 |
+| [Civil religion is different from Christian Nationalism](https://feeds.feedblitz.com/~/872754506/0/currentpub/)                                           | March 09, 2024 |
 
 { .block-language-dataview}
 
