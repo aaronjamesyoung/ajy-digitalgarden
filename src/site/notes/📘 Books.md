@@ -2,6 +2,9 @@
 {"dg-publish":true,"dg-show-backlinks":false,"permalink":"/books/","dgPassFrontmatter":true}
 ---
 
+I read a lot and try to read fairly widely. I usually keep three books going at once: a classic, a modern fiction, and a fantasy or science fiction.
+
+I usually read on my Kindle Paperwhite and source my books from multiple sources including our local library.
 
 * [[Books Read in 2024\|Books Read in 2024]]
 * [[Books Read in 2023\|Books Read in 2023]]
