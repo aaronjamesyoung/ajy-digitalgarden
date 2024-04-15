@@ -19,6 +19,7 @@
 
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690034659i/176443792.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/BggjiQn2m8sC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/OF-YSMKCVwMC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
