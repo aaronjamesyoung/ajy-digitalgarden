@@ -47,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                             | read on        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [A trip to the last Blockbuster on Earth](https://www.washingtonpost.com/travel/2024/04/06/last-blockbuster-bend-oregon/)                                                          | April 08, 2024 |
-| [Why I Went Cold Turkey on Political Theology](https://www.plough.com/en/topics/faith/discipleship/why-i-went-cold-turkey-on-political-theology)                                   | April 07, 2024 |
-| [Experiencing Bach](https://www.plough.com/en/topics/culture/music/experiencing-bach)                                                                                              | April 04, 2024 |
-| [Christianity Was Always for the Poor](https://jacobin.com/2024/03/christianity-poor-debt-jesus-moses-wealth)                                                                      | April 01, 2024 |
-| [Supporting Trump means supporting a culture of violence](https://www.theatlantic.com/newsletters/archive/2024/04/supporting-trump-means-supporting-a-culture-of-violence/677941/) | April 01, 2024 |
-| [The Church of Trump: How He’s Infusing Christianity Into His Movement](https://www.nytimes.com/2024/04/01/us/politics/trump-2024-religion.html)                                   | April 01, 2024 |
+| source                                                                                                                                           | read on        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [The Bicycles of World War II](https://www.theatlantic.com/photo/2024/04/photos-bicycles-world-war-ii/678086/)                                   | April 17, 2024 |
+| [What Even Is a Caesar Salad Anymore?](https://www.theatlantic.com/culture/archive/2024/04/something-weird-happening-caesar-salads/678092/)      | April 17, 2024 |
+| [A trip to the last Blockbuster on Earth](https://www.washingtonpost.com/travel/2024/04/06/last-blockbuster-bend-oregon/)                        | April 08, 2024 |
+| [Why I Went Cold Turkey on Political Theology](https://www.plough.com/en/topics/faith/discipleship/why-i-went-cold-turkey-on-political-theology) | April 07, 2024 |
+| [Experiencing Bach](https://www.plough.com/en/topics/culture/music/experiencing-bach)                                                            | April 04, 2024 |
+| [Christianity Was Always for the Poor](https://jacobin.com/2024/03/christianity-poor-debt-jesus-moses-wealth)                                    | April 01, 2024 |
 
 { .block-language-dataview}
 
