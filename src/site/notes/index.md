@@ -47,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                           | read on        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| [Hawking Bibles for Holy Week](https://feeds.feedblitz.com/~/880290218/0/currentpub/)                                                            | April 18, 2024 |
-| [The Bicycles of World War II](https://www.theatlantic.com/photo/2024/04/photos-bicycles-world-war-ii/678086/)                                   | April 17, 2024 |
-| [What Even Is a Caesar Salad Anymore?](https://www.theatlantic.com/culture/archive/2024/04/something-weird-happening-caesar-salads/678092/)      | April 17, 2024 |
-| [A trip to the last Blockbuster on Earth](https://www.washingtonpost.com/travel/2024/04/06/last-blockbuster-bend-oregon/)                        | April 08, 2024 |
-| [Why I Went Cold Turkey on Political Theology](https://www.plough.com/en/topics/faith/discipleship/why-i-went-cold-turkey-on-political-theology) | April 07, 2024 |
-| [Experiencing Bach](https://www.plough.com/en/topics/culture/music/experiencing-bach)                                                            | April 04, 2024 |
+| source                                                                                                                                              | read on        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [Columbia University’s Impossible Position](https://www.theatlantic.com/ideas/archive/2024/04/columbia-university-protests-minouche-shafik/678182/) | April 27, 2024 |
+| [Hawking Bibles for Holy Week](https://feeds.feedblitz.com/~/880290218/0/currentpub/)                                                               | April 18, 2024 |
+| [The Bicycles of World War II](https://www.theatlantic.com/photo/2024/04/photos-bicycles-world-war-ii/678086/)                                      | April 17, 2024 |
+| [What Even Is a Caesar Salad Anymore?](https://www.theatlantic.com/culture/archive/2024/04/something-weird-happening-caesar-salads/678092/)         | April 17, 2024 |
+| [A trip to the last Blockbuster on Earth](https://www.washingtonpost.com/travel/2024/04/06/last-blockbuster-bend-oregon/)                           | April 08, 2024 |
+| [Why I Went Cold Turkey on Political Theology](https://www.plough.com/en/topics/faith/discipleship/why-i-went-cold-turkey-on-political-theology)    | April 07, 2024 |
 
 { .block-language-dataview}
 
