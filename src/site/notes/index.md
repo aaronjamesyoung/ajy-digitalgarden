@@ -49,12 +49,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                 | read on        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [The Best (and Safest) Way to Slice a Bagel](https://lifehacker.com/food-drink/best-safest-way-to-slice-bagel)                                         | May 02, 2024   |
+| [What if Jens Söring Actually Did It?](https://www.theatlantic.com/ideas/archive/2024/05/jens-soring-amanda-knox-case-wright-report/678255/)           | May 02, 2024   |
 | [The Sci-Fi Writer Who Invented Conspiracy Theory](https://www.theatlantic.com/ideas/archive/2024/04/science-fiction-conspiracy-theory-psyops/678195/) | April 28, 2024 |
 | [Columbia University’s Impossible Position](https://www.theatlantic.com/ideas/archive/2024/04/columbia-university-protests-minouche-shafik/678182/)    | April 27, 2024 |
 | [Hawking Bibles for Holy Week](https://feeds.feedblitz.com/~/880290218/0/currentpub/)                                                                  | April 18, 2024 |
 | [The Bicycles of World War II](https://www.theatlantic.com/photo/2024/04/photos-bicycles-world-war-ii/678086/)                                         | April 17, 2024 |
-| [What Even Is a Caesar Salad Anymore?](https://www.theatlantic.com/culture/archive/2024/04/something-weird-happening-caesar-salads/678092/)            | April 17, 2024 |
-| [A trip to the last Blockbuster on Earth](https://www.washingtonpost.com/travel/2024/04/06/last-blockbuster-bend-oregon/)                              | April 08, 2024 |
 
 { .block-language-dataview}
 
