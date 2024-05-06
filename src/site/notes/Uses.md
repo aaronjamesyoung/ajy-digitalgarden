@@ -5,7 +5,7 @@
 
 ## Life stuff
 
-- [[MYOG EDC Pack\|MYOG EDC Pack]]
+- MYOG everyday backpack
 - Hydro Flask 12oz Coffee Mug – Keeps my coffee hot for hours
 - Hydro Flask 32oz Wide Mouth water bottle
 - Tito titanium spork
@@ -18,15 +18,14 @@
 ## OS / Environment
 
 - Arch Linux
-- Gnome Shell
-- [PaperWM](https://github.com/paperwm/PaperWM)
+- [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
 ## Development
 
 - Brave – web browser
-- Visual Studio Code
+- Sublime Text 4
+- Neovim
 - git
-- Docker
 - Caddy Server
 
 ## Other Software
