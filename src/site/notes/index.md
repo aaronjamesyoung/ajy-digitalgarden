@@ -18,8 +18,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Gjt-VS_4fuMC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/DpcAYPnnBrYC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/XV8XAAAAYAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://joshuaryanbutler.com/images/the-party-crasher.png)
 
 { .block-language-dataview}
 
@@ -30,10 +30,10 @@
 <div class="book-covers">
 
 - ![cover](https://i.imgur.com/Nw4MRjJ.jpeg)
+- ![cover](https://joshuaryanbutler.com/images/the-party-crasher.png)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/SevFEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Vby2CgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/F5RzEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/l2eczgEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -47,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                  | read on        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [Russia and China Are Winning the Propaganda War](https://www.theatlantic.com/magazine/archive/2024/06/china-russia-republican-party-relations/678271/) | May 07, 2024   |
-| [The Politics of Fear Itself](https://www.theatlantic.com/ideas/archive/2024/05/politics-fear-itself-trump-maga/678311/)                                | May 07, 2024   |
-| [Say Plainly What the Protesters Want](https://www.theatlantic.com/ideas/archive/2024/05/israel-gaza-war-protest-movement/678303/)                      | May 06, 2024   |
-| [The Best (and Safest) Way to Slice a Bagel](https://lifehacker.com/food-drink/best-safest-way-to-slice-bagel)                                          | May 02, 2024   |
-| [What if Jens Söring Actually Did It?](https://www.theatlantic.com/ideas/archive/2024/05/jens-soring-amanda-knox-case-wright-report/678255/)            | May 02, 2024   |
-| [The Sci-Fi Writer Who Invented Conspiracy Theory](https://www.theatlantic.com/ideas/archive/2024/04/science-fiction-conspiracy-theory-psyops/678195/)  | April 28, 2024 |
+| source                                                                                                                                                                   | read on      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [How to Split an Apple in Half With Your Bare Hands (and a Way to Cheat a Little)](https://lifehacker.com/how-to-split-an-apple-in-half-with-your-bare-hands-1839415314) | May 09, 2024 |
+| [Russia and China Are Winning the Propaganda War](https://www.theatlantic.com/magazine/archive/2024/06/china-russia-republican-party-relations/678271/)                  | May 07, 2024 |
+| [The Politics of Fear Itself](https://www.theatlantic.com/ideas/archive/2024/05/politics-fear-itself-trump-maga/678311/)                                                 | May 07, 2024 |
+| [Say Plainly What the Protesters Want](https://www.theatlantic.com/ideas/archive/2024/05/israel-gaza-war-protest-movement/678303/)                                       | May 06, 2024 |
+| [The Best (and Safest) Way to Slice a Bagel](https://lifehacker.com/food-drink/best-safest-way-to-slice-bagel)                                                           | May 02, 2024 |
+| [What if Jens Söring Actually Did It?](https://www.theatlantic.com/ideas/archive/2024/05/jens-soring-amanda-knox-case-wright-report/678255/)                             | May 02, 2024 |
 
 { .block-language-dataview}
 
