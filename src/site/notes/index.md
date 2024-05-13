@@ -47,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                   | read on      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [How to Split an Apple in Half With Your Bare Hands (and a Way to Cheat a Little)](https://lifehacker.com/how-to-split-an-apple-in-half-with-your-bare-hands-1839415314) | May 09, 2024 |
-| [Russia and China Are Winning the Propaganda War](https://www.theatlantic.com/magazine/archive/2024/06/china-russia-republican-party-relations/678271/)                  | May 07, 2024 |
-| [The Politics of Fear Itself](https://www.theatlantic.com/ideas/archive/2024/05/politics-fear-itself-trump-maga/678311/)                                                 | May 07, 2024 |
-| [Say Plainly What the Protesters Want](https://www.theatlantic.com/ideas/archive/2024/05/israel-gaza-war-protest-movement/678303/)                                       | May 06, 2024 |
-| [The Best (and Safest) Way to Slice a Bagel](https://lifehacker.com/food-drink/best-safest-way-to-slice-bagel)                                                           | May 02, 2024 |
-| [What if Jens Söring Actually Did It?](https://www.theatlantic.com/ideas/archive/2024/05/jens-soring-amanda-knox-case-wright-report/678255/)                             | May 02, 2024 |
+| source                                                                                                                                                                                                                                                                          | read on      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [At Liberty, even the most sacred moments in the university calendar are used to own the libs and advance its mission.](https://currentpub.com/2024/05/12/at-liberty-even-the-most-sacred-moments-in-the-university-calendar-are-used-to-own-the-libs-and-advance-its-mission/) | May 12, 2024 |
+| [How to Split an Apple in Half With Your Bare Hands (and a Way to Cheat a Little)](https://lifehacker.com/how-to-split-an-apple-in-half-with-your-bare-hands-1839415314)                                                                                                        | May 09, 2024 |
+| [Russia and China Are Winning the Propaganda War](https://www.theatlantic.com/magazine/archive/2024/06/china-russia-republican-party-relations/678271/)                                                                                                                         | May 07, 2024 |
+| [The Politics of Fear Itself](https://www.theatlantic.com/ideas/archive/2024/05/politics-fear-itself-trump-maga/678311/)                                                                                                                                                        | May 07, 2024 |
+| [Say Plainly What the Protesters Want](https://www.theatlantic.com/ideas/archive/2024/05/israel-gaza-war-protest-movement/678303/)                                                                                                                                              | May 06, 2024 |
+| [The Best (and Safest) Way to Slice a Bagel](https://lifehacker.com/food-drink/best-safest-way-to-slice-bagel)                                                                                                                                                                  | May 02, 2024 |
 
 { .block-language-dataview}
 
