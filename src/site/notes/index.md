@@ -17,7 +17,6 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Gjt-VS_4fuMC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/XV8XAAAAYAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/23kcA4YgfMIC?fife=w600-h900&source=gbs_api)
 
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/XV8XAAAAYAAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Gjt-VS_4fuMC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DpcAYPnnBrYC?fife=w600-h900&source=gbs_api)
 - ![cover](https://i.imgur.com/Nw4MRjJ.jpeg)
 - ![cover](https://joshuaryanbutler.com/images/the-party-crasher.png)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/SevFEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Vby2CgAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -49,12 +48,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                                                                                          | read on      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Hamlet and Trump](https://feeds.feedblitz.com/~/897197114/0/currentpub/)                                                                                                                                                                                                       | May 21, 2024 |
 | [She Campaigned for a Texas School Board Seat as a GOP Hard-Liner. Now She’s Rejecting Her Party’s Extremism.](https://www.propublica.org/article/texas-granbury-isd-school-board-courtney-gore)                                                                                | May 15, 2024 |
 | [At Liberty, even the most sacred moments in the university calendar are used to own the libs and advance its mission.](https://currentpub.com/2024/05/12/at-liberty-even-the-most-sacred-moments-in-the-university-calendar-are-used-to-own-the-libs-and-advance-its-mission/) | May 12, 2024 |
 | [How to Split an Apple in Half With Your Bare Hands (and a Way to Cheat a Little)](https://lifehacker.com/how-to-split-an-apple-in-half-with-your-bare-hands-1839415314)                                                                                                        | May 09, 2024 |
 | [Russia and China Are Winning the Propaganda War](https://www.theatlantic.com/magazine/archive/2024/06/china-russia-republican-party-relations/678271/)                                                                                                                         | May 07, 2024 |
 | [The Politics of Fear Itself](https://www.theatlantic.com/ideas/archive/2024/05/politics-fear-itself-trump-maga/678311/)                                                                                                                                                        | May 07, 2024 |
-| [Say Plainly What the Protesters Want](https://www.theatlantic.com/ideas/archive/2024/05/israel-gaza-war-protest-movement/678303/)                                                                                                                                              | May 06, 2024 |
 
 { .block-language-dataview}
 
