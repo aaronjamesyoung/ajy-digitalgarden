@@ -17,7 +17,6 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/JBi7zwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/nZk0AgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/23kcA4YgfMIC?fife=w600-h900&source=gbs_api)
 
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/JBi7zwEACAAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/qw5GDQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/XV8XAAAAYAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Gjt-VS_4fuMC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/DpcAYPnnBrYC?fife=w600-h900&source=gbs_api)
-- ![cover](https://i.imgur.com/Nw4MRjJ.jpeg)
-- ![cover](https://joshuaryanbutler.com/images/the-party-crasher.png)
 
 { .block-language-dataview}
 
