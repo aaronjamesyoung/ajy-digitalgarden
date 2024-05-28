@@ -19,6 +19,7 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/nZk0AgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/23kcA4YgfMIC?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697516081i/60028924.jpg)
 
 { .block-language-dataview}
 
@@ -46,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                                                                                          | read on      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Email Is Now the Best Social Network](https://lifehacker.com/tech/email-is-the-best-social-network-now)                                                                                                                                                                        | May 23, 2024 |
-| [What Christians Might Fear from Trump](https://feeds.feedblitz.com/~/897266726/0/currentpub/)                                                                                                                                                                                  | May 23, 2024 |
-| [Hamlet and Trump](https://feeds.feedblitz.com/~/897197114/0/currentpub/)                                                                                                                                                                                                       | May 21, 2024 |
-| [She Campaigned for a Texas School Board Seat as a GOP Hard-Liner. Now She’s Rejecting Her Party’s Extremism.](https://www.propublica.org/article/texas-granbury-isd-school-board-courtney-gore)                                                                                | May 15, 2024 |
-| [At Liberty, even the most sacred moments in the university calendar are used to own the libs and advance its mission.](https://currentpub.com/2024/05/12/at-liberty-even-the-most-sacred-moments-in-the-university-calendar-are-used-to-own-the-libs-and-advance-its-mission/) | May 12, 2024 |
-| [How to Split an Apple in Half With Your Bare Hands (and a Way to Cheat a Little)](https://lifehacker.com/how-to-split-an-apple-in-half-with-your-bare-hands-1839415314)                                                                                                        | May 09, 2024 |
+| source                                                                                                                                                                                                              | read on      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Friend’s outback went in for oil change and was quoted this much for valve cover gaskets and spark plugs](https://www.reddit.com/r/subaruoutback/comments/1d2icwh/friends_outback_went_in_for_oil_change_and_was/) | May 28, 2024 |
+| [This is the guy running for governor of North Carolina](https://feeds.feedblitz.com/~/897846068/0/currentpub/)                                                                                                     | May 28, 2024 |
+| [Email Is Now the Best Social Network](https://lifehacker.com/tech/email-is-the-best-social-network-now)                                                                                                            | May 23, 2024 |
+| [What Christians Might Fear from Trump](https://feeds.feedblitz.com/~/897266726/0/currentpub/)                                                                                                                      | May 23, 2024 |
+| [Hamlet and Trump](https://feeds.feedblitz.com/~/897197114/0/currentpub/)                                                                                                                                           | May 21, 2024 |
+| [She Campaigned for a Texas School Board Seat as a GOP Hard-Liner. Now She’s Rejecting Her Party’s Extremism.](https://www.propublica.org/article/texas-granbury-isd-school-board-courtney-gore)                    | May 15, 2024 |
 
 { .block-language-dataview}
 
