@@ -48,14 +48,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                  | read on      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [All the Ways I Like to Eat Pop-Tarts](https://lifehacker.com/food-drink/best-ways-to-eat-pop-tarts)                                                                    | May 31, 2024 |
-| [The Jury, Not the Prosecutor, Decides Who's Guilty](https://www.theatlantic.com/politics/archive/2024/05/trump-manhattan-guilty-verdict-political-prosecution/678564/) | May 31, 2024 |
-| [This is the guy running for governor of North Carolina](https://feeds.feedblitz.com/~/897846068/0/currentpub/)                                                         | May 28, 2024 |
-| [Email Is Now the Best Social Network](https://lifehacker.com/tech/email-is-the-best-social-network-now)                                                                | May 23, 2024 |
-| [What Christians Might Fear from Trump](https://feeds.feedblitz.com/~/897266726/0/currentpub/)                                                                          | May 23, 2024 |
-| [Hamlet and Trump](https://feeds.feedblitz.com/~/897197114/0/currentpub/)                                                                                               | May 21, 2024 |
+| source                                                                                                                                                                  | read on       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Canada’s Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)                                           | June 06, 2024 |
+| [Don't Freak Out About the Giant Spiders Dropping From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)  | June 06, 2024 |
+| [You’re Not Perfect](https://www.theatlantic.com/ideas/archive/2024/06/perfect-flaws-happiness/678593/?utm_source=feed)                                                 | June 06, 2024 |
+| [All the Ways I Like to Eat Pop-Tarts](https://lifehacker.com/food-drink/best-ways-to-eat-pop-tarts)                                                                    | May 31, 2024  |
+| [The Jury, Not the Prosecutor, Decides Who's Guilty](https://www.theatlantic.com/politics/archive/2024/05/trump-manhattan-guilty-verdict-political-prosecution/678564/) | May 31, 2024  |
+| [This is the guy running for governor of North Carolina](https://feeds.feedblitz.com/~/897846068/0/currentpub/)                                                         | May 28, 2024  |
 
 { .block-language-dataview}
 
