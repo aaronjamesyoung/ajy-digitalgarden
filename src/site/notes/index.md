@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/bFnuzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/FCTYDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697516081i/60028924.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/23kcA4YgfMIC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/nZk0AgAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/JBi7zwEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
