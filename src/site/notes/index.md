@@ -18,6 +18,7 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/svTFEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/20_IEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WZYfDAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ChlOAwAAQBAJ?fife=w600-h900&source=gbs_api)
 
