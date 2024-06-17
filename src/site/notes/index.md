@@ -18,8 +18,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/20_IEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410224968i/368772.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/kHh_EAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/SR6UEAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
