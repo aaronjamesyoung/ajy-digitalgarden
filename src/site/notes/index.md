@@ -18,8 +18,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/20_IEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316955102.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/kHh_EAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494697918i/35127082.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ze5zAwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316955102.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/kHh_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ChlOAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/svTFEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WZYfDAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/bFnuzwEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/FCTYDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -49,12 +49,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                      | read on       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Maybe Don’t Spray-Paint Stonehenge](https://www.theatlantic.com/ideas/archive/2024/06/stonehenge-spray-paint-climate-protest/678765/)                                      | June 22, 2024 |
 | [For Hamas, Everything Is Going According to Plan](https://www.theatlantic.com/international/archive/2024/06/hamas-everything-going-according-plan/678690/?utm_source=feed) | June 17, 2024 |
 | [YouTube Is Experimenting With a Way to Kill Ad Blockers for Good](https://lifehacker.com/tech/youtube-experimenting-with-a-way-to-kill-ad-blockers-for-good)               | June 13, 2024 |
 | [If Only People Actually Believed These Trump-as-Jesus Memes](https://www.theatlantic.com/ideas/archive/2024/06/trump-conviction-evangelical-memes-jesus/678617/)           | June 07, 2024 |
 | [Canada’s Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)                                               | June 06, 2024 |
 | [Don't Freak Out About the Giant Spiders Dropping From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)      | June 06, 2024 |
-| [You’re Not Perfect](https://www.theatlantic.com/ideas/archive/2024/06/perfect-flaws-happiness/678593/?utm_source=feed)                                                     | June 06, 2024 |
 
 { .block-language-dataview}
 
