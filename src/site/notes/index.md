@@ -17,7 +17,7 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/D9KMDwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/VafHAAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OFNuDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494697918i/35127082.jpg)
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/D9KMDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/20_IEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ze5zAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316955102.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/kHh_EAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ChlOAwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -47,14 +47,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                      | read on       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [How ‘pro-life’ lost all meaning](https://www.theatlantic.com/newsletters/archive/2024/06/how-pro-life-lost-all-meaning/678784/?utm_source=feed)                            | June 24, 2024 |
-| [The End of Roe: Two Years Later](https://feeds.feedblitz.com/~/899966009/0/currentpub/)                                                                                    | June 24, 2024 |
-| [Maybe Don’t Spray-Paint Stonehenge](https://www.theatlantic.com/ideas/archive/2024/06/stonehenge-spray-paint-climate-protest/678765/)                                      | June 22, 2024 |
-| [For Hamas, Everything Is Going According to Plan](https://www.theatlantic.com/international/archive/2024/06/hamas-everything-going-according-plan/678690/?utm_source=feed) | June 17, 2024 |
-| [YouTube Is Experimenting With a Way to Kill Ad Blockers for Good](https://lifehacker.com/tech/youtube-experimenting-with-a-way-to-kill-ad-blockers-for-good)               | June 13, 2024 |
-| [If Only People Actually Believed These Trump-as-Jesus Memes](https://www.theatlantic.com/ideas/archive/2024/06/trump-conviction-evangelical-memes-jesus/678617/)           | June 07, 2024 |
+| source                                                                                                                                                                                       | read on       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Dropping Out Is Biden’s Most Patriotic Option](https://www.theatlantic.com/politics/archive/2024/06/biden-has-drop-out/678821/)                                                             | July 01, 2024 |
+| [To serve his country, Donald Trump should leave the race \| Editorial](https://www.inquirer.com/opinion/editorials/first-presidential-debate-joe-biden-donald-trump-withdraw-20240629.html) | July 01, 2024 |
+| [How ‘pro-life’ lost all meaning](https://www.theatlantic.com/newsletters/archive/2024/06/how-pro-life-lost-all-meaning/678784/?utm_source=feed)                                             | June 24, 2024 |
+| [The End of Roe: Two Years Later](https://feeds.feedblitz.com/~/899966009/0/currentpub/)                                                                                                     | June 24, 2024 |
+| [Maybe Don’t Spray-Paint Stonehenge](https://www.theatlantic.com/ideas/archive/2024/06/stonehenge-spray-paint-climate-protest/678765/)                                                       | June 22, 2024 |
+| [For Hamas, Everything Is Going According to Plan](https://www.theatlantic.com/international/archive/2024/06/hamas-everything-going-according-plan/678690/?utm_source=feed)                  | June 17, 2024 |
 
 { .block-language-dataview}
 
