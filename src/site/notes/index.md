@@ -18,8 +18,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OFNuDwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/9OGx0AEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494697918i/35127082.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/jlGUEAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/jlGUEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/D9KMDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/20_IEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ze5zAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316955102.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/kHh_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -49,12 +49,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                       | read on       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Are Christian values American values?](https://feeds.feedblitz.com/~/900627422/0/currentpub/)                                                                                               | July 04, 2024 |
 | [Revival and Revolution](https://www.commonwealmagazine.org/revival-and-revolution-1)                                                                                                        | July 02, 2024 |
 | [There were probably more constitutional constraints operating on George III in 1776 than now operate on the US president](https://feeds.feedblitz.com/~/900476141/0/currentpub/)            | July 02, 2024 |
 | [Dropping Out Is Biden’s Most Patriotic Option](https://www.theatlantic.com/politics/archive/2024/06/biden-has-drop-out/678821/)                                                             | July 01, 2024 |
 | [To serve his country, Donald Trump should leave the race \| Editorial](https://www.inquirer.com/opinion/editorials/first-presidential-debate-joe-biden-donald-trump-withdraw-20240629.html) | July 01, 2024 |
 | [How ‘pro-life’ lost all meaning](https://www.theatlantic.com/newsletters/archive/2024/06/how-pro-life-lost-all-meaning/678784/?utm_source=feed)                                             | June 24, 2024 |
-| [The End of Roe: Two Years Later](https://feeds.feedblitz.com/~/899966009/0/currentpub/)                                                                                                     | June 24, 2024 |
 
 { .block-language-dataview}
 
