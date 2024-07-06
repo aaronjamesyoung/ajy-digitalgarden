@@ -3,6 +3,12 @@
 ---
 
 
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+<script>
+jQuery(document).ready(function($) {
+$("a[href^='http']").each(function() { $(this).css({ background: "url(https://www.google.com/s2/favicons?domain=" + this.hostname + ") left center no-repeat", "padding-left": "20px" }); }); });
+</script>
+
 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 📌 [Gmail - AJY](https://mail.google.com/mail/u/1/)
 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
