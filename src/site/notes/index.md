@@ -39,10 +39,6 @@
 
 </div>
 
-### Latest Photos <small><a class="button" target="_blank" href="https://pixelfed.social/i/web/profile/584894152884316735">Follow me on Pixelfed</a></small>
-
-<div id="pixelfed"></div>
-
 ### News
 
 Here are some recent news articles I found interesting:
@@ -101,5 +97,3 @@ Here are some recent news articles I found interesting:
 View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
 
 </div></div>
-
-<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;const PF_URL=`https://hs.ajy.co/nodered/stream/pixelfed`;fetch(PF_URL).then(response=>response.text()).then(data=>{const elem=document.getElementById("pixelfed");elem.innerHTML=data;fetch(BW_URL).then(response2=>response2.text()).then(data2=>{const elem2=document.getElementById("bookwyrm-reading");elem2.innerHTML=data2});});</script>
