@@ -45,12 +45,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                            | read on       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/)                                      | July 25, 2024 |
 | [The Gunman and the Would-Be Dictator](https://www.theatlantic.com/ideas/archive/2024/07/donald-trump-democracy-dictator/679006/)                                                 | July 15, 2024 |
 | [How Liberal College Campuses Benefit Conservative Students](https://www.theatlantic.com/ideas/archive/2024/07/conservative-students-college-ideology/678934/)                    | July 08, 2024 |
 | [Are Christian values American values?](https://feeds.feedblitz.com/~/900627422/0/currentpub/)                                                                                    | July 04, 2024 |
 | [Revival and Revolution](https://www.commonwealmagazine.org/revival-and-revolution-1)                                                                                             | July 02, 2024 |
 | [There were probably more constitutional constraints operating on George III in 1776 than now operate on the US president](https://feeds.feedblitz.com/~/900476141/0/currentpub/) | July 02, 2024 |
-| [Dropping Out Is Biden’s Most Patriotic Option](https://www.theatlantic.com/politics/archive/2024/06/biden-has-drop-out/678821/)                                                  | July 01, 2024 |
 
 { .block-language-dataview}
 
