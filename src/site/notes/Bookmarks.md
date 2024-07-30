@@ -48,7 +48,7 @@ $("a[href^='http']").each(function() { $(this).css({ background: "url(https://ww
 
 ## 📘 Reading
 
-[Anna’s Archive](https://annas-archive.gs/search?lang=en&content=&ext=epub&sort=&q=)
+[Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
 [https://www.hoopladigital.com/](https://www.hoopladigital.com/)
 [Libby](https://libbyapp.com/shelf)
 [LibriVox](https://librivox.org/)
