@@ -29,7 +29,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                         | 2024-02-15 | 2024-07-19 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                         | 2024-02-15 | 2024-07-26 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-12-11 | 🥈    |
 | [[Books Read in 2024\|Books Read in 2024]]                                                                                       | 2023-12-23 | 2023-12-23 | 🥈    |
@@ -41,7 +41,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[First Aid Kit\|First Aid Kit]]                                                                                                 | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                             | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2023-07-16 | 🥇    |
-| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2024-03-14 | \-    |
+| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2024-07-28 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
 | [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]                                     | 2023-09-15 | 2023-10-28 | 🥇    |
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-09-13 | 🥇    |
