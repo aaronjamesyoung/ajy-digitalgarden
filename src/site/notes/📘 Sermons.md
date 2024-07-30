@@ -4,7 +4,6 @@
 
 
 ## Sermon Series
-- [[sermons/2020 First Allegiance\|2020 First Allegiance]]
 
 { .block-language-dataview}
 ## Not Sermons
