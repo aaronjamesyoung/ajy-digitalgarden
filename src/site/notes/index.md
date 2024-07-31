@@ -17,7 +17,6 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/1rZzgy--gxoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/7ILhxBwnnr0C?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -28,11 +27,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/1rZzgy--gxoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/pVWmAAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494697918i/35127082.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/OFNuDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/9OGx0AEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/jlGUEAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -42,14 +41,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                            | read on       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/)                                      | July 25, 2024 |
-| [The Gunman and the Would-Be Dictator](https://www.theatlantic.com/ideas/archive/2024/07/donald-trump-democracy-dictator/679006/)                                                 | July 15, 2024 |
-| [How Liberal College Campuses Benefit Conservative Students](https://www.theatlantic.com/ideas/archive/2024/07/conservative-students-college-ideology/678934/)                    | July 08, 2024 |
-| [Are Christian values American values?](https://feeds.feedblitz.com/~/900627422/0/currentpub/)                                                                                    | July 04, 2024 |
-| [Revival and Revolution](https://www.commonwealmagazine.org/revival-and-revolution-1)                                                                                             | July 02, 2024 |
-| [There were probably more constitutional constraints operating on George III in 1776 than now operate on the US president](https://feeds.feedblitz.com/~/900476141/0/currentpub/) | July 02, 2024 |
+| source                                                                                                                                                         | read on       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/)              | July 26, 2024 |
+| [One nerd to rule them all](https://currentpub.com/2024/07/26/one-nerd-to-rule-them-all/)                                                                      | July 26, 2024 |
+| [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/)                   | July 25, 2024 |
+| [The Gunman and the Would-Be Dictator](https://www.theatlantic.com/ideas/archive/2024/07/donald-trump-democracy-dictator/679006/)                              | July 15, 2024 |
+| [How Liberal College Campuses Benefit Conservative Students](https://www.theatlantic.com/ideas/archive/2024/07/conservative-students-college-ideology/678934/) | July 08, 2024 |
+| [Are Christian values American values?](https://feeds.feedblitz.com/~/900627422/0/currentpub/)                                                                 | July 04, 2024 |
 
 { .block-language-dataview}
 
