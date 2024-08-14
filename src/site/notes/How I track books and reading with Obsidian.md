@@ -27,8 +27,8 @@ First, set a folder where all your book notes will live. Second, create a new no
 
 ```
 ---
-title: "{{title}}"
-author: {{author}}
+title: "{{ "{{" }}title{{ "}}" }}"
+author: {{ "{{" }}author{{ "}}" }}
 series: 
 seriesnumber: 
 rating: 
@@ -37,21 +37,21 @@ readdates:
   finished: 
 shelf: toread
 list: 
-publisher: {{publisher}}
-publish: {{publishDate}}
-pages: {{totalPage}}
-isbn: {{isbn10}} {{isbn13}}
+publisher: {{ "{{" }}publisher{{ "}}" }}
+publish: {{ "{{" }}publishDate{{ "}}" }}
+pages: {{ "{{" }}totalPage{{ "}}" }}
+isbn: {{ "{{" }}isbn10{{ "}}" }} {{ "{{" }}isbn13{{ "}}" }}
 cover: <%=book.coverUrl ? `https://books.google.com/books/publisher/content/images/frontcover/${[...book.coverUrl.split("&")[0].matchAll(/id.?(.*)/g)][0][1]}?fife=w600-h900&source=gbs_api` : ''%>
-dateCreated: {{date}}
+dateCreated: {{ "{{" }}date{{ "}}" }}
 ---
 
-![cover|150]({{coverUrl}})
+![cover|150]({{ "{{" }}coverUrl{{ "}}" }})
 
-## {{title}}
+## {{ "{{" }}title{{ "}}" }}
 
 ### Description
 
-{{description}}
+{{ "{{" }}description{{ "}}" }}
 ```
 
 A few notes on the template:
@@ -59,7 +59,7 @@ A few notes on the template:
 * `series`, `seriesnumber`, `rating`, `readdates`, `shelf`, and `list` properties are not populated by the plugin. After adding a book note, you'll need to update these yourself.
 * For `shelf`, you can choose what you want to do. I set it to one of: `toread`, `reading`, `read`, or `stopped`.
 * `list` is meant to be a freeform field; I use it to create a list of [[Recommended Books\|Recommended Books]].
-* `cover` has been updated from the default cover URL that the plugin provides. This version will give you large-format covers instead of small.
+* `cover` has been updated from the default cover URL that the plugin provides. This version will give you large-format covers instead of small (also, the small covers often include a page curl).
 * For `rating`, I use a number (1-5). My dataview queries below convert these to star emojis.
 * `readdates` is meant to accomodate multiple rereads. You would fill it out like this:
 
@@ -72,6 +72,8 @@ readdates:
 ```
 
 ... and so on. Unfortunately this doesn't play well with the Obsidian Properties UI that was released recently in 1.4, so you might want to switch to source view while editing these dates.
+
+![2023-10-28_09-00.png](/img/user/98-attachments/2023-10-28_09-00.png)
 
 **Configure Dataview**
 
@@ -102,6 +104,8 @@ SORT title ASC
 * This displays the cover at 80px wide
 * Assumes that your book notes are stored in a folder called "books"
 * Throughout these examples, double check your shelf names.
+
+![2023-10-28_09-02.png](/img/user/98-attachments/2023-10-28_09-02.png)
 
 **Bookshelf: currently reading** `dataview`
 
@@ -183,7 +187,7 @@ dv.table(
 	["cover", "title", "author", "series", "read", "rating"],
 	expandedPages.map(b => [
 		"![" + b.cover + "|80](" + b.cover + ")",
-		"[[" + b.file.name + "|" + b.title + "]]",
+		b.title,
 		b.author,
 		b.series,
 		renderReadDates(b.readdates),
@@ -196,11 +200,13 @@ OK, here's where things get interesting. We're using DataviewJS to create a fanc
 
 * The first function helps us render start/finished dates into more natural language than YYYY-MM-DD.
 * We get our list of books, and filter them down to the books read during the specified year.
-* But if we reread a book during the year, we will list it again
+* But if we reread a book during the year, the code will list it again
 * Then we build a table.
 * `dv.pages('"books"')` refers to the "books" folder where your book notes are kept.
 
 See [[Books Read in 2023\|Books Read in 2023]].
+
+![2023-10-28_09-05.png](/img/user/98-attachments/2023-10-28_09-05.png)
 
 **List the 5-star books from 2023** `dataview`
 
@@ -210,6 +216,8 @@ title + " (" + author + ")"
 FROM "books"
 WHERE rating=5 AND contains(string(readdates.finished), "2023")
 ```
+
+![2023-10-28_09-05_1.png](/img/user/98-attachments/2023-10-28_09-05_1.png)
 
 **Show how many books you have read in 2023** `dataview`
 
@@ -221,22 +229,43 @@ WHERE contains(string(readdates.finished), "2023")
 GROUP BY dateformat(finished, "yyyy")
 ```
 
-**Display covers of books grouped by series** (excludes books not in a series) `dataviewjs`
+**Display covers of books grouped by series, with average star rating of series** (excludes books not in a series) `dataviewjs`
 
 ```
 let groups = dv.pages('"books"')
-    .filter(b => b.series)
+	.filter(b => { // Only get books belonging to series
+	    let ret = true;
+	    if(!b.series) {
+	        ret = false;
+	    }
+	    if(b.shelf !== 'read') {
+	        ret = false;
+	    }
+	    return ret;
+	 })
 	.groupBy(b => b.series)
 	.sort(b => b.series);
 
 for(let group of groups) {
-    dv.header(3, group.key)
     let rows = group.rows.sort(b => b.seriesnumber, 'asc')
         .map(b => `<img src="${b.cover}" style="height: 160px; margin-right: 6px; margin-bottom: 6px; border-radius: 4px;" />`)
         .join("");
+    let grouplength = group.rows.length;
+	group.average = group.rows.array().reduce((acc, b) => { // Calculate average rating for books which have been rated
+	    if(b.rating) {
+			acc += b.rating;
+		} else {
+			grouplength--;
+		}
+		return acc;
+	}, 0) / grouplength;
+	group.average = Math.round(group.average*100) / 100
+	dv.header(3, `${group.key} (${group.average})`)
     dv.el('div', rows);
 }
 ```
+
+![2023-10-28_09-06.png](/img/user/98-attachments/2023-10-28_09-06.png)
 
 From all these examples, I hope you can build other queries you might want.
 

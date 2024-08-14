@@ -1,9 +1,7 @@
 ---
-{"source":"[Do You Trust Me?](https://www.youtube.com/watch?v=jzwzJ0mwtKU)","clipped":"2022-12-22","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-12-22-do-you-trust-me/","dgPassFrontmatter":true}
+{"source":"[Do You Trust Me?](https://www.youtube.com/watch?v=jzwzJ0mwtKU)","clipped":"2022-12-22","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Advent","permalink":"/sermons/2022-12-22-do-you-trust-me/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2022 Advent\|2022 Advent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jzwzJ0mwtKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -16,5 +14,5 @@
 * Ahaz says, "I will not put the Lord to a test" which sounds great, but God has asked for it!
 * Beyond this, we see that Ahaz isn't trusting God anyways - he has struck a deal with Assyria
 * But - though Ahaz hasn't asked for a sign, Isaiah gives one anyway: The virgin wtih child
-* [[94-bible/Matthew 1\|Matthew 1]] v22-23 claims this prophecy 
+* [[94-bible/Matthew 1\|Matthew 1]] v22-23 claims this prophecy
 * "Emmanuel" - a title meaning "God with us". Despite Ahaz's refusal of a sign, God was faithful.

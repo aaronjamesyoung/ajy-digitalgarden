@@ -1,9 +1,7 @@
 ---
-{"source":"[Living in Awe](https://www.youtube.com/watch?v=xHXX6_SDrfY)","clipped":"2023-02-05","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-02-05-living-in-awe/","dgPassFrontmatter":true}
+{"source":"[Living in Awe](https://www.youtube.com/watch?v=xHXX6_SDrfY)","clipped":"2023-02-05","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Epiphany","permalink":"/sermons/2023-02-05-living-in-awe/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2023 Epiphany\|2023 Epiphany]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xHXX6_SDrfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

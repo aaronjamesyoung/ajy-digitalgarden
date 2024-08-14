@@ -5,33 +5,21 @@
 
 <div class="hc"><div class="hc__left">
 
-![mt-washington.jpg](/img/user/98-attachments/mt-washington.jpg)
-
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]].
 
 
 > [!TIP] Currently seeking work
 > I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
 
-
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
-
-## Follow me online
-
-### Running <small><a class="button" target="_blank" href="https://www.strava.com/athletes/aaronjamesyoung">Follow me on Strava</a></small>
-
-<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1057219/latest-rides/ed2151117df36fe681b40b6883a1d116e9c6b39b'></iframe>
-
-### Latest Photos <small><a class="button" target="_blank" href="https://pixelfed.social/i/web/profile/584894152884316735">Follow me on Pixelfed</a></small>
-
-<div id="pixelfed"></div>
 
 ### Currently Reading
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/giaLDgAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/DQ28DwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431402659i/437135.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/KXCdAwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/WToh-xW3cfoC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -41,11 +29,11 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/j-WkEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/IEXNpyrUiXAC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/BggjiQn2m8sC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/uomkEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](http://books.google.com/books/content?id=T4I1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/mDURpw3IjOIC?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698761190i/201127814.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/7ILhxBwnnr0C?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/1rZzgy--gxoC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/pVWmAAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -55,16 +43,20 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                          | read on            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Was Jesus Violent in the Temple?](https://www.jesuspeacecollective.com/post/was-jesus-violent-in-the-temple)                                                   | October 08, 2023   |
-| [The Bible on Self-Defense: A Response to Doug Wilson - Theology in the raw](https://theologyintheraw.com/the-bible-on-self-defense-a-response-to-doug-wilson/) | October 05, 2023   |
-| [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)                                               | October 04, 2023   |
-| [Are Exogenous Ketones Worth the Hype?](https://www.trailrunnermag.com/nutrition/are-exogenous-ketones-worth-the-hype/)                                         | October 02, 2023   |
-| [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)                                                                   | September 30, 2023 |
-| [National Coffee Day 2023: 5 things serious coffee fans should know](https://www.axios.com/2023/09/29/coffee-day-2023-health-facts)                             | September 29, 2023 |
+| source                                                                                                                                                         | read on         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Logical fallacies: Seven ways to spot a bad argument](https://www.bbc.com/future/article/20240709-seven-ways-to-spot-a-bad-argument)                          | August 06, 2024 |
+| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/)              | July 26, 2024   |
+| [One nerd to rule them all](https://currentpub.com/2024/07/26/one-nerd-to-rule-them-all/)                                                                      | July 26, 2024   |
+| [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/)                   | July 25, 2024   |
+| [The Gunman and the Would-Be Dictator](https://www.theatlantic.com/ideas/archive/2024/07/donald-trump-democracy-dictator/679006/)                              | July 15, 2024   |
+| [How Liberal College Campuses Benefit Conservative Students](https://www.theatlantic.com/ideas/archive/2024/07/conservative-students-college-ideology/678934/) | July 08, 2024   |
 
 { .block-language-dataview}
+
+### Running <small><a class="button" target="_blank" href="https://www.strava.com/athletes/aaronjamesyoung">Follow me on Strava</a></small>
+
+<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1057219/latest-rides/ed2151117df36fe681b40b6883a1d116e9c6b39b'></iframe>
 
 </div><div class="hc__right">
 
@@ -83,7 +75,9 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
-- [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-08)
+- [[Wordle letter frequency\|Wordle letter frequency]] (Updated 2023-12-24)
+- [[Best books of 2023\|Best books of 2023]] (Updated 2023-12-18)
+- [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-28)
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-09-18)
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
@@ -103,5 +97,3 @@ Here are some recent news articles I found interesting:
 View all my [[Notes\|Notes]] - less refined articles and thoughts I've been working on lately.
 
 </div></div>
-
-<script>const BW_URL=`https://hs.ajy.co/nodered/stream/bookwyrm-reading`;const PF_URL=`https://hs.ajy.co/nodered/stream/pixelfed`;fetch(PF_URL).then(response=>response.text()).then(data=>{const elem=document.getElementById("pixelfed");elem.innerHTML=data;fetch(BW_URL).then(response2=>response2.text()).then(data2=>{const elem2=document.getElementById("bookwyrm-reading");elem2.innerHTML=data2});});</script>

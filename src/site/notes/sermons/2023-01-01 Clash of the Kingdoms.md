@@ -1,9 +1,7 @@
 ---
-{"source":"[Clash of the Kingdoms](https://www.youtube.com/watch?v=Gxjh_D34jXs)","clipped":"2023-01-01","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-01-01-clash-of-the-kingdoms/","dgPassFrontmatter":true}
+{"source":"[Clash of the Kingdoms](https://www.youtube.com/watch?v=Gxjh_D34jXs)","clipped":"2023-01-01","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Advent","permalink":"/sermons/2023-01-01-clash-of-the-kingdoms/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2022 Advent\|2022 Advent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gxjh_D34jXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

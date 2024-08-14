@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2023-02-22-ash-wednesday/","dgPassFrontmatter":true}
+{"dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2023 Lent","permalink":"/sermons/2023-02-22-ash-wednesday/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2023 Lent\|2023 Lent]]
 
 * [[94-bible/Psalm 51\|Psalm 51]] vv 1-17
 * Why ashes? 2 reasons:

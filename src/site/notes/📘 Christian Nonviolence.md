@@ -45,8 +45,11 @@ What is Christian nonviolence?
 
 ## External Articles
 
+- [An Introduction to Christian Nonviolence](https://www.jesuspeacecollective.com/post/start-here)
 - [How to Win Enemies](https://www.plough.com/en/topics/justice/nonviolence/how-to-win-enemies)
 - [The Killer at the Door - Theology in the raw](https://theologyintheraw.com/blog/2016/05/the-killer-at-the-door/)
+- [The Sword and the Cross](https://www.plough.com/en/topics/justice/nonviolence/the-sword-and-the-cross)
 - [Was Jesus Violent in the Temple?](https://www.jesuspeacecollective.com/post/was-jesus-violent-in-the-temple)
+- [When Love Seems Impossible](https://www.plough.com/en/topics/justice/peacemaking/when-love-seems-impossible)
 
 { .block-language-dataview}

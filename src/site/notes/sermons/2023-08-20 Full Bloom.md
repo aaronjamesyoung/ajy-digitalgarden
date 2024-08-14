@@ -1,12 +1,11 @@
 ---
-{"source":"[Full Bloom](https://www.youtube.com/watch?v=PMaG6OpUwjc)","clipped":"2023-08-20","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-20","permalink":"/sermons/2023-08-20-full-bloom/","dgPassFrontmatter":true}
+{"source":"[Full Bloom](https://www.youtube.com/watch?v=PMaG6OpUwjc)","clipped":"2023-08-20","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-20","sermonSeries":"2023 Summertide","permalink":"/sermons/2023-08-20-full-bloom/","dgPassFrontmatter":true}
 ---
 
 
 [[2023-08-20\|2023-08-20]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMaG6OpUwjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 [[Genesis 37\|Genesis 37]] 17-28-Joseph & his brothers
 

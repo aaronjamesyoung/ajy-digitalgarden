@@ -1,9 +1,7 @@
 ---
-{"source":"[Joy to the Earth](https://www.youtube.com/watch?v=MOypm2pHpoY)","clipped":"2022-12-11","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-12-11-joy-to-the-earth/","dgPassFrontmatter":true}
+{"source":"[Joy to the Earth](https://www.youtube.com/watch?v=MOypm2pHpoY)","clipped":"2022-12-11","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Advent","permalink":"/sermons/2022-12-11-joy-to-the-earth/","dgPassFrontmatter":true}
 ---
 
-
-[[sermons/2022 Advent\|2022 Advent]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MOypm2pHpoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -11,7 +9,7 @@
 
 * This passage prophesies Jesus' second coming and the establishment of God's Kingdom. v 10 mentions humanity but much of the passage focuses on the rest of creation.
 * As American Christians, especially from an evangelical background, we tend not to talk about creation much. 2 reasons:
-    * *theological* - we have a mistaken theology that the earth is cursed and fleeting. 
+    * *theological* - we have a mistaken theology that the earth is cursed and fleeting.
     * *political* - Discussing creation care associates us with the "wrong" tribe
 * But, we should discuss this as Christians. Why? Reconciliation with nature from a Biblical point of view (not theological or political).
     * [[94-bible/Genesis 1\|Genesis 1]] v1 - Bible begins with a Creator and Creation
@@ -23,7 +21,7 @@
     * [[94-bible/Romans 8\|Romans 8]] v22 - "whole creation groaning" - we have failed in our stewardship of creation, Paul notes it is corrupted by our sin. The world is not how it is supposed to be.
         * Note: Pacific ocean garbage island - look, even *if* there's debate about whether climate change is human-caused (I do not concede that there is meaningful debate about that, but suppose there is), there's no question that the garbage island is on us.
     * [[94-bible/Revelation 21\|Revelation 21]] - God WILL redeem creation. This is what Isaiah is describing in [[94-bible/Isaiah 35\|Isaiah 35]]
-* As we anticipate Christmas, this is the gospel story we are entering into. 
+* As we anticipate Christmas, this is the gospel story we are entering into.
 * Ideas for a green Christmas:
     * Buy less and buy local. Shared experiences instead of things - concert tickets, etc
     * Get outside - spend time in creation

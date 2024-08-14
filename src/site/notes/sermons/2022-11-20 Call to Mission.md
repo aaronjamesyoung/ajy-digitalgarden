@@ -1,12 +1,9 @@
 ---
-{"source":"[Call to Mission](https://www.youtube.com/watch?v=dweq86FGylY)","clipped":"2022-11-20","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-09","permalink":"/sermons/2022-11-20-call-to-mission/","dgPassFrontmatter":true}
+{"source":"[Call to Mission](https://www.youtube.com/watch?v=dweq86FGylY)","clipped":"2022-11-20","dg-publish":true,"grade":2,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-09","sermonSeries":"2022 Work of the People","permalink":"/sermons/2022-11-20-call-to-mission/","dgPassFrontmatter":true}
 ---
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dweq86FGylY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Series: [[sermons/2022 Work of the People\|2022 Work of the People]]
 
 This sermon was last in the Work of the People series and covered our sending prayer from the end of the service.
 

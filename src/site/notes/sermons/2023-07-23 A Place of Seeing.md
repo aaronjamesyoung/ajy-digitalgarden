@@ -1,5 +1,5 @@
 ---
-{"source":"[A Place of Seeing](https://www.youtube.com/watch?v=dWCfg3ZfUZY)","clipped":"2023-07-23","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":"Sermon","dateCreated":"2023-08-11","permalink":"/sermons/2023-07-23-a-place-of-seeing/","dgPassFrontmatter":true}
+{"source":"[A Place of Seeing](https://www.youtube.com/watch?v=dWCfg3ZfUZY)","clipped":"2023-07-23","dg-publish":true,"grade":1,"context":"Personal","type":"Resource","status":"Evergreen","topic":["Sermon"],"dateCreated":"2023-08-11","sermonSeries":"2023 Summertide","permalink":"/sermons/2023-07-23-a-place-of-seeing/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dWCfg3ZfUZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Sean. 8th Sunday of Sunmartide. [[Genesis 16\|Genesis 16]] vv 1-16 Hager. 
+Sean. 8th Sunday of Sunmartide. [[94-bible/Genesis 16\|Genesis 16]] vv 1-16 Hager.
 
 * Scripture can be complicated and messy, because the people are complicated & messy. Scripture is not about ideals: it's about reality
 * What does faith look like in a God whose promises tarry too long?
