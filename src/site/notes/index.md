@@ -18,7 +18,6 @@
 <div class="book-covers">
 
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431402659i/437135.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/KXCdAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WToh-xW3cfoC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/KXCdAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/mDURpw3IjOIC?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698761190i/201127814.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/7ILhxBwnnr0C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/1rZzgy--gxoC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/pVWmAAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -43,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                         | read on         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Logical fallacies: Seven ways to spot a bad argument](https://www.bbc.com/future/article/20240709-seven-ways-to-spot-a-bad-argument)                          | August 06, 2024 |
-| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/)              | July 26, 2024   |
-| [One nerd to rule them all](https://currentpub.com/2024/07/26/one-nerd-to-rule-them-all/)                                                                      | July 26, 2024   |
-| [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/)                   | July 25, 2024   |
-| [The Gunman and the Would-Be Dictator](https://www.theatlantic.com/ideas/archive/2024/07/donald-trump-democracy-dictator/679006/)                              | July 15, 2024   |
-| [How Liberal College Campuses Benefit Conservative Students](https://www.theatlantic.com/ideas/archive/2024/07/conservative-students-college-ideology/678934/) | July 08, 2024   |
+| source                                                                                                                                            | read on         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [A Field Guide to the Flags of the Far Right](https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/)              | August 10, 2024 |
+| [Logical fallacies: Seven ways to spot a bad argument](https://www.bbc.com/future/article/20240709-seven-ways-to-spot-a-bad-argument)             | August 06, 2024 |
+| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/) | July 26, 2024   |
+| [One nerd to rule them all](https://currentpub.com/2024/07/26/one-nerd-to-rule-them-all/)                                                         | July 26, 2024   |
+| [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/)      | July 25, 2024   |
+| [The Gunman and the Would-Be Dictator](https://www.theatlantic.com/ideas/archive/2024/07/donald-trump-democracy-dictator/679006/)                 | July 15, 2024   |
 
 { .block-language-dataview}
 
