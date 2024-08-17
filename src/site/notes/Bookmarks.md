@@ -3,12 +3,6 @@
 ---
 
 
-<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
-<script>
-jQuery(document).ready(function($) {
-$("a[href^='http']").each(function() { $(this).css({ background: "url(https://www.google.com/s2/favicons?domain=" + this.hostname + ") left center no-repeat", "padding-left": "24px" }); }); });
-</script>
-
 📌 [FreshRSS (Homeserver)](https://hs.ajy.co/reader/i/)
 📌 [Gmail - AJY](https://mail.google.com/mail/u/1/)
 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
@@ -80,3 +74,14 @@ $("a[href^='http']").each(function() { $(this).css({ background: "url(https://ww
 [twitter.com/centralorfire](https://twitter.com/centralorfire)
 [Watch Duty](https://app.watchduty.org/)
 [WildWeb](https://www.wildwebe.net/?dc_name=ORCOC)
+
+## 👨‍💻 Work
+
+[Asana](https://app.asana.com/)
+[Penpot - Design Freedom for Teams](https://design.penpot.app/#/dashboard/team/c0ee57fd-603e-804a-8004-cd3fb46399fb/projects)
+
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+<script>
+jQuery(document).ready(function($) {
+$("a[href^='http']").each(function() { $(this).css({ background: "url(https://www.google.com/s2/favicons?domain=" + this.hostname + ") left center no-repeat", "padding-left": "24px" }); }); });
+</script>
