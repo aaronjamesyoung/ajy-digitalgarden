@@ -17,6 +17,7 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/kvEZmHX8cfwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WToh-xW3cfoC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -41,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                              | read on         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Did God Save Donald Trump?](https://www.theatlantic.com/politics/archive/2024/08/trump-assassination-attempt-christianity/679523/?utm_source=feed) | August 21, 2024 |
-| [When Is It Okay to Not Finish a Book?](https://www.theatlantic.com/books/archive/2024/08/quit-give-up-book-reading-habits/679516/)                 | August 21, 2024 |
-| [A Field Guide to the Flags of the Far Right](https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/)                | August 10, 2024 |
-| [Logical fallacies: Seven ways to spot a bad argument](https://www.bbc.com/future/article/20240709-seven-ways-to-spot-a-bad-argument)               | August 06, 2024 |
-| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/)   | July 26, 2024   |
-| [One nerd to rule them all](https://currentpub.com/2024/07/26/one-nerd-to-rule-them-all/)                                                           | July 26, 2024   |
+| source                                                                                                                                                    | read on         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Did God Save Donald Trump?](https://www.theatlantic.com/politics/archive/2024/08/trump-assassination-attempt-christianity/679523/?utm_source=feed)       | August 21, 2024 |
+| [The Far Right Is Becoming Obsessed With Race and IQ](https://www.theatlantic.com/technology/archive/2024/08/race-science-far-right-charlie-kirk/679527/) | August 21, 2024 |
+| [When Is It Okay to Not Finish a Book?](https://www.theatlantic.com/books/archive/2024/08/quit-give-up-book-reading-habits/679516/)                       | August 21, 2024 |
+| [A Field Guide to the Flags of the Far Right](https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/)                      | August 10, 2024 |
+| [Logical fallacies: Seven ways to spot a bad argument](https://www.bbc.com/future/article/20240709-seven-ways-to-spot-a-bad-argument)                     | August 06, 2024 |
+| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/)         | July 26, 2024   |
 
 { .block-language-dataview}
 
