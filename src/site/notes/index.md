@@ -44,12 +44,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                    | read on         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Trump’s Evangelical Supporters Just Lost Their Best Excuse](https://www.theatlantic.com/ideas/archive/2024/08/trump-betrays-pro-life-movement/679622/)   | August 27, 2024 |
 | [Did God Save Donald Trump?](https://www.theatlantic.com/politics/archive/2024/08/trump-assassination-attempt-christianity/679523/?utm_source=feed)       | August 21, 2024 |
 | [The Far Right Is Becoming Obsessed With Race and IQ](https://www.theatlantic.com/technology/archive/2024/08/race-science-far-right-charlie-kirk/679527/) | August 21, 2024 |
 | [When Is It Okay to Not Finish a Book?](https://www.theatlantic.com/books/archive/2024/08/quit-give-up-book-reading-habits/679516/)                       | August 21, 2024 |
 | [A Field Guide to the Flags of the Far Right](https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/)                      | August 10, 2024 |
 | [Logical fallacies: Seven ways to spot a bad argument](https://www.bbc.com/future/article/20240709-seven-ways-to-spot-a-bad-argument)                     | August 06, 2024 |
-| [Kamala Harris Is Not an Enemy of the Jews](https://www.theatlantic.com/politics/archive/2024/07/kamala-harris-israel-antisemitism-trump/679234/)         | July 26, 2024   |
 
 { .block-language-dataview}
 
