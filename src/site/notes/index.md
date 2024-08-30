@@ -18,7 +18,6 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/NtNsDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
