@@ -45,13 +45,12 @@
 [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
 [https://www.hoopladigital.com/](https://www.hoopladigital.com/)
 [Libby](https://libbyapp.com/shelf)
-[LibriVox](https://librivox.org/)
 [Project Gutenberg](https://www.gutenberg.org/)
 [Standard Ebooks](https://standardebooks.org/)
 
 ## ⛈ Weather
 
-[AWS Plot](https://nwcc-apps.sc.egov.usda.gov/awdb/basin-plots/POR/WTEQ/assocHUCor3/state_of_oregon.html)
+[AWS Plot - Snowpack](https://nwcc-apps.sc.egov.usda.gov/awdb/basin-plots/POR/WTEQ/assocHUCor3/state_of_oregon.html)
 [Copernicus Browser](https://browser.dataspace.copernicus.eu/?zoom=11&lat=44.03604&lng=-121.48164&dateMode=MOSAIC)
 [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 [pwsweather.com/station/mid/pc186](https://www.pwsweather.com/station/mid/pc186)
@@ -67,9 +66,7 @@
 ## 🔥 Wildfire
 
 [Central Oregon Fire Information – Prescribed Burning | Wildfire Updates | Smoke and Public Health Information](https://www.centraloregonfire.org/)
-[Central Oregon Interagency Dispatch Center (COIDC)](https://gacc.nifc.gov/nwcc/districts/COIDC/)
 [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/44.04,-121.59/11)
-[FWAC Wildfire Map - Current Wildfires, Forest Fires, and Lightning Strikes near you | Fire, Weather & Avalanche Center](https://www.fireweatheravalanche.org/fire/)
 [PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
 [twitter.com/centralorfire](https://twitter.com/centralorfire)
 [Watch Duty](https://app.watchduty.org/)
