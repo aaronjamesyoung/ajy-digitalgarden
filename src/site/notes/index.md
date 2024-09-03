@@ -18,7 +18,6 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715707898i/213353605.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/FxifDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715707898i/213353605.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NtNsDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/kvEZmHX8cfwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/xoCX8n_i6OYC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/WToh-xW3cfoC?fife=w600-h900&source=gbs_api)
-- ![cover](http://books.google.com/books/content?id=wRxoDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 { .block-language-dataview}
 
