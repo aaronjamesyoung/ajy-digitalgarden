@@ -10,39 +10,20 @@
 📌 [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 📌 [Voice](https://voice.google.com/u/0/messages)
 
-### 📊 Aarontable
-
+[Asana](https://app.asana.com/)
+[CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
+[Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/44.04,-121.59/11)
 [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
-[Buttes](https://docs.google.com/spreadsheets/d/1wi1E6dDCtwnghdwCxNaZSyrY6vuSygjkDUmX-YkCplM/edit#gid=0)
-[Sewing Calculator](https://docs.google.com/spreadsheets/d/1GMI_w_bTGRCVBmLmUaO316l-YjUyKxto72saeMuHm0k/edit#gid=0)
-
-### 🖥 Homeserver
-
 [Matomo](https://hs.ajy.co/matomo/)
+[National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard/)
 [PhotoPrism](https://photoprism.ajy.co/)
+[PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
+[pwsweather.com/station/mid/pc186](https://www.pwsweather.com/station/mid/pc186)
+[Strava](https://www.strava.com/dashboard)
 [Syncthing](http://localhost:8384/)
 [Wanderer](https://trails.ajy.co/)
-
-### 🌄 Outdoors
-
-[CalTopo - Backcountry Mapping Evolved](https://caltopo.com/map.html)
-[Strava](https://www.strava.com/dashboard)
-
-### ⛈ Weather
-
-[National Weather Service](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
-[pwsweather.com/station/mid/pc186](https://www.pwsweather.com/station/mid/pc186)
-
-### 🔥 Wildfire
-
-[Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/44.04,-121.59/11)
-[PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
 [Watch Duty](https://app.watchduty.org/)
-
-### 👨‍💻 Work
-
-[Asana](https://app.asana.com/)
 
 ---
 
@@ -65,6 +46,7 @@
 ### MYOG
 
 [Ripstop By The Roll - Fabrics and Materials to Make Your Own Gear or Grow Your Business.](https://ripstopbytheroll.com/)
+[G-Hook belt with hand sewn bartacks : r/myog](https://www.reddit.com/r/myog/comments/1fbil1m/ghook_belt_with_hand_sewn_bartacks/)
 
 ### Obsidian
 
