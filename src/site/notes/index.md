@@ -17,7 +17,6 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NbHsAgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/U4txsYmht3sC?fife=w600-h900&source=gbs_api)
 
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/FxifDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715707898i/213353605.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NtNsDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/kvEZmHX8cfwC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/xoCX8n_i6OYC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -43,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                    | read on            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Public Schools Really Can Save America](https://feeds.feedblitz.com/~/904069613/0/currentpub/)                                                           | September 05, 2024 |
-| [Trump’s Evangelical Supporters Just Lost Their Best Excuse](https://www.theatlantic.com/ideas/archive/2024/08/trump-betrays-pro-life-movement/679622/)   | August 27, 2024    |
-| [Did God Save Donald Trump?](https://www.theatlantic.com/politics/archive/2024/08/trump-assassination-attempt-christianity/679523/?utm_source=feed)       | August 21, 2024    |
-| [The Far Right Is Becoming Obsessed With Race and IQ](https://www.theatlantic.com/technology/archive/2024/08/race-science-far-right-charlie-kirk/679527/) | August 21, 2024    |
-| [When Is It Okay to Not Finish a Book?](https://www.theatlantic.com/books/archive/2024/08/quit-give-up-book-reading-habits/679516/)                       | August 21, 2024    |
-| [A Field Guide to the Flags of the Far Right](https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/)                      | August 10, 2024    |
+| source                                                                                                                                                                                                                       | read on            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [After 2 Years, Trump Tax Cuts Have Failed To Deliver On GOP's Promises](https://www.npr.org/2019/12/20/789540931/2-years-later-trump-tax-cuts-have-failed-to-deliver-on-gops-promises)                                      | September 09, 2024 |
+| [Dozens of Oregon law enforcement officers have been members of the far-right Oath Keepers militia](https://www.opb.org/article/2021/10/15/dozens-of-oregon-law-enforcement-officers-joined-far-right-oath-keepers-militia/) | September 09, 2024 |
+| [Evangelicals are looking for answers online. They’re finding QAnon instead.](https://www.technologyreview.com/2020/08/26/1007611/how-qanon-is-targeting-evangelicals/)                                                      | September 09, 2024 |
+| [How Trump And COVID-19 Have Reshaped The Modern Militia Movement](https://fivethirtyeight.com/features/how-trump-and-covid-19-have-reshaped-the-modern-militia-movement/)                                                   | September 09, 2024 |
+| [Immersion in fictional worlds allows us to own our dark side](https://psyche.co/ideas/immersion-in-fictional-worlds-allows-us-to-own-our-dark-side)                                                                         | September 09, 2024 |
+| [It’s Time to Stop Saying “If You’re Not Paying, You’re the Product”](https://getpocket.com/explore/item/are-you-really-the-product)                                                                                         | September 09, 2024 |
 
 { .block-language-dataview}
 
