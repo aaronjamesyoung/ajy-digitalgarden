@@ -3,6 +3,7 @@
 ---
 
 
+<style>ul { list-style-type: none;}</style>
 <div id="bookmarks"></div>
 <script>
 const BM_URL=`https://hs.ajy.co/nodered/stream/bookmarks`;
