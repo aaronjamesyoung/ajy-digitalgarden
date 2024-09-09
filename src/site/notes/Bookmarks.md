@@ -3,7 +3,7 @@
 ---
 
 
-<style>ul { list-style-type: none;}</style>
+<style>ul, ul li { list-style-type: none; padding-left: 0;}</style>
 <div id="bookmarks"></div>
 <script>
 const BM_URL=`https://hs.ajy.co/nodered/stream/bookmarks`;
