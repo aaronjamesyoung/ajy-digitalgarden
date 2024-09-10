@@ -44,12 +44,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                                       | read on            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Life coach or therapist? Know the differences](https://www.npr.org/sections/shots-health-news/2024/09/09/nx-s1-5106771/coach-coaching-therapy-differences-mental-health)                                                    | September 10, 2024 |
+| [The Dangerous Rise of the Podcast Historians](https://www.theatlantic.com/international/archive/2024/09/holocaust-denial-podcast-historians/679765/?utm_source=feed)                                                        | September 10, 2024 |
 | [After 2 Years, Trump Tax Cuts Have Failed To Deliver On GOP's Promises](https://www.npr.org/2019/12/20/789540931/2-years-later-trump-tax-cuts-have-failed-to-deliver-on-gops-promises)                                      | September 09, 2024 |
 | [Dozens of Oregon law enforcement officers have been members of the far-right Oath Keepers militia](https://www.opb.org/article/2021/10/15/dozens-of-oregon-law-enforcement-officers-joined-far-right-oath-keepers-militia/) | September 09, 2024 |
 | [Evangelicals are looking for answers online. They’re finding QAnon instead.](https://www.technologyreview.com/2020/08/26/1007611/how-qanon-is-targeting-evangelicals/)                                                      | September 09, 2024 |
 | [How Trump And COVID-19 Have Reshaped The Modern Militia Movement](https://fivethirtyeight.com/features/how-trump-and-covid-19-have-reshaped-the-modern-militia-movement/)                                                   | September 09, 2024 |
-| [Immersion in fictional worlds allows us to own our dark side](https://psyche.co/ideas/immersion-in-fictional-worlds-allows-us-to-own-our-dark-side)                                                                         | September 09, 2024 |
-| [It’s Time to Stop Saying “If You’re Not Paying, You’re the Product”](https://getpocket.com/explore/item/are-you-really-the-product)                                                                                         | September 09, 2024 |
 
 { .block-language-dataview}
 
