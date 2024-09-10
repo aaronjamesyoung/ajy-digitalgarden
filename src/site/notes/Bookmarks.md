@@ -128,4 +128,4 @@ jQuery(document).ready(function($) {
 $("a[href^='http']").each(function() { $(this).css({ background: "url(https://www.google.com/s2/favicons?domain=" + this.hostname + ") left center no-repeat", "padding-left": "24px" }); }); });
 </script>
 
-<style>ul, ul li { list-style-type: none; padding-left: 0; margin-left: 0;} ul.block-language-dataview > li p { font-family: "Averia Serif Libre", serif; font-size: 1.75rem; margin-top: var(--typography-spacing-vertical); } </style>
+<style>ul, ul li { list-style-type: none; padding-left: 0; margin-left: 0;} ul.block-language-dataview > li p { font-family: "Averia Serif Libre", serif; font-weight: bold; font-size: 1.75rem; margin-top: var(--typography-spacing-vertical); } ul.block-language-dataview > li:first-of-type p { margin-top: 0; }</style>
