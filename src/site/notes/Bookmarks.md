@@ -2,7 +2,7 @@
 {"context":"Personal","type":"Resource","status":"Active","topic":["Aaron"],"dateCreated":"2024-02-15","cssclasses":null,"dg-publish":true,"permalink":"/bookmarks/","dgPassFrontmatter":true}
 ---
 
-<style>ul, ul li { list-style-type: none; padding-left: 0; margin-left: 0;}</style>
+<style>ul, ul li { list-style-type: none; padding-left: 0; margin-left: 0;} ul.block-language-dataview > li p { font-family: "Averia Serif Libre", serif; font-size: 1.75rem; margin-top: var(--typography-spacing-vertical); } </style>
 
 - Aaron: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
