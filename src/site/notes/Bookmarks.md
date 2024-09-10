@@ -2,8 +2,6 @@
 {"context":"Personal","type":"Resource","status":"Active","topic":["Aaron"],"dateCreated":"2024-02-15","cssclasses":null,"dg-publish":true,"permalink":"/bookmarks/","dgPassFrontmatter":true}
 ---
 
-<style>ul, ul li { list-style-type: none; padding-left: 0; margin-left: 0;} ul.block-language-dataview > li p { font-family: "Averia Serif Libre", serif; font-size: 1.75rem; margin-top: var(--typography-spacing-vertical); } </style>
-
 - Aaron: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
     - [Bookmarks - Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/bookmarks/tags/Aaron)
@@ -123,3 +121,11 @@
 
 
 { .block-language-dataview}
+
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+<script>
+jQuery(document).ready(function($) {
+$("a[href^='http']").each(function() { $(this).css({ background: "url(https://www.google.com/s2/favicons?domain=" + this.hostname + ") left center no-repeat", "padding-left": "24px" }); }); });
+</script>
+
+<style>ul, ul li { list-style-type: none; padding-left: 0; margin-left: 0;} ul.block-language-dataview > li p { font-family: "Averia Serif Libre", serif; font-size: 1.75rem; margin-top: var(--typography-spacing-vertical); } </style>
