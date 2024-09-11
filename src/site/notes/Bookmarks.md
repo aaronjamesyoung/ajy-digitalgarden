@@ -78,6 +78,7 @@
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - jacob-shuman/readl8r: A no-nonsense read later service](https://github.com/jacob-shuman/readl8r)
     - [GitHub - Mozzo1000/booklogr: A simple, self-hosted service to keep track of your personal library 📚](https://github.com/Mozzo1000/booklogr)
+    - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
     - [GitHub - seanmorley15/AdventureLog: Self-hostable travel tracker and trip planner.](https://github.com/seanmorley15/AdventureLog)
     - [Hoarder](https://hoarder.app/)
     - [Linkwarden - Collaborative Bookmark Manager to Collect, Organize and Archive Webpages](https://noted.lol/linkwarden/)
@@ -91,6 +92,7 @@
 - Software: 
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
     - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
+    - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
