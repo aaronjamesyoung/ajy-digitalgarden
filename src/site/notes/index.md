@@ -17,7 +17,8 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/3y_dEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/AOOaCwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/KW0YAAAAYAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/QQk-AAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -28,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/3y_dEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/U4txsYmht3sC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NbHsAgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/FxifDwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715707898i/213353605.jpg)
 
 { .block-language-dataview}
 
@@ -42,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                                       | read on            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Public School Can Be a Training Ground for Faith - Christianity Today](https://www.christianitytoday.com/2024/09/public-school-can-be-a-training-ground-for-faith/)                                                         | September 11, 2024 |
-| [The Real Problem With Emoji](https://www.theatlantic.com/technology/archive/2024/09/emoji-language/679776/?utm_source=feed)                                                                                                 | September 11, 2024 |
-| [Life coach or therapist? Know the differences](https://www.npr.org/sections/shots-health-news/2024/09/09/nx-s1-5106771/coach-coaching-therapy-differences-mental-health)                                                    | September 10, 2024 |
-| [The Dangerous Rise of the Podcast Historians](https://www.theatlantic.com/international/archive/2024/09/holocaust-denial-podcast-historians/679765/?utm_source=feed)                                                        | September 10, 2024 |
-| [After 2 Years, Trump Tax Cuts Have Failed To Deliver On GOP's Promises](https://www.npr.org/2019/12/20/789540931/2-years-later-trump-tax-cuts-have-failed-to-deliver-on-gops-promises)                                      | September 09, 2024 |
-| [Dozens of Oregon law enforcement officers have been members of the far-right Oath Keepers militia](https://www.opb.org/article/2021/10/15/dozens-of-oregon-law-enforcement-officers-joined-far-right-oath-keepers-militia/) | September 09, 2024 |
+| source                                                                                                                                                                    | read on            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                                   | September 15, 2024 |
+| [America’s Cloven Fiction](https://hedgehogreview.com/web-features/thr/posts/americas-cloven-fiction)                                                                     | September 15, 2024 |
+| [You’ve Got to Read Books](https://www.currentaffairs.org/news/youve-got-to-read-books)                                                                                   | September 15, 2024 |
+| [Public School Can Be a Training Ground for Faith - Christianity Today](https://www.christianitytoday.com/2024/09/public-school-can-be-a-training-ground-for-faith/)      | September 11, 2024 |
+| [The Real Problem With Emoji](https://www.theatlantic.com/technology/archive/2024/09/emoji-language/679776/?utm_source=feed)                                              | September 11, 2024 |
+| [Life coach or therapist? Know the differences](https://www.npr.org/sections/shots-health-news/2024/09/09/nx-s1-5106771/coach-coaching-therapy-differences-mental-health) | September 10, 2024 |
 
 { .block-language-dataview}
 
