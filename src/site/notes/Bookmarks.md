@@ -2,6 +2,7 @@
 {"context":"Personal","type":"Resource","status":"Active","topic":["Aaron"],"dateCreated":"2024-02-15","cssclasses":null,"dg-publish":true,"permalink":"/bookmarks/","dgPassFrontmatter":true}
 ---
 
+
 - Aaron: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
     - [Bookmarks - Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/bookmarks/tags/Aaron)
@@ -32,7 +33,7 @@
     - [Nextcloud Bookmarks API — Nextcloud Bookmarks documentation](https://nextcloud-bookmarks.readthedocs.io/en/latest/index.html)
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Open Color](https://yeun.github.io/open-color/)
-    - [Using 'require inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
+    - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
 
 - Family: 
     - [ARRIS - Login](http://192.168.0.1/login.php)
@@ -43,9 +44,6 @@
     - [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
     - [Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)
     - [Wanderer - trails.ajy.co](https://trails.ajy.co/)
-
-- Health: 
-    - [This App Actually Helped Curb My Doomscrolling Habit](https://lifehacker.com/tech/roots-ios-app-review)
 
 - Homeserver: 
     - [FreshRSS](https://hs.ajy.co/reader/i/)
@@ -90,12 +88,13 @@
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Readeck](https://readeck.org/en/)
     - [solidtime - The Modern Open Source Timetracker](https://www.solidtime.io/)
-    - [Using 'require inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
+    - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
 
 - Software: 
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
     - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
+    - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
     - [GitHub - pimalaya/himalaya: CLI to manage emails](https://github.com/pimalaya/himalaya)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
