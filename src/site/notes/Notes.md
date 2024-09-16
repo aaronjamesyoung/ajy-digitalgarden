@@ -29,7 +29,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-09-16 | 🥈    |
-| [[Bookmarks\|Bookmarks]]                                                                                                         | 2024-09-10 | 2024-09-10 | \-    |
+| [[Bookmarks\|Bookmarks]]                                                                                                         | 2024-09-10 | 2024-09-15 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-12-11 | 🥈    |
 | [[Books Read in 2024\|Books Read in 2024]]                                                                                       | 2023-12-23 | 2023-12-23 | 🥈    |
