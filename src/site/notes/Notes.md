@@ -32,7 +32,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bookmarks\|Bookmarks]]                                                                                                         | 2024-09-10 | 2024-09-15 | \-    |
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-12-11 | 🥈    |
-| [[Books Read in 2024\|Books Read in 2024]]                                                                                       | 2023-12-23 | 2023-12-23 | 🥈    |
+| [[Books Read in 2024\|Books Read in 2024]]                                                                                       | 2023-12-23 | 2024-09-16 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                           | 2023-09-12 | 2023-09-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
