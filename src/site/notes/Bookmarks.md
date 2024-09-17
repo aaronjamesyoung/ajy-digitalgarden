@@ -5,7 +5,6 @@
 
 - Aaron: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
-    - [Bookmarks - Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/bookmarks/tags/Aaron)
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
     - [FreshRSS](https://hs.ajy.co/reader/i/)
     - [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
@@ -13,6 +12,7 @@
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
     - [Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24](https://www.flightradar24.com/44.04,-121.59/11)
+    - [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard)
     - [Photoprism](https://photoprism.ajy.co/)
     - [PWS Weather - Skyliners](https://www.pwsweather.com/station/mid/pc186)
     - [Real-Time Air Quality Map | PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
@@ -94,6 +94,7 @@
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
     - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
+    - [GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites](https://github.com/jackyzha0/quartz)
     - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
     - [GitHub - pimalaya/himalaya: CLI to manage emails](https://github.com/pimalaya/himalaya)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
