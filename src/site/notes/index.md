@@ -18,7 +18,7 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/AOOaCwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/KW0YAAAAYAAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348006102i/3473426.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/QQk-AAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                    | read on            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                                   | September 15, 2024 |
-| [America’s Cloven Fiction](https://hedgehogreview.com/web-features/thr/posts/americas-cloven-fiction)                                                                     | September 15, 2024 |
-| [You’ve Got to Read Books](https://www.currentaffairs.org/news/youve-got-to-read-books)                                                                                   | September 15, 2024 |
-| [Public School Can Be a Training Ground for Faith - Christianity Today](https://www.christianitytoday.com/2024/09/public-school-can-be-a-training-ground-for-faith/)      | September 11, 2024 |
-| [The Real Problem With Emoji](https://www.theatlantic.com/technology/archive/2024/09/emoji-language/679776/?utm_source=feed)                                              | September 11, 2024 |
-| [Life coach or therapist? Know the differences](https://www.npr.org/sections/shots-health-news/2024/09/09/nx-s1-5106771/coach-coaching-therapy-differences-mental-health) | September 10, 2024 |
+| source                                                                                                                                                               | read on            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Why You Should Keep a Paper Training Journal (and How to Set One Up)](https://lifehacker.com/health/how-to-set-up-a-training-journal-in-a-paper-notebook)           | September 16, 2024 |
+| [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                              | September 15, 2024 |
+| [America’s Cloven Fiction](https://hedgehogreview.com/web-features/thr/posts/americas-cloven-fiction)                                                                | September 15, 2024 |
+| [You’ve Got to Read Books](https://www.currentaffairs.org/news/youve-got-to-read-books)                                                                              | September 15, 2024 |
+| [Public School Can Be a Training Ground for Faith - Christianity Today](https://www.christianitytoday.com/2024/09/public-school-can-be-a-training-ground-for-faith/) | September 11, 2024 |
+| [The Real Problem With Emoji](https://www.theatlantic.com/technology/archive/2024/09/emoji-language/679776/?utm_source=feed)                                         | September 11, 2024 |
 
 { .block-language-dataview}
 
