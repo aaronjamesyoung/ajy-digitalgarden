@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"source":"[Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)","clipped":"2022-05-26","map":"Fastpacking","context":"Personal","type":"Article","topic":["Fastpacking"],"dateCreated":"2022-05-26","status":"Evergreen","permalink":"/96-articles/heart-of-darkness-friends-of-the-ochocos/","dgPassFrontmatter":true}
+{"dg-publish":true,"source":"[Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)","clipped":"2022-05-26","map":"Fastpacking","context":"Personal","type":"Article","topic":["Fastpacking"],"dateCreated":"2022-05-26","status":"Evergreen","tags":[823,820,821],"permalink":"/96-articles/heart-of-darkness-friends-of-the-ochocos/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,16 +7,16 @@
 
 *Note from Aaron: This is an archive of an article that previously appeared on the Friends of the Ochocos website which is now offline. The article can be found on archive.org [here](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness). You can read about my backpacking trip on this route here: [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] and read my route guide with mileage, water sources, and other information: [[Heart of Darkness\|Heart of Darkness]]*
 
-# Heart of Darkness — Friends of the Ochocos
+## Heart of Darkness — Friends of the Ochocos
 
 Do you prefer following elk tracks instead of footprints? Do you often
 seek the off-the-beaten path type of adventure? If you prefer coyote
 howls and dark starry skies over campgrounds and crowds, you will love
 the Heart of Darkness Loop in the Ochoco Mountains! This loop offers a
 rugged and breathtaking 39 miles of backpacking through some of eastern
-Oregon’s most remote and scenic landscapes. This strenuous hike is full
+Oregon's most remote and scenic landscapes. This strenuous hike is full
 of adventure and inspiration and offers a unique alternative to the
-often over crowded trails plaguing central Oregon’s Cascade Mountains.
+often over crowded trails plaguing central Oregon's Cascade Mountains.
 For those seeking adventure and solitude, this is the place to go within
 a few hours of Bend.
 
@@ -26,17 +26,17 @@ Note: Heart of Darkness is the unofficial name for a series of Forest
 Service trails. You will not see signs for Heart of Darkness - read the
 description below for trail names.
 
-- **Difficulty: Difficult and Strenuous**
-- **Distance: ~39 miles and 4 days.**
-- Elevation Gain: ~(3500)
+* **Difficulty: Difficult and Strenuous**
+* **Distance: ~39 miles and 4 days.**
+* Elevation Gain: ~(3500)
 
-## Day 1
+### Day 1
 
 **Rock Creek TRAILHEAD INTO ROCK CREEK DRAINAGE ON OCHOCO MOUNTAINS/ROCK CREEK TRAIL #823.**
 
-- **Difficulty**: Easy to moderate                                    
-- **Distance**: 7 miles
-- **Total elevation gain:** ~220 ft
+* **Difficulty**: Easy to moderate                                    
+* **Distance**: 7 miles
+* **Total elevation gain:** ~220 ft
 
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503444422068-LYA1MCJJSL5CG25VQ7KY/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/IMG_20170715_135123.jpg" />
@@ -44,13 +44,13 @@ src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.c
 **Description**: From the trailhead at Rock Creek, the trail drops 0.4
 miles down into Rock Creek, where it crosses a sturdy footbridge onto
 the north bank. For the next two miles, the trail parallels the north
-bank, staying 10’-50’ above the stream. Pure stands of larch are on the
+bank, staying 10'-50' above the stream. Pure stands of larch are on the
 moister, north-facing slopes, with mature ponderosas on the drier, south
 slopes and lodgepoles and willows along the stream.
 
 At 2.4 miles, a small interpretive sign announces the Waterman Ditch, a
 now defunct diversion of Rock Creek that was contoured around the
-hillsides in the 1890’s to reach a gold mining district ten miles away
+hillsides in the 1890's to reach a gold mining district ten miles away
 near Spanish Peak to the north.
 
 The trail then follows this old mining ditch on a level grade for 1.4
@@ -69,18 +69,18 @@ trail is not visible at this junction.  
 If you continue past this junction about 100 feet, you will see a
 slightly impacted camp site in a lovely grove of old growth pines with a
 fire ring. If you start to descend down from the saddle past this camp,
-you’ve gone too far.
+you've gone too far.
 
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503444553348-P935KJH8T86RG7WH68IF/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/IMG_5274.jpg" />
 
-## Day 2
+### Day 2
 
 **Rock Creek over to Cottonwood Creek**
 
-- **Difficulty: strenuous**
-- **Distance: ~14 miles**
-- **Total elevation gain: ~1660 ft**
+* **Difficulty: strenuous**
+* **Distance: ~14 miles**
+* **Total elevation gain: ~1660 ft**
 
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503445006857-9QBHNIC9JKGUDMBH3WSU/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/P1030583.jpg" />
@@ -131,26 +131,26 @@ It makes for a nice camp after a very, very long day.
 
 Alternative campsites to shorten day:
 
--   There is a dispersed site along Spanish Peak Road at mile 5. You
+* There is a dispersed site along Spanish Peak Road at mile 5. You
     would need to bring extra water up from Rock Creek or stash water at
     this site before departing your trip.
--   When crossing John Day basin road at 8 miles. You would need to
+* When crossing John Day basin road at 8 miles. You would need to
     bring extra water up from Rock Creek or stash water at this site
     before departing your trip.
--   A ¼ up from Cottonwood creek in open field. From here it is only
+* A ¼ up from Cottonwood creek in open field. From here it is only
     another mile to the camp at Tin Springs which is more forested and
     scenic.  
 
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503445175097-85DI4OTXQKGFI0VKQ5JG/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/P1030607+%281%29.jpg" />
 
-## Day 3
+### Day 3
 
 **Cottonwood Creek into Black Canyon Wilderness**
 
-- **Difficulty: easy to moderate**
-- **Distance: ~6 miles**
-- **Total elevation gain: ~600 ft**
+* **Difficulty: easy to moderate**
+* **Distance: ~6 miles**
+* **Total elevation gain: ~600 ft**
 
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503445477288-OSLVTJWAFRFV0YAZVGAC/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/P1030633.jpg" />
@@ -174,13 +174,13 @@ a truly remote and rugged wilderness.
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503445629255-NH6RYWPFTO7H71DA8ZDT/ke17ZwdGBToddI8pDm48kDuOlD473859Xi5WhtTMpIYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dpFg-fgsgAc18WlbxQoH6sc1fwcAR4w3_jUd2-0AOen_W07ycm2Trb21kYhaLJjddA/P1030635.jpg" />
 
-## Day 4
+### Day 4
 
 **Black Canyon Wilderness to Boeing field**
 
-- **Difficulty: easy to moderate**
-- **Distance: ~6.5 miles**
-- **Total elevation gain: ~1220’**
+* **Difficulty: easy to moderate**
+* **Distance: ~6.5 miles**
+* **Total elevation gain: ~1220'**
 
 **Description:**
 
@@ -201,7 +201,7 @@ experience various stages of the forest post wildfire. Some areas have
 burned more recently than others, and you see the varying levels of
 succession and early seral species, abundant understory, snags used as
 nesting cavities. There is downed logs in the stream creating fish
-habitat and in general lots of sign of wildlife. It’s a very interesting
+habitat and in general lots of sign of wildlife. It's a very interesting
 and beautiful hike.
 
 You continue to gradually climb for another 2 miles and wrap around to
@@ -217,7 +217,7 @@ trailhead and avoid the road walk at the end of the trip.
 <img
 src="https://web.archive.org/web/20190811203916/https://images.squarespace-cdn.com/content/v1/563d12f3e4b0a2c7d9edb90a/1503446038301-X07HUXB8OIVVS362TNKU/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/P1030655.jpg" />
 
-## **From Prineville, OR:**
+### **From Prineville, OR:**
 
 Follow Highway 380 past Paulina for 58.7 miles. Turn left onto Beaver
 Creek Road and follow for 7.5 miles. Merge onto forest road 42 for 1.5
