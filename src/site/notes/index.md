@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                               | read on            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Why You Should Keep a Paper Training Journal (and How to Set One Up)](https://lifehacker.com/health/how-to-set-up-a-training-journal-in-a-paper-notebook)           | September 16, 2024 |
-| [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                              | September 15, 2024 |
-| [America’s Cloven Fiction](https://hedgehogreview.com/web-features/thr/posts/americas-cloven-fiction)                                                                | September 15, 2024 |
-| [You’ve Got to Read Books](https://www.currentaffairs.org/news/youve-got-to-read-books)                                                                              | September 15, 2024 |
-| [Public School Can Be a Training Ground for Faith - Christianity Today](https://www.christianitytoday.com/2024/09/public-school-can-be-a-training-ground-for-faith/) | September 11, 2024 |
-| [The Real Problem With Emoji](https://www.theatlantic.com/technology/archive/2024/09/emoji-language/679776/?utm_source=feed)                                         | September 11, 2024 |
+| source                                                                                                                                                     | read on            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Echo chamber evidence](https://feeds.feedblitz.com/~/904817771/0/currentpub/)                                                                             | September 18, 2024 |
+| [How School Drop-Off Became a Nightmare](https://www.theatlantic.com/family/archive/2024/09/school-drop-off-cars-chaos/679869/)                            | September 17, 2024 |
+| [Why You Should Keep a Paper Training Journal (and How to Set One Up)](https://lifehacker.com/health/how-to-set-up-a-training-journal-in-a-paper-notebook) | September 16, 2024 |
+| [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                    | September 15, 2024 |
+| [America’s Cloven Fiction](https://hedgehogreview.com/web-features/thr/posts/americas-cloven-fiction)                                                      | September 15, 2024 |
+| [You’ve Got to Read Books](https://www.currentaffairs.org/news/youve-got-to-read-books)                                                                    | September 15, 2024 |
 
 { .block-language-dataview}
 
