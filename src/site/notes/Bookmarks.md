@@ -75,6 +75,7 @@
     - [Wanderer - trails.ajy.co](https://trails.ajy.co/)
 
 - Self Hosted: 
+    - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - jacob-shuman/readl8r: A no-nonsense read later service](https://github.com/jacob-shuman/readl8r)
@@ -89,6 +90,7 @@
     - [Readeck](https://readeck.org/en/)
     - [solidtime - The Modern Open Source Timetracker](https://www.solidtime.io/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
+    - [xarantolus/sensibleHub: self-hosted music management server with a web interface and FTP sync for offline listening](https://github.com/xarantolus/sensibleHub)
 
 - Software: 
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
