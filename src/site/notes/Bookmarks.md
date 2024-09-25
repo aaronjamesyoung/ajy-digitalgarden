@@ -7,12 +7,12 @@
     - [Asana](https://app.asana.com/0/home/1102553591857117)
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
     - [FreshRSS](https://hs.ajy.co/reader/i/)
-    - [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
     - [Gmail - AJY](https://mail.google.com/mail/u/1/#inbox)
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
     - [Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24](https://www.flightradar24.com/44.04,-121.59/11)
     - [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard)
+    - [NumPad](https://numpad.io/)
     - [Photoprism](https://photoprism.ajy.co/)
     - [PWS Weather - Skyliners](https://www.pwsweather.com/station/mid/pc186)
     - [Real-Time Air Quality Map | PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
@@ -41,29 +41,27 @@
 
 - Fastpacking: 
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
-    - [Gear List - Grist](https://docs.getgrist.com/7Q4c8BfaPihH/Gear-List/p/1)
     - [Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)
-    - [Wanderer - trails.ajy.co](https://trails.ajy.co/)
 
 - Homeserver: 
     - [FreshRSS](https://hs.ajy.co/reader/i/)
     - [Node-RED : hs.ajy.co](https://hs.ajy.co/nodered/#flow/57c7bc596f3de6a9)
     - [Photoprism](https://photoprism.ajy.co/)
     - [Syncthing](http://localhost:8384/)
-    - [Wanderer - trails.ajy.co](https://trails.ajy.co/)
 
 - Local: 
     - [TimeAndDate - Bend, Oregon, USA](https://www.timeanddate.com/worldclock/usa/bend)
 
 - MYOG: 
     - [G-Hook belt with hand sewn bartacks : r/myog](https://www.reddit.com/r/myog/comments/1fbil1m/ghook_belt_with_hand_sewn_bartacks/)
+    - [Pattern Projector](https://www.patternprojector.com/en)
     - [Ripstop by the Roll](https://ripstopbytheroll.com/)
 
 - Outdoors: 
     - [Central Cascades Wilderness Overnight Permits, Deschutes National Forest - Recreation.gov](https://www.recreation.gov/permits/4675311)
     - [Central Cascades Wilderness Permit - Day Use, Deschutes National Forest - Recreation.gov](https://www.recreation.gov/ticket/facility/300009)
     - [Every Mountain in the World](http://everymountainintheworld.com/)
-    - [Three Sisters Wilderness Permit Map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd913877.pdf)
+    - [Three Sisters Wilderness Permit Map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd899716.pdf)
     - [USFS order 06-01-21-01](https://www.fs.usda.gov/nfs/11558/www/nepa/112932_FSPLT3_5615704.pdf)
 
 - Personal: 
@@ -72,7 +70,6 @@
 - Running: 
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
     - [Strava | Run and Cycling Tracking on the Social Network for Athletes](https://strava.com/)
-    - [Wanderer - trails.ajy.co](https://trails.ajy.co/)
 
 - Self Hosted: 
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
