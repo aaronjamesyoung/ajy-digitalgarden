@@ -45,12 +45,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                     | read on            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [The January 6 that Never Ended](https://feeds.feedblitz.com/~/905188910/0/currentpub/)                                                                    | September 25, 2024 |
+| [Here’s one evangelical who doesn’t favor Harris or Trump](https://baptistnews.com/article/heres-one-evangelical-who-doesnt-favor-harris-or-trump/)        | September 23, 2024 |
 | [Echo chamber evidence](https://feeds.feedblitz.com/~/904817771/0/currentpub/)                                                                             | September 18, 2024 |
 | [How School Drop-Off Became a Nightmare](https://www.theatlantic.com/family/archive/2024/09/school-drop-off-cars-chaos/679869/)                            | September 17, 2024 |
 | [Why You Should Keep a Paper Training Journal (and How to Set One Up)](https://lifehacker.com/health/how-to-set-up-a-training-journal-in-a-paper-notebook) | September 16, 2024 |
 | [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                    | September 15, 2024 |
-| [America’s Cloven Fiction](https://hedgehogreview.com/web-features/thr/posts/americas-cloven-fiction)                                                      | September 15, 2024 |
-| [You’ve Got to Read Books](https://www.currentaffairs.org/news/youve-got-to-read-books)                                                                    | September 15, 2024 |
 
 { .block-language-dataview}
 
