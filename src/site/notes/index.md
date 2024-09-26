@@ -19,7 +19,6 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/AOOaCwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348006102i/3473426.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/QQk-AAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/QQk-AAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/3y_dEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/U4txsYmht3sC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NbHsAgAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/FxifDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -43,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                     | read on            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [The January 6 that Never Ended](https://feeds.feedblitz.com/~/905188910/0/currentpub/)                                                                    | September 25, 2024 |
-| [Here’s one evangelical who doesn’t favor Harris or Trump](https://baptistnews.com/article/heres-one-evangelical-who-doesnt-favor-harris-or-trump/)        | September 23, 2024 |
-| [Echo chamber evidence](https://feeds.feedblitz.com/~/904817771/0/currentpub/)                                                                             | September 18, 2024 |
-| [How School Drop-Off Became a Nightmare](https://www.theatlantic.com/family/archive/2024/09/school-drop-off-cars-chaos/679869/)                            | September 17, 2024 |
-| [Why You Should Keep a Paper Training Journal (and How to Set One Up)](https://lifehacker.com/health/how-to-set-up-a-training-journal-in-a-paper-notebook) | September 16, 2024 |
-| [American Freedom and Christian Freedom](https://www.plough.com/en/topics/faith/american-freedom-and-christian-freedom)                                    | September 15, 2024 |
+| source                                                                                                                                                                 | read on            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Abortion decision-making: slow down vs. speed up](https://feeds.feedblitz.com/~/905247107/0/currentpub/)                                                              | September 26, 2024 |
+| [The Uneasy Conscience of Christian Nationalism - Christianity Today](https://www.christianitytoday.com/2024/09/uneasy-conscience-christian-nationalism-donald-trump/) | September 26, 2024 |
+| [Triumphalism After Dobbs Was a Mistake - Christianity Today](https://www.christianitytoday.com/2024/09/triumphalism-after-dobbs-was-mistake-pro-life-abortion/)       | September 26, 2024 |
+| [We Are Insufficiently Immunized Against Nazis](https://feeds.feedblitz.com/~/905247110/0/currentpub/)                                                                 | September 26, 2024 |
+| [The January 6 that Never Ended](https://feeds.feedblitz.com/~/905188910/0/currentpub/)                                                                                | September 25, 2024 |
+| [Here’s one evangelical who doesn’t favor Harris or Trump](https://baptistnews.com/article/heres-one-evangelical-who-doesnt-favor-harris-or-trump/)                    | September 23, 2024 |
 
 { .block-language-dataview}
 
