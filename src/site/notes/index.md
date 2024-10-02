@@ -17,8 +17,9 @@
 
 <div class="book-covers">
 
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507759267i/36394740.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/AOOaCwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348006102i/3473426.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/PGR2AwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -28,11 +29,11 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/QQk-AAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348006102i/3473426.jpg)
+- ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316952668.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/3y_dEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/U4txsYmht3sC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/NbHsAgAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/LU40AQAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -42,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                 | read on            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Abortion decision-making: slow down vs. speed up](https://feeds.feedblitz.com/~/905247107/0/currentpub/)                                                              | September 26, 2024 |
-| [The Uneasy Conscience of Christian Nationalism - Christianity Today](https://www.christianitytoday.com/2024/09/uneasy-conscience-christian-nationalism-donald-trump/) | September 26, 2024 |
-| [Triumphalism After Dobbs Was a Mistake - Christianity Today](https://www.christianitytoday.com/2024/09/triumphalism-after-dobbs-was-mistake-pro-life-abortion/)       | September 26, 2024 |
-| [We Are Insufficiently Immunized Against Nazis](https://feeds.feedblitz.com/~/905247110/0/currentpub/)                                                                 | September 26, 2024 |
-| [The January 6 that Never Ended](https://feeds.feedblitz.com/~/905188910/0/currentpub/)                                                                                | September 25, 2024 |
-| [Here’s one evangelical who doesn’t favor Harris or Trump](https://baptistnews.com/article/heres-one-evangelical-who-doesnt-favor-harris-or-trump/)                    | September 23, 2024 |
+| source                                                                                                                                                                                                               | read on            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [25 Precepts for This (and Every) Election - Christianity Today](https://www.christianitytoday.com/2024/09/25-politics-precepts-commands-election/)                                                                  | October 01, 2024   |
+| [For the record: If a flight attendant tells you to have a 'blessed' evening while exiting an aircraft it is not a marker of creeping Christian nationalism'](https://feeds.feedblitz.com/~/905427794/0/currentpub/) | October 01, 2024   |
+| [Abortion decision-making: slow down vs. speed up](https://feeds.feedblitz.com/~/905247107/0/currentpub/)                                                                                                            | September 26, 2024 |
+| [The Uneasy Conscience of Christian Nationalism - Christianity Today](https://www.christianitytoday.com/2024/09/uneasy-conscience-christian-nationalism-donald-trump/)                                               | September 26, 2024 |
+| [Triumphalism After Dobbs Was a Mistake - Christianity Today](https://www.christianitytoday.com/2024/09/triumphalism-after-dobbs-was-mistake-pro-life-abortion/)                                                     | September 26, 2024 |
+| [We Are Insufficiently Immunized Against Nazis](https://feeds.feedblitz.com/~/905247110/0/currentpub/)                                                                                                               | September 26, 2024 |
 
 { .block-language-dataview}
 
