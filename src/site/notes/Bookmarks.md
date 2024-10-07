@@ -54,8 +54,10 @@
 
 - MYOG: 
     - [G-Hook belt with hand sewn bartacks : r/myog](https://www.reddit.com/r/myog/comments/1fbil1m/ghook_belt_with_hand_sewn_bartacks/)
+    - [Make A Karo Step Quilt — Stitchback DIY trail gear](https://www.stitchbackgear.com/articles/make-karo-step-quilt)
     - [Pattern Projector](https://www.patternprojector.com/en)
     - [Ripstop by the Roll](https://ripstopbytheroll.com/)
+    - [TOM BIHN Freudian Slip, Organizational Insert For Your Bag, 4oz](https://www.tombihn.com/products/freudian-slip?variant=16409089031)
 
 - Outdoors: 
     - [Central Cascades Wilderness Overnight Permits, Deschutes National Forest - Recreation.gov](https://www.recreation.gov/permits/4675311)
@@ -75,15 +77,13 @@
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
-    - [GitHub - jacob-shuman/readl8r: A no-nonsense read later service](https://github.com/jacob-shuman/readl8r)
-    - [GitHub - Mozzo1000/booklogr: A simple, self-hosted service to keep track of your personal library 📚](https://github.com/Mozzo1000/booklogr)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
     - [GitHub - seanmorley15/AdventureLog: Self-hostable travel tracker and trip planner.](https://github.com/seanmorley15/AdventureLog)
     - [Hoarder](https://hoarder.app/)
-    - [Linkwarden - Collaborative Bookmark Manager to Collect, Organize and Archive Webpages](https://noted.lol/linkwarden/)
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
     - [Nextcloud Bookmarks API — Nextcloud Bookmarks documentation](https://nextcloud-bookmarks.readthedocs.io/en/latest/index.html)
     - [Node-RED Flows](https://flows.nodered.org/)
+    - [Readarr](https://readarr.com/)
     - [Readeck](https://readeck.org/en/)
     - [solidtime - The Modern Open Source Timetracker](https://www.solidtime.io/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
