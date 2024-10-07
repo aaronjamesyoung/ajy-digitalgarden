@@ -45,12 +45,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                               | read on            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [The Bible Contains Discrepancies. That Doesn’t Make It Untrustworthy. - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-contradicted-michael-licona-inerrancy-gospels/)                         | October 02, 2024   |
 | [25 Precepts for This (and Every) Election - Christianity Today](https://www.christianitytoday.com/2024/09/25-politics-precepts-commands-election/)                                                                  | October 01, 2024   |
 | [For the record: If a flight attendant tells you to have a 'blessed' evening while exiting an aircraft it is not a marker of creeping Christian nationalism'](https://feeds.feedblitz.com/~/905427794/0/currentpub/) | October 01, 2024   |
 | [Abortion decision-making: slow down vs. speed up](https://feeds.feedblitz.com/~/905247107/0/currentpub/)                                                                                                            | September 26, 2024 |
 | [The Uneasy Conscience of Christian Nationalism - Christianity Today](https://www.christianitytoday.com/2024/09/uneasy-conscience-christian-nationalism-donald-trump/)                                               | September 26, 2024 |
 | [Triumphalism After Dobbs Was a Mistake - Christianity Today](https://www.christianitytoday.com/2024/09/triumphalism-after-dobbs-was-mistake-pro-life-abortion/)                                                     | September 26, 2024 |
-| [We Are Insufficiently Immunized Against Nazis](https://feeds.feedblitz.com/~/905247110/0/currentpub/)                                                                                                               | September 26, 2024 |
 
 { .block-language-dataview}
 
