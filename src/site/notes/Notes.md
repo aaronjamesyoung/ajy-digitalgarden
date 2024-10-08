@@ -18,7 +18,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2024-04-01 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-08-05 | \-    |
-| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2023-10-02 | \-    |
+| [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2024-10-08 | \-    |
 | [[📘 MYOG\|📘 MYOG]]                                                                                                             | 2023-07-27 | 2023-11-08 | \-    |
 | [[📘 News Articles\|📘 News Articles]]                                                                                           | 2022-11-21 | 2023-11-22 | \-    |
 | [[📘 Running\|📘 Running]]                                                                                                       | 2023-06-01 | 2024-03-20 | \-    |
@@ -40,7 +40,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Fastpacking Gear\|Fastpacking Gear]]                                                                                           | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[First Aid Kit\|First Aid Kit]]                                                                                                 | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                             | 2023-06-28 | 2023-06-28 | 🥉    |
-| [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2023-07-16 | 🥇    |
+| [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2024-10-08 | 🥇    |
 | [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2024-09-18 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
 | [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]                                     | 2023-09-15 | 2023-10-28 | 🥇    |
