@@ -24,7 +24,7 @@
     - [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
     - [Five Books](https://fivebooks.com/)
     - [Gutenberg - Public Domain Ebooks](https://www.gutenberg.org/)
-    - [https://www.hoopladigital.com/](https://www.hoopladigital.com/)
+    - [Hoopla](https://www.hoopladigital.com/)
     - [Libby](https://libbyapp.com/shelf)
     - [LibriVox | free public domain audiobooks](https://librivox.org/)
     - [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
