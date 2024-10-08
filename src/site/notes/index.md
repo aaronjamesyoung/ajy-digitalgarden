@@ -75,6 +75,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Heart of Darkness\|Heart of Darkness]] (Updated 2024-10-08)
 - [[Wordle letter frequency\|Wordle letter frequency]] (Updated 2023-12-24)
 - [[Best books of 2023\|Best books of 2023]] (Updated 2023-12-18)
 - [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]] (Updated 2023-10-28)
@@ -84,7 +85,6 @@ Here are some recent news articles I found interesting:
 - [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-08-05)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-08-05)
-- [[Heart of Darkness\|Heart of Darkness]] (Updated 2023-07-16)
 - [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]] (Updated 2023-07-16)
 - [[Brokentop Circuit\|Brokentop Circuit]] (Updated 2023-07-16)
 - [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]] (Updated 2023-07-07)
