@@ -5,6 +5,11 @@
 
 [[📘 Fastpacking\|📘 Fastpacking]]
 
+
+> [!WARNING] 2024 burn update
+> The Rail Ridge Fire in 2024 has burned a significant portion of this loop, including nearly the entire Black Canyon Wilderness. As of this writing the fire is ongoing and (from looking at the maps) appears to have burned nearly half the trail miles of this loop so far.
+
+
 This is a remote, wild, and difficult 40 mile loop in the eastern Ochoco Mountains. This is a great early-season fastpack 1-nighter option.
 
 For pictures and other thoughts, see my [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]].
