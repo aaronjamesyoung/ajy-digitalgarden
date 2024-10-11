@@ -12,8 +12,8 @@ I usually read on my Kindle Paperwhite and source my books from multiple sources
 
 ## Book Notes
 
-- [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]
 - [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]]
+- [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]
 
 { .block-language-dataview}
 
