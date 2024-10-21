@@ -22,6 +22,7 @@
 
 - Book: 
     - [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
+    - [BiblioReads](https://biblioreads.eu.org/)
     - [Five Books](https://fivebooks.com/)
     - [Gutenberg - Public Domain Ebooks](https://www.gutenberg.org/)
     - [Hoopla](https://www.hoopladigital.com/)
