@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                               | read on          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [THIS Is What Christian Nationalism Looks Like](https://currentpub.com/2024/10/10/this-is-what-christian-nationalism-looks-like/)                                                                                    | October 17, 2024 |
-| [You Don’t Need a Rule of Life - Christianity Today](https://www.christianitytoday.com/2024/10/you-dont-need-a-rule-of-life-individualism-church/)                                                                   | October 10, 2024 |
-| [October 7 Supercharged Anti-Semitism in the United States](https://www.theatlantic.com/ideas/archive/2024/10/october-7-anti-semitism-united-states/680176/)                                                         | October 07, 2024 |
-| [The Bible Contains Discrepancies. That Doesn’t Make It Untrustworthy. - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-contradicted-michael-licona-inerrancy-gospels/)                         | October 02, 2024 |
-| [25 Precepts for This (and Every) Election - Christianity Today](https://www.christianitytoday.com/2024/09/25-politics-precepts-commands-election/)                                                                  | October 01, 2024 |
-| [For the record: If a flight attendant tells you to have a 'blessed' evening while exiting an aircraft it is not a marker of creeping Christian nationalism'](https://feeds.feedblitz.com/~/905427794/0/currentpub/) | October 01, 2024 |
+| source                                                                                                                                                                                       | read on          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Does Jesus Tell Us to Prioritize Caring for Our Own? - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-immigration-bible-verses-welcoming-stranger-caring-for-own/)     | October 22, 2024 |
+| [Israel kills Yahya Sinwar](https://www.readtangle.com/israel-kills-yahya-sinwar/)                                                                                                           | October 22, 2024 |
+| [THIS Is What Christian Nationalism Looks Like](https://currentpub.com/2024/10/10/this-is-what-christian-nationalism-looks-like/)                                                            | October 17, 2024 |
+| [You Don’t Need a Rule of Life - Christianity Today](https://www.christianitytoday.com/2024/10/you-dont-need-a-rule-of-life-individualism-church/)                                           | October 10, 2024 |
+| [October 7 Supercharged Anti-Semitism in the United States](https://www.theatlantic.com/ideas/archive/2024/10/october-7-anti-semitism-united-states/680176/)                                 | October 07, 2024 |
+| [The Bible Contains Discrepancies. That Doesn’t Make It Untrustworthy. - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-contradicted-michael-licona-inerrancy-gospels/) | October 02, 2024 |
 
 { .block-language-dataview}
 
