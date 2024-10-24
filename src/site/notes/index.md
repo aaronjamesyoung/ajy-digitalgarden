@@ -18,7 +18,6 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Ig2oEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/9WmG3vc50mAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316097765.jpg)
 
 { .block-language-dataview}
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/9WmG3vc50mAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550500994i/7093952.jpg)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655929460i/60850767.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/AOOaCwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/PGR2AwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507759267i/36394740.jpg)
 
 { .block-language-dataview}
 
