@@ -18,6 +18,7 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Ig2oEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/P9WqDAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316097765.jpg)
 
 { .block-language-dataview}
@@ -42,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                       | read on          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [Does Jesus Tell Us to Prioritize Caring for Our Own? - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-immigration-bible-verses-welcoming-stranger-caring-for-own/)     | October 22, 2024 |
-| [Israel kills Yahya Sinwar](https://www.readtangle.com/israel-kills-yahya-sinwar/)                                                                                                           | October 22, 2024 |
-| [THIS Is What Christian Nationalism Looks Like](https://currentpub.com/2024/10/10/this-is-what-christian-nationalism-looks-like/)                                                            | October 17, 2024 |
-| [You Don’t Need a Rule of Life - Christianity Today](https://www.christianitytoday.com/2024/10/you-dont-need-a-rule-of-life-individualism-church/)                                           | October 10, 2024 |
-| [October 7 Supercharged Anti-Semitism in the United States](https://www.theatlantic.com/ideas/archive/2024/10/october-7-anti-semitism-united-states/680176/)                                 | October 07, 2024 |
-| [The Bible Contains Discrepancies. That Doesn’t Make It Untrustworthy. - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-contradicted-michael-licona-inerrancy-gospels/) | October 02, 2024 |
+| source                                                                                                                                                                                   | read on          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Voting Is Important to Me. That’s Why, This Year, I Won’t Vote. - Christianity Today](https://www.christianitytoday.com/2024/10/voting-is-important-not-voting-2024-election/)          | October 25, 2024 |
+| [Does Jesus Tell Us to Prioritize Caring for Our Own? - Christianity Today](https://www.christianitytoday.com/2024/10/jesus-immigration-bible-verses-welcoming-stranger-caring-for-own/) | October 22, 2024 |
+| [Israel kills Yahya Sinwar](https://www.readtangle.com/israel-kills-yahya-sinwar/)                                                                                                       | October 22, 2024 |
+| [THIS Is What Christian Nationalism Looks Like](https://currentpub.com/2024/10/10/this-is-what-christian-nationalism-looks-like/)                                                        | October 17, 2024 |
+| [You Don’t Need a Rule of Life - Christianity Today](https://www.christianitytoday.com/2024/10/you-dont-need-a-rule-of-life-individualism-church/)                                       | October 10, 2024 |
+| [October 7 Supercharged Anti-Semitism in the United States](https://www.theatlantic.com/ideas/archive/2024/10/october-7-anti-semitism-united-states/680176/)                             | October 07, 2024 |
 
 { .block-language-dataview}
 
