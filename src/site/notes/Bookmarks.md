@@ -31,7 +31,6 @@
     - [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
 
 - Code: 
-    - [Nextcloud Bookmarks API — Nextcloud Bookmarks documentation](https://nextcloud-bookmarks.readthedocs.io/en/latest/index.html)
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Open Color](https://yeun.github.io/open-color/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
@@ -58,7 +57,6 @@
     - [Make A Karo Step Quilt — Stitchback DIY trail gear](https://www.stitchbackgear.com/articles/make-karo-step-quilt)
     - [Pattern Projector](https://www.patternprojector.com/en)
     - [Ripstop by the Roll](https://ripstopbytheroll.com/)
-    - [TOM BIHN Freudian Slip, Organizational Insert For Your Bag, 4oz](https://www.tombihn.com/products/freudian-slip?variant=16409089031)
 
 - Outdoors: 
     - [Central Cascades Wilderness Overnight Permits, Deschutes National Forest - Recreation.gov](https://www.recreation.gov/permits/4675311)
@@ -79,10 +77,8 @@
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
-    - [GitHub - seanmorley15/AdventureLog: Self-hostable travel tracker and trip planner.](https://github.com/seanmorley15/AdventureLog)
     - [Hoarder](https://hoarder.app/)
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
-    - [Nextcloud Bookmarks API — Nextcloud Bookmarks documentation](https://nextcloud-bookmarks.readthedocs.io/en/latest/index.html)
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Readarr](https://readarr.com/)
     - [Readeck](https://readeck.org/en/)
@@ -94,9 +90,7 @@
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
     - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
-    - [GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites](https://github.com/jackyzha0/quartz)
     - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
-    - [GitHub - pimalaya/himalaya: CLI to manage emails](https://github.com/pimalaya/himalaya)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
