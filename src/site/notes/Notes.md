@@ -49,6 +49,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                     | 2023-08-14 | 2023-08-14 | 🥈    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                       | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[index\|index]]                                                                                                                 | 2023-08-03 | 2024-10-02 | \-    |
+| [[MYOG Chums Surfsport wallet\|MYOG Chums Surfsport wallet]]                                                                     | 2024-11-07 | 2024-11-07 | 🥈    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                 | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                                 | 2022-04-12 | 2023-06-28 | 🥈    |
 | [[MYOG Quilt\|MYOG Quilt]]                                                                                                       | 2023-07-27 | 2023-07-26 | 🥈    |
