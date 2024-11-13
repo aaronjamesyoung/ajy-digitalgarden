@@ -17,9 +17,9 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/uzw_DQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/TKGsDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/_JJOBAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/9uixdB7XCP4C?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/9uixdB7XCP4C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/6vZaPZruwioC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/vo2OnAEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403941587i/17934530.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/P9WqDAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316097765.jpg)
 
 { .block-language-dataview}
 
@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                         | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [How Trump Neutralized His Abortion Problem](https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/)                                     | November 07, 2024 |
-| [Trump Won. Now What?](https://www.theatlantic.com/politics/archive/2024/11/trump-wins-second-term-presidency/680546/)                                                         | November 06, 2024 |
-| [How America Made Peace With Cruelty](https://www.theatlantic.com/politics/archive/2024/11/trump-campaign-cruelty/680498/)                                                     | November 04, 2024 |
-| [Trump Says He’ll Fight for Working-Class Americans. His First Presidency Suggests He Won’t.](https://www.propublica.org/article/donald-trump-agenda-working-class)            | November 02, 2024 |
-| [30 Incredibly Lazy Last-Minute Halloween Costume Ideas](https://lifehacker.com/best-lazy-last-minute-halloween-costumes)                                                      | October 31, 2024  |
-| [The Scandal of the Evangelical Heart - Christianity Today](https://www.christianitytoday.com/2024/10/spiritual-formation-love-grow-cold-noll-scandal-evangelical-mind-heart/) | October 28, 2024  |
+| source                                                                                                                                                              | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Don’t Give Up on the Truth](https://www.theatlantic.com/politics/archive/2024/11/america-trump-different-now/680637/)                                              | November 13, 2024 |
+| [Power Without Integrity Destroys Us](https://www.christianitytoday.com/2024/11/power-without-integrity-election-evangelicals-trump/)                               | November 08, 2024 |
+| [How Trump Neutralized His Abortion Problem](https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/)                          | November 07, 2024 |
+| [Trump Won. Now What?](https://www.theatlantic.com/politics/archive/2024/11/trump-wins-second-term-presidency/680546/)                                              | November 06, 2024 |
+| [How America Made Peace With Cruelty](https://www.theatlantic.com/politics/archive/2024/11/trump-campaign-cruelty/680498/)                                          | November 04, 2024 |
+| [Trump Says He’ll Fight for Working-Class Americans. His First Presidency Suggests He Won’t.](https://www.propublica.org/article/donald-trump-agenda-working-class) | November 02, 2024 |
 
 { .block-language-dataview}
 
