@@ -10,14 +10,10 @@
     - [Gmail - AJY](https://mail.google.com/mail/u/1/#inbox)
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
-    - [Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24](https://www.flightradar24.com/44.04,-121.59/11)
     - [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard)
-    - [NumPad](https://numpad.io/)
     - [Photoprism](https://photoprism.ajy.co/)
     - [PWS Weather - Skyliners](https://www.pwsweather.com/station/mid/pc186)
-    - [Real-Time Air Quality Map | PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
     - [Strava | Run and Cycling Tracking on the Social Network for Athletes](https://strava.com/)
-    - [Watch Duty - Wildfire Maps & Alerts](https://app.watchduty.org/)
     - [Weather.gov - Skyliners](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 
 - Book: 
