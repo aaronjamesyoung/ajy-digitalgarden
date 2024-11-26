@@ -6,7 +6,6 @@
 - Aaron: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
-    - [FreshRSS](https://hs.ajy.co/reader/i/)
     - [Gmail - AJY](https://mail.google.com/mail/u/1/#inbox)
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
@@ -37,7 +36,6 @@
 
 - Fastpacking: 
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
-    - [Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)
 
 - Homeserver: 
     - [FreshRSS](https://hs.ajy.co/reader/i/)
@@ -61,14 +59,12 @@
     - [Three Sisters Wilderness Permit Map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd899716.pdf)
     - [USFS order 06-01-21-01](https://www.fs.usda.gov/nfs/11558/www/nepa/112932_FSPLT3_5615704.pdf)
 
-- Personal: 
-    - [pixelfed](https://pixelfed.social/i/web)
-
 - Running: 
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
     - [Strava | Run and Cycling Tracking on the Social Network for Athletes](https://strava.com/)
 
 - Self Hosted: 
+    - [ Immich](https://immich.app/)
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
@@ -77,7 +73,6 @@
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Readarr](https://readarr.com/)
-    - [Readeck](https://readeck.org/en/)
     - [solidtime - The Modern Open Source Timetracker](https://www.solidtime.io/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
     - [xarantolus/sensibleHub: self-hosted music management server with a web interface and FTP sync for offline listening](https://github.com/xarantolus/sensibleHub)
