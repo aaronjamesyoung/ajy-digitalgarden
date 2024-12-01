@@ -6,6 +6,7 @@
 - Aaron: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
+    - [FreshRSS](https://hs.ajy.co/reader/i/)
     - [Gmail - AJY](https://mail.google.com/mail/u/1/#inbox)
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
