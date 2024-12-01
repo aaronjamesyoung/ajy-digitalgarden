@@ -18,6 +18,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZJnZCREJorAC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/JwGfEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dogOGaImcQAC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -41,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                     | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [Thanksgiving Should Be in October](https://www.theatlantic.com/culture/archive/2024/11/move-thanksgiving-october/680802/)                 | November 26, 2024 |
-| [‘Bonhoeffer’ Bears Little Resemblance to Reality](https://www.christianitytoday.com/2024/11/bonhoeffer-movie-review-angel-studios/)       | November 20, 2024 |
-| [Don’t Give Up on the Truth](https://www.theatlantic.com/politics/archive/2024/11/america-trump-different-now/680637/)                     | November 13, 2024 |
-| [Power Without Integrity Destroys Us](https://www.christianitytoday.com/2024/11/power-without-integrity-election-evangelicals-trump/)      | November 08, 2024 |
-| [How Trump Neutralized His Abortion Problem](https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/) | November 07, 2024 |
-| [Trump Won. Now What?](https://www.theatlantic.com/politics/archive/2024/11/trump-wins-second-term-presidency/680546/)                     | November 06, 2024 |
+| source                                                                                                                                         | read on           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [It’s Never Too Late to Learn an Instrument](https://www.theatlantic.com/health/archive/2024/12/music-is-good-for-you/680832/?utm_source=feed) | December 01, 2024 |
+| [Thanksgiving Should Be in October](https://www.theatlantic.com/culture/archive/2024/11/move-thanksgiving-october/680802/)                     | November 26, 2024 |
+| [‘Bonhoeffer’ Bears Little Resemblance to Reality](https://www.christianitytoday.com/2024/11/bonhoeffer-movie-review-angel-studios/)           | November 20, 2024 |
+| [Don’t Give Up on the Truth](https://www.theatlantic.com/politics/archive/2024/11/america-trump-different-now/680637/)                         | November 13, 2024 |
+| [Power Without Integrity Destroys Us](https://www.christianitytoday.com/2024/11/power-without-integrity-election-evangelicals-trump/)          | November 08, 2024 |
+| [How Trump Neutralized His Abortion Problem](https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/)     | November 07, 2024 |
 
 { .block-language-dataview}
 
