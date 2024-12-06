@@ -68,6 +68,7 @@
     - [ Immich](https://immich.app/)
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
+    - [GitHub - blinko-space/blinko](https://github.com/blinko-space/blinko)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
     - [Hoarder](https://hoarder.app/)
