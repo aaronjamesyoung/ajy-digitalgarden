@@ -18,7 +18,6 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZJnZCREJorAC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/JwGfEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dogOGaImcQAC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/JwGfEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/-zCJEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492591524i/46170.jpg)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356090188i/16171207.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/uzw_DQAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/_JJOBAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -45,12 +44,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                         | read on           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Using Bonhoeffer](https://feeds.feedblitz.com/~/908954822/0/currentpub/)                                                                      | December 06, 2024 |
 | [It’s Never Too Late to Learn an Instrument](https://www.theatlantic.com/health/archive/2024/12/music-is-good-for-you/680832/?utm_source=feed) | December 01, 2024 |
 | [Thanksgiving Should Be in October](https://www.theatlantic.com/culture/archive/2024/11/move-thanksgiving-october/680802/)                     | November 26, 2024 |
 | [‘Bonhoeffer’ Bears Little Resemblance to Reality](https://www.christianitytoday.com/2024/11/bonhoeffer-movie-review-angel-studios/)           | November 20, 2024 |
 | [Don’t Give Up on the Truth](https://www.theatlantic.com/politics/archive/2024/11/america-trump-different-now/680637/)                         | November 13, 2024 |
 | [Power Without Integrity Destroys Us](https://www.christianitytoday.com/2024/11/power-without-integrity-election-evangelicals-trump/)          | November 08, 2024 |
-| [How Trump Neutralized His Abortion Problem](https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/)     | November 07, 2024 |
 
 { .block-language-dataview}
 
