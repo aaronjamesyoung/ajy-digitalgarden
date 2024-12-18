@@ -70,6 +70,7 @@
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
     - [GitHub - blinko-space/blinko](https://github.com/blinko-space/blinko)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
+    - [GitHub - InvoiceShelf/InvoiceShelf: Open Source Invoicing Solution for Individuals & Businesses](https://github.com/InvoiceShelf/InvoiceShelf)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
     - [Hoarder](https://hoarder.app/)
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
