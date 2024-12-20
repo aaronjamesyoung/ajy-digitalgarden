@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                         | read on           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Using Bonhoeffer](https://feeds.feedblitz.com/~/908954822/0/currentpub/)                                                                      | December 06, 2024 |
-| [It’s Never Too Late to Learn an Instrument](https://www.theatlantic.com/health/archive/2024/12/music-is-good-for-you/680832/?utm_source=feed) | December 01, 2024 |
-| [Thanksgiving Should Be in October](https://www.theatlantic.com/culture/archive/2024/11/move-thanksgiving-october/680802/)                     | November 26, 2024 |
-| [‘Bonhoeffer’ Bears Little Resemblance to Reality](https://www.christianitytoday.com/2024/11/bonhoeffer-movie-review-angel-studios/)           | November 20, 2024 |
-| [Don’t Give Up on the Truth](https://www.theatlantic.com/politics/archive/2024/11/america-trump-different-now/680637/)                         | November 13, 2024 |
-| [Power Without Integrity Destroys Us](https://www.christianitytoday.com/2024/11/power-without-integrity-election-evangelicals-trump/)          | November 08, 2024 |
+| source                                                                                                                                                 | read on           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [Evangelicals Don’t Love Donald Trump Enough](https://www.christianitytoday.com/2024/06/evangelicals-dont-love-donald-trump-russell-moore/)            | December 20, 2024 |
+| [How Liberal America Came to Its Senses](https://www.theatlantic.com/ideas/archive/2024/12/cancel-culture-illiberalism-dead/681031/)                   | December 20, 2024 |
+| [Googly Eyes Placed on Sculptures Follow Residents in this Oregon City](https://www.nytimes.com/2024/12/14/us/googly-eyes-sculptures-bend-oregon.html) | December 18, 2024 |
+| [The Lamp Magazine \| The One Hundred Pages Strategy](https://thelampmagazine.com/issues/issue-26/the-one-hundred-pages-strategy)                      | December 18, 2024 |
+| [Trump Is About to Betray His Rural Supporters](https://www.theatlantic.com/politics/archive/2024/12/trump-gop-rural-supporters/680981/)               | December 18, 2024 |
+| [Using Bonhoeffer](https://feeds.feedblitz.com/~/908954822/0/currentpub/)                                                                              | December 06, 2024 |
 
 { .block-language-dataview}
 
