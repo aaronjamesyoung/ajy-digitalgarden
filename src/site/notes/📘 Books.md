@@ -20,6 +20,7 @@ I usually read on my Kindle Paperwhite and source my books from multiple sources
 ## Other Notes
 
 * [[Recommended Books\|Recommended Books]] - If you ask me what you should read, I'll send you this list.
+* [[Best books of 2024\|Best books of 2024]]
 * [[Best books of 2023\|Best books of 2023]]
 * [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]
 
