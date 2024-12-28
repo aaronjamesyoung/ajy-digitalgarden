@@ -73,6 +73,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Recommended Books\|Recommended Books]] (Updated 2024-12-28)
 - [[Best books of 2024\|Best books of 2024]] (Updated 2024-12-28)
 - [[Heart of Darkness\|Heart of Darkness]] (Updated 2024-11-07)
 - [[Wordle letter frequency\|Wordle letter frequency]] (Updated 2023-12-24)
@@ -81,7 +82,6 @@ Here are some recent news articles I found interesting:
 - [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]] (Updated 2023-09-18)
 - [[How this site is built\|How this site is built]] (Updated 2023-09-13)
 - [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]] (Updated 2023-08-24)
-- [[Recommended Books\|Recommended Books]] (Updated 2023-08-15)
 - [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]] (Updated 2023-08-05)
 - [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]] (Updated 2023-08-05)
 - [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]] (Updated 2023-07-16)
