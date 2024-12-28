@@ -15,7 +15,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                                | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2024-04-01 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2024-12-28 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2024-10-08 | \-    |
@@ -61,7 +61,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Newberry 50 - Running 50 buttes south of Bend\|Newberry 50 - Running 50 buttes south of Bend]]                                 | 2023-07-07 | 2023-08-05 | 🥈    |
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2024-04-04 | \-    |
-| [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2023-08-15 | 🥇    |
+| [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2024-12-28 | 🥇    |
 | [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2023-09-12 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
