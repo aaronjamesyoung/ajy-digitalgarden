@@ -26,6 +26,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[About Me\|About Me]]                                                                                                           | 2022-11-11 | 2023-10-31 | \-    |
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                             | 2023-08-03 | 2023-08-03 | 🥈    |
 | [[Best books of 2023\|Best books of 2023]]                                                                                       | 2023-12-18 | 2023-12-18 | 🥇    |
+| [[Best books of 2024\|Best books of 2024]]                                                                                       | 2024-02-03 | 2024-12-28 | 🥇    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2023-07-28 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2023-08-10 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2023-08-10 | 2023-09-16 | 🥈    |
