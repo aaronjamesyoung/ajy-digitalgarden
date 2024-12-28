@@ -18,8 +18,6 @@
 <div class="book-covers">
 
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348437461i/632975.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Uy9FAwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dogOGaImcQAC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +27,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Uy9FAwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dogOGaImcQAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538064620i/20821043.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/z2xBDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516022162i/40090.jpg)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724944713i/203578847.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ZJnZCREJorAC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -75,6 +73,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Best books of 2024\|Best books of 2024]] (Updated 2024-12-28)
 - [[Heart of Darkness\|Heart of Darkness]] (Updated 2024-11-07)
 - [[Wordle letter frequency\|Wordle letter frequency]] (Updated 2023-12-24)
 - [[Best books of 2023\|Best books of 2023]] (Updated 2023-12-18)
