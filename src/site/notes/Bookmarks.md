@@ -10,6 +10,7 @@
     - [Gmail - AJY](https://mail.google.com/mail/u/1/#inbox)
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
+    - [Navidrome](https://music.ajy.co/app/#/playlist/4cbcb70a-e080-404d-915c-e1054dd5dd81/show)
     - [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard)
     - [Photoprism](https://photoprism.ajy.co/)
     - [PWS Weather - Skyliners](https://www.pwsweather.com/station/mid/pc186)
@@ -40,6 +41,7 @@
 
 - Homeserver: 
     - [FreshRSS](https://hs.ajy.co/reader/i/)
+    - [Navidrome](https://music.ajy.co/app/#/playlist/4cbcb70a-e080-404d-915c-e1054dd5dd81/show)
     - [Node-RED : hs.ajy.co](https://hs.ajy.co/nodered/#flow/57c7bc596f3de6a9)
     - [Photoprism](https://photoprism.ajy.co/)
     - [Syncthing](http://localhost:8384/)
