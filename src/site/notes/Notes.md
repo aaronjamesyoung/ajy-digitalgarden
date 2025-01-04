@@ -15,7 +15,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                                | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2024-12-28 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                           | 2023-08-03 | 2025-01-04 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2023-07-12 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                             | 2023-06-01 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2023-06-01 | 2024-10-08 | \-    |
@@ -34,6 +34,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Books Read Before 2023\|Books Read Before 2023]]                                                                               | 2023-08-03 | 2023-08-12 | 🥈    |
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2023-08-02 | 2023-12-11 | 🥈    |
 | [[Books Read in 2024\|Books Read in 2024]]                                                                                       | 2023-12-23 | 2024-09-16 | 🥈    |
+| [[Books Read in 2025\|Books Read in 2025]]                                                                                       | 2025-01-04 | 2025-01-04 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                           | 2023-09-12 | 2023-09-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2023-01-27 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2022-11-11 | 2023-10-31 | \-    |
