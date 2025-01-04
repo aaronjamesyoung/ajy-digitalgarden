@@ -6,6 +6,7 @@ I read a lot and try to read fairly widely. I usually keep three books going at 
 
 I usually read on my Kindle Paperwhite and source my books from multiple sources including our local library.
 
+* [[Books Read in 2025\|Books Read in 2025]]
 * [[Books Read in 2024\|Books Read in 2024]]
 * [[Books Read in 2023\|Books Read in 2023]]
 * [[Books Read Before 2023\|Books Read Before 2023]] - I wasn't tracking as carefully, but here are most of the books I read over the past few years.
