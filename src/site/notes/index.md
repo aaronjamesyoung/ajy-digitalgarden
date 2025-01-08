@@ -19,7 +19,7 @@
 
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348437461i/632975.jpg)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1261208589i/2696.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/RrsD490WmOoC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/BRjxzwEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/RrsD490WmOoC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/lq2ZzgEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Uy9FAwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dogOGaImcQAC?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538064620i/20821043.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/z2xBDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                 | read on           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)  | January 04, 2025  |
-| [Thermometers Are Hot Garbage](https://www.theatlantic.com/health/archive/2025/01/kids-temperature-thermometers/681200/)                               | January 04, 2025  |
-| [Parents, Put Down Your Phone Cameras](https://www.theatlantic.com/family/archive/2025/01/parents-childhood-phone-cameras-video/681198/)               | January 03, 2025  |
-| [Evangelicals Don’t Love Donald Trump Enough](https://www.christianitytoday.com/2024/06/evangelicals-dont-love-donald-trump-russell-moore/)            | December 20, 2024 |
-| [How Liberal America Came to Its Senses](https://www.theatlantic.com/ideas/archive/2024/12/cancel-culture-illiberalism-dead/681031/)                   | December 20, 2024 |
-| [Googly Eyes Placed on Sculptures Follow Residents in this Oregon City](https://www.nytimes.com/2024/12/14/us/googly-eyes-sculptures-bend-oregon.html) | December 18, 2024 |
+| source                                                                                                                                                | read on           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Trump Is Facing a Catastrophic Defeat in Ukraine](https://www.theatlantic.com/international/archive/2025/01/trump-putin-ukraine-russia-war/681228/)  | January 07, 2025  |
+| [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole) | January 04, 2025  |
+| [Thermometers Are Hot Garbage](https://www.theatlantic.com/health/archive/2025/01/kids-temperature-thermometers/681200/)                              | January 04, 2025  |
+| [Parents, Put Down Your Phone Cameras](https://www.theatlantic.com/family/archive/2025/01/parents-childhood-phone-cameras-video/681198/)              | January 03, 2025  |
+| [Evangelicals Don’t Love Donald Trump Enough](https://www.christianitytoday.com/2024/06/evangelicals-dont-love-donald-trump-russell-moore/)           | December 20, 2024 |
+| [How Liberal America Came to Its Senses](https://www.theatlantic.com/ideas/archive/2024/12/cancel-culture-illiberalism-dead/681031/)                  | December 20, 2024 |
 
 { .block-language-dataview}
 
