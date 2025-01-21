@@ -17,8 +17,8 @@
 
 <div class="book-covers">
 
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348437461i/632975.jpg)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1261208589i/2696.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/4dXIDwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/VO2w8m-ZAeMC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -28,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1261208589i/2696.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/26bVEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348437461i/632975.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/BRjxzwEACAAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/RrsD490WmOoC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/lq2ZzgEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Uy9FAwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/dogOGaImcQAC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -42,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                | read on           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Trump Is Facing a Catastrophic Defeat in Ukraine](https://www.theatlantic.com/international/archive/2025/01/trump-putin-ukraine-russia-war/681228/)  | January 07, 2025  |
-| [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole) | January 04, 2025  |
-| [Thermometers Are Hot Garbage](https://www.theatlantic.com/health/archive/2025/01/kids-temperature-thermometers/681200/)                              | January 04, 2025  |
-| [Parents, Put Down Your Phone Cameras](https://www.theatlantic.com/family/archive/2025/01/parents-childhood-phone-cameras-video/681198/)              | January 03, 2025  |
-| [Evangelicals Don’t Love Donald Trump Enough](https://www.christianitytoday.com/2024/06/evangelicals-dont-love-donald-trump-russell-moore/)           | December 20, 2024 |
-| [How Liberal America Came to Its Senses](https://www.theatlantic.com/ideas/archive/2024/12/cancel-culture-illiberalism-dead/681031/)                  | December 20, 2024 |
+| source                                                                                                                                                                        | read on          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [George Will: Donald Trump’s second inaugural speech will be remembered as worse than 59 others, including his first.](https://feeds.feedblitz.com/~/911396633/0/currentpub/) | January 21, 2025 |
+| [Trump signs executive actions on Jan. 6, TikTok, immigration and more](https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1)             | January 21, 2025 |
+| [Trump Is Facing a Catastrophic Defeat in Ukraine](https://www.theatlantic.com/international/archive/2025/01/trump-putin-ukraine-russia-war/681228/)                          | January 07, 2025 |
+| [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)                         | January 04, 2025 |
+| [Thermometers Are Hot Garbage](https://www.theatlantic.com/health/archive/2025/01/kids-temperature-thermometers/681200/)                                                      | January 04, 2025 |
+| [Parents, Put Down Your Phone Cameras](https://www.theatlantic.com/family/archive/2025/01/parents-childhood-phone-cameras-video/681198/)                                      | January 03, 2025 |
 
 { .block-language-dataview}
 
