@@ -17,6 +17,7 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Jgth_BYe7V8C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/4dXIDwAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/VO2w8m-ZAeMC?fife=w600-h900&source=gbs_api)
 
@@ -44,12 +45,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                        | read on          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Of Course Donald Trump Didn’t Enjoy Hearing a Truly Christian Message](https://www.theatlantic.com/ideas/archive/2025/01/bishop-budde-trump/681415/)                         | January 23, 2025 |
 | [George Will: Donald Trump’s second inaugural speech will be remembered as worse than 59 others, including his first.](https://feeds.feedblitz.com/~/911396633/0/currentpub/) | January 21, 2025 |
 | [Trump signs executive actions on Jan. 6, TikTok, immigration and more](https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1)             | January 21, 2025 |
 | [Trump Is Facing a Catastrophic Defeat in Ukraine](https://www.theatlantic.com/international/archive/2025/01/trump-putin-ukraine-russia-war/681228/)                          | January 07, 2025 |
 | [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)                         | January 04, 2025 |
 | [Thermometers Are Hot Garbage](https://www.theatlantic.com/health/archive/2025/01/kids-temperature-thermometers/681200/)                                                      | January 04, 2025 |
-| [Parents, Put Down Your Phone Cameras](https://www.theatlantic.com/family/archive/2025/01/parents-childhood-phone-cameras-video/681198/)                                      | January 03, 2025 |
 
 { .block-language-dataview}
 
