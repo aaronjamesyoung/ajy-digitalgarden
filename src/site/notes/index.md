@@ -17,9 +17,8 @@
 
 <div class="book-covers">
 
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403941598i/18077752.jpg)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604164311i/2273242.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/g9_4DAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/czr_EAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/iiiJDAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604164311i/2273242.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ynVgv2b33OgC?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403941598i/18077752.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/g9_4DAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/Jgth_BYe7V8C?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/VO2w8m-ZAeMC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/4dXIDwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1261208589i/2696.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/26bVEAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -43,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                               | read on          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [Trump’s First Week Sends Shudders Through Immigrant Churches and Ministries](https://www.christianitytoday.com/2025/01/trumps-first-week-sends-shudders-through-immigrant-churches-and-ministries/) | January 27, 2025 |
-| [Evangelicals Made a Bad Trade](https://www.theatlantic.com/politics/archive/2025/01/evangelicals-trump/681450/)                                                                                     | January 24, 2025 |
-| [Of Course Donald Trump Didn’t Enjoy Hearing a Truly Christian Message](https://www.theatlantic.com/ideas/archive/2025/01/bishop-budde-trump/681415/)                                                | January 23, 2025 |
-| [George Will: Donald Trump’s second inaugural speech will be remembered as worse than 59 others, including his first.](https://feeds.feedblitz.com/~/911396633/0/currentpub/)                        | January 21, 2025 |
-| [Trump signs executive actions on Jan. 6, TikTok, immigration and more](https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1)                                    | January 21, 2025 |
-| [Trump Is Facing a Catastrophic Defeat in Ukraine](https://www.theatlantic.com/international/archive/2025/01/trump-putin-ukraine-russia-war/681228/)                                                 | January 07, 2025 |
+| source                                                                                                                                                                                                                            | read on           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [The Real Reason Trump Berated Zelensky](https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/)                                                                                               | March 01, 2025    |
+| [Is This the End of USAID?](https://www.christianitytoday.com/2025/02/usaid-shutdown-musk-rubio-trump/)                                                                                                                           | February 04, 2025 |
+| [“People Will Die”: The Trump Administration Said It Lifted Its Ban on Lifesaving Humanitarian Aid. That’s Not True.](https://www.propublica.org/article/trump-state-department-usaid-humanitarian-aid-freeze-ukraine-gaza-sudan) | February 01, 2025 |
+| [Trump’s First Week Sends Shudders Through Immigrant Churches and Ministries](https://www.christianitytoday.com/2025/01/trumps-first-week-sends-shudders-through-immigrant-churches-and-ministries/)                              | January 27, 2025  |
+| [Evangelicals Made a Bad Trade](https://www.theatlantic.com/politics/archive/2025/01/evangelicals-trump/681450/)                                                                                                                  | January 24, 2025  |
+| [Of Course Donald Trump Didn’t Enjoy Hearing a Truly Christian Message](https://www.theatlantic.com/ideas/archive/2025/01/bishop-budde-trump/681415/)                                                                             | January 23, 2025  |
 
 { .block-language-dataview}
 
