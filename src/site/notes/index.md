@@ -44,12 +44,12 @@ Here are some recent news articles I found interesting:
 
 | source                                                                                                                                                                                                                            | read on           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [The New Era of Religion and Politics](https://thedispatch.com/newsletter/dispatch-faith/politics-religion-era-donald-trump-2/)                                                                                                   | March 02, 2025    |
 | [The Real Reason Trump Berated Zelensky](https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/)                                                                                               | March 01, 2025    |
+| [The Trump Administration Said These Aid Programs Saved Lives. It Canceled Them Anyway.](https://www.propublica.org/article/trump-usaid-rubio-marocco-canceled-programs-gaza-syria-congo-hiv-ebola)                               | March 01, 2025    |
 | [Is This the End of USAID?](https://www.christianitytoday.com/2025/02/usaid-shutdown-musk-rubio-trump/)                                                                                                                           | February 04, 2025 |
 | [“People Will Die”: The Trump Administration Said It Lifted Its Ban on Lifesaving Humanitarian Aid. That’s Not True.](https://www.propublica.org/article/trump-state-department-usaid-humanitarian-aid-freeze-ukraine-gaza-sudan) | February 01, 2025 |
 | [Trump’s First Week Sends Shudders Through Immigrant Churches and Ministries](https://www.christianitytoday.com/2025/01/trumps-first-week-sends-shudders-through-immigrant-churches-and-ministries/)                              | January 27, 2025  |
-| [Evangelicals Made a Bad Trade](https://www.theatlantic.com/politics/archive/2025/01/evangelicals-trump/681450/)                                                                                                                  | January 24, 2025  |
-| [Of Course Donald Trump Didn’t Enjoy Hearing a Truly Christian Message](https://www.theatlantic.com/ideas/archive/2025/01/bishop-budde-trump/681415/)                                                                             | January 23, 2025  |
 
 { .block-language-dataview}
 
