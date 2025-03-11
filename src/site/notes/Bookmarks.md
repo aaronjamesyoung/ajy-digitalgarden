@@ -32,6 +32,9 @@
     - [Open Color](https://yeun.github.io/open-color/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
 
+- Computer: 
+    - [Terminal Apps](https://terminal-apps.dev/)
+
 - Family: 
     - [ARRIS - Login](http://192.168.0.1/login.php)
     - [Canvas - BLS](https://bls.instructure.com/)
