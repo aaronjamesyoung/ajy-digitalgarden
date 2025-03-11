@@ -16,7 +16,7 @@ https://ajy.co - aaron@ajy.co - 503/893-8893
 	- **JavaScript Frameworks**: Vue.js, Angular.js
 	- **Serverless:** Firebase (realtime database, cloud functions, auth, storage, and static hosting modules)
 	- **Back End:** Node.js, WordPress, PHP
-	- **Data:** Firebase, RethinkDB, MySQL, REST API
+	- **Data:** Firebase, RethinkDB, CouchDB, MySQL, REST API
 	- **Tools:** Git, Linux, Docker
 - Excellent communication and teamwork skills
 - Strong problem-solving and analytical skills
