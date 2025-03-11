@@ -63,7 +63,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2024-04-04 | \-    |
 | [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2024-12-28 | 🥇    |
-| [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2023-09-12 | \-    |
+| [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2025-03-11 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Tempo and Strides Workout Generator\|Tempo and Strides Workout Generator]]                                                     | 2024-03-20 | 2024-03-20 | 🥈    |
