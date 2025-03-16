@@ -17,9 +17,9 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/mt6lRtdIdIUC?fife=w600-h900&source=gbs_api)
-- ![cover](https://www.isfdb.org/wiki/images/7/78/PLNTFXLZCS1972.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/t8sk4iAjjtEC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ukVtEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/BV4TEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ANcnDwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/t8sk4iAjjtEC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/mt6lRtdIdIUC?fife=w600-h900&source=gbs_api)
+- ![cover](https://www.isfdb.org/wiki/images/7/78/PLNTFXLZCS1972.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/iiiJDAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/czr_EAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516128665i/11220.jpg)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604164311i/2273242.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ynVgv2b33OgC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
