@@ -17,9 +17,9 @@
 
 <div class="book-covers">
 
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ukVtEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/BV4TEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ANcnDwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/mNzZCwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/thumbnail_e7100f2595c474ea5c996db1f72fc4bd94dac8dd_EBOK_portrait.jpg)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724025099i/217673847.jpg)
 
 { .block-language-dataview}
 
@@ -29,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/_ImLDQAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/ANcnDwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/BV4TEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/t8sk4iAjjtEC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/mt6lRtdIdIUC?fife=w600-h900&source=gbs_api)
-- ![cover](https://www.isfdb.org/wiki/images/7/78/PLNTFXLZCS1972.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/iiiJDAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/czr_EAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -43,14 +43,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                                            | read on           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency](https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis)       | March 03, 2025    |
-| [The New Era of Religion and Politics](https://thedispatch.com/newsletter/dispatch-faith/politics-religion-era-donald-trump-2/)                                                                                                   | March 02, 2025    |
-| [The Real Reason Trump Berated Zelensky](https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/)                                                                                               | March 01, 2025    |
-| [The Trump Administration Said These Aid Programs Saved Lives. It Canceled Them Anyway.](https://www.propublica.org/article/trump-usaid-rubio-marocco-canceled-programs-gaza-syria-congo-hiv-ebola)                               | March 01, 2025    |
-| [Is This the End of USAID?](https://www.christianitytoday.com/2025/02/usaid-shutdown-musk-rubio-trump/)                                                                                                                           | February 04, 2025 |
-| [“People Will Die”: The Trump Administration Said It Lifted Its Ban on Lifesaving Humanitarian Aid. That’s Not True.](https://www.propublica.org/article/trump-state-department-usaid-humanitarian-aid-freeze-ukraine-gaza-sudan) | February 01, 2025 |
+| source                                                                                                                                                                                                                      | read on           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [The Trump Administration’s War on Children](https://www.propublica.org/article/how-trump-budget-cuts-harm-kids-child-care-education-abuse)                                                                                 | April 23, 2025    |
+| [Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency](https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis) | March 03, 2025    |
+| [The New Era of Religion and Politics](https://thedispatch.com/newsletter/dispatch-faith/politics-religion-era-donald-trump-2/)                                                                                             | March 02, 2025    |
+| [The Real Reason Trump Berated Zelensky](https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/)                                                                                         | March 01, 2025    |
+| [The Trump Administration Said These Aid Programs Saved Lives. It Canceled Them Anyway.](https://www.propublica.org/article/trump-usaid-rubio-marocco-canceled-programs-gaza-syria-congo-hiv-ebola)                         | March 01, 2025    |
+| [Is This the End of USAID?](https://www.christianitytoday.com/2025/02/usaid-shutdown-musk-rubio-trump/)                                                                                                                     | February 04, 2025 |
 
 { .block-language-dataview}
 
