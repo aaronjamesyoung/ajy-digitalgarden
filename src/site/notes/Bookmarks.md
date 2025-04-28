@@ -65,6 +65,9 @@
     - [Three Sisters Wilderness Permit Map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd899716.pdf)
     - [USFS order 06-01-21-01](https://www.fs.usda.gov/nfs/11558/www/nepa/112932_FSPLT3_5615704.pdf)
 
+- Politics: 
+    - [Impact Dashboard - Impact Counter | Impact Counter](https://www.impactcounter.com/dashboard?view=table&sort=title&order=asc)
+
 - Running: 
     - [CalTopo - Backcountry Mapping Evolved](https://caltopo.com/)
     - [Strava | Run and Cycling Tracking on the Social Network for Athletes](https://strava.com/)
@@ -90,6 +93,7 @@
     - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
     - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
+    - [GitHub - seburbandev/obsidian-dataview-cheatsheet: This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
