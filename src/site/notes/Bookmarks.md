@@ -94,6 +94,7 @@
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
     - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
     - [GitHub - seburbandev/obsidian-dataview-cheatsheet: This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
+    - [GitHub - teableio/teable: ✨ The Next Gen Airtable Alternative: No-Code Postgres](https://github.com/teableio/teable)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
