@@ -10,11 +10,12 @@
     - [Gmail - AJY](https://mail.google.com/mail/u/1/#inbox)
     - [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
     - [Google Voice](https://voice.google.com/u/0/messages)
-    - [Navidrome](https://music.ajy.co/app/#/playlist/4cbcb70a-e080-404d-915c-e1054dd5dd81/show)
     - [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard)
     - [Photoprism](https://photoprism.ajy.co/)
     - [PWS Weather - Skyliners](https://www.pwsweather.com/station/mid/pc186)
+    - [Real-Time Air Quality Map | PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
     - [Strava | Run and Cycling Tracking on the Social Network for Athletes](https://strava.com/)
+    - [Watch Duty - Wildfire Maps & Alerts](https://app.watchduty.org/)
     - [Weather.gov - Skyliners](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 
 - Book: 
@@ -31,9 +32,6 @@
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Open Color](https://yeun.github.io/open-color/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
-
-- Computer: 
-    - [Terminal Apps](https://terminal-apps.dev/)
 
 - Family: 
     - [ARRIS - Login](http://192.168.0.1/login.php)
@@ -76,7 +74,6 @@
     - [ Immich](https://immich.app/)
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
-    - [GitHub - blinko-space/blinko](https://github.com/blinko-space/blinko)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - InvoiceShelf/InvoiceShelf: Open Source Invoicing Solution for Individuals & Businesses](https://github.com/InvoiceShelf/InvoiceShelf)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
@@ -91,10 +88,11 @@
 - Software: 
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
     - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
+    - [erikjuhani/basalt: TUI Application to manage Obsidian notes directly from the terminal](https://github.com/erikjuhani/basalt)
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
     - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
     - [GitHub - seburbandev/obsidian-dataview-cheatsheet: This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
-    - [GitHub - teableio/teable: ✨ The Next Gen Airtable Alternative: No-Code Postgres](https://github.com/teableio/teable)
+    - [Omni Tools](https://omnitools.app/?ref=selfh.st)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
@@ -118,6 +116,9 @@
     - [twitter.com/centralorfire](https://twitter.com/centralorfire)
     - [Watch Duty - Wildfire Maps & Alerts](https://app.watchduty.org/)
     - [WildWeb](https://www.wildwebe.net/?dc_name=ORCOC)
+
+- Woodworking: 
+    - [Cutlist Optimizer V2 / Cutlist Evolution](https://cutlistevo.com/)
 
 - Work: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
