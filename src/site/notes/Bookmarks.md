@@ -80,7 +80,6 @@
     - [Hoarder](https://hoarder.app/)
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
     - [Node-RED Flows](https://flows.nodered.org/)
-    - [Readarr](https://readarr.com/)
     - [solidtime - The Modern Open Source Timetracker](https://www.solidtime.io/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
     - [xarantolus/sensibleHub: self-hosted music management server with a web interface and FTP sync for offline listening](https://github.com/xarantolus/sensibleHub)
@@ -94,6 +93,7 @@
     - [GitHub - seburbandev/obsidian-dataview-cheatsheet: This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
     - [Omni Tools](https://omnitools.app/?ref=selfh.st)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
+    - [Rusty Music Player Client](https://mierak.github.io/rmpc/)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
 - Weather: 
