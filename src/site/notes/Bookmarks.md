@@ -55,6 +55,7 @@
     - [Make A Karo Step Quilt — Stitchback DIY trail gear](https://www.stitchbackgear.com/articles/make-karo-step-quilt)
     - [Pattern Projector](https://www.patternprojector.com/en)
     - [Ripstop by the Roll](https://ripstopbytheroll.com/)
+    - [Vuokatti Shirt Free Pattern | Outdoor Clothing Patterns | Shelby Oy English](https://shelbyoutdoor.com/en/p109530/vuokatti-shirt-free-pattern?cPath=405_436_486)
 
 - Outdoors: 
     - [Central Cascades Wilderness Overnight Permits, Deschutes National Forest - Recreation.gov](https://www.recreation.gov/permits/4675311)
