@@ -18,8 +18,9 @@
 <div class="book-covers">
 
 - ![cover](https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/thumbnail_e7100f2595c474ea5c996db1f72fc4bd94dac8dd_EBOK_portrait.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/tVZGEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425841656i/12180078.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/qEiHEAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://m.media-amazon.com/images/I/A1red5n8SQL._SY445_SX342_.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/wgxMqRRWzT8C?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -29,11 +30,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425841656i/12180078.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/39xUEQAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/tVZGEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748353785i/235156795.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/fNzR0AEACAAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/EOPaCwAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/817DEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/YjMhEAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
