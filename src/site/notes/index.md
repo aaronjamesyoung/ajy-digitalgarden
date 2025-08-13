@@ -17,10 +17,8 @@
 
 <div class="book-covers">
 
-- ![cover](https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/thumbnail_e7100f2595c474ea5c996db1f72fc4bd94dac8dd_EBOK_portrait.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/qEiHEAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://m.media-amazon.com/images/I/A1red5n8SQL._SY445_SX342_.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/wgxMqRRWzT8C?fife=w600-h900&source=gbs_api)
+- ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1399934281i/478951.jpg)
 
 { .block-language-dataview}
 
@@ -30,11 +28,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/qEiHEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425841656i/12180078.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/39xUEQAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/tVZGEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748353785i/235156795.jpg)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/fNzR0AEACAAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -44,14 +42,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                                                      | read on        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [The Trump Administration Is About to Incinerate 500 Tons of Emergency Food](https://www.theatlantic.com/health/archive/2025/07/usaid-emergency-food-incinerate-trump/683532/?utm_source=feed)                              | July 14, 2025  |
-| [The Conservative Attack on Empathy](https://www.theatlantic.com/ideas/archive/2025/06/toxic-empathy-weakness/683355/?utm_source=feed)                                                                                      | June 30, 2025  |
-| [The Trump Administration’s War on Children](https://www.propublica.org/article/how-trump-budget-cuts-harm-kids-child-care-education-abuse)                                                                                 | April 23, 2025 |
-| [Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency](https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis) | March 03, 2025 |
-| [The New Era of Religion and Politics](https://thedispatch.com/newsletter/dispatch-faith/politics-religion-era-donald-trump-2/)                                                                                             | March 02, 2025 |
-| [The Real Reason Trump Berated Zelensky](https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/)                                                                                         | March 01, 2025 |
+| source                                                                                                                                                                                                                      | read on         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Looking for Excuses](https://thedispatch.com/newsletter/boilingfrogs/donald-trump-washington-d-c-national-guard/)                                                                                                          | August 13, 2025 |
+| [The Power of Politeness](https://www.theatlantic.com/ideas/archive/2025/08/power-politeness-happiness/683710/)                                                                                                             | August 07, 2025 |
+| [The Trump Administration Is About to Incinerate 500 Tons of Emergency Food](https://www.theatlantic.com/health/archive/2025/07/usaid-emergency-food-incinerate-trump/683532/?utm_source=feed)                              | July 14, 2025   |
+| [The Conservative Attack on Empathy](https://www.theatlantic.com/ideas/archive/2025/06/toxic-empathy-weakness/683355/?utm_source=feed)                                                                                      | June 30, 2025   |
+| [The Trump Administration’s War on Children](https://www.propublica.org/article/how-trump-budget-cuts-harm-kids-child-care-education-abuse)                                                                                 | April 23, 2025  |
+| [Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency](https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis) | March 03, 2025  |
 
 { .block-language-dataview}
 
