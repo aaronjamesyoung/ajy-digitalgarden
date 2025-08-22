@@ -4,54 +4,50 @@
 
 
 ## Aaron Young
+**JavaScript Developer**
+https://ajy.co | aaron@ajy.co | 503-893-8893
 
-https://ajy.co - aaron@ajy.co - 503/893-8893
+### Professional Summary
 
-*I'm a JavaScript developer in Bend, Oregon. I work with Vue, Node, Firebase, and WordPress. I'm looking for a position where I can continue to learn more deeply in the JavaScript ecosystem, work with a strong development team, and which allows opportunity to gain more formal project management experience.*
+Experienced full-stack JavaScript developer with a decade of experience building robust web applications and data automation solutions. Proficient in Vue.js, Node.js, and Firebase, with a strong background in creating custom solutions for a variety of clients. Seeking a role in a strong development team to contribute to challenging projects and expand my skills in the JavaScript ecosystem.
 
-### Key Skills
+### Technical Skills
 
-* **Tech Stack:**
-	- **Front End:** HTML, Javascript, SCSS/CSS3
-	- **JavaScript Frameworks**: Vue.js, Angular.js
-	- **Serverless:** Firebase (realtime database, cloud functions, auth, storage, and static hosting modules)
-	- **Back End:** Node.js, WordPress, PHP
-	- **Data:** Firebase, RethinkDB, CouchDB, MySQL, REST API
-	- **Tools:** Git, Linux, Docker
-- Excellent communication and teamwork skills
-- Strong problem-solving and analytical skills
+* **Frontend:** Vue.js, Angular.js, JavaScript (ES6+), HTML5, CSS3, SCSS
+* **Backend:** Node.js, Express, Firebase (Cloud Functions), PHP
+* **Databases & Data:** Firebase (Cloud Firestore), MySQL, RethinkDB, REST APIs
+* **Tools & Methodologies:** Git, Docker, Linux, Project Coordination
 
-### Career Experience
+### Professional Experience
 
-**Web Developer**, Pro Q – https://proqsolutions.com | August 2014 – present
+**Web Developer** | Pro Q Solutions | August 2014 – Present
 
-_I’m part of the development team at a small development / marketing agency. We build websites and business applications for clients around the region._
+* Architected and developed full-stack JavaScript applications (Vue.js, Node.js, Express) and serverless solutions (Firebase) to automate client business processes.
+* Integrated numerous third-party REST APIs to connect client applications with external data sources and services, including payment gateways and inventory management systems.
+* Engineered custom WordPress themes and plugins, including building SAAS platforms on WordPress and WooCommerce with significant custom JavaScript functionality.
+* Led development team coordination, including project scoping, task distribution, and client communication to ensure projects are delivered on time.
+* Developed data analysis and visualization scripts for the marketing team, providing actionable insights into client campaigns.
 
-- Use JavaScript to build extensive client business applications, with a focus on data automation
-	- Full-stack JavaScript (Vue.js, Node.js, Express), or
-	- Serverless frameworks using primarily JavaScript (Google Firebase)
-- Create custom WordPress themes and plugins for client websites, including SAAS platforms built on WordPress and WooCommerce
-	- Develop website front-ends based on provided designs
-- Coordinate development team to create project scope, distribute tasks, maintain a timeline, and communicate with the client
-- Build scripts and systems to analyze and visualize client marketing data for our marketing team
+**Web Developer / Designer** | Opt-e-Web | March 2011 – August 2014
 
-**Web Developer / Designer**, Opt-e-Web – http://www.opt-e-web.com | March 2011 – August 2014
+* Owned the full project lifecycle for client websites, from initial strategy and wireframing to design, development, and deployment.
+* Specialized in creating custom WordPress themes and plugins tailored to client needs.
 
-_I was the sole designer/developer for a small agency also focusing on marketing and IT._
+**Freelance Web Developer / Designer** | ajy.co | January 2009 – Present
 
-- Created custom WordPress themes and plugins for client websites
-- Worked with clients to build new websites from start to finish – web strategy, wireframes, design comps, development, deployment, and ongoing support
-- Assisted with internal company strategies
+* Provide end-to-end web services for clients, focusing on strategy, design, and development of WordPress-based websites.
 
-**Freelance Web Developer / Designer** – https://ajy.co | January 2009 – present
+### Key Projects
 
-_In 2009 I decided to make a career change and turn my hobby into my job._
-
-- Work with clients from start to finish, generally strategizing, designing, and developing WordPress-based websites
+* **Insurance Benefits Calculating Application:**
+	* Developed a web application to perform calculations for employees of multiple companies that offer Medical Expense Reimbursement Plans, including providing automated reports to the employees and considering HIPAA restrictions.
+	* Tech stack: VueJS, Firebase (Cloud Firestore database, Cloud Functions)
+* **Custom Cabinet Quoting Application:**
+	* Architected a web application for a large regional (West coast) cabinet maker, enabling designers to configure custom cabinet builds, calculate accurate quote amounts, generate paperwork, and perform other automations.
+	* Tech stack: AngularJS, Express, and RethinkDB.
 
 ### Education
 
-- Bachelor of Music, emphasis in Music Education – Willamette University. Graduated 2004.
-	- Graduated _Magna Cum Laude_.
-	- Participated in NCAA Cross Country and Track; 2x Conference Champion and 2x All-American in Cross Country.
-- Master of Arts in Teaching – Willamette University School of Education. Graduated 2005.
+* **Master of Arts in Teaching** - Willamette University School of Education (2005)
+* **Bachelor of Music** - Willamette University (2004)
+	* Graduated Magna Cum Laude
