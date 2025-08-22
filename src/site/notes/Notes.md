@@ -43,7 +43,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[First Aid Kit\|First Aid Kit]]                                                                                                 | 2023-07-27 | 2023-07-26 | 🥈    |
 | [[Getting foam in shoulder straps\|Getting foam in shoulder straps]]                                                             | 2023-06-28 | 2023-06-28 | 🥉    |
 | [[Heart of Darkness\|Heart of Darkness]]                                                                                         | 2023-07-16 | 2024-11-07 | 🥇    |
-| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2024-09-18 | \-    |
+| [[96-articles/Heart of Darkness — Friends of the Ochocos\|Heart of Darkness — Friends of the Ochocos]]                           | 2023-08-10 | 2025-08-19 | \-    |
 | [[How I organize my notes in Obsidian - the Jellyfish Vault\|How I organize my notes in Obsidian - the Jellyfish Vault]]         | 2023-08-21 | 2023-08-24 | 🥇    |
 | [[How I track books and reading with Obsidian\|How I track books and reading with Obsidian]]                                     | 2023-09-15 | 2023-10-28 | 🥇    |
 | [[How this site is built\|How this site is built]]                                                                               | 2023-06-01 | 2023-09-13 | 🥇    |
@@ -63,7 +63,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[No-permit Three Sisters Wilderness Route\|No-permit Three Sisters Wilderness Route]]                                           | 2023-07-16 | 2023-07-16 | 🥇    |
 | [[Notes\|Notes]]                                                                                                                 | 2022-11-26 | 2024-04-04 | \-    |
 | [[Recommended Books\|Recommended Books]]                                                                                         | 2022-12-30 | 2024-12-28 | 🥇    |
-| [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2025-03-11 | \-    |
+| [[Résumé\|Résumé]]                                                                                                               | 2022-11-11 | 2025-08-21 | \-    |
 | [[Running Gear\|Running Gear]]                                                                                                   | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Snap Placket tutorials\|Snap Placket tutorials]]                                                                               | 2023-07-07 | 2023-07-07 | 🥈    |
 | [[Tempo and Strides Workout Generator\|Tempo and Strides Workout Generator]]                                                     | 2024-03-20 | 2024-03-20 | 🥈    |
