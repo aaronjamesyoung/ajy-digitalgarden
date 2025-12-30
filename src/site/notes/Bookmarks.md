@@ -1,5 +1,5 @@
 ---
-{"context":"Personal","type":"Resource","status":"Active","topic":["Aaron"],"dateCreated":"2024-02-15","cssclasses":null,"dg-publish":true,"permalink":"/bookmarks/","dgPassFrontmatter":true}
+{"context":"Personal","topic":["Aaron"],"dateCreated":"2024-02-15T00:00:00.000Z","cssclasses":null,"dg-publish":true,"permalink":"/bookmarks/","dgPassFrontmatter":true}
 ---
 
 
@@ -29,9 +29,13 @@
     - [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
 
 - Code: 
+    - \-
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Open Color](https://yeun.github.io/open-color/)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
+
+- Computer: 
+    - [Terminal Apps](https://terminal-apps.dev/)
 
 - Family: 
     - [ARRIS - Login](http://192.168.0.1/login.php)
@@ -55,6 +59,7 @@
     - [Make A Karo Step Quilt — Stitchback DIY trail gear](https://www.stitchbackgear.com/articles/make-karo-step-quilt)
     - [Pattern Projector](https://www.patternprojector.com/en)
     - [Ripstop by the Roll](https://ripstopbytheroll.com/)
+    - [TOM BIHN Freudian Slip, Organizational Insert For Your Bag, 4oz](https://www.tombihn.com/collections/all-tom-bihn-stuff/products/freudian-slip)
     - [Vuokatti Shirt Free Pattern | Outdoor Clothing Patterns | Shelby Oy English](https://shelbyoutdoor.com/en/p109530/vuokatti-shirt-free-pattern?cPath=405_436_486)
 
 - Outdoors: 
@@ -75,9 +80,13 @@
     - [ Immich](https://immich.app/)
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
+    - [GitHub - ArdineHQ/ardine: Self-hosted time tracking and invoicing app for freelancers and small teams. Simple, private, and built for developers.](https://github.com/ArdineHQ/ardine)
+    - [GitHub - blinko-space/blinko](https://github.com/blinko-space/blinko)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - InvoiceShelf/InvoiceShelf: Open Source Invoicing Solution for Individuals & Businesses](https://github.com/InvoiceShelf/InvoiceShelf)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
+    - [GitHub - surajverma/homehub: A lightweight, no-login, self-hosted family utility for your home.](https://github.com/surajverma/homehub)
+    - [GitHub - teableio/teable: ✨ The Next Gen Airtable Alternative: No-Code Postgres](https://github.com/teableio/teable)
     - [Hoarder](https://hoarder.app/)
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
     - [Node-RED Flows](https://flows.nodered.org/)
@@ -95,6 +104,7 @@
     - [Omni Tools](https://omnitools.app/?ref=selfh.st)
     - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
     - [Rusty Music Player Client](https://mierak.github.io/rmpc/)
+    - [Voiden.md — The Offline, Git-Native API Workspace](https://voiden.md/)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
 - Weather: 
@@ -120,6 +130,7 @@
 
 - Woodworking: 
     - [Cutlist Optimizer V2 / Cutlist Evolution](https://cutlistevo.com/)
+    - [The Woodworker's Archive](https://woodworkersarchive.com/)
 
 - Work: 
     - [Asana](https://app.asana.com/0/home/1102553591857117)
