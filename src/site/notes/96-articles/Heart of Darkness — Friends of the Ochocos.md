@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"source":"[Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)","clipped":"2022-05-26","map":"Fastpacking","context":"Personal","type":"Article","topic":["Fastpacking"],"dateCreated":"2022-05-26","status":"Evergreen","permalink":"/96-articles/heart-of-darkness-friends-of-the-ochocos/","dgPassFrontmatter":true}
+{"dg-publish":true,"source":"[Heart of Darkness — Friends of the Ochocos](https://web.archive.org/web/20190811203916/http://www.friendsoftheochocos.org/heart-of-darkness)","clipped":"2022-05-26T00:00:00.000Z","map":"Fastpacking","context":"Personal","topic":["Fastpacking"],"dateCreated":"2022-05-26T00:00:00.000Z","tags":["article"],"permalink":"/96-articles/heart-of-darkness-friends-of-the-ochocos/","dgPassFrontmatter":true}
 ---
 
 
