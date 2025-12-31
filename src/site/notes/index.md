@@ -19,7 +19,6 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/r7Q5EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/f03po-F8hdQC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/AfB8EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/IqCdnDe9ZOQC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
@@ -30,11 +29,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/AfB8EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://mpd-biblio-covers.imgix.net/9781250868282.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/zl-Hbye_gL8C?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/GrYsEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/yud-foXqGUEC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/llQ7DwAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
