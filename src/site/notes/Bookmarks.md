@@ -29,9 +29,9 @@
     - [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
 
 - Code: 
-    - \-
     - [Node-RED Flows](https://flows.nodered.org/)
     - [Open Color](https://yeun.github.io/open-color/)
+    - [SonarJS/packages/jsts/src/rules at master · SonarSource/SonarJS · GitHub](https://github.com/SonarSource/SonarJS/tree/master/packages/jsts/src/rules)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
 
 - Computer: 
