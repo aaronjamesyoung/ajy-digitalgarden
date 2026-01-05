@@ -13,17 +13,12 @@
     - [Nextcloud](https://hs.ajy.co/nextcloud/index.php/apps/dashboard)
     - [Photoprism](https://photoprism.ajy.co/)
     - [PWS Weather - Skyliners](https://www.pwsweather.com/station/mid/pc186)
-    - [Real-Time Air Quality Map | PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
     - [Strava | Run and Cycling Tracking on the Social Network for Athletes](https://strava.com/)
-    - [Watch Duty - Wildfire Maps & Alerts](https://app.watchduty.org/)
     - [Weather.gov - Skyliners](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 
 - Book: 
     - [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
-    - [BiblioReads](https://biblioreads.eu.org/)
-    - [Five Books](https://fivebooks.com/)
     - [Gutenberg - Public Domain Ebooks](https://www.gutenberg.org/)
-    - [Hoopla](https://www.hoopladigital.com/)
     - [Libby](https://libbyapp.com/shelf)
     - [LibriVox | free public domain audiobooks](https://librivox.org/)
     - [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
@@ -34,11 +29,7 @@
     - [SonarJS/packages/jsts/src/rules at master · SonarSource/SonarJS · GitHub](https://github.com/SonarSource/SonarJS/tree/master/packages/jsts/src/rules)
     - [Using 'require' inside function nodes · Issue #41 · node-red/node-red](https://github.com/node-red/node-red/issues/41)
 
-- Computer: 
-    - [Terminal Apps](https://terminal-apps.dev/)
-
 - Family: 
-    - [ARRIS - Login](http://192.168.0.1/login.php)
     - [Canvas - BLS](https://bls.instructure.com/)
 
 - Fastpacking: 
@@ -55,7 +46,6 @@
     - [TimeAndDate - Bend, Oregon, USA](https://www.timeanddate.com/worldclock/usa/bend)
 
 - MYOG: 
-    - [G-Hook belt with hand sewn bartacks : r/myog](https://www.reddit.com/r/myog/comments/1fbil1m/ghook_belt_with_hand_sewn_bartacks/)
     - [Make A Karo Step Quilt — Stitchback DIY trail gear](https://www.stitchbackgear.com/articles/make-karo-step-quilt)
     - [Pattern Projector](https://www.patternprojector.com/en)
     - [Ripstop by the Roll](https://ripstopbytheroll.com/)
@@ -67,7 +57,6 @@
     - [Central Cascades Wilderness Permit - Day Use, Deschutes National Forest - Recreation.gov](https://www.recreation.gov/ticket/facility/300009)
     - [Every Mountain in the World](http://everymountainintheworld.com/)
     - [Three Sisters Wilderness Permit Map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd899716.pdf)
-    - [USFS order 06-01-21-01](https://www.fs.usda.gov/nfs/11558/www/nepa/112932_FSPLT3_5615704.pdf)
 
 - Politics: 
     - [Impact Dashboard - Impact Counter | Impact Counter](https://www.impactcounter.com/dashboard?view=table&sort=title&order=asc)
@@ -81,12 +70,9 @@
     - [beetbox/beets: music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
     - [comentario / Comentario · GitLab](https://gitlab.com/comentario/comentario)
     - [GitHub - ArdineHQ/ardine: Self-hosted time tracking and invoicing app for freelancers and small teams. Simple, private, and built for developers.](https://github.com/ArdineHQ/ardine)
-    - [GitHub - blinko-space/blinko](https://github.com/blinko-space/blinko)
     - [GitHub - Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
     - [GitHub - InvoiceShelf/InvoiceShelf: Open Source Invoicing Solution for Individuals & Businesses](https://github.com/InvoiceShelf/InvoiceShelf)
     - [GitHub - SamR1/FitTrackee: Self-hosted outdoor activity tracker :bicyclist:](https://github.com/SamR1/FitTrackee)
-    - [GitHub - surajverma/homehub: A lightweight, no-login, self-hosted family utility for your home.](https://github.com/surajverma/homehub)
-    - [GitHub - teableio/teable: ✨ The Next Gen Airtable Alternative: No-Code Postgres](https://github.com/teableio/teable)
     - [Hoarder](https://hoarder.app/)
     - [Memos - Easily capture and share your great thoughts. Open Source and Free to Use](https://www.usememos.com/)
     - [Node-RED Flows](https://flows.nodered.org/)
@@ -96,15 +82,11 @@
 
 - Software: 
     - [Dataview - Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
-    - [dawsers/hyprscroller: Hyprland layout plugin providing a scrolling layout like PaperWM](https://github.com/dawsers/hyprscroller)
     - [erikjuhani/basalt: TUI Application to manage Obsidian notes directly from the terminal](https://github.com/erikjuhani/basalt)
     - [GitHub - catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin#-ports-and-more)
     - [GitHub - JakeStanger/ironbar: Customisable Wayland gtk bar written in Rust.](https://github.com/JakeStanger/ironbar/)
     - [GitHub - seburbandev/obsidian-dataview-cheatsheet: This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
     - [Omni Tools](https://omnitools.app/?ref=selfh.st)
-    - [paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
-    - [Rusty Music Player Client](https://mierak.github.io/rmpc/)
-    - [Voiden.md — The Offline, Git-Native API Workspace](https://voiden.md/)
     - [YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 
 - Weather: 
@@ -124,9 +106,7 @@
     - [Central Oregon Fire Information – Prescribed Burning | Wildfire Updates | Smoke and Public Health Information](https://www.centraloregonfire.org/)
     - [Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24](https://www.flightradar24.com/44.04,-121.59/11)
     - [Real-Time Air Quality Map | PurpleAir](https://map.purpleair.com/1/i/lt/mAQI/a0/p604800/cC5#10.5/44.0353/-121.4749)
-    - [twitter.com/centralorfire](https://twitter.com/centralorfire)
     - [Watch Duty - Wildfire Maps & Alerts](https://app.watchduty.org/)
-    - [WildWeb](https://www.wildwebe.net/?dc_name=ORCOC)
 
 - Woodworking: 
     - [Cutlist Optimizer V2 / Cutlist Evolution](https://cutlistevo.com/)
