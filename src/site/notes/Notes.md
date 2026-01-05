@@ -70,7 +70,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Topic Notes\|Topic Notes]]                                                                                                     | 2025-12-30 | 2023-07-14 | \-    |
 | [[Trip report - 2022-07-03 Heart of Darkness Fastpack\|Trip report - 2022-07-03 Heart of Darkness Fastpack]]                     | 2025-12-30 | 2023-08-05 | 🥇    |
 | [[Trip report - 2022-10-08 Three Sisters Loop Fastpack\|Trip report - 2022-10-08 Three Sisters Loop Fastpack]]                   | 2025-12-30 | 2023-08-05 | 🥇    |
-| [[Uses\|Uses]]                                                                                                                   | 2025-12-30 | 2024-05-03 | \-    |
+| [[Uses\|Uses]]                                                                                                                   | 2025-12-30 | 2026-01-05 | \-    |
 | [[Using Calibre with Amazon Kindle Paperwhite (2021 version)\|Using Calibre with Amazon Kindle Paperwhite (2021 version)]]       | 2025-12-30 | 2023-07-07 | 🥇    |
 | [[Wildfire monitering in Central Oregon\|Wildfire monitering in Central Oregon]]                                                 | 2025-12-30 | 2023-09-18 | 🥇    |
 | [[Wordle letter frequency\|Wordle letter frequency]]                                                                             | 2025-12-30 | 2023-12-24 | 🥇    |
