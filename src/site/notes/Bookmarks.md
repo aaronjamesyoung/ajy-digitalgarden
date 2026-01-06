@@ -17,7 +17,7 @@
     - [Weather.gov - Skyliners](https://forecast.weather.gov/MapClick.php?lat=44.03489688686292&lon=-121.5152907371521)
 
 - Book: 
-    - [Anna’s Archive](https://annas-archive.org/search?lang=en&content=&ext=epub&sort=&q=)
+    - [Anna’s Archive](https://annas-archive.se/search?lang=en&content=&ext=epub&sort=&q=)
     - [Gutenberg - Public Domain Ebooks](https://www.gutenberg.org/)
     - [Libby](https://libbyapp.com/shelf)
     - [LibriVox | free public domain audiobooks](https://librivox.org/)
