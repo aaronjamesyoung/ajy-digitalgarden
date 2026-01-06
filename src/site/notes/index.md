@@ -19,6 +19,8 @@
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/r7Q5EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/yHBxSNd3rzoC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/eCf2EAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/cxteDAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -74,6 +76,7 @@ Here are some recent news articles I found interesting:
 
 ### Articles
 
+- [[Best books of 2025\|Best books of 2025]] (Updated 2026-01-05)
 - [[Recommended Books\|Recommended Books]] (Updated 2024-12-28)
 - [[Best books of 2024\|Best books of 2024]] (Updated 2024-12-28)
 - [[Heart of Darkness\|Heart of Darkness]] (Updated 2024-11-07)
