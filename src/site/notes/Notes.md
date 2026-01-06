@@ -15,7 +15,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 
 | File                                                                                                                                | Created    | Updated    | Grade |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----- |
-| [[📘 Books\|📘 Books]]                                                                                                           | 2025-12-30 | 2025-01-04 | \-    |
+| [[📘 Books\|📘 Books]]                                                                                                           | 2025-12-30 | 2026-01-05 | \-    |
 | [[📘 Christian Nonviolence\|📘 Christian Nonviolence]]                                                                           | 2025-12-30 | 2023-10-02 | \-    |
 | [[📘 Code\|📘 Code]]                                                                                                             | 2025-12-30 | 2023-08-05 | \-    |
 | [[📘 Fastpacking\|📘 Fastpacking]]                                                                                               | 2025-12-30 | 2024-10-08 | \-    |
@@ -27,6 +27,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Bend smoke days by year\|Bend smoke days by year]]                                                                             | 2025-12-30 | 2023-08-03 | 🥈    |
 | [[Best books of 2023\|Best books of 2023]]                                                                                       | 2025-12-30 | 2023-12-18 | 🥇    |
 | [[Best books of 2024\|Best books of 2024]]                                                                                       | 2025-12-30 | 2024-12-28 | 🥇    |
+| [[Best books of 2025\|Best books of 2025]]                                                                                       | 2026-01-05 | 2026-01-05 | 🥇    |
 | [[99-templates/Book Notes\|Book Notes]]                                                                                          | 2025-12-30 | 2023-07-28 | 🥈    |
 | [[booknotes/Book Notes - A Farewell to Mars\|Book Notes - A Farewell to Mars]]                                                   | 2025-12-30 | 2023-09-16 | 🥈    |
 | [[booknotes/Book Notes - Nonviolence, the Revolutionary Way of Jesus\|Book Notes - Nonviolence, the Revolutionary Way of Jesus]] | 2025-12-30 | 2023-09-16 | 🥈    |
@@ -35,6 +36,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[Books Read in 2023\|Books Read in 2023]]                                                                                       | 2025-12-30 | 2023-12-11 | 🥈    |
 | [[Books Read in 2024\|Books Read in 2024]]                                                                                       | 2025-12-30 | 2024-09-16 | 🥈    |
 | [[Books Read in 2025\|Books Read in 2025]]                                                                                       | 2025-12-30 | 2025-01-04 | 🥈    |
+| [[Books Read in 2026\|Books Read in 2026]]                                                                                       | 2026-01-05 | 2026-01-05 | 🥈    |
 | [[Brian's Cabinets\|Brian's Cabinets]]                                                                                           | 2025-12-30 | 2023-09-13 | 🥈    |
 | [[Brokentop Circuit\|Brokentop Circuit]]                                                                                         | 2025-12-30 | 2023-07-16 | 🥇    |
 | [[Contact Me\|Contact Me]]                                                                                                       | 2025-12-30 | 2023-10-31 | \-    |
