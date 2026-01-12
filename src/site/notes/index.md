@@ -7,10 +7,6 @@
 
 **I'm a trail runner and JavaScript developer located in Bend, Oregon.** I work with Vue, Node, and WordPress. Find out more [[About Me\|About Me]].
 
-
-> [!TIP] Currently seeking work
-> I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
-
 **What is this site?** It's my [[Digital Garden\|Digital Garden]]. In short, it's an evolving and expanding - but curated - set of notes I try to keep about everything I do. Find out [[How this site is built\|How this site is built]].
 
 ### Currently Reading
@@ -18,9 +14,8 @@
 <div class="book-covers">
 
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/r7Q5EAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/yHBxSNd3rzoC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/eCf2EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/cxteDAAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1454623315i/28765741.jpg)
 
 { .block-language-dataview}
 
@@ -30,11 +25,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1765313937i/201889.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/yHBxSNd3rzoC?fife=w600-h900&source=gbs_api)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/eCf2EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/tXGRBgwxAHIC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/f03po-F8hdQC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/IqCdnDe9ZOQC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/AfB8EAAAQBAJ?fife=w600-h900&source=gbs_api)
-- ![cover](https://mpd-biblio-covers.imgix.net/9781250868282.jpg)
 
 { .block-language-dataview}
 
