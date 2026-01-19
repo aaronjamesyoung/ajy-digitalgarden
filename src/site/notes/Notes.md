@@ -52,7 +52,7 @@ I try to assign my notes a "content score" which indicates their level of comple
 | [[How to book a permit for the Three Sisters Wilderness\|How to book a permit for the Three Sisters Wilderness]]                 | 2025-12-30 | 2023-02-01 | 🥇    |
 | [[How to sew a footbox on Apex quilts\|How to sew a footbox on Apex quilts]]                                                     | 2025-12-30 | 2023-08-14 | 🥈    |
 | [[How to shorten a separating zipper\|How to shorten a separating zipper]]                                                       | 2025-12-30 | 2023-07-07 | 🥈    |
-| [[index\|index]]                                                                                                                 | 2025-12-30 | 2026-01-11 | \-    |
+| [[index\|index]]                                                                                                                 | 2025-12-30 | 2026-01-19 | \-    |
 | [[MYOG Chums Surfsport wallet\|MYOG Chums Surfsport wallet]]                                                                     | 2025-12-30 | 2024-11-07 | 🥈    |
 | [[MYOG EDC Pack\|MYOG EDC Pack]]                                                                                                 | 2025-12-30 | 2023-07-07 | 🥈    |
 | [[MYOG Fastpack\|MYOG Fastpack]]                                                                                                 | 2025-12-30 | 2023-06-28 | 🥈    |
