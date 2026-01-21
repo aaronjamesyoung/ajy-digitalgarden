@@ -16,7 +16,6 @@
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/r7Q5EAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/6FCJEAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/dvuK7isszLIC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Y1iul4f9DRwC?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -26,11 +25,11 @@
 
 <div class="book-covers">
 
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/Y1iul4f9DRwC?fife=w600-h900&source=gbs_api)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/cxteDAAAQBAJ?fife=w600-h900&source=gbs_api)
 - ![cover](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1454623315i/28765741.jpg)
 - ![cover](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1765313937i/201889.jpg)
 - ![cover](https://books.google.com/books/publisher/content/images/frontcover/yHBxSNd3rzoC?fife=w600-h900&source=gbs_api)
-- ![cover](https://books.google.com/books/publisher/content/images/frontcover/eCf2EAAAQBAJ?fife=w600-h900&source=gbs_api)
 
 { .block-language-dataview}
 
@@ -40,14 +39,14 @@
 
 Here are some recent news articles I found interesting:
 
-| source                                                                                                                                                                                              | read on            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Trump administration sends letter wiping out addiction, mental health grants](https://www.npr.org/2026/01/14/nx-s1-5677104/trump-administration-letter-terminating-addiction-mental-health-grants) | January 14, 2026   |
-| [Why Christians Ignore What the Bible Says About Immigrants](https://www.christianitytoday.com/2026/01/why-christians-ignore-bible-immigrants/)                                                     | January 07, 2026   |
-| [What to know about Nick Shirley, the YouTuber alleging day care fraud in Minnesota](https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud)                             | December 31, 2025  |
-| [‘Garfield’ Minus Garfield](https://thedispatch.com/newsletter/boilingfrogs/maga-christianity-christmas-terrorists-trump-morality/)                                                                 | December 31, 2025  |
-| [Donald Trump’s Plan to Subvert the Midterms Is Already Under Way](https://www.theatlantic.com/magazine/archive/2025/12/2026-midterms-trump-threat/684615/?utm_source=feed)                         | October 28, 2025   |
-| [Fully MAGA-fied Christianity](https://www.theatlantic.com/ideas/archive/2025/09/charlie-kirk-christian-trump/684394/?utm_source=feed)                                                              | September 29, 2025 |
+| source                                                                                                                                                                                              | read on           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [MAGA Jesus Is Not the Real Jesus](https://www.theatlantic.com/ideas/2026/01/maga-christians-betray-ethics-ice/685679/?utm_source=feed)                                                             | January 21, 2026  |
+| [Trump administration sends letter wiping out addiction, mental health grants](https://www.npr.org/2026/01/14/nx-s1-5677104/trump-administration-letter-terminating-addiction-mental-health-grants) | January 14, 2026  |
+| [Why Christians Ignore What the Bible Says About Immigrants](https://www.christianitytoday.com/2026/01/why-christians-ignore-bible-immigrants/)                                                     | January 07, 2026  |
+| [What to know about Nick Shirley, the YouTuber alleging day care fraud in Minnesota](https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud)                             | December 31, 2025 |
+| [‘Garfield’ Minus Garfield](https://thedispatch.com/newsletter/boilingfrogs/maga-christianity-christmas-terrorists-trump-morality/)                                                                 | December 31, 2025 |
+| [Donald Trump’s Plan to Subvert the Midterms Is Already Under Way](https://www.theatlantic.com/magazine/archive/2025/12/2026-midterms-trump-threat/684615/?utm_source=feed)                         | October 28, 2025  |
 
 { .block-language-dataview}
 
